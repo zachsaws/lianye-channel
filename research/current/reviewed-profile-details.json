@@ -17,7 +17,14 @@
       "implication": "可研究亲子产品供应链准入；不能依据入口直接推荐产品入驻。",
       "observed": "2026-10-09",
       "basis": "operator_self_disclosure",
-      "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
+      "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
+      "identityEvidence": "供应链页面版权署名成都市创托盛和信息技术服务有限公司，仅确认网站署名，不据此认定采购法人。",
+      "entryClassification": {
+        "kind": "supplier_product_material_submission",
+        "source": "https://www.scyysj.com/supply_hz.html",
+        "observed": "2026-10-09",
+        "reason": "明确列产品资料发送；没有公布选品条件或采购承诺"
+      }
     },
     {
       "displayName": "圣谛影音智能",
@@ -167,6 +174,9 @@
         ],
         "afterSalesRequirements": [
           "官网列出售后保养环节，具体合同范围未知"
+        ],
+        "entryPoints": [
+          "合作加盟页收集城市、主营范围及意向产品；属于经营其产品的加盟线索，不是新品牌供应商准入入口"
         ]
       },
       "unknown": [
@@ -177,7 +187,22 @@
       "implication": "园所渠道包含项目交付，不等同于儿童消费品零售；产品需要证明园所用途。",
       "observed": "2026-10-09",
       "basis": "operator_self_disclosure",
-      "inferenceBoundary": "推断不代表采购意愿或合作关系"
+      "inferenceBoundary": "推断不代表采购意愿或合作关系",
+      "additionalSources": [
+        "https://www.huasenwei.com/join.html"
+      ],
+      "fieldSources": {
+        "entryPoints": [
+          "https://www.huasenwei.com/join.html"
+        ]
+      },
+      "identityEvidence": "官网关于页及加盟页页脚显示上海华森葳教育用品有限公司；实际新品交易主体仍须确认。",
+      "entryClassification": {
+        "kind": "dealer_recruitment_not_supplier_admission",
+        "source": "https://www.huasenwei.com/join.html",
+        "observed": "2026-10-09",
+        "reason": "表单询问加盟者主营及意向经营产品；未显示新品资料申请要求"
+      }
     },
     {
       "displayName": "上海广宣",
