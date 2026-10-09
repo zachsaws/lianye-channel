@@ -56,6 +56,21 @@ audit=json.loads((ROOT/'research/current/candidate-audit.json').read_text())
 for r in audit['records']:
  if r['displayDecision']=='candidate_for_editorial_review':
   profiles.append({'id':'research-'+hashlib.sha256(r['name'].encode()).hexdigest()[:12],'displayName':r['name'],'recordNames':[r['legalName']],'directions':[{'陪伴与亲子':'companion','家庭与空间':'home','运动与穿戴':'wearable','创作与数码':'creative','学习与教育':'learning','办公与生产力':'office'}[r['direction']]],'editorialTag':r['role'],'editorialRoles':[],'roleStatus':'review_required','sourceLinks':r['reviewSources'],'reviewFinding':r['reviewFinding'],'identityStatus':r['identityStatus'],'evidenceStatus':'operator_scope_read_oct09','researchGaps':[r.get('reviewBoundary',r['limits'])],'buyerScenarios':[],'productScope':[],'regions':[],'entryPoints':[],'deliveryRequirements':[],'afterSalesRequirements':[],'priceBand':None,'creditTerms':None,'purchaseIntent':None,'capacity':None,'companyRelationship':'not_established','dispatchable':False,'displayStatus':'candidate_not_in_website'})
+# Software leads are imported only after legal identity and operator scope have evidence.
+software_path=ROOT/'research/current/software-directory-leads.json'
+if software_path.exists():
+ for lead in json.loads(software_path.read_text())['records']:
+  if lead.get('disposition')!='operator_scope_partially_verified':continue
+  name=lead['displayName']
+  if any(p['displayName']==name or lead['legalName'] in p['recordNames'] for p in profiles):
+   raise ValueError('Software actor requires explicit alias merge: '+name)
+  field_evidence={}
+  operating_fields=['buyerScenarios','productScope','regions','entryPoints','deliveryRequirements','afterSalesRequirements']
+  for field in operating_fields:
+   links=[e['url'] for e in lead['sources'] if field in e['fields']]
+   if lead.get(field) and not links:raise ValueError('Software field lacks provenance: '+name+':'+field)
+   if links:field_evidence[field]={'sources':links,'observed':'2026-10-09','basis':'official operator description; source access level retained in importedEvidence','claimScope':'public_self_description_not_verified_cooperation_condition'}
+  profiles.append({'id':'software-comlan' if name=='昆仑联通' else 'software-sinoage','displayName':name,'recordNames':[lead['legalName']],'directions':['office'],'editorialTag':'企业软件 · IT运营服务' if name=='昆仑联通' else '企业办公 · 云与技术服务','editorialRoles':['integration'],'roleStatus':'operator_service_scope_verified_not_new_product_admission','sourceLinks':[e['url'] for e in lead['sources']]+[json.loads(software_path.read_text())['source']],'importedEvidence':lead['sources'],'evidenceStatus':'operator_scope_partially_verified','researchGaps':lead['unknown'],'unknownOperatingConditions':lead['unknown'],**{f:lead.get(f,[]) for f in operating_fields},'fieldEvidence':field_evidence,'priceBand':None,'creditTerms':None,'purchaseIntent':None,'capacity':None,'companyRelationship':'not_established','dispatchable':False,'displayStatus':'candidate_in_local_preview_only'})
 # Preserve independently reviewed details across rebuilds, including field-level provenance.
 details_path=ROOT/'research/current/reviewed-profile-details.json'
 if details_path.exists():

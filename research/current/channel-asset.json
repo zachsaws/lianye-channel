@@ -6838,6 +6838,236 @@
           "inferenceBoundary": "推断不代表采购意愿或合作关系"
         }
       ]
+    },
+    {
+      "id": "software-comlan",
+      "displayName": "昆仑联通",
+      "recordNames": [
+        "北京昆仑联通科技发展股份有限公司"
+      ],
+      "directions": [
+        "office"
+      ],
+      "editorialTag": "企业软件 · IT运营服务",
+      "editorialRoles": [
+        "integration"
+      ],
+      "roleStatus": "operator_service_scope_verified_not_new_product_admission",
+      "sourceLinks": [
+        "https://www.comlan.com/about/about_us/company_profile/",
+        "https://www.comlan.com/product/",
+        "https://www.adobe.com/cn/purchase/"
+      ],
+      "importedEvidence": [
+        {
+          "url": "https://www.comlan.com/about/about_us/company_profile/",
+          "access": "official search extraction; direct page timeout",
+          "fields": [
+            "legalName",
+            "buyerScenarios",
+            "regions",
+            "entryPoints"
+          ],
+          "entryEvidence": "页面官方搜索提取含售前咨询专线；仅客户咨询，不是供应商入驻"
+        },
+        {
+          "url": "https://www.comlan.com/product/",
+          "access": "official search extraction",
+          "fields": [
+            "productScope"
+          ]
+        }
+      ],
+      "evidenceStatus": "operator_scope_partially_verified",
+      "researchGaps": [
+        "陌生Agent新品准入",
+        "供应商合作入口条件",
+        "具体产品转售及部署授权",
+        "服务责任及报价",
+        "分佣和续费归属"
+      ],
+      "unknownOperatingConditions": [
+        "陌生Agent新品准入",
+        "供应商合作入口条件",
+        "具体产品转售及部署授权",
+        "服务责任及报价",
+        "分佣和续费归属"
+      ],
+      "buyerScenarios": [
+        "企业数字化办公及IT运营"
+      ],
+      "productScope": [
+        "办公、开发、图像与多媒体软件",
+        "云与IT运营服务"
+      ],
+      "regions": [
+        "官网公司简介列北京总部及上海、深圳、苏州、南京、常州、杭州分支，不代表任意产品销售权"
+      ],
+      "entryPoints": [
+        {
+          "type": "customer_consultation_not_supplier_admission",
+          "url": "https://www.comlan.com/about/about_us/company_profile/"
+        }
+      ],
+      "deliveryRequirements": [],
+      "afterSalesRequirements": [],
+      "fieldEvidence": {
+        "buyerScenarios": {
+          "sources": [
+            "https://www.comlan.com/about/about_us/company_profile/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "official operator description; source access level retained in importedEvidence",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "productScope": {
+          "sources": [
+            "https://www.comlan.com/product/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "official operator description; source access level retained in importedEvidence",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "regions": {
+          "sources": [
+            "https://www.comlan.com/about/about_us/company_profile/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "official operator description; source access level retained in importedEvidence",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://www.comlan.com/about/about_us/company_profile/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "official operator description; source access level retained in importedEvidence",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "priceBand": null,
+      "creditTerms": null,
+      "purchaseIntent": null,
+      "capacity": null,
+      "companyRelationship": "not_established",
+      "dispatchable": false,
+      "displayStatus": "candidate_in_local_preview_only"
+    },
+    {
+      "id": "software-sinoage",
+      "displayName": "信诺时代",
+      "recordNames": [
+        "北京信诺时代科技发展有限公司"
+      ],
+      "directions": [
+        "office"
+      ],
+      "editorialTag": "企业办公 · 云与技术服务",
+      "editorialRoles": [
+        "integration"
+      ],
+      "roleStatus": "operator_service_scope_verified_not_new_product_admission",
+      "sourceLinks": [
+        "https://sinoage.inesa.com/portal/index/index.htm",
+        "https://sinoage.inesa.com/bjxnsd_aiser/List/index.htm",
+        "https://www.adobe.com/cn/purchase/"
+      ],
+      "importedEvidence": [
+        {
+          "url": "https://sinoage.inesa.com/portal/index/index.htm",
+          "access": "official full page",
+          "fields": [
+            "legalName",
+            "buyerScenarios",
+            "productScope",
+            "deliveryRequirements",
+            "entryPoints"
+          ]
+        },
+        {
+          "url": "https://sinoage.inesa.com/bjxnsd_aiser/List/index.htm",
+          "access": "official page and search extraction",
+          "fields": [
+            "productScope"
+          ]
+        }
+      ],
+      "evidenceStatus": "operator_scope_partially_verified",
+      "researchGaps": [
+        "陌生Agent新品准入",
+        "供应商合作入口条件",
+        "具体产品许可及服务责任",
+        "分佣和续费归属",
+        "异名股份公司与当前有限公司沿革未审查"
+      ],
+      "unknownOperatingConditions": [
+        "陌生Agent新品准入",
+        "供应商合作入口条件",
+        "具体产品许可及服务责任",
+        "分佣和续费归属",
+        "异名股份公司与当前有限公司沿革未审查"
+      ],
+      "buyerScenarios": [
+        "企业客户的云、办公及IT运营"
+      ],
+      "productScope": [
+        "现代化办公",
+        "云管理及企业技术服务",
+        "AI应用场景与开发服务"
+      ],
+      "regions": [],
+      "entryPoints": [
+        {
+          "type": "customer_requirements_form_not_supplier_admission",
+          "url": "https://sinoage.inesa.com/portal/index/index.htm"
+        }
+      ],
+      "deliveryRequirements": [
+        "官网披露评估规划、迁移部署、支持等服务类型；具体新品项目要求未知"
+      ],
+      "afterSalesRequirements": [],
+      "fieldEvidence": {
+        "buyerScenarios": {
+          "sources": [
+            "https://sinoage.inesa.com/portal/index/index.htm"
+          ],
+          "observed": "2026-10-09",
+          "basis": "official operator description; source access level retained in importedEvidence",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "productScope": {
+          "sources": [
+            "https://sinoage.inesa.com/portal/index/index.htm",
+            "https://sinoage.inesa.com/bjxnsd_aiser/List/index.htm"
+          ],
+          "observed": "2026-10-09",
+          "basis": "official operator description; source access level retained in importedEvidence",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://sinoage.inesa.com/portal/index/index.htm"
+          ],
+          "observed": "2026-10-09",
+          "basis": "official operator description; source access level retained in importedEvidence",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://sinoage.inesa.com/portal/index/index.htm"
+          ],
+          "observed": "2026-10-09",
+          "basis": "official operator description; source access level retained in importedEvidence",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "priceBand": null,
+      "creditTerms": null,
+      "purchaseIntent": null,
+      "capacity": null,
+      "companyRelationship": "not_established",
+      "dispatchable": false,
+      "displayStatus": "candidate_in_local_preview_only"
     }
   ]
 }

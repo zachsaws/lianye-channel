@@ -52,8 +52,10 @@
           "fields": [
             "legalName",
             "buyerScenarios",
-            "regions"
-          ]
+            "regions",
+            "entryPoints"
+          ],
+          "entryEvidence": "页面官方搜索提取含售前咨询专线；仅客户咨询，不是供应商入驻"
         },
         {
           "url": "https://www.comlan.com/product/",
