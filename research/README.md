@@ -30,3 +30,5 @@
 [原型说明](prototype/README.md) · [规则基线](prototype/baseline-results.json) · [探索性AI审查](prototype/exploratory-review.md) · [合作交付v2](current/cooperation-deliverables-v2.md) · [经营字段深度审查](current/depth-audit.json)。当前仅有部分主体完成逐字段复核；探索性AI分析受到历史上下文影响，不是独立效果对照。
 
 [当前阶段判断](current/interim-decision.md)汇总已支持结论、官网表达候选和未完成验证，作为后续决策入口。
+
+[经营信息覆盖复查](current/operating-coverage-review.md)按六个产品方向检查有来源的字段，避免总量掩盖分类深度失衡。可通过 `python3 scripts/review_channel_depth.py` 更新；不代表合作网络或商业效果。

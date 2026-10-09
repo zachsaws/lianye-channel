@@ -1,15 +1,89 @@
 {
   "scope": "research_depth_not_partner_count",
   "profiles": 104,
-  "reviewedProfiles": 14,
-  "nonemptyFields": {
+  "reviewedProfiles": 23,
+  "attributedNonemptyFields": {
     "buyerScenarios": 11,
-    "productScope": 13,
-    "regions": 1,
-    "entryPoints": 10,
+    "productScope": 22,
+    "regions": 10,
+    "entryPoints": 19,
     "deliveryRequirements": 6,
     "afterSalesRequirements": 2
   },
-  "limits": "有内容不等于准入已核实；历史导入来源与本轮字段复核分别记录。",
+  "directions": {
+    "companion": {
+      "profiles": 20,
+      "partiallyReviewed": 1,
+      "fields": {
+        "buyerScenarios": 0,
+        "productScope": 0,
+        "regions": 0,
+        "entryPoints": 1,
+        "deliveryRequirements": 0,
+        "afterSalesRequirements": 0
+      }
+    },
+    "learning": {
+      "profiles": 28,
+      "partiallyReviewed": 6,
+      "fields": {
+        "buyerScenarios": 6,
+        "productScope": 6,
+        "regions": 0,
+        "entryPoints": 3,
+        "deliveryRequirements": 2,
+        "afterSalesRequirements": 1
+      }
+    },
+    "wearable": {
+      "profiles": 19,
+      "partiallyReviewed": 11,
+      "fields": {
+        "buyerScenarios": 2,
+        "productScope": 11,
+        "regions": 9,
+        "entryPoints": 11,
+        "deliveryRequirements": 0,
+        "afterSalesRequirements": 0
+      }
+    },
+    "home": {
+      "profiles": 20,
+      "partiallyReviewed": 3,
+      "fields": {
+        "buyerScenarios": 2,
+        "productScope": 3,
+        "regions": 0,
+        "entryPoints": 3,
+        "deliveryRequirements": 2,
+        "afterSalesRequirements": 0
+      }
+    },
+    "office": {
+      "profiles": 22,
+      "partiallyReviewed": 4,
+      "fields": {
+        "buyerScenarios": 3,
+        "productScope": 4,
+        "regions": 1,
+        "entryPoints": 3,
+        "deliveryRequirements": 2,
+        "afterSalesRequirements": 1
+      }
+    },
+    "creative": {
+      "profiles": 21,
+      "partiallyReviewed": 2,
+      "fields": {
+        "buyerScenarios": 2,
+        "productScope": 2,
+        "regions": 0,
+        "entryPoints": 2,
+        "deliveryRequirements": 0,
+        "afterSalesRequirements": 0
+      }
+    }
+  },
+  "limits": "字段有来源不等于准入已核实；品牌目录入口不等于新品供应商入口；分类仍为编辑判断。",
   "stage1Complete": false
 }
