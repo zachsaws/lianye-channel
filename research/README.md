@@ -19,4 +19,8 @@
 
 ## 2026-10-09 新一轮研究
 
-[结论与下一阶段判断](next-stage-oct09/research-conclusions.md) · [24条分类候选](next-stage-oct09/channel-candidates.csv) · [待对齐的长期目标草案](next-stage-oct09/long-term-goal-draft.md)
+[结论与下一阶段判断](next-stage-oct09/research-conclusions.md) · [24条分类候选](next-stage-oct09/channel-candidates.csv) · [历史长期目标草案](next-stage-oct09/long-term-goal-draft.md)
+
+## 当前工作资料
+
+[current/coverage-report.md](current/coverage-report.md)记录覆盖缺口；[current/channel-asset.json](current/channel-asset.json)区分已有展示主体和候选；[current/reviewed-profile-details.json](current/reviewed-profile-details.json)保留逐字段来源及未知项；[current/business-definition-v1.md](current/business-definition-v1.md)是待验证的业务定义。数据完整性检查不能代替商业验证。

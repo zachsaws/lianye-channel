@@ -1,0 +1,14 @@
+{
+  "checks": [
+    "unique display identities",
+    "sources retained",
+    "unknown commercial terms kept null",
+    "no fabricated relationship",
+    "four aliases merged",
+    "unresolved identity preserved"
+  ],
+  "passed": true,
+  "profileCount": 104,
+  "candidateReviewCount": 24,
+  "claim": "research integrity only; not commercial effectiveness or source truth validation"
+}

@@ -1,0 +1,11 @@
+{
+  "goalStatus": "active",
+  "stage1": "in_progress",
+  "candidateAudit": "24 dispositioned; gaps retained",
+  "asset": "99 existing + 5 editorial candidates; not partner network",
+  "stage2": "business_definition_v1; four hypothetical rule-baseline cases saved; independent AI comparison not run",
+  "stage3": "not_started",
+  "siteChangesThisTurn": false,
+  "publicDeployment": false,
+  "next": "enrich six diverse profiles per direction; continue targeted discovery; build rule and AI evidence-comparison prototype"
+}

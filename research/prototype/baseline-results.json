@@ -1,0 +1,69 @@
+{
+  "method": "fixed_rules",
+  "aiRun": false,
+  "results": [
+    {
+      "caseId": "companion-ready",
+      "decision": "verify_channel_conditions",
+      "missingProductConditions": [],
+      "routesForFurtherResearch": [
+        {
+          "name": "孕婴世界",
+          "decision": "research_further_not_purchase_recommendation",
+          "basis": [
+            {
+              "displayName": "孕婴世界",
+              "source": "https://www.scyysj.com/supply_hz.html",
+              "fields": {
+                "entryPoints": [
+                  "供应链合作页面提供产品资料发送入口；这是提交路径，不是采购承诺"
+                ]
+              },
+              "unknown": [
+                "选品准入标准",
+                "AI产品承接意愿",
+                "采购及结算主体",
+                "账期与退换政策"
+              ],
+              "implication": "可研究亲子产品供应链准入；不能依据入口直接推荐产品入驻。",
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
+            }
+          ],
+          "questions": [
+            "采购决策主体是谁？",
+            "是否接受该类新品？",
+            "商业及服务条件是什么？"
+          ]
+        }
+      ],
+      "limits": "产品方向相同仅支持进一步核实；未验证采购意愿、匹配效果或销量。"
+    },
+    {
+      "caseId": "companion-no-demo",
+      "decision": "complete_product_information_first",
+      "missingProductConditions": [
+        "demoReady"
+      ],
+      "routesForFurtherResearch": [],
+      "limits": "产品方向相同仅支持进一步核实；未验证采购意愿、匹配效果或销量。"
+    },
+    {
+      "caseId": "office-agent",
+      "decision": "verify_channel_conditions",
+      "missingProductConditions": [],
+      "routesForFurtherResearch": [],
+      "limits": "产品方向相同仅支持进一步核实；未验证采购意愿、匹配效果或销量。"
+    },
+    {
+      "caseId": "office-service-withdrawn",
+      "decision": "complete_product_information_first",
+      "missingProductConditions": [
+        "serviceOwnerKnown"
+      ],
+      "routesForFurtherResearch": [],
+      "limits": "产品方向相同仅支持进一步核实；未验证采购意愿、匹配效果或销量。"
+    }
+  ]
+}

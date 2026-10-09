@@ -1,0 +1,44 @@
+{
+  "cases": [
+    {
+      "id": "companion-ready",
+      "hypothetical": true,
+      "direction": "companion",
+      "delivery": "hardware",
+      "demoReady": true,
+      "serviceOwnerKnown": true,
+      "fulfillmentKnown": true,
+      "description": "假设亲子陪伴设备已有演示，品牌承担供货和售后；商业条款未知。"
+    },
+    {
+      "id": "companion-no-demo",
+      "hypothetical": true,
+      "direction": "companion",
+      "delivery": "hardware",
+      "demoReady": false,
+      "serviceOwnerKnown": true,
+      "fulfillmentKnown": true,
+      "description": "同一假设产品尚无可用演示。"
+    },
+    {
+      "id": "office-agent",
+      "hypothetical": true,
+      "direction": "office",
+      "delivery": "software",
+      "demoReady": true,
+      "serviceOwnerKnown": true,
+      "fulfillmentKnown": true,
+      "description": "假设企业办公Agent，需要账号部署和持续技术支持。"
+    },
+    {
+      "id": "office-service-withdrawn",
+      "hypothetical": true,
+      "direction": "office",
+      "delivery": "software",
+      "demoReady": true,
+      "serviceOwnerKnown": false,
+      "fulfillmentKnown": true,
+      "description": "同一软件产品的持续服务责任尚未落实。"
+    }
+  ]
+}

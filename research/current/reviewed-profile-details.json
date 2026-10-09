@@ -1,0 +1,70 @@
+{
+  "records": [
+    {
+      "displayName": "孕婴世界",
+      "source": "https://www.scyysj.com/supply_hz.html",
+      "fields": {
+        "entryPoints": [
+          "供应链合作页面提供产品资料发送入口；这是提交路径，不是采购承诺"
+        ]
+      },
+      "unknown": [
+        "选品准入标准",
+        "AI产品承接意愿",
+        "采购及结算主体",
+        "账期与退换政策"
+      ],
+      "implication": "可研究亲子产品供应链准入；不能依据入口直接推荐产品入驻。",
+      "observed": "2026-10-09",
+      "basis": "operator_self_disclosure",
+      "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
+    },
+    {
+      "displayName": "圣谛影音智能",
+      "source": "https://www.sentimenthifi.com/business.html",
+      "fields": {
+        "productScope": [
+          "影音智能行业"
+        ],
+        "entryPoints": [
+          "商务合作页面及经销商咨询表单"
+        ],
+        "deliveryRequirements": [
+          "网站介绍经销商网络与培训机制，具体项目交付要求尚未公开核实"
+        ]
+      },
+      "unknown": [
+        "新品牌代理准入条件",
+        "现有品牌限制",
+        "采购承诺",
+        "具体培训和售后责任"
+      ],
+      "implication": "成熟同行已经结合知识、网络和培训；这些能力本身不足以证明联野独有的AI差异。",
+      "observed": "2026-10-09",
+      "basis": "operator_self_disclosure",
+      "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
+    },
+    {
+      "displayName": "成方策",
+      "source": "https://www.solutionkeys.com/aboutus/",
+      "fields": {
+        "productScope": [
+          "IT管理产品及服务"
+        ],
+        "buyerScenarios": [
+          "企业IT管理、生产力提升及数字转型"
+        ]
+      },
+      "unknown": [
+        "法律主体",
+        "具体软件品牌准入",
+        "项目采购权",
+        "AI软件部署能力"
+      ],
+      "implication": "软件进入企业可能是服务项目而非零售货架；仍需要查证具体采购与实施路线。",
+      "observed": "2026-10-09",
+      "basis": "operator_self_disclosure",
+      "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
+    }
+  ]
+}
