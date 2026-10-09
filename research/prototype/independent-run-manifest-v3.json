@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sha256": "dd4d3f0c8ce7d89eac95785c3f87c4ed443f0e59fd9b9ef88f86ba9d2c1939c4",
+  "caseCount": 9,
+  "channelEvidenceCount": 23,
+  "modelExecutionStatus": "not_run",
+  "authorizationStatus": "isolated_agent_request_pending",
+  "previousPacket": "independent-input-v2.json preserved",
+  "comparisonStatus": "not_proven"
+}
