@@ -1,25 +1,25 @@
 {
   "scope": "research_depth_not_partner_count",
   "profiles": 104,
-  "reviewedProfiles": 23,
+  "reviewedProfiles": 24,
   "attributedNonemptyFields": {
-    "buyerScenarios": 11,
-    "productScope": 22,
+    "buyerScenarios": 12,
+    "productScope": 23,
     "regions": 10,
     "entryPoints": 19,
-    "deliveryRequirements": 6,
+    "deliveryRequirements": 7,
     "afterSalesRequirements": 2
   },
   "directions": {
     "companion": {
       "profiles": 20,
-      "partiallyReviewed": 1,
+      "partiallyReviewed": 2,
       "fields": {
-        "buyerScenarios": 0,
-        "productScope": 0,
+        "buyerScenarios": 1,
+        "productScope": 1,
         "regions": 0,
         "entryPoints": 1,
-        "deliveryRequirements": 0,
+        "deliveryRequirements": 1,
         "afterSalesRequirements": 0
       }
     },

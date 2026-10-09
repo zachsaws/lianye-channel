@@ -1100,11 +1100,17 @@
       ],
       "evidenceStatus": "historical_research_import_not_live_revalidation",
       "researchGaps": [],
-      "buyerScenarios": [],
-      "productScope": [],
+      "buyerScenarios": [
+        "服务线上与线下批发及零售渠道；经营TOYS STAR直营门店"
+      ],
+      "productScope": [
+        "潮流收藏玩具、模型、拼图及桌游等展出范围"
+      ],
       "regions": [],
       "entryPoints": [],
-      "deliveryRequirements": [],
+      "deliveryRequirements": [
+        "自述配合品牌IP举办发布及活动；不等于AI设备培训与售后能力"
+      ],
       "afterSalesRequirements": [],
       "priceBand": null,
       "creditTerms": null,
@@ -1112,7 +1118,70 @@
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "existing_public_market_route"
+      "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.china-toy-expo.com/exhibitor/RT-TRADING-CO-LTD-6885"
+          ],
+          "observed": "2026-10-09",
+          "basis": "exhibitor_self_description_on_organizer_site",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "buyerScenarios": {
+          "sources": [
+            "https://www.china-toy-expo.com/exhibitor/RT-TRADING-CO-LTD-6885"
+          ],
+          "observed": "2026-10-09",
+          "basis": "exhibitor_self_description_on_organizer_site",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://www.china-toy-expo.com/exhibitor/RT-TRADING-CO-LTD-6885"
+          ],
+          "observed": "2026-10-09",
+          "basis": "exhibitor_self_description_on_organizer_site",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "AI陪伴设备是否在选品范围",
+        "品牌导入与供应商入口",
+        "具体采购主体与权利",
+        "地域经营范围",
+        "供货、账期与售后责任"
+      ],
+      "researchInterpretation": "可研究品牌经销与直营零售并行路线，但收藏和IP玩具不自动适配儿童AI陪伴；不能依据玩具标签优先推荐。",
+      "reviewedDetails": [
+        {
+          "displayName": "迅合行",
+          "source": "https://www.china-toy-expo.com/exhibitor/RT-TRADING-CO-LTD-6885",
+          "identityEvidence": "CTE展商标题为广州市迅合行贸易有限公司；公司简介将直营品牌TOYS STAR与该主体关联，不能拆作第二个采购法人。",
+          "fields": {
+            "productScope": [
+              "潮流收藏玩具、模型、拼图及桌游等展出范围"
+            ],
+            "buyerScenarios": [
+              "服务线上与线下批发及零售渠道；经营TOYS STAR直营门店"
+            ],
+            "deliveryRequirements": [
+              "自述配合品牌IP举办发布及活动；不等于AI设备培训与售后能力"
+            ]
+          },
+          "unknown": [
+            "AI陪伴设备是否在选品范围",
+            "品牌导入与供应商入口",
+            "具体采购主体与权利",
+            "地域经营范围",
+            "供货、账期与售后责任"
+          ],
+          "implication": "可研究品牌经销与直营零售并行路线，但收藏和IP玩具不自动适配儿童AI陪伴；不能依据玩具标签优先推荐。",
+          "observed": "2026-10-09",
+          "basis": "exhibitor_self_description_on_organizer_site",
+          "inferenceBoundary": "主办方承载的展商自述，非独立经营能力验证；页面底部联系人为主办方，不写为该公司合作入口。"
+        }
+      ]
     },
     {
       "id": "f0018b80c315",
