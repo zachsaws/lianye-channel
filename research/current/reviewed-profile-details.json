@@ -376,6 +376,267 @@
       "basis": "operator_self_disclosure",
       "identityEvidence": "上海禹亮信息科技有限公司",
       "inferenceBoundary": "既有品牌及项目能力为经营者自述，不自动外推为新品承接能力"
+    },
+    {
+      "displayName": "上海天授",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "fields": {
+        "productScope": [
+          "佳明运动休闲目录销售据点；具体系列标签：handheld,car"
+        ],
+        "regions": [
+          "目录区域标签：shanghai；不是区域代理权或全省承接能力"
+        ],
+        "entryPoints": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ]
+      },
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策",
+        "售后责任",
+        "机构或零售采购模式"
+      ],
+      "implication": "支持进一步核实该区域运动设备经营业务，不足以证明任意AI穿戴产品适配。",
+      "observed": "2026-10-09",
+      "basis": "brand_sales_directory",
+      "identityEvidence": "上海天授电子科技有限公司",
+      "directoryId": "921919",
+      "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+    },
+    {
+      "displayName": "上海锐能体育",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "fields": {
+        "productScope": [
+          "佳明运动休闲目录销售据点；具体系列标签："
+        ],
+        "regions": [
+          "目录区域标签：shanghai；不是区域代理权或全省承接能力"
+        ],
+        "entryPoints": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ]
+      },
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策",
+        "售后责任",
+        "机构或零售采购模式"
+      ],
+      "implication": "支持进一步核实该区域运动设备经营业务，不足以证明任意AI穿戴产品适配。",
+      "observed": "2026-10-09",
+      "basis": "brand_sales_directory",
+      "identityEvidence": "上海锐能体育用品有限公司（上海铁人运动精品店）",
+      "directoryId": "921920",
+      "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+    },
+    {
+      "displayName": "百纳海通",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "fields": {
+        "productScope": [
+          "佳明运动休闲目录销售据点；具体系列标签：handheld,car"
+        ],
+        "regions": [
+          "目录区域标签：guangdong；不是区域代理权或全省承接能力"
+        ],
+        "entryPoints": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ]
+      },
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策",
+        "售后责任",
+        "机构或零售采购模式"
+      ],
+      "implication": "支持进一步核实该区域运动设备经营业务，不足以证明任意AI穿戴产品适配。",
+      "observed": "2026-10-09",
+      "basis": "brand_sales_directory",
+      "identityEvidence": "深圳市百纳海通科技有限公司（广东）",
+      "directoryId": "921951",
+      "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+    },
+    {
+      "displayName": "河南图图",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "fields": {
+        "productScope": [
+          "佳明运动休闲目录销售据点；具体系列标签："
+        ],
+        "regions": [
+          "目录区域标签：henan；不是区域代理权或全省承接能力"
+        ],
+        "entryPoints": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ]
+      },
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策",
+        "售后责任",
+        "机构或零售采购模式"
+      ],
+      "implication": "支持进一步核实该区域运动设备经营业务，不足以证明任意AI穿戴产品适配。",
+      "observed": "2026-10-09",
+      "basis": "brand_sales_directory",
+      "identityEvidence": "河南图图电子产品有限公司",
+      "directoryId": "921973",
+      "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+    },
+    {
+      "displayName": "南京易尔路",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "fields": {
+        "productScope": [
+          "佳明运动休闲目录销售据点；具体系列标签：car,handheld"
+        ],
+        "regions": [
+          "目录区域标签：jiangsu；不是区域代理权或全省承接能力"
+        ],
+        "entryPoints": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ]
+      },
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策",
+        "售后责任",
+        "机构或零售采购模式"
+      ],
+      "implication": "支持进一步核实该区域运动设备经营业务，不足以证明任意AI穿戴产品适配。",
+      "observed": "2026-10-09",
+      "basis": "brand_sales_directory",
+      "identityEvidence": "南京易尔路贸易有限公司（江苏）",
+      "directoryId": "921978",
+      "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+    },
+    {
+      "displayName": "沈阳恒宇",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "fields": {
+        "productScope": [
+          "佳明运动休闲目录销售据点；具体系列标签：handheld"
+        ],
+        "regions": [
+          "目录区域标签：liaoning；不是区域代理权或全省承接能力"
+        ],
+        "entryPoints": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ]
+      },
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策",
+        "售后责任",
+        "机构或零售采购模式"
+      ],
+      "implication": "支持进一步核实该区域运动设备经营业务，不足以证明任意AI穿戴产品适配。",
+      "observed": "2026-10-09",
+      "basis": "brand_sales_directory",
+      "identityEvidence": "沈阳佳明恒宇科技有限公司（辽宁、吉林、黑龙江）",
+      "directoryId": "921990",
+      "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+    },
+    {
+      "displayName": "天津正睿",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "fields": {
+        "productScope": [
+          "佳明运动休闲目录销售据点；具体系列标签："
+        ],
+        "regions": [
+          "目录区域标签：tianjin；不是区域代理权或全省承接能力"
+        ],
+        "entryPoints": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ]
+      },
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策",
+        "售后责任",
+        "机构或零售采购模式"
+      ],
+      "implication": "支持进一步核实该区域运动设备经营业务，不足以证明任意AI穿戴产品适配。",
+      "observed": "2026-10-09",
+      "basis": "brand_sales_directory",
+      "identityEvidence": "天津正睿商贸有限公司",
+      "directoryId": "922000",
+      "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+    },
+    {
+      "displayName": "杭州迪吉特",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "fields": {
+        "productScope": [
+          "佳明运动休闲目录销售据点；具体系列标签：car,handheld"
+        ],
+        "regions": [
+          "目录区域标签：zhejiang；不是区域代理权或全省承接能力"
+        ],
+        "entryPoints": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ]
+      },
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策",
+        "售后责任",
+        "机构或零售采购模式"
+      ],
+      "implication": "支持进一步核实该区域运动设备经营业务，不足以证明任意AI穿戴产品适配。",
+      "observed": "2026-10-09",
+      "basis": "brand_sales_directory",
+      "identityEvidence": "杭州迪吉特科技有限公司",
+      "directoryId": "922005",
+      "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+    },
+    {
+      "displayName": "北京广世天运",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "fields": {
+        "productScope": [
+          "佳明运动休闲目录销售据点；具体系列标签：cycling"
+        ],
+        "regions": [
+          "目录区域标签：beijing；不是区域代理权或全省承接能力"
+        ],
+        "entryPoints": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ]
+      },
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策",
+        "售后责任",
+        "机构或零售采购模式"
+      ],
+      "implication": "支持进一步核实该区域运动设备经营业务，不足以证明任意AI穿戴产品适配。",
+      "observed": "2026-10-09",
+      "basis": "brand_sales_directory",
+      "identityEvidence": "北京广世天运",
+      "directoryId": "921929",
+      "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
     }
   ]
 }

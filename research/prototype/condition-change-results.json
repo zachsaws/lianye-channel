@@ -2,7 +2,7 @@
   "method": "fixed_rule_version_comparison",
   "aiRun": false,
   "caseInputSha256": "84d3d758f041e1944dce2e465405885aac86bfcd22692b8ee3864c105bde786e",
-  "resultInputSha256": "649b89b326d2dbf0b19e539a3d98910a85f18d6b3eb68a2109e07f743e253d53",
+  "resultInputSha256": "b45043d33cfd616c9a75945bdaeaccc6dd053c2508b13b962e4a559fdc85fcbe",
   "changes": [
     {
       "before": "companion-ready",
@@ -93,6 +93,51 @@
         },
         {
           "name": "三夫户外",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        },
+        {
+          "name": "上海锐能体育",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        },
+        {
+          "name": "北京广世天运",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        },
+        {
+          "name": "上海天授",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        },
+        {
+          "name": "百纳海通",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        },
+        {
+          "name": "河南图图",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        },
+        {
+          "name": "南京易尔路",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        },
+        {
+          "name": "沈阳恒宇",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        },
+        {
+          "name": "天津正睿",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        },
+        {
+          "name": "杭州迪吉特",
           "effect": "recheck_business_fit",
           "notEquivalentTo": "确认不能合作"
         }

@@ -30,6 +30,11 @@
       "source": "https://www.aijqsd.com/about.html",
       "status": "initial_page_returned_but_followup_body_unavailable",
       "effect": "不依标题写入具体经营能力。"
+    },
+    {
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "status": "dynamic_rows_retrieved_from_public_page_endpoint",
+      "effect": "先前页面外壳缺口已通过公开接口解决；79据点中含连锁分店与专柜，不计作79独立经营者。"
     }
   ]
 }

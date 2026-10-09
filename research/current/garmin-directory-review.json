@@ -1,0 +1,1538 @@
+{
+  "sourceEndpoint": "https://www.garmin.com.cn/buy/get_json_data-server/cn/retailer/",
+  "queryCategory": "sports-recreation",
+  "records": [
+    {
+      "directoryId": "921919",
+      "name": "上海天授电子科技有限公司",
+      "regionLabels": [
+        "shanghai"
+      ],
+      "productSeries": [
+        "handheld",
+        "car"
+      ],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921920",
+      "name": "上海锐能体育用品有限公司（上海铁人运动精品店）",
+      "regionLabels": [
+        "shanghai"
+      ],
+      "productSeries": [],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921921",
+      "name": "顺电（上海嘉里城分店）",
+      "regionLabels": [
+        "shanghai"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921922",
+      "name": "三夫户外（天钥桥路店）",
+      "regionLabels": [
+        "shanghai"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921923",
+      "name": "三夫户外（邯郸路店）",
+      "regionLabels": [
+        "shanghai"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921924",
+      "name": "三夫户外（金桥碧云路店）",
+      "regionLabels": [
+        "shanghai"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921925",
+      "name": "Pure Performance Distribution Limited",
+      "regionLabels": [
+        "macao"
+      ],
+      "productSeries": [
+        "handheld"
+      ],
+      "identityStatus": "store_or_trade_name_identity_unresolved",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921926",
+      "name": "安徽中测仪器有限公司",
+      "regionLabels": [
+        "anhui"
+      ],
+      "productSeries": [
+        "handheld"
+      ],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921927",
+      "name": "无界有方智能生活馆",
+      "regionLabels": [
+        "anhui"
+      ],
+      "productSeries": [],
+      "identityStatus": "store_or_trade_name_identity_unresolved",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921928",
+      "name": "BITSHOP",
+      "regionLabels": [
+        "anhui"
+      ],
+      "productSeries": [],
+      "identityStatus": "store_or_trade_name_identity_unresolved",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921929",
+      "name": "北京广世天运",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "cycling"
+      ],
+      "identityStatus": "store_or_trade_name_identity_unresolved",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921930",
+      "name": "北京坤鹏商务服务有限公司（弓瞄）",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921931",
+      "name": "Garmin专柜",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "brand_counter_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921932",
+      "name": "三夫户外（马甸南村东店）",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921933",
+      "name": "三夫户外（公园南路店)",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921934",
+      "name": "三夫户外  (安立路店）",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921935",
+      "name": "三夫户外（欣宁街店）",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921936",
+      "name": "三夫户外（复兴路店）",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921937",
+      "name": "顺电（北京三里屯家电店）",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921938",
+      "name": "顺电（北京东直门分店）",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921939",
+      "name": "顺电（北京国贸家电分店）",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921940",
+      "name": "顺电（北京颐堤港分店）",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921941",
+      "name": "顺电（北京北辰路分店）",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921943",
+      "name": "英特宜家英龙华辰数码店",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [],
+      "identityStatus": "store_or_trade_name_identity_unresolved",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921944",
+      "name": "上地华联苹果店",
+      "regionLabels": [
+        "beijing"
+      ],
+      "productSeries": [],
+      "identityStatus": "store_or_trade_name_identity_unresolved",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921947",
+      "name": "顺电（重庆万象城店）",
+      "regionLabels": [
+        "chongqing"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921951",
+      "name": "深圳市百纳海通科技有限公司（广东）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [
+        "handheld",
+        "car"
+      ],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921953",
+      "name": "顺电（深圳华强分店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921954",
+      "name": "顺电（深圳罗湖万象分店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921955",
+      "name": "顺电（深圳中心城分店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921956",
+      "name": "顺电（深圳太阳百货分店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921957",
+      "name": "顺电（深圳花园城店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921958",
+      "name": "顺电（深圳龙岗万科店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921959",
+      "name": "顺电（深圳东门分店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921960",
+      "name": "顺电（深圳欧洲城分店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921961",
+      "name": "顺电（深圳海雅店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921962",
+      "name": "顺电（广州太古汇分店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921963",
+      "name": "顺电（惠州华贸分店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921964",
+      "name": "顺电（东莞东城万达店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921965",
+      "name": "顺电（东莞威尼斯分店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921966",
+      "name": "顺电（东莞长安万达店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921967",
+      "name": "顺电（中山利和广场分店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921968",
+      "name": "三夫户外（振华路店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921969",
+      "name": "顺电（来福士店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921970",
+      "name": "顺电（大冲万象店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921971",
+      "name": "顺电（壹方城店）",
+      "regionLabels": [
+        "guangdong"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921972",
+      "name": "三夫户外（中山东路店）",
+      "regionLabels": [
+        "hebei"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921973",
+      "name": "河南图图电子产品有限公司",
+      "regionLabels": [
+        "henan"
+      ],
+      "productSeries": [],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921974",
+      "name": "三夫户外（中北路店）",
+      "regionLabels": [
+        "hubei"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921976",
+      "name": "三夫户外（西安大路店）",
+      "regionLabels": [
+        "jilin"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921977",
+      "name": "顺电（苏州龙湖狮山店）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921978",
+      "name": "南京易尔路贸易有限公司（江苏）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [
+        "car",
+        "handheld"
+      ],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921980",
+      "name": "顺电（苏州欧尚分店）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921981",
+      "name": "顺电（苏州时代广场分店）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921982",
+      "name": "顺电（南通店中南城分店）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921983",
+      "name": "顺电（无锡海岸城店）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921984",
+      "name": "顺电（无锡万象城）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921985",
+      "name": "无界有方智能生活馆",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [],
+      "identityStatus": "store_or_trade_name_identity_unresolved",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921986",
+      "name": "三夫户外（中山路店）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921987",
+      "name": "三夫户外（团结中路店）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921988",
+      "name": "三夫户外（香河路店）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921989",
+      "name": "三夫户外（苏州大道店）",
+      "regionLabels": [
+        "jiangsu"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921990",
+      "name": "沈阳佳明恒宇科技有限公司（辽宁、吉林、黑龙江）",
+      "regionLabels": [
+        "liaoning"
+      ],
+      "productSeries": [
+        "handheld"
+      ],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921991",
+      "name": "三夫户外（北陵大街店）",
+      "regionLabels": [
+        "liaoning"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921992",
+      "name": "三夫户外（南五马路店）",
+      "regionLabels": [
+        "liaoning"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921994",
+      "name": "阳泉广源达商贸有限公司",
+      "regionLabels": [
+        "shanxi"
+      ],
+      "productSeries": [],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921995",
+      "name": "数码店（太原长风街）",
+      "regionLabels": [
+        "shanxi"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "store_or_trade_name_identity_unresolved",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921996",
+      "name": "顺电（成都悠方店）",
+      "regionLabels": [
+        "sichuan"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921997",
+      "name": "顺电（成都万象城分店 ）",
+      "regionLabels": [
+        "sichuan"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921998",
+      "name": "顺电（成都太古里店）",
+      "regionLabels": [
+        "sichuan"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "921999",
+      "name": "三夫户外（武侯祠大街2店）",
+      "regionLabels": [
+        "sichuan"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "922000",
+      "name": "天津正睿商贸有限公司",
+      "regionLabels": [
+        "tianjin"
+      ],
+      "productSeries": [],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "922001",
+      "name": "顺电（天津友谊路店）",
+      "regionLabels": [
+        "tianjin"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "922002",
+      "name": "顺电（天津恒隆店）",
+      "regionLabels": [
+        "tianjin"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "922003",
+      "name": "顺电（天津嘉里汇）",
+      "regionLabels": [
+        "tianjin"
+      ],
+      "productSeries": [],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "922004",
+      "name": "Pure Performance Distribution Limited",
+      "regionLabels": [
+        "hongkang"
+      ],
+      "productSeries": [
+        "handheld"
+      ],
+      "identityStatus": "store_or_trade_name_identity_unresolved",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "922005",
+      "name": "杭州迪吉特科技有限公司",
+      "regionLabels": [
+        "zhejiang"
+      ],
+      "productSeries": [
+        "car",
+        "handheld"
+      ],
+      "identityStatus": "legal_name_directory_lead",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "922006",
+      "name": "三夫户外（天目山路店）",
+      "regionLabels": [
+        "zhejiang"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    },
+    {
+      "directoryId": "922007",
+      "name": "三夫户外（大连店）",
+      "regionLabels": [
+        "liaoning"
+      ],
+      "productSeries": [
+        "outdoorsport",
+        "run"
+      ],
+      "identityStatus": "chain_store_not_independent_buyer",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "observed": "2026-10-09",
+      "unknown": [
+        "当前是否营业",
+        "独立采购权",
+        "跨品牌经营范围",
+        "新品引入政策"
+      ],
+      "dispatchable": false
+    }
+  ],
+  "boundary": "品牌销售据点，不是独立采购主体清单；区域标签来自目录，不证明区域代理权。没有保留个人电话、邮箱或精确地址。"
+}
