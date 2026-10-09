@@ -1,0 +1,71 @@
+{
+  "observed": "2026-10-09",
+  "scope": "domestic",
+  "profiles": [
+    {
+      "name": "宝尊",
+      "aliases": [
+        "Baozun"
+      ],
+      "role": "brand_ecommerce_operator",
+      "legalEntity": null,
+      "legalEntityUnknown": "集团品牌页面未确认具体签约子公司",
+      "facts": [
+        {
+          "field": "scope",
+          "value": "店站运营、数字营销、技术、仓储物流和客户服务",
+          "source": "https://www.baozun.com/about?lang=zh_CN"
+        },
+        {
+          "field": "entry",
+          "value": "企业合作入口，不是采购准入",
+          "source": "https://www.baozun.com/about?lang=zh_CN"
+        }
+      ],
+      "directionAssignments": [],
+      "unknowns": [
+        "AI新品接纳",
+        "小品牌服务门槛",
+        "数码品类具体团队与签约主体",
+        "费用",
+        "账号归属",
+        "经营与履约责任"
+      ],
+      "disposition": "research_only_verify_product_scope_before_import"
+    },
+    {
+      "name": "侵尘文化",
+      "legalEntity": "宁波侵尘文化传媒有限公司",
+      "role": "content_ecommerce_operator",
+      "facts": [
+        {
+          "field": "scope",
+          "value": "抖音快手内容电商、天猫京东代运营；产品运营、平台入驻、客服、视频及直播服务",
+          "source": "https://www.kingsta.com/e-commerce-business"
+        },
+        {
+          "field": "visible_categories",
+          "value": "页面案例以食品保健、护理等为主，没有据此证明AI硬件经验",
+          "source": "https://www.kingsta.com/e-commerce-business"
+        }
+      ],
+      "directionAssignments": [],
+      "unknowns": [
+        "AI硬件经营",
+        "采购意愿",
+        "库存货权",
+        "合作费用",
+        "具体售后边界"
+      ],
+      "disposition": "exclude_from_six_direction_frontend_until_relevance_evidence"
+    }
+  ],
+  "platformDirectory": {
+    "source": "https://buyin.douyinec.com/qualityServiceProvider",
+    "bodyRead": true,
+    "operatorCardsRead": false,
+    "note": "正文仅读到平台说明，未读到动态服务商卡片；不从搜索摘要导入名单"
+  },
+  "relationshipStatus": "not_established",
+  "dispatchable": false
+}
