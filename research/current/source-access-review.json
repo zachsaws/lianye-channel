@@ -15,6 +15,21 @@
       "source": "https://www.pooksh.com/",
       "status": "fetch_timeout",
       "effect": "本轮使用品牌目录核实身份，经营者自身跨品牌范围仍未知。"
+    },
+    {
+      "source": "https://services.youxuepai.com/branches/",
+      "status": "fetch_timeout",
+      "effect": "家庭学习零售记录未完成本轮销售/售后角色复核。"
+    },
+    {
+      "source": "https://www.xinyeshuma.com/Service.html",
+      "status": "fetch_timeout",
+      "effect": "不将路径名称Service单独作为售后或销售角色结论。"
+    },
+    {
+      "source": "https://www.aijqsd.com/about.html",
+      "status": "initial_page_returned_but_followup_body_unavailable",
+      "effect": "不依标题写入具体经营能力。"
     }
   ]
 }

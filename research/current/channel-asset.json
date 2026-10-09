@@ -3821,19 +3821,127 @@
       ],
       "evidenceStatus": "historical_research_import_not_live_revalidation",
       "researchGaps": [],
-      "buyerScenarios": [],
-      "productScope": [],
-      "regions": [],
-      "entryPoints": [],
-      "deliveryRequirements": [],
-      "afterSalesRequirements": [],
+      "buyerScenarios": [
+        "企业会议室",
+        "教育与培训空间"
+      ],
+      "productScope": [
+        "视频会议终端、AI会议、会议音频与智能会议空间设备"
+      ],
+      "regions": [
+        "经营者自述业务涉及上海、长三角及全国沿海重点城市；未核实每城交付能力"
+      ],
+      "entryPoints": [
+        "官网联系入口；未核实新厂商准入流程"
+      ],
+      "deliveryRequirements": [
+        "方案设计、设备选型与供应、部署及安装调试"
+      ],
+      "afterSalesRequirements": [
+        "官网自述提供技术支持与运维；具体新品合同责任未知"
+      ],
       "priceBand": null,
       "creditTerms": null,
       "purchaseIntent": null,
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "existing_public_market_route"
+      "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.yulianggroup.cn/company/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "buyerScenarios": {
+          "sources": [
+            "https://www.yulianggroup.cn/company/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "regions": {
+          "sources": [
+            "https://www.yulianggroup.cn/company/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://www.yulianggroup.cn/company/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "afterSalesRequirements": {
+          "sources": [
+            "https://www.yulianggroup.cn/company/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://www.yulianggroup.cn/company/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "陌生新品采购与代理政策",
+        "项目兼容性评估",
+        "具体部署城市和响应承诺",
+        "新产品售后责任"
+      ],
+      "researchInterpretation": "AI办公设备进入企业可能要满足会议平台兼容、安装和运维条件；目录相关不等于独立设备直接上架。",
+      "reviewedDetails": [
+        {
+          "displayName": "禹亮科技",
+          "source": "https://www.yulianggroup.cn/company/",
+          "fields": {
+            "productScope": [
+              "视频会议终端、AI会议、会议音频与智能会议空间设备"
+            ],
+            "buyerScenarios": [
+              "企业会议室",
+              "教育与培训空间"
+            ],
+            "regions": [
+              "经营者自述业务涉及上海、长三角及全国沿海重点城市；未核实每城交付能力"
+            ],
+            "deliveryRequirements": [
+              "方案设计、设备选型与供应、部署及安装调试"
+            ],
+            "afterSalesRequirements": [
+              "官网自述提供技术支持与运维；具体新品合同责任未知"
+            ],
+            "entryPoints": [
+              "官网联系入口；未核实新厂商准入流程"
+            ]
+          },
+          "unknown": [
+            "陌生新品采购与代理政策",
+            "项目兼容性评估",
+            "具体部署城市和响应承诺",
+            "新产品售后责任"
+          ],
+          "implication": "AI办公设备进入企业可能要满足会议平台兼容、安装和运维条件；目录相关不等于独立设备直接上架。",
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "identityEvidence": "上海禹亮信息科技有限公司",
+          "inferenceBoundary": "既有品牌及项目能力为经营者自述，不自动外推为新品承接能力"
+        }
+      ]
     },
     {
       "id": "ad16cdfc11aa",

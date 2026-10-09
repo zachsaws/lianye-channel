@@ -75,6 +75,89 @@
       "missingProductConditions": [],
       "routesForFurtherResearch": [
         {
+          "name": "九机",
+          "decision": "research_further_not_purchase_recommendation",
+          "basis": [
+            {
+              "displayName": "九机",
+              "source": "https://www.9ji.com/doc/15/74",
+              "additionalSources": [
+                "https://www.9ji.com/doc/15/41"
+              ],
+              "fields": {
+                "productScope": [
+                  "3C通讯、数码配件、笔记本及新奇特商品"
+                ],
+                "entryPoints": [
+                  "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+                ],
+                "buyerScenarios": [
+                  "线上商城及线下数码消费"
+                ]
+              },
+              "fieldSources": {
+                "entryPoints": [
+                  "https://www.9ji.com/doc/15/74",
+                  "https://www.9ji.com/doc/15/41"
+                ]
+              },
+              "unknown": [
+                "新品审核材料",
+                "采购与结算主体",
+                "试销政策",
+                "具体售后分工"
+              ],
+              "implication": "比普通联系页更明确的供应商入口，值得核实商品准入；不等于接受该新品。",
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "inferenceBoundary": "经营描述与开放入口不证明承接意愿"
+            }
+          ],
+          "fieldEvidence": {
+            "productScope": {
+              "sources": [
+                "https://www.9ji.com/doc/15/74"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "entryPoints": {
+              "sources": [
+                "https://www.9ji.com/doc/15/74",
+                "https://www.9ji.com/doc/15/41"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "buyerScenarios": {
+              "sources": [
+                "https://www.9ji.com/doc/15/74"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            }
+          },
+          "unknownOperatingConditions": [
+            "新品审核材料",
+            "采购与结算主体",
+            "试销政策",
+            "具体售后分工"
+          ],
+          "recallBasis": "editorial_direction",
+          "priorityEstablished": false,
+          "fitConditions": {},
+          "fitWarning": null,
+          "questions": [
+            "采购决策主体是谁？",
+            "是否接受该类新品？",
+            "商业及服务条件是什么？",
+            "谁负责部署、账号和持续支持？"
+          ]
+        },
+        {
           "name": "英迈中国",
           "decision": "research_further_not_purchase_recommendation",
           "basis": [
@@ -111,6 +194,114 @@
             "新厂商准入",
             "产品所属业务线",
             "商业与技术支持条件"
+          ],
+          "recallBasis": "editorial_direction",
+          "priorityEstablished": false,
+          "fitConditions": {},
+          "fitWarning": null,
+          "questions": [
+            "采购决策主体是谁？",
+            "是否接受该类新品？",
+            "商业及服务条件是什么？",
+            "谁负责部署、账号和持续支持？"
+          ]
+        },
+        {
+          "name": "禹亮科技",
+          "decision": "research_further_not_purchase_recommendation",
+          "basis": [
+            {
+              "displayName": "禹亮科技",
+              "source": "https://www.yulianggroup.cn/company/",
+              "fields": {
+                "productScope": [
+                  "视频会议终端、AI会议、会议音频与智能会议空间设备"
+                ],
+                "buyerScenarios": [
+                  "企业会议室",
+                  "教育与培训空间"
+                ],
+                "regions": [
+                  "经营者自述业务涉及上海、长三角及全国沿海重点城市；未核实每城交付能力"
+                ],
+                "deliveryRequirements": [
+                  "方案设计、设备选型与供应、部署及安装调试"
+                ],
+                "afterSalesRequirements": [
+                  "官网自述提供技术支持与运维；具体新品合同责任未知"
+                ],
+                "entryPoints": [
+                  "官网联系入口；未核实新厂商准入流程"
+                ]
+              },
+              "unknown": [
+                "陌生新品采购与代理政策",
+                "项目兼容性评估",
+                "具体部署城市和响应承诺",
+                "新产品售后责任"
+              ],
+              "implication": "AI办公设备进入企业可能要满足会议平台兼容、安装和运维条件；目录相关不等于独立设备直接上架。",
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "identityEvidence": "上海禹亮信息科技有限公司",
+              "inferenceBoundary": "既有品牌及项目能力为经营者自述，不自动外推为新品承接能力"
+            }
+          ],
+          "fieldEvidence": {
+            "productScope": {
+              "sources": [
+                "https://www.yulianggroup.cn/company/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "buyerScenarios": {
+              "sources": [
+                "https://www.yulianggroup.cn/company/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "regions": {
+              "sources": [
+                "https://www.yulianggroup.cn/company/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "deliveryRequirements": {
+              "sources": [
+                "https://www.yulianggroup.cn/company/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "afterSalesRequirements": {
+              "sources": [
+                "https://www.yulianggroup.cn/company/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "entryPoints": {
+              "sources": [
+                "https://www.yulianggroup.cn/company/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            }
+          },
+          "unknownOperatingConditions": [
+            "陌生新品采购与代理政策",
+            "项目兼容性评估",
+            "具体部署城市和响应承诺",
+            "新产品售后责任"
           ],
           "recallBasis": "editorial_direction",
           "priorityEstablished": false,
@@ -310,6 +501,92 @@
       "decision": "verify_channel_conditions",
       "missingProductConditions": [],
       "routesForFurtherResearch": [
+        {
+          "name": "九机",
+          "decision": "unresolved_business_model_fit",
+          "basis": [
+            {
+              "displayName": "九机",
+              "source": "https://www.9ji.com/doc/15/74",
+              "additionalSources": [
+                "https://www.9ji.com/doc/15/41"
+              ],
+              "fields": {
+                "productScope": [
+                  "3C通讯、数码配件、笔记本及新奇特商品"
+                ],
+                "entryPoints": [
+                  "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+                ],
+                "buyerScenarios": [
+                  "线上商城及线下数码消费"
+                ]
+              },
+              "fieldSources": {
+                "entryPoints": [
+                  "https://www.9ji.com/doc/15/74",
+                  "https://www.9ji.com/doc/15/41"
+                ]
+              },
+              "unknown": [
+                "新品审核材料",
+                "采购与结算主体",
+                "试销政策",
+                "具体售后分工"
+              ],
+              "implication": "比普通联系页更明确的供应商入口，值得核实商品准入；不等于接受该新品。",
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "inferenceBoundary": "经营描述与开放入口不证明承接意愿"
+            }
+          ],
+          "fieldEvidence": {
+            "productScope": {
+              "sources": [
+                "https://www.9ji.com/doc/15/74"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "entryPoints": {
+              "sources": [
+                "https://www.9ji.com/doc/15/74",
+                "https://www.9ji.com/doc/15/41"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "buyerScenarios": {
+              "sources": [
+                "https://www.9ji.com/doc/15/74"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            }
+          },
+          "unknownOperatingConditions": [
+            "新品审核材料",
+            "采购与结算主体",
+            "试销政策",
+            "具体售后分工"
+          ],
+          "recallBasis": "editorial_direction",
+          "priorityEstablished": false,
+          "fitConditions": {
+            "buyer": "医疗机构",
+            "consumerRetailEligible": null,
+            "clinicalWorkflowRequired": true
+          },
+          "fitWarning": "方向标签不能证明采购场景与交付方式一致；应先核实经营适配",
+          "questions": [
+            "采购决策主体是谁？",
+            "是否接受该类新品？",
+            "商业及服务条件是什么？"
+          ]
+        },
         {
           "name": "三夫户外",
           "decision": "unresolved_business_model_fit",
