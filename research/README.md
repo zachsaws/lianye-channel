@@ -16,3 +16,7 @@
 - `strategy/`：项目差异化、AI 经验复用、分类与表达原则。
 
 当前范围为国内渠道，海外扩展留待后续版本。此次未收录网页整页抓取、第三方报告全文、部署凭证及本地运行日志。来源链接保留在资料中，引用前应重新核对时效与原文。
+
+## 2026-10-09 新一轮研究
+
+[结论与下一阶段判断](next-stage-oct09/research-conclusions.md) · [24条分类候选](next-stage-oct09/channel-candidates.csv) · [待对齐的长期目标草案](next-stage-oct09/long-term-goal-draft.md)

@@ -1,0 +1,246 @@
+{
+  "scope": "domestic",
+  "purpose": "本轮研究候选，不等于官网新增或合作网络",
+  "records": [
+    {
+      "name": "东莞童真时代商贸有限公司",
+      "direction": "陪伴与亲子",
+      "role": "玩具批发与实体分销",
+      "source": "https://www.china-toy-expo.com/exhibitor/Dongguan-Childlike-Times-Trading-Co-Ltd--10527",
+      "evidence": "主办方展商记录披露批发、零售、电商供货及实体分销；需经营者侧补验",
+      "disposition": "经营类型候选",
+      "limits": "尚未核实新品准入、采购意愿、价格与我方合作关系",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "浙江商博士品牌管理有限公司",
+      "direction": "陪伴与亲子",
+      "role": "玩具品牌代理与渠道运营",
+      "source": "https://www.china-toy-expo.com/exhibitor/Zhejiang-SUNBOSE-Brand-Management-Co-Ltd--6819",
+      "evidence": "主办方名录披露进口玩具品牌代理；官网检索有线下批发零售业务，正文访问超时",
+      "disposition": "经营类型候选",
+      "limits": "尚未核实新品准入、采购意愿、价格与我方合作关系",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "孕婴世界",
+      "direction": "陪伴与亲子",
+      "role": "母婴加盟供应链",
+      "source": "https://www.scyysj.com/ppjs.html",
+      "evidence": "企业官网介绍加盟体系、商品供应链及专业母婴服务",
+      "disposition": "经营类型候选",
+      "limits": "并非科技玩具专业渠道；当前官网主张规模不计为我方覆盖",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "苏州市欣源商贸有限公司",
+      "direction": "家庭与空间",
+      "role": "多品牌家电代理、礼赠与电商",
+      "source": "https://www.szxysm.com.cn/",
+      "evidence": "官网索引列生活电器与家居品牌，线下、电商和礼赠经营；抓取正文空白，保留复核状态",
+      "disposition": "索引候选待正文复核",
+      "limits": "尚未核实新品准入、采购意愿、价格与我方合作关系",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "星光智能",
+      "direction": "家庭与空间",
+      "role": "智能影音方案与销售集成",
+      "source": "https://www.starintegr.com/about-us",
+      "evidence": "官网介绍智能、影音、灯光与窗饰经营；显示多工种服务团队",
+      "disposition": "经营类型候选",
+      "limits": "适合需集成交付的产品；不代表便携消费品普遍适配；官网规模口径不一致不采用",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "圣谛影音智能",
+      "direction": "家庭与空间",
+      "role": "专业影音品牌经营",
+      "source": "https://www.sentimenthifi.com/news.asp",
+      "evidence": "官方新闻索引显示品牌代理活动，正文超时",
+      "disposition": "索引候选待正文复核",
+      "limits": "尚未核实新品准入、采购意愿、价格与我方合作关系",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "蓝峪商贸（上海）有限公司",
+      "direction": "运动与穿戴",
+      "role": "户外专业装备代理与培训",
+      "source": "https://www.blueicetrading.com/",
+      "evidence": "官网介绍户外装备品牌引入和绳索技术培训",
+      "disposition": "窄场景候选",
+      "limits": "安全装备专业通路，不直接推断为通用智能穿戴准入",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "上海飞蛙商贸有限公司",
+      "direction": "运动与穿戴",
+      "role": "户外用品品牌代理",
+      "source": "https://flyingfrog.cn/",
+      "evidence": "官方索引介绍户外品牌引入；正文访问超时",
+      "disposition": "索引候选待正文复核",
+      "limits": "尚未核实新品准入、采购意愿、价格与我方合作关系",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "上海坤昇健行信息科技有限公司",
+      "direction": "运动与穿戴",
+      "role": "运动装备集采与赛事场景",
+      "source": "https://www.ksjx365.cn/products_show.aspx?id=477",
+      "evidence": "官方供应链页面介绍运动装备与B端采购",
+      "disposition": "经营类型候选",
+      "limits": "与现有简称记录先合并，不重复增加主体数",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "雷音音频（深圳）有限公司",
+      "direction": "创作与数码",
+      "role": "音频品牌分销与零售伙伴供货",
+      "source": "https://www.leiyinaudio.com/",
+      "evidence": "官网明确品牌侧分销与零售侧供应商角色，并有近期试听活动",
+      "disposition": "经营类型候选",
+      "limits": "音频方向相关；翻译耳机等AI新品仍需技术和服务适配；规模自述不采用",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "千耳烧友之家",
+      "direction": "创作与数码",
+      "role": "音频试听零售 · 常州",
+      "source": "https://moondroplab.com/cn/sales-agents",
+      "evidence": "品牌官方授权目录列该零售名称及城市",
+      "disposition": "品牌目录线索",
+      "limits": "尚未核实独立经营主体、是否多品牌及AI新品接入；不增加到当前官网",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "元音坊音频馆",
+      "direction": "创作与数码",
+      "role": "音频试听零售 · 西安",
+      "source": "https://moondroplab.com/cn/sales-agents",
+      "evidence": "品牌官方授权目录列该零售名称及城市",
+      "disposition": "品牌目录线索",
+      "limits": "尚未核实独立经营主体、是否多品牌及AI新品接入；不增加到当前官网",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "怡听之境HIFI音频体验馆",
+      "direction": "创作与数码",
+      "role": "音频试听零售 · 宁波",
+      "source": "https://moondroplab.com/cn/sales-agents",
+      "evidence": "品牌官方授权目录列该零售名称及城市",
+      "disposition": "品牌目录线索",
+      "limits": "尚未核实独立经营主体、是否多品牌及AI新品接入；不增加到当前官网",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "聚新音频馆",
+      "direction": "创作与数码",
+      "role": "音频试听零售 · 合肥",
+      "source": "https://moondroplab.com/cn/sales-agents",
+      "evidence": "品牌官方授权目录列该零售名称及城市",
+      "disposition": "品牌目录线索",
+      "limits": "尚未核实独立经营主体、是否多品牌及AI新品接入；不增加到当前官网",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "无锡迩东音频馆",
+      "direction": "创作与数码",
+      "role": "音频试听零售 · 无锡",
+      "source": "https://moondroplab.com/cn/sales-agents",
+      "evidence": "品牌官方授权目录列该零售名称及城市",
+      "disposition": "品牌目录线索",
+      "limits": "尚未核实独立经营主体、是否多品牌及AI新品接入；不增加到当前官网",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "聆风HiFi音频馆",
+      "direction": "创作与数码",
+      "role": "音频试听零售 · 广州",
+      "source": "https://moondroplab.com/cn/sales-agents",
+      "evidence": "品牌官方授权目录列该零售名称及城市",
+      "disposition": "品牌目录线索",
+      "limits": "尚未核实独立经营主体、是否多品牌及AI新品接入；不增加到当前官网",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "南京思亦行",
+      "direction": "办公与生产力",
+      "role": "商用设备经销",
+      "source": "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+      "evidence": "微软官方Surface商用经销目录列该名称",
+      "disposition": "品牌目录线索",
+      "limits": "尚未回查经营者主体和跨品牌经营范围；不推断Agent订阅销售权限",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "广州嘉太",
+      "direction": "办公与生产力",
+      "role": "商用设备经销",
+      "source": "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+      "evidence": "微软官方Surface商用经销目录列该名称",
+      "disposition": "品牌目录线索",
+      "limits": "尚未回查经营者主体和跨品牌经营范围；不推断Agent订阅销售权限",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "安徽麦迹",
+      "direction": "办公与生产力",
+      "role": "商用设备经销",
+      "source": "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+      "evidence": "微软官方Surface商用经销目录列该名称",
+      "disposition": "品牌目录线索",
+      "limits": "尚未回查经营者主体和跨品牌经营范围；不推断Agent订阅销售权限",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "创而新",
+      "direction": "学习与教育",
+      "role": "教育设备经销",
+      "source": "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+      "evidence": "微软官方Surface教育经销分类列该名称",
+      "disposition": "品牌目录线索",
+      "limits": "目录角色不等于课程采购能力；经营主体与其他品牌业务待回查",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "恒润浩远",
+      "direction": "学习与教育",
+      "role": "教育设备经销",
+      "source": "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+      "evidence": "微软官方Surface教育经销分类列该名称",
+      "disposition": "品牌目录线索",
+      "limits": "目录角色不等于课程采购能力；经营主体与其他品牌业务待回查",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "成方策",
+      "direction": "学习与教育",
+      "role": "教育设备经销",
+      "source": "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+      "evidence": "微软官方Surface教育经销分类列该名称",
+      "disposition": "品牌目录线索",
+      "limits": "目录角色不等于课程采购能力；经营主体与其他品牌业务待回查",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "中天瑞合",
+      "direction": "学习与教育",
+      "role": "教育设备经销",
+      "source": "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+      "evidence": "微软官方Surface教育经销分类列该名称",
+      "disposition": "品牌目录线索",
+      "limits": "目录角色不等于课程采购能力；经营主体与其他品牌业务待回查",
+      "observed": "2026-10-09"
+    },
+    {
+      "name": "上海广宣",
+      "direction": "办公与生产力",
+      "role": "企业软件代理",
+      "source": "https://www.gx-soft.com/about/",
+      "evidence": "官网介绍协助中小软件开发商与软件代理业务",
+      "disposition": "经营类型候选",
+      "limits": "授权产品边界、主体身份和通用Agent适配需补核",
+      "observed": "2026-10-09"
+    }
+  ]
+}
