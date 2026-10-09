@@ -7,8 +7,8 @@
     "productScope": 30,
     "regions": 13,
     "entryPoints": 24,
-    "deliveryRequirements": 9,
-    "afterSalesRequirements": 2
+    "deliveryRequirements": 10,
+    "afterSalesRequirements": 3
   },
   "directions": {
     "companion": {
@@ -31,8 +31,8 @@
         "productScope": 6,
         "regions": 0,
         "entryPoints": 4,
-        "deliveryRequirements": 2,
-        "afterSalesRequirements": 1
+        "deliveryRequirements": 3,
+        "afterSalesRequirements": 2
       }
     },
     "wearable": {
@@ -43,8 +43,8 @@
         "productScope": 12,
         "regions": 9,
         "entryPoints": 12,
-        "deliveryRequirements": 1,
-        "afterSalesRequirements": 0
+        "deliveryRequirements": 2,
+        "afterSalesRequirements": 1
       }
     },
     "home": {
@@ -55,8 +55,8 @@
         "productScope": 3,
         "regions": 0,
         "entryPoints": 3,
-        "deliveryRequirements": 2,
-        "afterSalesRequirements": 0
+        "deliveryRequirements": 3,
+        "afterSalesRequirements": 1
       }
     },
     "office": {
@@ -67,8 +67,8 @@
         "productScope": 9,
         "regions": 3,
         "entryPoints": 7,
-        "deliveryRequirements": 5,
-        "afterSalesRequirements": 1
+        "deliveryRequirements": 6,
+        "afterSalesRequirements": 2
       }
     },
     "creative": {
@@ -79,8 +79,8 @@
         "productScope": 3,
         "regions": 1,
         "entryPoints": 3,
-        "deliveryRequirements": 0,
-        "afterSalesRequirements": 0
+        "deliveryRequirements": 1,
+        "afterSalesRequirements": 1
       }
     }
   },

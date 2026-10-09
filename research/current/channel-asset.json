@@ -349,7 +349,8 @@
       "sourceLinks": [
         "https://www.9ji.com/doc/15/74",
         "https://www2.9ji.com/doc/1/43",
-        "https://www.9ji.com/doc/15/41"
+        "https://www.9ji.com/doc/15/41",
+        "https://www.9ji.com/doc/1/74"
       ],
       "importedEvidence": [
         {
@@ -372,10 +373,14 @@
       ],
       "regions": [],
       "entryPoints": [
-        "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+        "官网商务合作明确接受品牌代理/销售沟通；当前导航供应商申请链接为/doc/1/74，本轮已读正文"
       ],
-      "deliveryRequirements": [],
-      "afterSalesRequirements": [],
+      "deliveryRequirements": [
+        "供应商申请页要求企业资质和资料、已有客户合作经历、商品质量符合标准、长期稳定供货及一定备货能力；页面措辞和当前执行细则仍需确认"
+      ],
+      "afterSalesRequirements": [
+        "供应商申请页要求供货方保证质量并能处理售后；具体退换和维修分工未公布"
+      ],
       "priceBand": null,
       "creditTerms": null,
       "purchaseIntent": null,
@@ -394,7 +399,7 @@
         },
         "entryPoints": {
           "sources": [
-            "https://www.9ji.com/doc/15/74",
+            "https://www.9ji.com/doc/1/74",
             "https://www.9ji.com/doc/15/41"
           ],
           "observed": "2026-10-09",
@@ -408,15 +413,31 @@
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
           "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://www.9ji.com/doc/1/74"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "afterSalesRequirements": {
+          "sources": [
+            "https://www.9ji.com/doc/1/74"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
       "entryPurposeReview": {
         "type": "supplier_submission",
         "basis": [
-          "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+          "官网商务合作明确接受品牌代理/销售沟通；当前导航供应商申请链接为/doc/1/74，本轮已读正文"
         ],
         "sources": [
-          "https://www.9ji.com/doc/15/74",
+          "https://www.9ji.com/doc/1/74",
           "https://www.9ji.com/doc/15/41"
         ],
         "observed": "2026-10-09",
@@ -425,59 +446,80 @@
         "companyRelationship": "not_established"
       },
       "unknownOperatingConditions": [
-        "新品审核材料",
+        "当前资质审核细则及对早期新品的例外",
         "采购与结算主体",
-        "试销政策",
-        "具体售后分工"
+        "AI新品具体准入与采购意愿",
+        "试销、账期、退换和维修分工"
       ],
-      "researchInterpretation": "比普通联系页更明确的供应商入口，值得核实商品准入；不等于接受该新品。",
+      "researchInterpretation": "有明确品牌合作入口，但稳定供货、既有经历与售后责任可能成为早期新品门槛；联野不拿货权不能代替品牌备货或质量责任。",
       "reviewedDetails": [
         {
           "displayName": "九机",
           "source": "https://www.9ji.com/doc/15/74",
           "additionalSources": [
-            "https://www.9ji.com/doc/15/41"
+            "https://www.9ji.com/doc/15/41",
+            "https://www.9ji.com/doc/1/74"
           ],
           "fields": {
             "productScope": [
               "3C通讯、数码配件、笔记本及新奇特商品"
             ],
             "entryPoints": [
-              "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+              "官网商务合作明确接受品牌代理/销售沟通；当前导航供应商申请链接为/doc/1/74，本轮已读正文"
             ],
             "buyerScenarios": [
               "线上商城及线下数码消费"
+            ],
+            "deliveryRequirements": [
+              "供应商申请页要求企业资质和资料、已有客户合作经历、商品质量符合标准、长期稳定供货及一定备货能力；页面措辞和当前执行细则仍需确认"
+            ],
+            "afterSalesRequirements": [
+              "供应商申请页要求供货方保证质量并能处理售后；具体退换和维修分工未公布"
             ]
           },
           "fieldSources": {
             "entryPoints": [
-              "https://www.9ji.com/doc/15/74",
+              "https://www.9ji.com/doc/1/74",
               "https://www.9ji.com/doc/15/41"
+            ],
+            "deliveryRequirements": [
+              "https://www.9ji.com/doc/1/74"
+            ],
+            "afterSalesRequirements": [
+              "https://www.9ji.com/doc/1/74"
             ]
           },
           "unknown": [
-            "新品审核材料",
+            "当前资质审核细则及对早期新品的例外",
             "采购与结算主体",
-            "试销政策",
-            "具体售后分工"
+            "AI新品具体准入与采购意愿",
+            "试销、账期、退换和维修分工"
           ],
-          "implication": "比普通联系页更明确的供应商入口，值得核实商品准入；不等于接受该新品。",
+          "implication": "有明确品牌合作入口，但稳定供货、既有经历与售后责任可能成为早期新品门槛；联野不拿货权不能代替品牌备货或质量责任。",
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
           "inferenceBoundary": "经营描述与开放入口不证明承接意愿",
           "entryPurposeReview": {
             "type": "supplier_submission",
             "basis": [
-              "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+              "官网商务合作明确接受品牌代理/销售沟通；当前导航供应商申请链接为/doc/1/74，本轮已读正文"
             ],
             "sources": [
-              "https://www.9ji.com/doc/15/74",
+              "https://www.9ji.com/doc/1/74",
               "https://www.9ji.com/doc/15/41"
             ],
             "observed": "2026-10-09",
             "status": "editorial_purpose_classification_from_public_evidence",
             "newProductAcceptance": "unknown",
             "companyRelationship": "not_established"
+          },
+          "sourceRefresh": {
+            "observed": "2026-10-09",
+            "access": "official_page_body_via_live_navigation",
+            "oldURL": "https://www.9ji.com/doc/15/74",
+            "oldURLResult": "timeout",
+            "currentURL": "https://www.9ji.com/doc/1/74",
+            "boundary": "页面资质措辞可能历史遗留，记录公开要求不视为当前已确认政策；不保存个人采购联系人"
           }
         }
       ]
