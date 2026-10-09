@@ -1,0 +1,249 @@
+{
+  "cases": {
+    "cases": [
+      {
+        "delivery": "hardware",
+        "demoReady": true,
+        "description": "假设亲子陪伴设备已有演示，品牌承担供货和售后；商业条款未知。",
+        "direction": "companion",
+        "fulfillmentKnown": true,
+        "hypothetical": true,
+        "id": "companion-ready",
+        "serviceOwnerKnown": true
+      },
+      {
+        "delivery": "hardware",
+        "demoReady": false,
+        "description": "同一假设产品尚无可用演示。",
+        "direction": "companion",
+        "fulfillmentKnown": true,
+        "hypothetical": true,
+        "id": "companion-no-demo",
+        "serviceOwnerKnown": true
+      },
+      {
+        "delivery": "software",
+        "demoReady": true,
+        "description": "假设企业办公Agent，需要账号部署和持续技术支持。",
+        "direction": "office",
+        "fulfillmentKnown": true,
+        "hypothetical": true,
+        "id": "office-agent",
+        "serviceOwnerKnown": true
+      },
+      {
+        "delivery": "software",
+        "demoReady": true,
+        "description": "同一软件产品的持续服务责任尚未落实。",
+        "direction": "office",
+        "fulfillmentKnown": true,
+        "hypothetical": true,
+        "id": "office-service-withdrawn",
+        "serviceOwnerKnown": false
+      },
+      {
+        "channelFitConditions": {
+          "buyer": "医疗机构",
+          "clinicalWorkflowRequired": true,
+          "consumerRetailEligible": null
+        },
+        "delivery": "hardware",
+        "demoReady": true,
+        "description": "假设穿戴设备只用于医疗机构流程；资料未证明可作为普通户外消费品售卖。不能因穿戴标签相同就优先推荐户外零售。",
+        "direction": "wearable",
+        "fulfillmentKnown": true,
+        "hypothetical": true,
+        "id": "wearable-clinical-only",
+        "serviceOwnerKnown": true
+      }
+    ]
+  },
+  "reviewedEvidence": {
+    "records": [
+      {
+        "basis": "operator_self_disclosure",
+        "displayName": "孕婴世界",
+        "fields": {
+          "entryPoints": [
+            "供应链合作页面提供产品资料发送入口；这是提交路径，不是采购承诺"
+          ]
+        },
+        "implication": "可研究亲子产品供应链准入；不能依据入口直接推荐产品入驻。",
+        "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
+        "observed": "2026-10-09",
+        "source": "https://www.scyysj.com/supply_hz.html",
+        "unknown": [
+          "选品准入标准",
+          "AI产品承接意愿",
+          "采购及结算主体",
+          "账期与退换政策"
+        ]
+      },
+      {
+        "basis": "operator_self_disclosure",
+        "displayName": "圣谛影音智能",
+        "fields": {
+          "deliveryRequirements": [
+            "网站介绍经销商网络与培训机制，具体项目交付要求尚未公开核实"
+          ],
+          "entryPoints": [
+            "商务合作页面及经销商咨询表单"
+          ],
+          "productScope": [
+            "影音智能行业"
+          ]
+        },
+        "implication": "成熟同行已经结合知识、网络和培训；这些能力本身不足以证明联野独有的AI差异。",
+        "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
+        "observed": "2026-10-09",
+        "source": "https://www.sentimenthifi.com/business.html",
+        "unknown": [
+          "新品牌代理准入条件",
+          "现有品牌限制",
+          "采购承诺",
+          "具体培训和售后责任"
+        ]
+      },
+      {
+        "basis": "operator_self_disclosure",
+        "displayName": "成方策",
+        "fields": {
+          "buyerScenarios": [
+            "企业IT管理、生产力提升及数字转型"
+          ],
+          "productScope": [
+            "IT管理产品及服务"
+          ]
+        },
+        "implication": "软件进入企业可能是服务项目而非零售货架；仍需要查证具体采购与实施路线。",
+        "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
+        "observed": "2026-10-09",
+        "source": "https://www.solutionkeys.com/aboutus/",
+        "unknown": [
+          "法律主体",
+          "具体软件品牌准入",
+          "项目采购权",
+          "AI软件部署能力"
+        ]
+      },
+      {
+        "basis": "operator_self_disclosure",
+        "displayName": "七色花",
+        "fields": {
+          "buyerScenarios": [
+            "学前教育资源与活动材料"
+          ],
+          "productScope": [
+            "幼教资源、科学与益智教玩具、运动及感统产品"
+          ]
+        },
+        "implication": "教育通路的关联要落在教学用途和资源体系，不能只因产品面向儿童就认定匹配。",
+        "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系",
+        "observed": "2026-10-09",
+        "source": "https://www.qisehua.cn/",
+        "unknown": [
+          "采购决策与销售模式",
+          "AI产品准入",
+          "培训交付责任"
+        ]
+      },
+      {
+        "basis": "operator_self_disclosure",
+        "displayName": "三夫户外",
+        "fields": {
+          "buyerScenarios": [
+            "滑雪、露营、跑步、徒步、登山、城市通勤"
+          ],
+          "entryPoints": [
+            "官网提供联系三夫入口；大客户集采是面向采购客户的服务，不能当作供应商准入"
+          ],
+          "productScope": [
+            "户外服装、鞋袜与装备"
+          ]
+        },
+        "implication": "专业零售、品牌运营和活动场景并存；应先明确合作业务单元，不能把同一公司拆成多个独立采购主体。",
+        "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系",
+        "observed": "2026-10-09",
+        "source": "https://sanfo.com/about/general.asp",
+        "unknown": [
+          "新品采购接口",
+          "电子设备选品政策",
+          "试销与服务条款"
+        ]
+      },
+      {
+        "basis": "operator_self_disclosure",
+        "displayName": "英迈中国",
+        "fields": {
+          "productScope": [
+            "官网厂商目录列有电脑、办公通信、音频与相关技术品牌"
+          ]
+        },
+        "implication": "目录能证明现有产品组合，不能证明愿意引入任意新品；目录条目和商品数不等于渠道规模。",
+        "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系",
+        "observed": "2026-10-09",
+        "source": "https://cn.ingrammicro.com.cn/site/vendor/index",
+        "unknown": [
+          "新厂商准入",
+          "产品所属业务线",
+          "商业与技术支持条件"
+        ]
+      },
+      {
+        "basis": "operator_self_disclosure",
+        "displayName": "华森葳",
+        "fields": {
+          "afterSalesRequirements": [
+            "官网列出售后保养环节，具体合同范围未知"
+          ],
+          "buyerScenarios": [
+            "幼儿园与托育空间整体规划"
+          ],
+          "deliveryRequirements": [
+            "官网列出整体规划、产品配置、运送安装、验收评价"
+          ],
+          "productScope": [
+            "园所家具、教具、户外教室及托育产品"
+          ]
+        },
+        "implication": "园所渠道包含项目交付，不等同于儿童消费品零售；产品需要证明园所用途。",
+        "inferenceBoundary": "推断不代表采购意愿或合作关系",
+        "observed": "2026-10-09",
+        "source": "https://www.huasenwei.com/mine.html",
+        "unknown": [
+          "新品牌采购准入",
+          "项目集成限制",
+          "实际采购主体"
+        ]
+      },
+      {
+        "basis": "operator_self_disclosure",
+        "displayName": "上海广宣",
+        "fields": {
+          "buyerScenarios": [
+            "企业软件购买与正版化"
+          ],
+          "deliveryRequirements": [
+            "官网介绍正版软件发行与技术服务，具体产品实施责任未知"
+          ],
+          "entryPoints": [
+            "官网联系及留言入口；未核实为供应商准入"
+          ],
+          "productScope": [
+            "办公、开发设计、工业应用等软件"
+          ]
+        },
+        "implication": "软件渠道已有代理与技术服务业务；新品需要明确授权、交付及服务边界。",
+        "inferenceBoundary": "推断不代表采购意愿或合作关系",
+        "observed": "2026-10-09",
+        "source": "https://www.gx-soft.com/jianjie/",
+        "unknown": [
+          "AI软件代理意愿",
+          "授权形式与合同主体",
+          "部署和持续服务范围"
+        ]
+      }
+    ]
+  },
+  "task": "说明值得核实的对象、缺失条件及条件变化影响；不得推断采购意愿或销量。"
+}

@@ -1,0 +1,73 @@
+{
+  "runType": "current_assistant_exploratory_analysis",
+  "modelIdentity": "Codex assistant; exact API model identifier not exposed in this run",
+  "date": "2026-10-09",
+  "inputSha256": "7a9e2b7b45eec41101d194f5437773ffc053e6ddd642d1ededde633118c40b3a",
+  "independentComparison": false,
+  "limitations": [
+    "当前助手已看过规则输出及项目历史，存在上下文影响",
+    "未调用独立模型API，不能称为盲测",
+    "未测耗时、效果或准确率",
+    "不包含真实采购及销售反馈"
+  ],
+  "outputs": [
+    {
+      "caseId": "companion-ready",
+      "investigate": [
+        "孕婴世界"
+      ],
+      "reason": "有产品资料提交入口，值得先核实是否接收该类亲子设备。",
+      "unknown": [
+        "母婴用途适配",
+        "AI设备准入",
+        "售后责任与商业条件"
+      ],
+      "source": "https://www.scyysj.com/supply_hz.html"
+    },
+    {
+      "caseId": "companion-no-demo",
+      "decision": "补齐演示后再投入渠道推进；可以先核实资料要求，不能宣称所有渠道都禁止无演示接洽。",
+      "unknown": [
+        "经营者是否允许概念期接洽"
+      ]
+    },
+    {
+      "caseId": "office-agent",
+      "investigate": [
+        "上海广宣",
+        "成方策"
+      ],
+      "reason": "前者有软件代理与技术服务依据，后者有IT管理服务依据；更值得核实软件授权和实施业务适配。",
+      "unknown": [
+        "AI软件准入",
+        "实施责任",
+        "具体采购权"
+      ],
+      "sources": [
+        "https://www.gx-soft.com/jianjie/",
+        "https://www.solutionkeys.com/aboutus/"
+      ],
+      "deprioritize": [
+        {
+          "name": "英迈中国",
+          "reason": "已读厂商目录能说明组合，但不足以证明该Agent的软件代理或部署通路；不能由办公分类直接确定优先级。"
+        }
+      ]
+    },
+    {
+      "caseId": "office-service-withdrawn",
+      "decision": "先明确持续服务责任；旧判断应转为暂缓投入，不把技术服务宣传当作渠道愿意替品牌承担支持。"
+    },
+    {
+      "caseId": "wearable-clinical-only",
+      "decision": "三夫户外不是当前证据支持的优先对象；另查医疗机构采购与实施主体。",
+      "reason": "公开经营场景为户外消费与相关活动；假设产品用途限定医疗机构流程。",
+      "source": "https://sanfo.com/about/general.asp",
+      "unknown": [
+        "该设备使用限制",
+        "医疗采购路线",
+        "三夫是否另有相关业务，当前无证据"
+      ]
+    }
+  ]
+}
