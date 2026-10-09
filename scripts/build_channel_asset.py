@@ -63,7 +63,11 @@ if details_path.exists():
   matches=[p for p in profiles if p['displayName']==review['displayName']]
   if len(matches)!=1:raise ValueError('Reviewed identity must match exactly once: '+review['displayName'])
   profile=matches[0]
-  for field,value in review['fields'].items():profile[field]=value
+  for field,value in review['fields'].items():
+   profile[field]=value
+   profile.setdefault('fieldEvidence',{})[field]={'sources':review.get('fieldSources',{}).get(field,[review['source']]),'observed':review['observed'],'basis':review['basis'],'claimScope':'public_self_description_not_verified_cooperation_condition'}
+  profile['unknownOperatingConditions']=review.get('unknown',[])
+  profile['researchInterpretation']=review['implication']
   profile.setdefault('reviewedDetails',[]).append(review)
   for url in [review['source']]+review.get('additionalSources',[]):
    if url not in profile['sourceLinks']:profile['sourceLinks'].append(url)

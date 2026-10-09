@@ -719,6 +719,38 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://sanfo.com/about/general.asp"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "buyerScenarios": {
+          "sources": [
+            "https://sanfo.com/about/general.asp"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://sanfo.com/about/general.asp"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "新品采购接口",
+        "电子设备选品政策",
+        "试销与服务条款"
+      ],
+      "researchInterpretation": "专业零售、品牌运营和活动场景并存；应先明确合作业务单元，不能把同一公司拆成多个独立采购主体。",
       "reviewedDetails": [
         {
           "displayName": "三夫户外",
@@ -843,6 +875,30 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.qisehua.cn/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "buyerScenarios": {
+          "sources": [
+            "https://www.qisehua.cn/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "采购决策与销售模式",
+        "AI产品准入",
+        "培训交付责任"
+      ],
+      "researchInterpretation": "教育通路的关联要落在教学用途和资源体系，不能只因产品面向儿童就认定匹配。",
       "reviewedDetails": [
         {
           "displayName": "七色花",
@@ -1282,6 +1338,46 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.huasenwei.com/mine.html"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "buyerScenarios": {
+          "sources": [
+            "https://www.huasenwei.com/mine.html"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://www.huasenwei.com/mine.html"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "afterSalesRequirements": {
+          "sources": [
+            "https://www.huasenwei.com/mine.html"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "新品牌采购准入",
+        "项目集成限制",
+        "实际采购主体"
+      ],
+      "researchInterpretation": "园所渠道包含项目交付，不等同于儿童消费品零售；产品需要证明园所用途。",
       "reviewedDetails": [
         {
           "displayName": "华森葳",
@@ -2585,6 +2681,22 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://cn.ingrammicro.com.cn/site/vendor/index"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "新厂商准入",
+        "产品所属业务线",
+        "商业与技术支持条件"
+      ],
+      "researchInterpretation": "目录能证明现有产品组合，不能证明愿意引入任意新品；目录条目和商品数不等于渠道规模。",
       "reviewedDetails": [
         {
           "displayName": "英迈中国",
@@ -3130,6 +3242,39 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.sentimenthifi.com/business.html"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://www.sentimenthifi.com/business.html"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://www.sentimenthifi.com/business.html"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "新品牌代理准入条件",
+        "现有品牌限制",
+        "采购承诺",
+        "具体培训和售后责任"
+      ],
+      "researchInterpretation": "成熟同行已经结合知识、网络和培训；这些能力本身不足以证明联野独有的AI差异。",
       "reviewedDetails": [
         {
           "displayName": "圣谛影音智能",
@@ -4932,6 +5077,23 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "candidate_not_in_website",
+      "fieldEvidence": {
+        "entryPoints": {
+          "sources": [
+            "https://www.scyysj.com/supply_hz.html"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "选品准入标准",
+        "AI产品承接意愿",
+        "采购及结算主体",
+        "账期与退换政策"
+      ],
+      "researchInterpretation": "可研究亲子产品供应链准入；不能依据入口直接推荐产品入驻。",
       "reviewedDetails": [
         {
           "displayName": "孕婴世界",
@@ -4997,6 +5159,46 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "candidate_not_in_website",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.starintegr.com/about-us"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "buyerScenarios": {
+          "sources": [
+            "https://www.starintegr.com/about-us"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://www.starintegr.com/about-us"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://www.starintegr.com/about-us"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "第三方新品集成条件",
+        "协议兼容与售后责任",
+        "采购权与商务条款"
+      ],
+      "researchInterpretation": "家居新品需要进入空间方案与交付体系；不是所有独立设备都值得进入集成项目。",
       "reviewedDetails": [
         {
           "displayName": "星光智能",
@@ -5068,6 +5270,39 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "candidate_not_in_website",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.leiyinaudio.com/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "buyerScenarios": {
+          "sources": [
+            "https://www.leiyinaudio.com/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://www.leiyinaudio.com/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "新品品牌准入",
+        "AI音频产品适配",
+        "地区与授权范围",
+        "售后政策"
+      ],
+      "researchInterpretation": "有分销与新品试听活动依据；不能从音频推断所有创作设备或AI产品适配。",
       "reviewedDetails": [
         {
           "displayName": "雷音音频（深圳）有限公司",
@@ -5139,6 +5374,39 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "candidate_not_in_website",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.solutionkeys.com/aboutus/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "buyerScenarios": {
+          "sources": [
+            "https://www.solutionkeys.com/en/home/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://www.solutionkeys.com/en/home/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "法律主体",
+        "具体软件品牌准入",
+        "项目采购权",
+        "AI软件部署能力"
+      ],
+      "researchInterpretation": "跨教育与企业IT服务，后台应跨方向检索；仍需核实具体软件采购与实施权限。",
       "reviewedDetails": [
         {
           "displayName": "成方策",
@@ -5167,7 +5435,18 @@
           "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
           "additionalSources": [
             "https://www.solutionkeys.com/en/home/"
-          ]
+          ],
+          "fieldSources": {
+            "buyerScenarios": [
+              "https://www.solutionkeys.com/en/home/"
+            ],
+            "deliveryRequirements": [
+              "https://www.solutionkeys.com/en/home/"
+            ],
+            "productScope": [
+              "https://www.solutionkeys.com/aboutus/"
+            ]
+          }
         }
       ]
     },
@@ -5214,6 +5493,46 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "candidate_not_in_website",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.gx-soft.com/jianjie/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "buyerScenarios": {
+          "sources": [
+            "https://www.gx-soft.com/jianjie/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://www.gx-soft.com/jianjie/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://www.gx-soft.com/jianjie/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "AI软件代理意愿",
+        "授权形式与合同主体",
+        "部署和持续服务范围"
+      ],
+      "researchInterpretation": "软件渠道已有代理与技术服务业务；新品需要明确授权、交付及服务边界。",
       "reviewedDetails": [
         {
           "displayName": "上海广宣",

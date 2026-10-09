@@ -31,6 +31,22 @@
               "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
             }
           ],
+          "fieldEvidence": {
+            "entryPoints": {
+              "sources": [
+                "https://www.scyysj.com/supply_hz.html"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            }
+          },
+          "unknownOperatingConditions": [
+            "选品准入标准",
+            "AI产品承接意愿",
+            "采购及结算主体",
+            "账期与退换政策"
+          ],
           "recallBasis": "editorial_direction",
           "priorityEstablished": false,
           "fitConditions": {},
@@ -81,6 +97,21 @@
               "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
             }
           ],
+          "fieldEvidence": {
+            "productScope": {
+              "sources": [
+                "https://cn.ingrammicro.com.cn/site/vendor/index"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            }
+          },
+          "unknownOperatingConditions": [
+            "新厂商准入",
+            "产品所属业务线",
+            "商业与技术支持条件"
+          ],
           "recallBasis": "editorial_direction",
           "priorityEstablished": false,
           "fitConditions": {},
@@ -123,8 +154,51 @@
               "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
               "additionalSources": [
                 "https://www.solutionkeys.com/en/home/"
-              ]
+              ],
+              "fieldSources": {
+                "buyerScenarios": [
+                  "https://www.solutionkeys.com/en/home/"
+                ],
+                "deliveryRequirements": [
+                  "https://www.solutionkeys.com/en/home/"
+                ],
+                "productScope": [
+                  "https://www.solutionkeys.com/aboutus/"
+                ]
+              }
             }
+          ],
+          "fieldEvidence": {
+            "productScope": {
+              "sources": [
+                "https://www.solutionkeys.com/aboutus/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "buyerScenarios": {
+              "sources": [
+                "https://www.solutionkeys.com/en/home/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "deliveryRequirements": {
+              "sources": [
+                "https://www.solutionkeys.com/en/home/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            }
+          },
+          "unknownOperatingConditions": [
+            "法律主体",
+            "具体软件品牌准入",
+            "项目采购权",
+            "AI软件部署能力"
           ],
           "recallBasis": "explicit_scope_keyword",
           "priorityEstablished": false,
@@ -168,6 +242,45 @@
               "basis": "operator_self_disclosure",
               "inferenceBoundary": "推断不代表采购意愿或合作关系"
             }
+          ],
+          "fieldEvidence": {
+            "productScope": {
+              "sources": [
+                "https://www.gx-soft.com/jianjie/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "buyerScenarios": {
+              "sources": [
+                "https://www.gx-soft.com/jianjie/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "entryPoints": {
+              "sources": [
+                "https://www.gx-soft.com/jianjie/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "deliveryRequirements": {
+              "sources": [
+                "https://www.gx-soft.com/jianjie/"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            }
+          },
+          "unknownOperatingConditions": [
+            "AI软件代理意愿",
+            "授权形式与合同主体",
+            "部署和持续服务范围"
           ],
           "recallBasis": "explicit_scope_keyword",
           "priorityEstablished": false,
@@ -225,6 +338,37 @@
               "basis": "operator_self_disclosure",
               "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
             }
+          ],
+          "fieldEvidence": {
+            "productScope": {
+              "sources": [
+                "https://sanfo.com/about/general.asp"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "buyerScenarios": {
+              "sources": [
+                "https://sanfo.com/about/general.asp"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "entryPoints": {
+              "sources": [
+                "https://sanfo.com/about/general.asp"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            }
+          },
+          "unknownOperatingConditions": [
+            "新品采购接口",
+            "电子设备选品政策",
+            "试销与服务条款"
           ],
           "recallBasis": "editorial_direction",
           "priorityEstablished": false,

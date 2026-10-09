@@ -71,7 +71,18 @@
       "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
       "additionalSources": [
         "https://www.solutionkeys.com/en/home/"
-      ]
+      ],
+      "fieldSources": {
+        "buyerScenarios": [
+          "https://www.solutionkeys.com/en/home/"
+        ],
+        "deliveryRequirements": [
+          "https://www.solutionkeys.com/en/home/"
+        ],
+        "productScope": [
+          "https://www.solutionkeys.com/aboutus/"
+        ]
+      }
     },
     {
       "displayName": "七色花",
