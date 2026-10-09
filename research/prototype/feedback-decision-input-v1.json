@@ -1,0 +1,100 @@
+{
+  "label": "全部为假设材料，不代表真实渠道、项目或成交",
+  "task": "依据给定材料判断下一步。逐条区分事实、适用范围与未知；不得把局部反馈推广到全网。",
+  "output_fields": [
+    "caseId",
+    "observations: feedbackId,evidence,scope(local/shared/unknown),status",
+    "nextActions:action,basis,needsHumanConfirmation",
+    "unknowns",
+    "claimsNotSupported"
+  ],
+  "cases": [
+    {
+      "id": "mixed_feedback",
+      "product": {
+        "type": "AI桌面陪伴设备",
+        "saleable_batch": "10月25日起可供货",
+        "demo": "有样机",
+        "support": "品牌提供售后"
+      },
+      "feedback": [
+        {
+          "id": "a",
+          "role": "区域零售",
+          "text": "本店没有体验桌，本月不引入需要演示的商品。"
+        },
+        {
+          "id": "b",
+          "role": "亲子集合零售",
+          "text": "可以评估，先补儿童隐私说明和售后流程；没有承诺采购。"
+        },
+        {
+          "id": "c",
+          "role": "内容运营商",
+          "text": "样机可拍摄，但10月20日活动要求现货，不接受预售。"
+        },
+        {
+          "id": "d",
+          "role": "区域零售",
+          "text": "尚未回复。"
+        }
+      ]
+    },
+    {
+      "id": "shared_constraint",
+      "product": {
+        "type": "AI会议订阅软件",
+        "license": "个人版，企业转售和部署权限未说明",
+        "service": "支持内容未明确"
+      },
+      "feedback": [
+        {
+          "id": "a",
+          "role": "软件代理",
+          "text": "需确认企业转售授权。"
+        },
+        {
+          "id": "b",
+          "role": "IT集成商",
+          "text": "需要企业授权文件以及部署服务范围。"
+        },
+        {
+          "id": "c",
+          "role": "办公零售",
+          "text": "只看演示不能确定，有无企业采购许可？"
+        }
+      ]
+    },
+    {
+      "id": "changed_condition",
+      "product": {
+        "type": "AI会议订阅软件",
+        "version": "v2",
+        "license": "企业转售许可已提供",
+        "service": "部署另行付费，支持范围未说明"
+      },
+      "previous_product": {
+        "version": "v1",
+        "license": "企业转售权限未说明",
+        "service": "部署与支持均未说明"
+      },
+      "feedback": [
+        {
+          "id": "a",
+          "role": "软件代理",
+          "text": "v1时要求补企业转售授权，没有拒绝。"
+        },
+        {
+          "id": "b",
+          "role": "IT集成商",
+          "text": "v1时要求授权文件和部署服务范围。"
+        },
+        {
+          "id": "c",
+          "role": "办公零售",
+          "text": "尚未收到v2材料。"
+        }
+      ]
+    }
+  ]
+}

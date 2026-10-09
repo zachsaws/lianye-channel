@@ -1,0 +1,9 @@
+{
+  "inputSha256": "d6b7fc0a540b13525e8b6d0f0be87c3f7b09b2954c55e97f1ffbd7ce47d8d200",
+  "hypothetical": true,
+  "evaluation": "independent_output_reviewed_with_failures",
+  "noSalesClaims": true,
+  "caseAndFeedbackIdsMatch": true,
+  "reader": "isolated subagent; input only",
+  "findings": "feedback-decision-findings-v1.md"
+}
