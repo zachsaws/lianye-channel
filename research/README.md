@@ -27,7 +27,7 @@
 
 ## 判断原型与当前结论
 
-[原型说明](prototype/README.md) · [规则基线](prototype/baseline-results.json) · [探索性AI审查](prototype/exploratory-review.md) · [合作交付v2](current/cooperation-deliverables-v2.md) · [经营字段深度审查](current/depth-audit.json)。当前仅有部分主体完成逐字段复核；探索性AI分析受到历史上下文影响，不是独立效果对照。
+[原型说明](prototype/README.md) · [规则基线](prototype/baseline-results.json) · [探索性AI审查](prototype/exploratory-review.md) · [合作交付v2](current/cooperation-deliverables-v2.md) · [经营字段深度审查](current/depth-audit.json)。当前仅有部分主体完成逐字段复核。早期探索性分析受到历史上下文影响；后续已完成五次隔离研究运行，仍没有等成本或真实业务效果证明，详见原型说明。
 
 [当前阶段判断](current/interim-decision.md)汇总已支持结论、官网表达候选和未完成验证，作为后续决策入口。
 
@@ -38,3 +38,12 @@
 [决策与剩余证据](current/decision-review.md)连接渠道、业务、AI原型与本地预览，明确各阶段未完成内容。原公开官网未被本轮预览替换。
 
 [完整工作独立测试](prototype/full-work-findings-v1.md)与[一页交付样稿](../generated-md/新品渠道开拓_一页交付样稿.md)是最新表达研究；不将被否定的反馈到行动预览当作现行方向。
+
+## 最新收敛与反例
+
+- [当前阶段状态](current/stage-status.json)：核心方向尚未获认可，目标仍进行中。
+- [AI合作产品对照](current/ai-partnership-products-review.md)：具体工作、系统权限与真实网络依赖。
+- [成熟分销反例及交付检验](current/distribution-counterexample-and-delivery-test.md)：不能把AI建议和自动化当独有差异。
+- [三类合作提案样稿](../generated-md/会议Agent_三类渠道合作提案样稿.md)：实际草稿与版本修订；产品准备不足限制了成果。
+- [内容电商角色边界](current/content-commerce-boundary-review.md)：购买运营服务不等于渠道采购商品。
+- [权限规则原型](prototype/proposal-permissions-findings-v1.md)：可运行、确定性规则，非AI效果实验。
