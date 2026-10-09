@@ -1,0 +1,83 @@
+{
+  "scope": "hypothetical_nonstandard_material_extraction_not_actual_cooperation",
+  "cases": [
+    {
+      "id": "software-service-conflict",
+      "materials": [
+        {
+          "id": "product-sheet-v1",
+          "text": "订阅包含部署与持续技术支持。"
+        },
+        {
+          "id": "policy-v2",
+          "text": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+        }
+      ],
+      "expectedReview": {
+        "changes": [
+          "部署不再包含",
+          "持续技术支持需单独报价"
+        ],
+        "unknown": [
+          "渠道是否能自行部署",
+          "原接洽是否基于旧订阅条款"
+        ],
+        "forbiddenInferences": [
+          "渠道拒绝合作",
+          "软件产品不适合机构销售"
+        ]
+      }
+    },
+    {
+      "id": "hardware-fulfillment-conflict",
+      "materials": [
+        {
+          "id": "launch-plan-v1",
+          "text": "首批产品计划月底交付。"
+        },
+        {
+          "id": "supply-update-v2",
+          "text": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+        }
+      ],
+      "expectedReview": {
+        "changes": [
+          "月底仅有演示样机",
+          "可销售批次日期未知"
+        ],
+        "unknown": [
+          "是否适合先做体验合作",
+          "渠道是否接受预售或延期"
+        ],
+        "forbiddenInferences": [
+          "产品没有市场需求",
+          "所有渠道都应停止接洽"
+        ]
+      }
+    },
+    {
+      "id": "retail-evidence-insufficient",
+      "materials": [
+        {
+          "id": "channel-note",
+          "text": "该经营者官网列出儿童电子玩具。未公开新品供应商政策。"
+        },
+        {
+          "id": "product-note",
+          "text": "本产品用于成人办公会议记录，需企业账号及订阅。"
+        }
+      ],
+      "expectedReview": {
+        "changes": [],
+        "unknown": [
+          "是否具有企业软件采购与服务业务"
+        ],
+        "forbiddenInferences": [
+          "电子产品标签相同所以推荐优先接洽",
+          "确认该公司绝不销售办公产品"
+        ]
+      }
+    }
+  ],
+  "limits": "人工设定预期只检查材料直接支持的条件，不是专家匹配答案；这批输入与v3不同，不得与v3规则结果混合统计。"
+}
