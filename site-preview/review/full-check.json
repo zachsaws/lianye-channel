@@ -1,0 +1,86 @@
+{
+  "checkedAt": "2026-10-09T07:24:40.760Z",
+  "scope": "PC/mobile classification membership, search, reset, resources, reduced motion and contact href; not relevance judgement, mail delivery or animation-cycle QA",
+  "reports": [
+    {
+      "width": 1440,
+      "filters": [
+        {
+          "key": "companion",
+          "visible": 20,
+          "mismatch": []
+        },
+        {
+          "key": "learning",
+          "visible": 28,
+          "mismatch": []
+        },
+        {
+          "key": "wearable",
+          "visible": 19,
+          "mismatch": []
+        },
+        {
+          "key": "home",
+          "visible": 20,
+          "mismatch": []
+        },
+        {
+          "key": "office",
+          "visible": 25,
+          "mismatch": []
+        },
+        {
+          "key": "creative",
+          "visible": 21,
+          "mismatch": []
+        }
+      ],
+      "emptySearchVisibleChannels": 0,
+      "overflow": false,
+      "pageErrors": [],
+      "reducedMotion": "none",
+      "contactValid": true
+    },
+    {
+      "width": 390,
+      "filters": [
+        {
+          "key": "companion",
+          "visible": 20,
+          "mismatch": []
+        },
+        {
+          "key": "learning",
+          "visible": 28,
+          "mismatch": []
+        },
+        {
+          "key": "wearable",
+          "visible": 19,
+          "mismatch": []
+        },
+        {
+          "key": "home",
+          "visible": 20,
+          "mismatch": []
+        },
+        {
+          "key": "office",
+          "visible": 25,
+          "mismatch": []
+        },
+        {
+          "key": "creative",
+          "visible": 21,
+          "mismatch": []
+        }
+      ],
+      "emptySearchVisibleChannels": 0,
+      "overflow": false,
+      "pageErrors": [],
+      "reducedMotion": "none",
+      "contactValid": true
+    }
+  ]
+}
