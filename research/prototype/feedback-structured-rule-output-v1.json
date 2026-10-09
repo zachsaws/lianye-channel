@@ -1,0 +1,144 @@
+{
+  "scope": "rules_after_manual_structuring_not_equal_cost_comparison",
+  "structuredInputSha256": "2a4a42e366296e29a46ae53eaa7fdd0493e7443d840a7808d4996984a9467a8d",
+  "events": [
+    {
+      "caseId": "mixed_feedback",
+      "feedbackId": "a",
+      "sourceText": "本店没有体验桌，本月不引入需要演示的商品。",
+      "scope": "actor",
+      "humanNormalized": true,
+      "automaticOutreachAllowed": false,
+      "status": "local_constraint",
+      "nextAction": "verify_other_actors_or_later_conditions"
+    },
+    {
+      "caseId": "mixed_feedback",
+      "feedbackId": "b",
+      "sourceText": "可以评估，先补儿童隐私说明和售后流程；没有承诺采购。",
+      "scope": "actor",
+      "humanNormalized": true,
+      "automaticOutreachAllowed": false,
+      "status": "pending_requirements",
+      "nextAction": "confirm_and_prepare_required_documents",
+      "requirements": [
+        "child_privacy",
+        "after_sales_process"
+      ]
+    },
+    {
+      "caseId": "mixed_feedback",
+      "feedbackId": "c",
+      "sourceText": "样机可拍摄，但10月20日活动要求现货，不接受预售。",
+      "scope": "activity",
+      "humanNormalized": true,
+      "automaticOutreachAllowed": false,
+      "status": "deadline_conflict",
+      "nextAction": "reconsider_activity_date",
+      "demoSeparateFromSaleable": true
+    },
+    {
+      "caseId": "mixed_feedback",
+      "feedbackId": "d",
+      "sourceText": "尚未回复。",
+      "scope": "unknown",
+      "humanNormalized": true,
+      "automaticOutreachAllowed": false,
+      "status": "awaiting_reply",
+      "nextAction": "retain_unknown_opinion"
+    },
+    {
+      "caseId": "shared_constraint",
+      "feedbackId": "a",
+      "sourceText": "需确认企业转售授权。",
+      "scope": "actor",
+      "humanNormalized": true,
+      "automaticOutreachAllowed": false,
+      "status": "pending_requirements",
+      "nextAction": "confirm_and_prepare_required_documents",
+      "requirements": [
+        "enterprise_resale_permission"
+      ]
+    },
+    {
+      "caseId": "shared_constraint",
+      "feedbackId": "b",
+      "sourceText": "需要企业授权文件以及部署服务范围。",
+      "scope": "actor",
+      "humanNormalized": true,
+      "automaticOutreachAllowed": false,
+      "status": "pending_requirements",
+      "nextAction": "confirm_and_prepare_required_documents",
+      "requirements": [
+        "enterprise_authorization_unspecified",
+        "deployment_scope"
+      ]
+    },
+    {
+      "caseId": "shared_constraint",
+      "feedbackId": "c",
+      "sourceText": "只看演示不能确定，有无企业采购许可？",
+      "scope": "actor",
+      "humanNormalized": true,
+      "automaticOutreachAllowed": false,
+      "status": "pending_requirements",
+      "nextAction": "confirm_and_prepare_required_documents",
+      "requirements": [
+        "enterprise_purchase_permission"
+      ]
+    },
+    {
+      "caseId": "changed_condition",
+      "feedbackId": "a",
+      "sourceText": "v1时要求补企业转售授权，没有拒绝。",
+      "scope": "actor",
+      "humanNormalized": true,
+      "automaticOutreachAllowed": false,
+      "status": "documents_updated_not_accepted",
+      "nextAction": "request_actor_reassessment",
+      "providedDocuments": [
+        "enterprise_resale_permission"
+      ],
+      "acceptedDocuments": [],
+      "unresolved": [
+        "license_applicability"
+      ]
+    },
+    {
+      "caseId": "changed_condition",
+      "feedbackId": "b",
+      "sourceText": "v1时要求授权文件和部署服务范围。",
+      "scope": "actor",
+      "humanNormalized": true,
+      "automaticOutreachAllowed": false,
+      "status": "documents_updated_not_accepted",
+      "nextAction": "request_actor_reassessment",
+      "providedDocuments": [
+        "enterprise_resale_permission",
+        "deployment_separate_charge"
+      ],
+      "acceptedDocuments": [],
+      "unresolved": [
+        "license_applicability",
+        "deployment_scope",
+        "support_scope"
+      ]
+    },
+    {
+      "caseId": "changed_condition",
+      "feedbackId": "c",
+      "sourceText": "尚未收到v2材料。",
+      "scope": "actor",
+      "humanNormalized": true,
+      "automaticOutreachAllowed": false,
+      "status": "new_version_not_received",
+      "nextAction": "human_confirm_before_send"
+    }
+  ],
+  "limits": [
+    "人工结构化未计时",
+    "不解释原始语义",
+    "不合并采购许可与转售许可",
+    "不证明采购或业务效果"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+ "label":"假设案例的人工结构化事件；不是AI提取，人工投入未计时，不能与原文AI作等成本比较",
+ "rawInput":"feedback-decision-input-v1.json",
+ "events":[
+  {"caseId":"mixed_feedback","feedbackId":"a","kind":"local_constraint","scope":"actor","constraint":"no_demo_space","period":"本月"},
+  {"caseId":"mixed_feedback","feedbackId":"b","kind":"requirements","scope":"actor","requirements":["child_privacy","after_sales_process"]},
+  {"caseId":"mixed_feedback","feedbackId":"c","kind":"deadline","scope":"activity","requiresSaleableDate":"2026-10-20","availableSaleableDate":"2026-10-25","demoAllowed":true},
+  {"caseId":"mixed_feedback","feedbackId":"d","kind":"no_reply","scope":"unknown"},
+  {"caseId":"shared_constraint","feedbackId":"a","kind":"requirements","scope":"actor","requirements":["enterprise_resale_permission"]},
+  {"caseId":"shared_constraint","feedbackId":"b","kind":"requirements","scope":"actor","requirements":["enterprise_authorization_unspecified","deployment_scope"]},
+  {"caseId":"shared_constraint","feedbackId":"c","kind":"requirements","scope":"actor","requirements":["enterprise_purchase_permission"]},
+  {"caseId":"changed_condition","feedbackId":"a","kind":"version_update","scope":"actor","providedDocuments":["enterprise_resale_permission"],"acceptedDocuments":[],"unresolved":["license_applicability"]},
+  {"caseId":"changed_condition","feedbackId":"b","kind":"version_update","scope":"actor","providedDocuments":["enterprise_resale_permission","deployment_separate_charge"],"acceptedDocuments":[],"unresolved":["license_applicability","deployment_scope","support_scope"]},
+  {"caseId":"changed_condition","feedbackId":"c","kind":"not_received","scope":"actor","version":"v2"}
+ ]
+}
