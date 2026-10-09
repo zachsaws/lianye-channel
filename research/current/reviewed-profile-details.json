@@ -204,7 +204,16 @@
       "implication": "软件渠道已有代理与技术服务业务；新品需要明确授权、交付及服务边界。",
       "observed": "2026-10-09",
       "basis": "operator_self_disclosure",
-      "inferenceBoundary": "推断不代表采购意愿或合作关系"
+      "inferenceBoundary": "推断不代表采购意愿或合作关系",
+      "identityEvidence": "官方公司简介页页脚显示上海广宣信息技术有限公司；官网披露，不是工商登记核验。",
+      "identitySource": "https://www.gx-soft.com/jianjie/",
+      "identityObserved": "2026-10-09",
+      "sourceRefresh": {
+        "observed": "2026-10-09",
+        "access": "official_page_body",
+        "additionalFact": "官网自述扶持中小软件开发商及软件合规业务代理；不采纳销量领先等宣传效果。",
+        "unknown": "陌生Agent准入、实际合作条件及服务责任仍未知"
+      }
     },
     {
       "displayName": "星光智能",
