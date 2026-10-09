@@ -28,3 +28,5 @@
 ## 判断原型与当前结论
 
 [原型说明](prototype/README.md) · [规则基线](prototype/baseline-results.json) · [探索性AI审查](prototype/exploratory-review.md) · [合作交付v2](current/cooperation-deliverables-v2.md) · [经营字段深度审查](current/depth-audit.json)。当前仅有部分主体完成逐字段复核；探索性AI分析受到历史上下文影响，不是独立效果对照。
+
+[当前阶段判断](current/interim-decision.md)汇总已支持结论、官网表达候选和未完成验证，作为后续决策入口。
