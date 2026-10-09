@@ -1,0 +1,25 @@
+{
+  "observed": "2026-10-09",
+  "scope": "discovery_not_verified_operating_fields",
+  "records": [
+    {
+      "displayName": "凯知乐",
+      "source": "https://www.kidslandchina.com/h-col-117.html",
+      "indexedStatements": [
+        "企业介绍索引称品牌隶属于北京孩思乐商业有限公司",
+        "索引称经营全龄段玩具品牌，直营与分销、线上与线下组合"
+      ],
+      "identityBoundary": "官网索引的隶属关系不证明所有渠道交易由该法人签约；不合并集团旗下其他法人。",
+      "access": "web open timeout; ordinary public fetch SSL EOF",
+      "disposition": "existing actor; preserve indexed discovery, do not populate attributed operating fields until body verified",
+      "unknown": [
+        "品牌导入入口",
+        "AI陪伴新品选品条件",
+        "采购及结算主体",
+        "体验培训与售后责任"
+      ]
+    }
+  ],
+  "researchImplication": "品牌运营及分销与母婴采购是不同经营路线；凯知乐不是新增主体。已有成熟玩具运营商具备多渠道品牌经营，不能将全渠道布局作为联野独有差异。",
+  "limits": "索引摘要用于发现路线，不能代替完整原文复核；不采纳历史渠道数量。"
+}
