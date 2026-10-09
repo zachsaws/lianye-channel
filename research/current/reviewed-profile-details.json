@@ -240,7 +240,20 @@
       "implication": "家居新品需要进入空间方案与交付体系；不是所有独立设备都值得进入集成项目。",
       "observed": "2026-10-09",
       "basis": "operator_self_disclosure",
-      "inferenceBoundary": "研究判断不证明采购意愿或已合作"
+      "inferenceBoundary": "研究判断不证明采购意愿或已合作",
+      "identityEvidence": "官网版权署名星光智造家智能科技(苏州)有限公司；存在事业部和子公司，具体交易主体尚未确认。",
+      "identitySource": "https://www.starintegr.com/about-us",
+      "identityObserved": "2026-10-09",
+      "sourceRefresh": {
+        "observed": "2026-10-09",
+        "access": "official_page_body",
+        "notes": [
+          "正文列出设计、施工、监理和工程人员及项目服务体系",
+          "联系邮箱字段夹有模板地址，未采纳为有效商务入口",
+          "多个规模口径不同，不采用覆盖数量或能力数字"
+        ],
+        "boundary": "项目交付体系为经营者自述，不是新品集成或我方合作承诺"
+      }
     },
     {
       "displayName": "雷音音频（深圳）有限公司",

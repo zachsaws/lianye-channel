@@ -1,0 +1,17 @@
+{
+  "observed": "2026-10-09",
+  "records": [
+    {
+      "name": "欣源商贸",
+      "url": "https://www.szxysm.com.cn/",
+      "result": "official_body_fetch_timeout",
+      "decision": "retain pending verification; no promotion from index evidence"
+    },
+    {
+      "name": "星光智能",
+      "url": "https://www.starintegr.com/about-us",
+      "result": "body_read",
+      "decision": "refresh identity and delivery context; retain purchase/admission unknown"
+    }
+  ]
+}
