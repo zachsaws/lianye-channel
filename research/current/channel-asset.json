@@ -700,10 +700,16 @@
       ],
       "evidenceStatus": "historical_research_import_not_live_revalidation",
       "researchGaps": [],
-      "buyerScenarios": [],
-      "productScope": [],
+      "buyerScenarios": [
+        "滑雪、露营、跑步、徒步、登山、城市通勤"
+      ],
+      "productScope": [
+        "户外服装、鞋袜与装备"
+      ],
       "regions": [],
-      "entryPoints": [],
+      "entryPoints": [
+        "官网提供联系三夫入口；大客户集采是面向采购客户的服务，不能当作供应商准入"
+      ],
       "deliveryRequirements": [],
       "afterSalesRequirements": [],
       "priceBand": null,
@@ -712,7 +718,33 @@
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "existing_public_market_route"
+      "displayStatus": "existing_public_market_route",
+      "reviewedDetails": [
+        {
+          "displayName": "三夫户外",
+          "source": "https://sanfo.com/about/general.asp",
+          "fields": {
+            "productScope": [
+              "户外服装、鞋袜与装备"
+            ],
+            "buyerScenarios": [
+              "滑雪、露营、跑步、徒步、登山、城市通勤"
+            ],
+            "entryPoints": [
+              "官网提供联系三夫入口；大客户集采是面向采购客户的服务，不能当作供应商准入"
+            ]
+          },
+          "unknown": [
+            "新品采购接口",
+            "电子设备选品政策",
+            "试销与服务条款"
+          ],
+          "implication": "专业零售、品牌运营和活动场景并存；应先明确合作业务单元，不能把同一公司拆成多个独立采购主体。",
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
+        }
+      ]
     },
     {
       "id": "3436d8ce4f5a",
@@ -794,8 +826,12 @@
       ],
       "evidenceStatus": "historical_research_import_not_live_revalidation",
       "researchGaps": [],
-      "buyerScenarios": [],
-      "productScope": [],
+      "buyerScenarios": [
+        "学前教育资源与活动材料"
+      ],
+      "productScope": [
+        "幼教资源、科学与益智教玩具、运动及感统产品"
+      ],
       "regions": [],
       "entryPoints": [],
       "deliveryRequirements": [],
@@ -806,7 +842,30 @@
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "existing_public_market_route"
+      "displayStatus": "existing_public_market_route",
+      "reviewedDetails": [
+        {
+          "displayName": "七色花",
+          "source": "https://www.qisehua.cn/",
+          "fields": {
+            "productScope": [
+              "幼教资源、科学与益智教玩具、运动及感统产品"
+            ],
+            "buyerScenarios": [
+              "学前教育资源与活动材料"
+            ]
+          },
+          "unknown": [
+            "采购决策与销售模式",
+            "AI产品准入",
+            "培训交付责任"
+          ],
+          "implication": "教育通路的关联要落在教学用途和资源体系，不能只因产品面向儿童就认定匹配。",
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
+        }
+      ]
     },
     {
       "id": "17f045305e3d",
@@ -2475,7 +2534,9 @@
       "evidenceStatus": "historical_research_import_not_live_revalidation",
       "researchGaps": [],
       "buyerScenarios": [],
-      "productScope": [],
+      "productScope": [
+        "官网厂商目录列有电脑、办公通信、音频与相关技术品牌"
+      ],
       "regions": [],
       "entryPoints": [],
       "deliveryRequirements": [],
@@ -2486,7 +2547,27 @@
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "existing_public_market_route"
+      "displayStatus": "existing_public_market_route",
+      "reviewedDetails": [
+        {
+          "displayName": "英迈中国",
+          "source": "https://cn.ingrammicro.com.cn/site/vendor/index",
+          "fields": {
+            "productScope": [
+              "官网厂商目录列有电脑、办公通信、音频与相关技术品牌"
+            ]
+          },
+          "unknown": [
+            "新厂商准入",
+            "产品所属业务线",
+            "商业与技术支持条件"
+          ],
+          "implication": "目录能证明现有产品组合，不能证明愿意引入任意新品；目录条目和商品数不等于渠道规模。",
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
+        }
+      ]
     },
     {
       "id": "c0fc73796b71",

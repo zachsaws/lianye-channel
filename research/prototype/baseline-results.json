@@ -53,7 +53,38 @@
       "caseId": "office-agent",
       "decision": "verify_channel_conditions",
       "missingProductConditions": [],
-      "routesForFurtherResearch": [],
+      "routesForFurtherResearch": [
+        {
+          "name": "英迈中国",
+          "decision": "research_further_not_purchase_recommendation",
+          "basis": [
+            {
+              "displayName": "英迈中国",
+              "source": "https://cn.ingrammicro.com.cn/site/vendor/index",
+              "fields": {
+                "productScope": [
+                  "官网厂商目录列有电脑、办公通信、音频与相关技术品牌"
+                ]
+              },
+              "unknown": [
+                "新厂商准入",
+                "产品所属业务线",
+                "商业与技术支持条件"
+              ],
+              "implication": "目录能证明现有产品组合，不能证明愿意引入任意新品；目录条目和商品数不等于渠道规模。",
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
+            }
+          ],
+          "questions": [
+            "采购决策主体是谁？",
+            "是否接受该类新品？",
+            "商业及服务条件是什么？",
+            "谁负责部署、账号和持续支持？"
+          ]
+        }
+      ],
       "limits": "产品方向相同仅支持进一步核实；未验证采购意愿、匹配效果或销量。"
     },
     {
