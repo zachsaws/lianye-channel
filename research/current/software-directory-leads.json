@@ -20,27 +20,104 @@
       "legalName": "北京昆仑联通科技发展股份有限公司",
       "authorizedScope": "Adobe白金授权经销，目录授权区域全国，仅限该品牌依据",
       "existingDisplayAlias": null,
-      "disposition": "lead_pending_cross_directory_identity_and_operator_review",
+      "disposition": "operator_scope_partially_verified",
       "unknown": [
-        "其他软件品牌范围",
-        "Agent新品承接",
-        "新增供应商入口",
-        "许可及服务责任",
-        "渠道分佣与续费归属"
-      ]
+        "陌生Agent新品准入",
+        "供应商合作入口条件",
+        "具体产品转售及部署授权",
+        "服务责任及报价",
+        "分佣和续费归属"
+      ],
+      "displayName": "昆仑联通",
+      "buyerScenarios": [
+        "企业数字化办公及IT运营"
+      ],
+      "productScope": [
+        "办公、开发、图像与多媒体软件",
+        "云与IT运营服务"
+      ],
+      "regions": [
+        "官网公司简介列北京总部及上海、深圳、苏州、南京、常州、杭州分支，不代表任意产品销售权"
+      ],
+      "entryPoints": [
+        {
+          "type": "customer_consultation_not_supplier_admission",
+          "url": "https://www.comlan.com/about/about_us/company_profile/"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.comlan.com/about/about_us/company_profile/",
+          "access": "official search extraction; direct page timeout",
+          "fields": [
+            "legalName",
+            "buyerScenarios",
+            "regions"
+          ]
+        },
+        {
+          "url": "https://www.comlan.com/product/",
+          "access": "official search extraction",
+          "fields": [
+            "productScope"
+          ]
+        }
+      ],
+      "dispatchable": false,
+      "relationship": "not_established"
     },
     {
       "legalName": "北京信诺时代科技发展有限公司",
       "authorizedScope": "Adobe白金授权经销，目录授权区域全国，仅限该品牌依据",
       "existingDisplayAlias": null,
-      "disposition": "lead_pending_cross_directory_identity_and_operator_review",
+      "disposition": "operator_scope_partially_verified",
       "unknown": [
-        "其他软件品牌范围",
-        "Agent新品承接",
-        "新增供应商入口",
-        "许可及服务责任",
-        "渠道分佣与续费归属"
-      ]
+        "陌生Agent新品准入",
+        "供应商合作入口条件",
+        "具体产品许可及服务责任",
+        "分佣和续费归属",
+        "异名股份公司与当前有限公司沿革未审查"
+      ],
+      "displayName": "信诺时代",
+      "buyerScenarios": [
+        "企业客户的云、办公及IT运营"
+      ],
+      "productScope": [
+        "现代化办公",
+        "云管理及企业技术服务",
+        "AI应用场景与开发服务"
+      ],
+      "deliveryRequirements": [
+        "官网披露评估规划、迁移部署、支持等服务类型；具体新品项目要求未知"
+      ],
+      "entryPoints": [
+        {
+          "type": "customer_requirements_form_not_supplier_admission",
+          "url": "https://sinoage.inesa.com/portal/index/index.htm"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://sinoage.inesa.com/portal/index/index.htm",
+          "access": "official full page",
+          "fields": [
+            "legalName",
+            "buyerScenarios",
+            "productScope",
+            "deliveryRequirements",
+            "entryPoints"
+          ]
+        },
+        {
+          "url": "https://sinoage.inesa.com/bjxnsd_aiser/List/index.htm",
+          "access": "official page and search extraction",
+          "fields": [
+            "productScope"
+          ]
+        }
+      ],
+      "dispatchable": false,
+      "relationship": "not_established"
     },
     {
       "legalName": "深圳市立诺软件有限公司",
