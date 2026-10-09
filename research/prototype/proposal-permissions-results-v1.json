@@ -137,6 +137,66 @@
       ],
       "id": "all_scope_mismatch",
       "expected_claims_match": true
+    },
+    {
+      "blocked_claims": [
+        "permission_not_effective_on_proposal_date"
+      ],
+      "evidence_used": [
+        "hypothetical:signed-grant-v2",
+        "hypothetical:acceptance-v2",
+        "hypothetical:support-v2"
+      ],
+      "state": "claims_blocked",
+      "external_use_approved": false,
+      "limitations": [
+        "does_not_verify_document_authenticity",
+        "does_not_determine_channel_interest",
+        "does_not_check_all_commercial_terms",
+        "human_review_required"
+      ],
+      "id": "before_effective",
+      "expected_claims_match": true
+    },
+    {
+      "blocked_claims": [
+        "permission_not_effective_on_proposal_date"
+      ],
+      "evidence_used": [
+        "hypothetical:signed-grant-v2",
+        "hypothetical:acceptance-v2",
+        "hypothetical:support-v2"
+      ],
+      "state": "claims_blocked",
+      "external_use_approved": false,
+      "limitations": [
+        "does_not_verify_document_authenticity",
+        "does_not_determine_channel_interest",
+        "does_not_check_all_commercial_terms",
+        "human_review_required"
+      ],
+      "id": "after_expiry",
+      "expected_claims_match": true
+    },
+    {
+      "blocked_claims": [
+        "permission_date_unconfirmed"
+      ],
+      "evidence_used": [
+        "hypothetical:signed-grant-v2",
+        "hypothetical:acceptance-v2",
+        "hypothetical:support-v2"
+      ],
+      "state": "claims_blocked",
+      "external_use_approved": false,
+      "limitations": [
+        "does_not_verify_document_authenticity",
+        "does_not_determine_channel_interest",
+        "does_not_check_all_commercial_terms",
+        "human_review_required"
+      ],
+      "id": "date_missing",
+      "expected_claims_match": true
     }
   ],
   "all_fixture_expectations_met": true

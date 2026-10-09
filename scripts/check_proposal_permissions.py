@@ -13,6 +13,12 @@ def review(product, proposal):
             issues.append('resale_permission_unconfirmed')
         else:
             evidence_used.append(grant['evidence'])
+            as_of = proposal.get('as_of')
+            if grant.get('effective_from') or grant.get('effective_until'):
+                if not as_of:
+                    issues.append('permission_date_unconfirmed')
+                elif (grant.get('effective_from') and as_of < grant['effective_from']) or (grant.get('effective_until') and as_of > grant['effective_until']):
+                    issues.append('permission_not_effective_on_proposal_date')
             for dimension in ('product_version', 'region', 'customer_type'):
                 if proposal[dimension] not in grant.get(dimension, []):
                     issues.append('resale_scope_mismatch:' + dimension)

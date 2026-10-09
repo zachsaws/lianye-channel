@@ -37,7 +37,9 @@
         ],
         "customer_type": [
           "enterprise"
-        ]
+        ],
+        "effective_from": "2026-10-08",
+        "effective_until": "2026-12-31"
       },
       "local_delivery": {
         "status": "production_confirmed",
@@ -93,7 +95,8 @@
         "product_version": "local-v2",
         "region": "Shanghai",
         "customer_type": "enterprise",
-        "promises_support": true
+        "promises_support": true,
+        "as_of": "2026-10-09"
       },
       "expected_blocked": []
     },
@@ -106,7 +109,8 @@
         "product_version": "local-v2",
         "region": "Beijing",
         "customer_type": "enterprise",
-        "promises_support": true
+        "promises_support": true,
+        "as_of": "2026-10-09"
       },
       "expected_blocked": [
         "resale_scope_mismatch:region"
@@ -121,7 +125,8 @@
         "product_version": "local-v2",
         "region": "Shanghai",
         "customer_type": "school",
-        "promises_support": true
+        "promises_support": true,
+        "as_of": "2026-10-09"
       },
       "expected_blocked": [
         "resale_scope_mismatch:customer_type"
@@ -136,7 +141,8 @@
         "product_version": "cloud-v1",
         "region": "Shanghai",
         "customer_type": "enterprise",
-        "promises_support": true
+        "promises_support": true,
+        "as_of": "2026-10-09"
       },
       "expected_blocked": [
         "resale_scope_mismatch:product_version"
@@ -151,12 +157,60 @@
         "product_version": "cloud-v1",
         "region": "Beijing",
         "customer_type": "school",
-        "promises_support": true
+        "promises_support": true,
+        "as_of": "2026-10-09"
       },
       "expected_blocked": [
         "resale_scope_mismatch:region",
         "resale_scope_mismatch:customer_type",
         "resale_scope_mismatch:product_version"
+      ]
+    },
+    {
+      "id": "before_effective",
+      "version": "v2",
+      "proposal": {
+        "mode": "resale",
+        "deployment": "production_local",
+        "product_version": "local-v2",
+        "region": "Shanghai",
+        "customer_type": "enterprise",
+        "promises_support": true,
+        "as_of": "2026-10-07"
+      },
+      "expected_blocked": [
+        "permission_not_effective_on_proposal_date"
+      ]
+    },
+    {
+      "id": "after_expiry",
+      "version": "v2",
+      "proposal": {
+        "mode": "resale",
+        "deployment": "production_local",
+        "product_version": "local-v2",
+        "region": "Shanghai",
+        "customer_type": "enterprise",
+        "promises_support": true,
+        "as_of": "2027-01-01"
+      },
+      "expected_blocked": [
+        "permission_not_effective_on_proposal_date"
+      ]
+    },
+    {
+      "id": "date_missing",
+      "version": "v2",
+      "proposal": {
+        "mode": "resale",
+        "deployment": "production_local",
+        "product_version": "local-v2",
+        "region": "Shanghai",
+        "customer_type": "enterprise",
+        "promises_support": true
+      },
+      "expected_blocked": [
+        "permission_date_unconfirmed"
       ]
     }
   ]
