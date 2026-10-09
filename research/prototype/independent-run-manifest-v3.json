@@ -3,9 +3,13 @@
   "sha256": "dd4d3f0c8ce7d89eac95785c3f87c4ed443f0e59fd9b9ef88f86ba9d2c1939c4",
   "caseCount": 9,
   "channelEvidenceCount": 23,
-  "modelExecutionStatus": "dispatched_not_yet_received",
+  "modelExecutionStatus": "completed_raw_output_received",
   "authorizationStatus": "user_authorized_isolated_subagent",
   "previousPacket": "independent-input-v2.json preserved",
-  "comparisonStatus": "not_proven",
-  "executionBoundary": "Agent reads frozen v3 only; no baseline or historical conclusions supplied"
+  "comparisonStatus": "qualitative_review_no_effect_size",
+  "executionBoundary": "Agent reads frozen v3 only; no baseline or historical conclusions supplied",
+  "limitations": [
+    "changePairs expectedEffect visible to model",
+    "one run no expert ground truth"
+  ]
 }

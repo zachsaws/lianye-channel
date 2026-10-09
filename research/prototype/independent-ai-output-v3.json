@@ -1,0 +1,2565 @@
+{
+  "version": 3,
+  "inputFile": "/Users/tianxiang/Documents/Codex/2026-09-30/referenced-chatgpt-conversation-this-is-an/work/github-lianye-channel/research/prototype/independent-input-v3.json",
+  "inputSHA256": "dd4d3f0c8ce7d89eac95785c3f87c4ed443f0e59fd9b9ef88f86ba9d2c1939c4",
+  "aiExecutionActualDateUTC": "2026-10-09",
+  "aiExecutionTimestampUTC": "2026-10-09T06:52:09.294822+00:00",
+  "aiExecutionActualDateAsiaShanghai": "2026-10-09",
+  "method": "独立模型仅阅读本输入包；未阅读其他历史、基线、结论或运行规则基线，未浏览补证；fieldEvidence为包中元数据，providedText是包中摘录，均非本次原网站复核。",
+  "status": "模型研究输出，非专家评审，非真实经营效果。",
+  "limitations": [
+    "9个产品均为假设",
+    "同一公开证据快照，所有新品采购意愿、合作、销量未经确认",
+    "包中changePairs的expectedEffect已对模型可见，所以版本变化结论并非对该提示盲测",
+    "没有可用于量化准确率、成交效果或专家一致性的真实经营结果",
+    "路线顺序是有限证据的研究优先级，不是采购概率排序"
+  ],
+  "cases": [
+    {
+      "caseId": "companion-ready",
+      "decision": "investigate_entry_and_fit",
+      "routes": [
+        {
+          "displayName": "孕婴世界",
+          "status": "first_verify",
+          "reason": "公开供应链资料提交路径使其适合先核实准入，包中没有亲子设备实际选品证据。",
+          "evidence": [
+            {
+              "displayName": "孕婴世界",
+              "field": "entryPoints",
+              "providedText": [
+                "供应链合作页面提供产品资料发送入口；这是提交路径，不是采购承诺"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.scyysj.com/supply_hz.html"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "选品准入标准",
+            "AI产品承接意愿",
+            "采购及结算主体",
+            "账期与退换政策"
+          ],
+          "nextQuestion": "是否接受亲子AI硬件资料，需哪些演示与准入材料，谁负责采购结算？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "九机",
+          "status": "first_verify",
+          "reason": "数码商品与品牌申请入口构成第二条可核实路径，亲子用途是否进入其选品范围仍未知。",
+          "evidence": [
+            {
+              "displayName": "九机",
+              "field": "productScope",
+              "providedText": [
+                "3C通讯、数码配件、笔记本及新奇特商品"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.9ji.com/doc/15/74"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "九机",
+              "field": "entryPoints",
+              "providedText": [
+                "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.9ji.com/doc/15/74",
+                  "https://www.9ji.com/doc/15/41"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "九机",
+              "field": "buyerScenarios",
+              "providedText": [
+                "线上商城及线下数码消费"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.9ji.com/doc/15/74"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "新品审核材料",
+            "采购与结算主体",
+            "试销政策",
+            "具体售后分工"
+          ],
+          "nextQuestion": "亲子陪伴硬件是否在新品范围内，试销和售后审核要求是什么？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        }
+      ],
+      "evidence": [
+        {
+          "displayName": "孕婴世界",
+          "field": "entryPoints",
+          "providedText": [
+            "供应链合作页面提供产品资料发送入口；这是提交路径，不是采购承诺"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.scyysj.com/supply_hz.html"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "九机",
+          "field": "productScope",
+          "providedText": [
+            "3C通讯、数码配件、笔记本及新奇特商品"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.9ji.com/doc/15/74"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "九机",
+          "field": "entryPoints",
+          "providedText": [
+            "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.9ji.com/doc/15/74",
+              "https://www.9ji.com/doc/15/41"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "九机",
+          "field": "buyerScenarios",
+          "providedText": [
+            "线上商城及线下数码消费"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.9ji.com/doc/15/74"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        }
+      ],
+      "unknown": [
+        "目标年龄、价格、产品安全与数据处理说明",
+        "商业条款及渠道准入仍未知"
+      ],
+      "questions": [
+        "准备演示、供货售后分工及成本资料；先验证对方品类和提交资格。"
+      ],
+      "unsupportedClaimsAvoided": [
+        "不将资料入口写成采购承诺",
+        "不因companion标签认定母婴渠道已适配"
+      ],
+      "deferReason": "",
+      "hypothetical": true
+    },
+    {
+      "caseId": "companion-no-demo",
+      "decision": "pause_product_preparation",
+      "routes": [
+        {
+          "displayName": "孕婴世界",
+          "status": "entry_research_only",
+          "reason": "公开供应链资料提交路径使其适合先核实准入，包中没有亲子设备实际选品证据。",
+          "evidence": [
+            {
+              "displayName": "孕婴世界",
+              "field": "entryPoints",
+              "providedText": [
+                "供应链合作页面提供产品资料发送入口；这是提交路径，不是采购承诺"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.scyysj.com/supply_hz.html"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "选品准入标准",
+            "AI产品承接意愿",
+            "采购及结算主体",
+            "账期与退换政策"
+          ],
+          "nextQuestion": "是否接受亲子AI硬件资料，需哪些演示与准入材料，谁负责采购结算？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "九机",
+          "status": "entry_research_only",
+          "reason": "数码商品与品牌申请入口构成第二条可核实路径，亲子用途是否进入其选品范围仍未知。",
+          "evidence": [
+            {
+              "displayName": "九机",
+              "field": "productScope",
+              "providedText": [
+                "3C通讯、数码配件、笔记本及新奇特商品"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.9ji.com/doc/15/74"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "九机",
+              "field": "entryPoints",
+              "providedText": [
+                "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.9ji.com/doc/15/74",
+                  "https://www.9ji.com/doc/15/41"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "九机",
+              "field": "buyerScenarios",
+              "providedText": [
+                "线上商城及线下数码消费"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.9ji.com/doc/15/74"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "新品审核材料",
+            "采购与结算主体",
+            "试销政策",
+            "具体售后分工"
+          ],
+          "nextQuestion": "亲子陪伴硬件是否在新品范围内，试销和售后审核要求是什么？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        }
+      ],
+      "evidence": [
+        {
+          "displayName": "孕婴世界",
+          "field": "entryPoints",
+          "providedText": [
+            "供应链合作页面提供产品资料发送入口；这是提交路径，不是采购承诺"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.scyysj.com/supply_hz.html"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "九机",
+          "field": "productScope",
+          "providedText": [
+            "3C通讯、数码配件、笔记本及新奇特商品"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.9ji.com/doc/15/74"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "九机",
+          "field": "entryPoints",
+          "providedText": [
+            "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.9ji.com/doc/15/74",
+              "https://www.9ji.com/doc/15/41"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "九机",
+          "field": "buyerScenarios",
+          "providedText": [
+            "线上商城及线下数码消费"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.9ji.com/doc/15/74"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        }
+      ],
+      "unknown": [
+        "演示缺失，无法核实体验与功能",
+        "与ready版本相同的准入、条款未知"
+      ],
+      "questions": [
+        "品牌何时能提供可运行演示和功能边界？",
+        "可低成本核实资料要求，演示补齐前不投入试销准备。"
+      ],
+      "unsupportedClaimsAvoided": [
+        "未称渠道拒绝",
+        "未保留已有演示时的项目推进结论"
+      ],
+      "deferReason": "先补演示；仅保留入口研究，不准备试销。",
+      "hypothetical": true,
+      "changedDecision": {
+        "before": "companion-ready",
+        "change": "从核实准入及产品适配收缩为入口研究；暂停依赖演示的项目投入",
+        "cause": "demoReady从true变为false"
+      }
+    },
+    {
+      "caseId": "office-agent",
+      "decision": "investigate_software_and_implementation_fit",
+      "routes": [
+        {
+          "displayName": "上海广宣",
+          "status": "first_verify",
+          "reason": "办公软件发行与技术服务关联最直接；账号部署、Agent实施和持续支持尚未证明。",
+          "evidence": [
+            {
+              "displayName": "上海广宣",
+              "field": "productScope",
+              "providedText": [
+                "办公、开发设计、工业应用等软件"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "上海广宣",
+              "field": "buyerScenarios",
+              "providedText": [
+                "企业软件购买与正版化"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "上海广宣",
+              "field": "deliveryRequirements",
+              "providedText": [
+                "官网介绍正版软件发行与技术服务，具体产品实施责任未知"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "上海广宣",
+              "field": "entryPoints",
+              "providedText": [
+                "官网联系及留言入口；未核实为供应商准入"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "AI软件代理意愿",
+            "授权形式与合同主体",
+            "部署和持续服务范围"
+          ],
+          "nextQuestion": "是否承接办公Agent订阅或授权，部署账号、权限、升级与故障支持分别由谁负责？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "成方策",
+          "status": "first_verify",
+          "reason": "企业IT管理与帮助台为实施条件研究线索；虽编辑方向为learning，字段支持企业相关性，但没有Agent实施证明。",
+          "evidence": [
+            {
+              "displayName": "成方策",
+              "field": "productScope",
+              "providedText": [
+                "IT管理产品及服务"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.solutionkeys.com/aboutus/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "成方策",
+              "field": "buyerScenarios",
+              "providedText": [
+                "企业移动设备管理",
+                "国际及双语学校IT支持"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.solutionkeys.com/en/home/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "成方策",
+              "field": "deliveryRequirements",
+              "providedText": [
+                "官网介绍移动设备管理、学校IT外包与帮助台支持；不能据此确认某款Agent实施能力"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.solutionkeys.com/en/home/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "法律主体",
+            "具体软件品牌准入",
+            "项目采购权",
+            "AI软件部署能力"
+          ],
+          "nextQuestion": "能否评估该Agent的账号部署和企业权限需求；自身是实施服务商还是采购渠道，费用与持续责任如何分配？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "英迈中国",
+          "status": "secondary_fit_check",
+          "reason": "厂商目录仅能支持技术品牌邻近性，纯软件Agent业务线证据比上海广宣弱。",
+          "evidence": [
+            {
+              "displayName": "英迈中国",
+              "field": "productScope",
+              "providedText": [
+                "官网厂商目录列有电脑、办公通信、音频与相关技术品牌"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://cn.ingrammicro.com.cn/site/vendor/index"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "新厂商准入",
+            "产品所属业务线",
+            "商业与技术支持条件"
+          ],
+          "nextQuestion": "是否有办公Agent软件业务线和新厂商准入入口？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        }
+      ],
+      "evidence": [
+        {
+          "displayName": "上海广宣",
+          "field": "productScope",
+          "providedText": [
+            "办公、开发设计、工业应用等软件"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "上海广宣",
+          "field": "buyerScenarios",
+          "providedText": [
+            "企业软件购买与正版化"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "上海广宣",
+          "field": "deliveryRequirements",
+          "providedText": [
+            "官网介绍正版软件发行与技术服务，具体产品实施责任未知"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "上海广宣",
+          "field": "entryPoints",
+          "providedText": [
+            "官网联系及留言入口；未核实为供应商准入"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "成方策",
+          "field": "productScope",
+          "providedText": [
+            "IT管理产品及服务"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.solutionkeys.com/aboutus/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "成方策",
+          "field": "buyerScenarios",
+          "providedText": [
+            "企业移动设备管理",
+            "国际及双语学校IT支持"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.solutionkeys.com/en/home/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "成方策",
+          "field": "deliveryRequirements",
+          "providedText": [
+            "官网介绍移动设备管理、学校IT外包与帮助台支持；不能据此确认某款Agent实施能力"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.solutionkeys.com/en/home/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "英迈中国",
+          "field": "productScope",
+          "providedText": [
+            "官网厂商目录列有电脑、办公通信、音频与相关技术品牌"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://cn.ingrammicro.com.cn/site/vendor/index"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        }
+      ],
+      "unknown": [
+        "具体功能、企业用户和部署架构",
+        "安全权限、服务承诺与授权定价"
+      ],
+      "questions": [
+        "品牌给出账号部署说明、持续服务责任清单和可运行场景。"
+      ],
+      "unsupportedClaimsAvoided": [
+        "不将软件发行等同于Agent实施能力",
+        "不将企业IT支持等同于采购权"
+      ],
+      "deferReason": "",
+      "hypothetical": true
+    },
+    {
+      "caseId": "office-service-withdrawn",
+      "decision": "pause_product_preparation",
+      "routes": [
+        {
+          "displayName": "上海广宣",
+          "status": "requirements_research_only",
+          "reason": "办公软件发行与技术服务关联最直接；账号部署、Agent实施和持续支持尚未证明。",
+          "evidence": [
+            {
+              "displayName": "上海广宣",
+              "field": "productScope",
+              "providedText": [
+                "办公、开发设计、工业应用等软件"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "上海广宣",
+              "field": "buyerScenarios",
+              "providedText": [
+                "企业软件购买与正版化"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "上海广宣",
+              "field": "deliveryRequirements",
+              "providedText": [
+                "官网介绍正版软件发行与技术服务，具体产品实施责任未知"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "上海广宣",
+              "field": "entryPoints",
+              "providedText": [
+                "官网联系及留言入口；未核实为供应商准入"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "AI软件代理意愿",
+            "授权形式与合同主体",
+            "部署和持续服务范围"
+          ],
+          "nextQuestion": "是否承接办公Agent订阅或授权，部署账号、权限、升级与故障支持分别由谁负责？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "成方策",
+          "status": "requirements_research_only",
+          "reason": "企业IT管理与帮助台为实施条件研究线索；虽编辑方向为learning，字段支持企业相关性，但没有Agent实施证明。",
+          "evidence": [
+            {
+              "displayName": "成方策",
+              "field": "productScope",
+              "providedText": [
+                "IT管理产品及服务"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.solutionkeys.com/aboutus/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "成方策",
+              "field": "buyerScenarios",
+              "providedText": [
+                "企业移动设备管理",
+                "国际及双语学校IT支持"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.solutionkeys.com/en/home/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "成方策",
+              "field": "deliveryRequirements",
+              "providedText": [
+                "官网介绍移动设备管理、学校IT外包与帮助台支持；不能据此确认某款Agent实施能力"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.solutionkeys.com/en/home/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "法律主体",
+            "具体软件品牌准入",
+            "项目采购权",
+            "AI软件部署能力"
+          ],
+          "nextQuestion": "能否评估该Agent的账号部署和企业权限需求；自身是实施服务商还是采购渠道，费用与持续责任如何分配？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "英迈中国",
+          "status": "secondary_fit_check",
+          "reason": "厂商目录仅能支持技术品牌邻近性，纯软件Agent业务线证据比上海广宣弱。",
+          "evidence": [
+            {
+              "displayName": "英迈中国",
+              "field": "productScope",
+              "providedText": [
+                "官网厂商目录列有电脑、办公通信、音频与相关技术品牌"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://cn.ingrammicro.com.cn/site/vendor/index"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "新厂商准入",
+            "产品所属业务线",
+            "商业与技术支持条件"
+          ],
+          "nextQuestion": "是否有办公Agent软件业务线和新厂商准入入口？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        }
+      ],
+      "evidence": [
+        {
+          "displayName": "上海广宣",
+          "field": "productScope",
+          "providedText": [
+            "办公、开发设计、工业应用等软件"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "上海广宣",
+          "field": "buyerScenarios",
+          "providedText": [
+            "企业软件购买与正版化"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "上海广宣",
+          "field": "deliveryRequirements",
+          "providedText": [
+            "官网介绍正版软件发行与技术服务，具体产品实施责任未知"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "上海广宣",
+          "field": "entryPoints",
+          "providedText": [
+            "官网联系及留言入口；未核实为供应商准入"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "成方策",
+          "field": "productScope",
+          "providedText": [
+            "IT管理产品及服务"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.solutionkeys.com/aboutus/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "成方策",
+          "field": "buyerScenarios",
+          "providedText": [
+            "企业移动设备管理",
+            "国际及双语学校IT支持"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.solutionkeys.com/en/home/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "成方策",
+          "field": "deliveryRequirements",
+          "providedText": [
+            "官网介绍移动设备管理、学校IT外包与帮助台支持；不能据此确认某款Agent实施能力"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.solutionkeys.com/en/home/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "英迈中国",
+          "field": "productScope",
+          "providedText": [
+            "官网厂商目录列有电脑、办公通信、音频与相关技术品牌"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://cn.ingrammicro.com.cn/site/vendor/index"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        }
+      ],
+      "unknown": [
+        "持续服务负责人未落实",
+        "不能由公开帮助台或技术服务简介填补品牌责任缺口"
+      ],
+      "questions": [
+        "先明确部署、账号、数据、升级、故障处理责任方及响应约定；是否有明确书面承担者？"
+      ],
+      "unsupportedClaimsAvoided": [
+        "不推断渠道会替品牌接管支持",
+        "未称对方拒绝"
+      ],
+      "deferReason": "持续支持未落实，暂停项目交付和销售准备；允许低成本研究支持条件。",
+      "hypothetical": true,
+      "changedDecision": {
+        "before": "office-agent",
+        "change": "撤回继续准备交付的判断，保留软件和实施条件研究",
+        "cause": "serviceOwnerKnown从true变为false"
+      }
+    },
+    {
+      "caseId": "wearable-clinical-only",
+      "decision": "no_supported_clinical_route_in_snapshot",
+      "routes": [
+        {
+          "displayName": "三夫户外",
+          "status": "do_not_prioritize",
+          "reason": "户外消费场景与仅医疗机构流程的买方用途不符；不能维持户外渠道优先级。",
+          "evidence": [
+            {
+              "displayName": "三夫户外",
+              "field": "productScope",
+              "providedText": [
+                "户外服装、鞋袜与装备"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://sanfo.com/about/general.asp"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "三夫户外",
+              "field": "buyerScenarios",
+              "providedText": [
+                "滑雪、露营、跑步、徒步、登山、城市通勤"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://sanfo.com/about/general.asp"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "新品采购接口",
+            "电子设备选品政策",
+            "试销与服务条款"
+          ],
+          "nextQuestion": "只有产品用途和消费零售资格发生明确改变，才重新核实户外适配。",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "北京广世天运",
+          "status": "do_not_prioritize",
+          "reason": "cycling系列销售记录不能支持医疗机构流程采购。",
+          "evidence": [
+            {
+              "displayName": "北京广世天运",
+              "field": "productScope",
+              "providedText": [
+                "佳明运动休闲目录销售据点；具体系列标签：cycling"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.garmin.com.cn/buy/retailer/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_sales_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "北京广世天运",
+              "field": "entryPoints",
+              "providedText": [
+                "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.garmin.com.cn/buy/retailer/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_sales_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "当前是否营业",
+            "独立采购权",
+            "跨品牌经营范围",
+            "新品引入政策",
+            "售后责任",
+            "机构或零售采购模式"
+          ],
+          "nextQuestion": "当前无需作为医疗渠道询问；未来另行获取医疗机构渠道证据。",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        }
+      ],
+      "evidence": [
+        {
+          "displayName": "三夫户外",
+          "field": "productScope",
+          "providedText": [
+            "户外服装、鞋袜与装备"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://sanfo.com/about/general.asp"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "三夫户外",
+          "field": "buyerScenarios",
+          "providedText": [
+            "滑雪、露营、跑步、徒步、登山、城市通勤"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://sanfo.com/about/general.asp"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "北京广世天运",
+          "field": "productScope",
+          "providedText": [
+            "佳明运动休闲目录销售据点；具体系列标签：cycling"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_sales_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "北京广世天运",
+          "field": "entryPoints",
+          "providedText": [
+            "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_sales_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        }
+      ],
+      "unknown": [
+        "包中没有医疗机构流程渠道证据",
+        "产品适用流程、机构采购主体、准入及技术集成条件",
+        "consumerRetailEligible为null，不能解释为可零售或确定禁止零售"
+      ],
+      "questions": [
+        "先向品牌确认机构使用场景、产品属性及必需准入资料，再另找机构渠道证据。"
+      ],
+      "unsupportedClaimsAvoided": [
+        "不因wearable标签推荐户外零售",
+        "不将缺证据解释为没有市场或渠道正式拒绝"
+      ],
+      "deferReason": "现有包不足以选择医疗渠道。",
+      "hypothetical": true,
+      "changedDecision": {
+        "before": "wearable-outdoor",
+        "change": "取消原户外相关性的优先核实路径；重新研究买方与业务适配",
+        "cause": "用途转为医疗机构流程且消费零售资格未知"
+      }
+    },
+    {
+      "caseId": "wearable-outdoor",
+      "decision": "investigate_outdoor_fit",
+      "routes": [
+        {
+          "displayName": "三夫户外",
+          "status": "first_verify",
+          "reason": "个人户外运动与其列举场景关联明确，先核实电子设备选品和真正供应商入口。",
+          "evidence": [
+            {
+              "displayName": "三夫户外",
+              "field": "productScope",
+              "providedText": [
+                "户外服装、鞋袜与装备"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://sanfo.com/about/general.asp"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "三夫户外",
+              "field": "buyerScenarios",
+              "providedText": [
+                "滑雪、露营、跑步、徒步、登山、城市通勤"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://sanfo.com/about/general.asp"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "三夫户外",
+              "field": "entryPoints",
+              "providedText": [
+                "官网提供联系三夫入口；大客户集采是面向采购客户的服务，不能当作供应商准入"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://sanfo.com/about/general.asp"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "新品采购接口",
+            "电子设备选品政策",
+            "试销与服务条款"
+          ],
+          "nextQuestion": "是否纳入运动电子设备，正确供应商准入入口、样品及售后要求是什么？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "九机",
+          "status": "secondary_fit_check",
+          "reason": "数码消费与品牌申请可供核实，但包中没有户外体验经营证据。",
+          "evidence": [
+            {
+              "displayName": "九机",
+              "field": "productScope",
+              "providedText": [
+                "3C通讯、数码配件、笔记本及新奇特商品"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.9ji.com/doc/15/74"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "九机",
+              "field": "entryPoints",
+              "providedText": [
+                "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.9ji.com/doc/15/74",
+                  "https://www.9ji.com/doc/15/41"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "新品审核材料",
+            "采购与结算主体",
+            "试销政策",
+            "具体售后分工"
+          ],
+          "nextQuestion": "是否接受该类运动穿戴硬件，如何验证体验和售后？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "北京广世天运",
+          "status": "conditional_low_priority",
+          "reason": "仅当实际运动用途含骑行才具有更具体线索；输入未说明运动细类，不能先假定。",
+          "evidence": [
+            {
+              "displayName": "北京广世天运",
+              "field": "productScope",
+              "providedText": [
+                "佳明运动休闲目录销售据点；具体系列标签：cycling"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.garmin.com.cn/buy/retailer/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_sales_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "北京广世天运",
+              "field": "regions",
+              "providedText": [
+                "目录区域标签：beijing；不是区域代理权或全省承接能力"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.garmin.com.cn/buy/retailer/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_sales_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "北京广世天运",
+              "field": "entryPoints",
+              "providedText": [
+                "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.garmin.com.cn/buy/retailer/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_sales_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "当前是否营业",
+            "独立采购权",
+            "跨品牌经营范围",
+            "新品引入政策",
+            "售后责任",
+            "机构或零售采购模式"
+          ],
+          "nextQuestion": "是否仍经营、能否独立引入其他品牌，以及新品是否落在自身采购范围？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        }
+      ],
+      "evidence": [
+        {
+          "displayName": "三夫户外",
+          "field": "productScope",
+          "providedText": [
+            "户外服装、鞋袜与装备"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://sanfo.com/about/general.asp"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "三夫户外",
+          "field": "buyerScenarios",
+          "providedText": [
+            "滑雪、露营、跑步、徒步、登山、城市通勤"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://sanfo.com/about/general.asp"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "三夫户外",
+          "field": "entryPoints",
+          "providedText": [
+            "官网提供联系三夫入口；大客户集采是面向采购客户的服务，不能当作供应商准入"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://sanfo.com/about/general.asp"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "九机",
+          "field": "productScope",
+          "providedText": [
+            "3C通讯、数码配件、笔记本及新奇特商品"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.9ji.com/doc/15/74"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "九机",
+          "field": "entryPoints",
+          "providedText": [
+            "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.9ji.com/doc/15/74",
+              "https://www.9ji.com/doc/15/41"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "北京广世天运",
+          "field": "productScope",
+          "providedText": [
+            "佳明运动休闲目录销售据点；具体系列标签：cycling"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_sales_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "北京广世天运",
+          "field": "regions",
+          "providedText": [
+            "目录区域标签：beijing；不是区域代理权或全省承接能力"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_sales_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "北京广世天运",
+          "field": "entryPoints",
+          "providedText": [
+            "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_sales_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        }
+      ],
+      "unknown": [
+        "实际运动细类、目标地域、定价、耐用及售后要求",
+        "佳明目录其他8家只有销售记录，部分handheld/car标签或空标签，不足以排序为穿戴新品渠道"
+      ],
+      "questions": [
+        "先明确运动细类；如为骑行再研究北京广世天运，不基于地名推断服务区域。"
+      ],
+      "unsupportedClaimsAvoided": [
+        "不将大客户集采当供应商入口",
+        "不将佳明销售据点当新品代理",
+        "不推断采购意愿"
+      ],
+      "deferReason": "",
+      "hypothetical": true
+    },
+    {
+      "caseId": "home-installed-controller",
+      "decision": "pause_deployment_prepare_compatibility",
+      "routes": [
+        {
+          "displayName": "星光智能",
+          "status": "technical_conditions_first",
+          "reason": "灯光、家居和施工字段与所需安装联动相关，适合询问集成门槛；品牌缺兼容清单，不能判断可直接部署。",
+          "evidence": [
+            {
+              "displayName": "星光智能",
+              "field": "productScope",
+              "providedText": [
+                "智能、影音、灯光、窗饰"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.starintegr.com/about-us"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "星光智能",
+              "field": "buyerScenarios",
+              "providedText": [
+                "家庭空间与商业工程"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.starintegr.com/about-us"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "星光智能",
+              "field": "deliveryRequirements",
+              "providedText": [
+                "官网介绍设计、施工与项目管理团队"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.starintegr.com/about-us"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "星光智能",
+              "field": "entryPoints",
+              "providedText": [
+                "官网联系入口；供应商准入尚未核实"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.starintegr.com/about-us"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "第三方新品集成条件",
+            "协议兼容与售后责任",
+            "采购权与商务条款"
+          ],
+          "nextQuestion": "需要哪些协议版本、设备清单、测试证据及安装验收条件；出现兼容故障由谁承担？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "圣谛影音智能",
+          "status": "secondary_technical_conditions",
+          "reason": "影音智能及培训机制只是邻近线索，灯光协议联动能力未被包中证据确认。",
+          "evidence": [
+            {
+              "displayName": "圣谛影音智能",
+              "field": "productScope",
+              "providedText": [
+                "影音智能行业"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.sentimenthifi.com/business.html"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "圣谛影音智能",
+              "field": "deliveryRequirements",
+              "providedText": [
+                "网站介绍经销商网络与培训机制，具体项目交付要求尚未公开核实"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.sentimenthifi.com/business.html"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "圣谛影音智能",
+              "field": "entryPoints",
+              "providedText": [
+                "商务合作页面及经销商咨询表单"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.sentimenthifi.com/business.html"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "新品牌代理准入条件",
+            "现有品牌限制",
+            "采购承诺",
+            "具体培训和售后责任"
+          ],
+          "nextQuestion": "是否接受第三方家居控制器，以及哪些兼容和培训资料是评估前提？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        }
+      ],
+      "evidence": [
+        {
+          "displayName": "星光智能",
+          "field": "productScope",
+          "providedText": [
+            "智能、影音、灯光、窗饰"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.starintegr.com/about-us"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "星光智能",
+          "field": "buyerScenarios",
+          "providedText": [
+            "家庭空间与商业工程"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.starintegr.com/about-us"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "星光智能",
+          "field": "deliveryRequirements",
+          "providedText": [
+            "官网介绍设计、施工与项目管理团队"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.starintegr.com/about-us"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "星光智能",
+          "field": "entryPoints",
+          "providedText": [
+            "官网联系入口；供应商准入尚未核实"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.starintegr.com/about-us"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "圣谛影音智能",
+          "field": "productScope",
+          "providedText": [
+            "影音智能行业"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.sentimenthifi.com/business.html"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "圣谛影音智能",
+          "field": "deliveryRequirements",
+          "providedText": [
+            "网站介绍经销商网络与培训机制，具体项目交付要求尚未公开核实"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.sentimenthifi.com/business.html"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "圣谛影音智能",
+          "field": "entryPoints",
+          "providedText": [
+            "商务合作页面及经销商咨询表单"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.sentimenthifi.com/business.html"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        }
+      ],
+      "unknown": [
+        "兼容设备清单、协议版本、联动测试及安装边界",
+        "施工、系统故障、售后责任分工"
+      ],
+      "questions": [
+        "品牌先提供最低兼容清单和联动验证；可以同步询问集成评估要求。"
+      ],
+      "unsupportedClaimsAvoided": [
+        "不以demoReady推断工程就绪",
+        "不以集成商自述填补产品兼容缺口"
+      ],
+      "deferReason": "先补兼容证据，暂停现场部署和交付承诺。",
+      "hypothetical": true
+    },
+    {
+      "caseId": "learning-classroom-tool",
+      "decision": "prepare_classroom_package_then_recheck",
+      "routes": [
+        {
+          "displayName": "成方策",
+          "status": "it_conditions_first",
+          "reason": "学校IT支持可帮助核实账号和设备管理条件，不证明课程或教师培训能力。",
+          "evidence": [
+            {
+              "displayName": "成方策",
+              "field": "buyerScenarios",
+              "providedText": [
+                "企业移动设备管理",
+                "国际及双语学校IT支持"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.solutionkeys.com/en/home/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "成方策",
+              "field": "deliveryRequirements",
+              "providedText": [
+                "官网介绍移动设备管理、学校IT外包与帮助台支持；不能据此确认某款Agent实施能力"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.solutionkeys.com/en/home/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "法律主体",
+            "具体软件品牌准入",
+            "项目采购权",
+            "AI软件部署能力"
+          ],
+          "nextQuestion": "课堂设备需要怎样的账号权限与设备管理；能否评估技术支持要求，且是否参与采购？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "七色花",
+          "status": "conditional_preschool_only",
+          "reason": "只在产品适用学前课堂时相关；输入仅称学校课堂，不能假定学段。",
+          "evidence": [
+            {
+              "displayName": "七色花",
+              "field": "productScope",
+              "providedText": [
+                "幼教资源、科学与益智教玩具、运动及感统产品"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.qisehua.cn/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "七色花",
+              "field": "buyerScenarios",
+              "providedText": [
+                "学前教育资源与活动材料"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.qisehua.cn/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "采购决策与销售模式",
+            "AI产品准入",
+            "培训交付责任"
+          ],
+          "nextQuestion": "若目标为学前教育，需怎样的课程活动、教师培训和AI产品准入资料？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "华森葳",
+          "status": "conditional_preschool_only",
+          "reason": "园所规划和安装验收相关于幼儿园落地，但不证明课程交付或AI课堂支持。",
+          "evidence": [
+            {
+              "displayName": "华森葳",
+              "field": "buyerScenarios",
+              "providedText": [
+                "幼儿园与托育空间整体规划"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.huasenwei.com/mine.html"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "华森葳",
+              "field": "deliveryRequirements",
+              "providedText": [
+                "官网列出整体规划、产品配置、运送安装、验收评价"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.huasenwei.com/mine.html"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "华森葳",
+              "field": "afterSalesRequirements",
+              "providedText": [
+                "官网列出售后保养环节，具体合同范围未知"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.huasenwei.com/mine.html"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "新品牌采购准入",
+            "项目集成限制",
+            "实际采购主体"
+          ],
+          "nextQuestion": "若用于幼儿园，配置、验收、培训及新品售后分别有哪些要求？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "璞康",
+          "status": "directory_not_new_brand_entry",
+          "reason": "学校教学资源采购场景相关；乐高授权只覆盖该品牌，不能外推新品准入。",
+          "evidence": [
+            {
+              "displayName": "璞康",
+              "field": "productScope",
+              "providedText": [
+                "乐高教育授权销售；不外推为任意教育新品代理"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_authorized_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "璞康",
+              "field": "buyerScenarios",
+              "providedText": [
+                "学校及机构的教学资源采购"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_authorized_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "璞康",
+              "field": "entryPoints",
+              "providedText": [
+                "品牌目录给出经销商联系方式；这是该品牌采购咨询入口，不是新品供应商准入"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_authorized_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "跨品牌代理范围",
+            "独立采购权",
+            "新品引入政策",
+            "实际区域服务范围",
+            "培训与售后对新品是否适用"
+          ],
+          "nextQuestion": "是否独立采购及跨品牌引入；若无该权限则不继续新品资料准备。",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "欣欣相融",
+          "status": "directory_not_new_brand_entry",
+          "reason": "与璞康同类品牌目录证据，没有独立优势或新品承接证明。",
+          "evidence": [
+            {
+              "displayName": "欣欣相融",
+              "field": "productScope",
+              "providedText": [
+                "乐高教育授权销售；不外推为任意教育新品代理"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_authorized_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "欣欣相融",
+              "field": "buyerScenarios",
+              "providedText": [
+                "学校及机构的教学资源采购"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_authorized_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "欣欣相融",
+              "field": "entryPoints",
+              "providedText": [
+                "品牌目录给出经销商联系方式；这是该品牌采购咨询入口，不是新品供应商准入"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "brand_authorized_directory",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "跨品牌代理范围",
+            "独立采购权",
+            "新品引入政策",
+            "实际区域服务范围",
+            "培训与售后对新品是否适用"
+          ],
+          "nextQuestion": "是否可跨品牌引入、由谁采购，培训售后是否可适用于该新品？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        }
+      ],
+      "evidence": [
+        {
+          "displayName": "成方策",
+          "field": "buyerScenarios",
+          "providedText": [
+            "企业移动设备管理",
+            "国际及双语学校IT支持"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.solutionkeys.com/en/home/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "成方策",
+          "field": "deliveryRequirements",
+          "providedText": [
+            "官网介绍移动设备管理、学校IT外包与帮助台支持；不能据此确认某款Agent实施能力"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.solutionkeys.com/en/home/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "七色花",
+          "field": "productScope",
+          "providedText": [
+            "幼教资源、科学与益智教玩具、运动及感统产品"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.qisehua.cn/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "七色花",
+          "field": "buyerScenarios",
+          "providedText": [
+            "学前教育资源与活动材料"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.qisehua.cn/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "华森葳",
+          "field": "buyerScenarios",
+          "providedText": [
+            "幼儿园与托育空间整体规划"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.huasenwei.com/mine.html"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "华森葳",
+          "field": "deliveryRequirements",
+          "providedText": [
+            "官网列出整体规划、产品配置、运送安装、验收评价"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.huasenwei.com/mine.html"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "华森葳",
+          "field": "afterSalesRequirements",
+          "providedText": [
+            "官网列出售后保养环节，具体合同范围未知"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.huasenwei.com/mine.html"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "璞康",
+          "field": "productScope",
+          "providedText": [
+            "乐高教育授权销售；不外推为任意教育新品代理"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_authorized_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "璞康",
+          "field": "buyerScenarios",
+          "providedText": [
+            "学校及机构的教学资源采购"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_authorized_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "璞康",
+          "field": "entryPoints",
+          "providedText": [
+            "品牌目录给出经销商联系方式；这是该品牌采购咨询入口，不是新品供应商准入"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_authorized_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "欣欣相融",
+          "field": "productScope",
+          "providedText": [
+            "乐高教育授权销售；不外推为任意教育新品代理"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_authorized_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "欣欣相融",
+          "field": "buyerScenarios",
+          "providedText": [
+            "学校及机构的教学资源采购"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_authorized_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "欣欣相融",
+          "field": "entryPoints",
+          "providedText": [
+            "品牌目录给出经销商联系方式；这是该品牌采购咨询入口，不是新品供应商准入"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "brand_authorized_directory",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        }
+      ],
+      "unknown": [
+        "学段、学科、教学任务及验证标准",
+        "课程配套、教师培训、课堂账号管理全部未准备",
+        "品牌愿补资料不等于条件已满足"
+      ],
+      "questions": [
+        "品牌先补一节课的使用方案、培训计划及账号权限设计；核实学段后缩小渠道名单。"
+      ],
+      "unsupportedClaimsAvoided": [
+        "不因learning标签维持统一优先级",
+        "不把IT支持当课程交付",
+        "不把乐高授权外推为任何教育新品代理"
+      ],
+      "deferReason": "暂停课堂试点与交付准备，保留需求核实及品牌补资料。",
+      "hypothetical": true
+    },
+    {
+      "caseId": "creative-transcription-subscription",
+      "decision": "investigate_software_route_pause_channel_sale",
+      "routes": [
+        {
+          "displayName": "上海广宣",
+          "status": "first_verify",
+          "reason": "开发设计软件经营比实体音频分销更邻近无硬件订阅；企业正版化场景与个人创作者仍需核实。",
+          "evidence": [
+            {
+              "displayName": "上海广宣",
+              "field": "productScope",
+              "providedText": [
+                "办公、开发设计、工业应用等软件"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "上海广宣",
+              "field": "buyerScenarios",
+              "providedText": [
+                "企业软件购买与正版化"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "上海广宣",
+              "field": "entryPoints",
+              "providedText": [
+                "官网联系及留言入口；未核实为供应商准入"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.gx-soft.com/jianjie/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "AI软件代理意愿",
+            "授权形式与合同主体",
+            "部署和持续服务范围"
+          ],
+          "nextQuestion": "是否承接创作者月订阅软件；授权、开票、续费、佣金、退订与支持如何安排？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "雷音音频（深圳）有限公司",
+          "status": "do_not_prioritize",
+          "reason": "音频产品分销与体验不能证明纯转写SaaS订阅经营；音频语义相同不足以形成匹配。",
+          "evidence": [
+            {
+              "displayName": "雷音音频（深圳）有限公司",
+              "field": "productScope",
+              "providedText": [
+                "音频产品品牌分销"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.leiyinaudio.com/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "雷音音频（深圳）有限公司",
+              "field": "buyerScenarios",
+              "providedText": [
+                "零售合作伙伴供货与消费者音频体验"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.leiyinaudio.com/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "雷音音频（深圳）有限公司",
+              "field": "entryPoints",
+              "providedText": [
+                "官网品牌与联系入口；未核实新品代理政策"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.leiyinaudio.com/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "新品品牌准入",
+            "AI音频产品适配",
+            "地区与授权范围",
+            "售后政策"
+          ],
+          "nextQuestion": "只有确认其实际经营纯软件订阅及合法授权后才重评。",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        },
+        {
+          "displayName": "禹亮科技",
+          "status": "conditional_enterprise_pivot_only",
+          "reason": "会议设备和企业空间与当前创作者转写订阅买方交付方式不一致；仅产品明确转向企业会议且兼容证据补齐后重评。",
+          "evidence": [
+            {
+              "displayName": "禹亮科技",
+              "field": "productScope",
+              "providedText": [
+                "视频会议终端、AI会议、会议音频与智能会议空间设备"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.yulianggroup.cn/company/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "禹亮科技",
+              "field": "buyerScenarios",
+              "providedText": [
+                "企业会议室",
+                "教育与培训空间"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.yulianggroup.cn/company/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            },
+            {
+              "displayName": "禹亮科技",
+              "field": "deliveryRequirements",
+              "providedText": [
+                "方案设计、设备选型与供应、部署及安装调试"
+              ],
+              "fieldEvidence": {
+                "sources": [
+                  "https://www.yulianggroup.cn/company/"
+                ],
+                "observed": "2026-10-09",
+                "basis": "operator_self_disclosure",
+                "claimScope": "public_self_description_not_verified_cooperation_condition"
+              }
+            }
+          ],
+          "unknown": [
+            "陌生新品采购与代理政策",
+            "项目兼容性评估",
+            "具体部署城市和响应承诺",
+            "新产品售后责任"
+          ],
+          "nextQuestion": "当前不按创作者渠道推进；若转向会议系统，需什么软件集成及服务条件？",
+          "boundary": "仅引用输入包摘录与字段元数据，未访问链接；研究相关性不证明新品承接、采购意愿或合作关系。"
+        }
+      ],
+      "evidence": [
+        {
+          "displayName": "上海广宣",
+          "field": "productScope",
+          "providedText": [
+            "办公、开发设计、工业应用等软件"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "上海广宣",
+          "field": "buyerScenarios",
+          "providedText": [
+            "企业软件购买与正版化"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "上海广宣",
+          "field": "entryPoints",
+          "providedText": [
+            "官网联系及留言入口；未核实为供应商准入"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "雷音音频（深圳）有限公司",
+          "field": "productScope",
+          "providedText": [
+            "音频产品品牌分销"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.leiyinaudio.com/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "雷音音频（深圳）有限公司",
+          "field": "buyerScenarios",
+          "providedText": [
+            "零售合作伙伴供货与消费者音频体验"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.leiyinaudio.com/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "雷音音频（深圳）有限公司",
+          "field": "entryPoints",
+          "providedText": [
+            "官网品牌与联系入口；未核实新品代理政策"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.leiyinaudio.com/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "禹亮科技",
+          "field": "productScope",
+          "providedText": [
+            "视频会议终端、AI会议、会议音频与智能会议空间设备"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.yulianggroup.cn/company/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "禹亮科技",
+          "field": "buyerScenarios",
+          "providedText": [
+            "企业会议室",
+            "教育与培训空间"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.yulianggroup.cn/company/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        },
+        {
+          "displayName": "禹亮科技",
+          "field": "deliveryRequirements",
+          "providedText": [
+            "方案设计、设备选型与供应、部署及安装调试"
+          ],
+          "fieldEvidence": {
+            "sources": [
+              "https://www.yulianggroup.cn/company/"
+            ],
+            "observed": "2026-10-09",
+            "basis": "operator_self_disclosure",
+            "claimScope": "public_self_description_not_verified_cooperation_condition"
+          }
+        }
+      ],
+      "unknown": [
+        "渠道授权、佣金、订阅结算和续费归属",
+        "创作者购买路径与渠道是否经营纯软件订阅",
+        "在线体验不能代替商业授权"
+      ],
+      "questions": [
+        "品牌先给出订阅授权与佣金草案；核实上海广宣是否有对应软件和创作者买方。"
+      ],
+      "unsupportedClaimsAvoided": [
+        "不因creative或音频标签推荐硬件分销",
+        "不将在线体验当渠道销售授权",
+        "不推断订阅销量"
+      ],
+      "deferReason": "可以研究软件路线，授权和佣金明确前暂停渠道销售准备。",
+      "hypothetical": true
+    }
+  ]
+}
