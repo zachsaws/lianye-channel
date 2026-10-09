@@ -544,7 +544,8 @@
       "roleStatus": "tag_based_hypothesis_not_source_verification",
       "sourceLinks": [
         "https://www.intellif.com/DrLook",
-        "https://www.sundan.com/"
+        "https://www.sundan.com/",
+        "https://sundan.com/activity/brand"
       ],
       "importedEvidence": [
         {
@@ -560,18 +561,153 @@
       "evidenceStatus": "historical_research_import_not_live_revalidation",
       "researchGaps": [],
       "buyerScenarios": [],
-      "productScope": [],
+      "productScope": [
+        "家用电器、手机、电脑、数码相机等零售；新品范围须另行确认"
+      ],
       "regions": [],
-      "entryPoints": [],
-      "deliveryRequirements": [],
-      "afterSalesRequirements": [],
+      "entryPoints": [
+        "官网品牌入驻页公开新品开发流程：条款洽谈、合同与资质、押金及系统权限；供应商申报后由采购选择"
+      ],
+      "deliveryRequirements": [
+        "公开流程列进货调拨、上架陈列和培训销售；具体责任与时间以现行合同核实"
+      ],
+      "afterSalesRequirements": [
+        "官网展示全国联保和30天退货标识；未读取具体适用条件，不推定所有产品或线下门店适用"
+      ],
       "priceBand": null,
       "creditTerms": null,
       "purchaseIntent": null,
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "existing_public_market_route"
+      "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://sundan.com/activity/brand"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://sundan.com/activity/brand"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://sundan.com/activity/brand"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "afterSalesRequirements": {
+          "sources": [
+            "https://sundan.com/helpCenter?id=487"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "entryPurposeReview": {
+        "type": "supplier_submission",
+        "basis": [
+          "明确新品开发流程和供应商B2B申报，由采购选择；不是无条件入驻"
+        ],
+        "sources": [
+          "https://sundan.com/activity/brand"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
+      "unknownOperatingConditions": [
+        "新品实际准入及采购意愿",
+        "合同与押金金额",
+        "页面流程时限是否仍适用",
+        "各商品退换与保修适用范围",
+        "品牌和经营者售后责任",
+        "采购与签约主体"
+      ],
+      "researchInterpretation": "渠道协议、商品选入和实际开卖应分别记录；不拿货权的联野不能代品牌支付押金或承担商品履约",
+      "reviewedDetails": [
+        {
+          "displayName": "顺电",
+          "source": "https://sundan.com/activity/brand",
+          "fields": {
+            "productScope": [
+              "家用电器、手机、电脑、数码相机等零售；新品范围须另行确认"
+            ],
+            "entryPoints": [
+              "官网品牌入驻页公开新品开发流程：条款洽谈、合同与资质、押金及系统权限；供应商申报后由采购选择"
+            ],
+            "deliveryRequirements": [
+              "公开流程列进货调拨、上架陈列和培训销售；具体责任与时间以现行合同核实"
+            ],
+            "afterSalesRequirements": [
+              "官网展示全国联保和30天退货标识；未读取具体适用条件，不推定所有产品或线下门店适用"
+            ]
+          },
+          "unknown": [
+            "新品实际准入及采购意愿",
+            "合同与押金金额",
+            "页面流程时限是否仍适用",
+            "各商品退换与保修适用范围",
+            "品牌和经营者售后责任",
+            "采购与签约主体"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "inferenceBoundary": "公开流程不证明新品接受、有效合同或我方合作",
+          "fieldSources": {
+            "productScope": [
+              "https://sundan.com/activity/brand"
+            ],
+            "entryPoints": [
+              "https://sundan.com/activity/brand"
+            ],
+            "deliveryRequirements": [
+              "https://sundan.com/activity/brand"
+            ],
+            "afterSalesRequirements": [
+              "https://sundan.com/helpCenter?id=487"
+            ]
+          },
+          "identityEvidence": "页脚署名深圳市顺电连锁股份有限公司，具体交易主体未核实",
+          "identitySource": "https://sundan.com/activity/brand",
+          "identityObserved": "2026-10-09",
+          "entryPurposeReview": {
+            "type": "supplier_submission",
+            "basis": [
+              "明确新品开发流程和供应商B2B申报，由采购选择；不是无条件入驻"
+            ],
+            "sources": [
+              "https://sundan.com/activity/brand"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          },
+          "sourceRefresh": {
+            "observed": "2026-10-09",
+            "access": "official_page_body",
+            "notes": [
+              "首页超时，通过帮助页找到品牌入驻",
+              "页面未标注政策生效日期，不把宣传时限当承诺"
+            ],
+            "boundary": "采购选择独立于合同签订；售后标识不等于完整规则"
+          },
+          "implication": "渠道协议、商品选入和实际开卖应分别记录；不拿货权的联野不能代品牌支付押金或承担商品履约"
+        }
+      ]
     },
     {
       "id": "940c16cbd3b8",

@@ -1,0 +1,23 @@
+{
+  "observed": "2026-10-09",
+  "sundan": {
+    "source": "https://sundan.com/activity/brand",
+    "bodyRead": true,
+    "limits": "政策生效时间未知，具体条款须确认"
+  },
+  "epet": {
+    "sources": [
+      "https://item.epet.com/658869.html",
+      "https://www.epet.com/article111.html"
+    ],
+    "bodyRead": false,
+    "status": "fetch_failed_no_policy_import"
+  },
+  "youpin": {
+    "source": "https://zhaoshang.xiaomiyoupin.com/",
+    "bodyRead": false,
+    "status": "javascript_shell_browser_timeout",
+    "indexOnly": true,
+    "limits": "搜索摘要流程不升为已核实；有鱼、小米商城旧协议不混作有品现行准入"
+  }
+}
