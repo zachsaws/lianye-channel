@@ -1,0 +1,186 @@
+{
+  "observed": "2026-10-08",
+  "uniqueDisplayEntries": 84,
+  "canonicalResearchEntities": 203,
+  "signedPartners": 0,
+  "classificationOverlapAllowed": true,
+  "groups": {
+    "companion": {
+      "entries": 14,
+      "names": [
+        "凯知乐",
+        "迅合行",
+        "上海贝杰",
+        "永华嘉业",
+        "孩子王",
+        "爱婴室",
+        "玩具反斗城",
+        "TOP TOY",
+        "广东瑞华行",
+        "中亿孕婴",
+        "智玩店",
+        "陶朱新造局",
+        "Z·Pilot",
+        "Robot Mall"
+      ],
+      "roles": {
+        "distribution": 5,
+        "retail": 12,
+        "business_purchase": 1,
+        "integration": 1
+      }
+    },
+    "learning": {
+      "entries": 22,
+      "names": [
+        "璞康",
+        "七色花",
+        "华森葳",
+        "九机",
+        "新烨数码",
+        "乐博士机器人",
+        "欣欣相融",
+        "博思科教",
+        "元擎智造",
+        "司麦尔",
+        "巍高电子",
+        "智玩店",
+        "凡课科技",
+        "创首科技",
+        "宏曜电子",
+        "芯数养电子",
+        "罗布教育",
+        "陶朱新造局",
+        "北京图书大厦",
+        "雁文轩书店",
+        "大众书局",
+        "信誉楼"
+      ],
+      "roles": {
+        "distribution": 6,
+        "integration": 2,
+        "institutional_supply": 9,
+        "retail": 7
+      }
+    },
+    "wearable": {
+      "entries": 19,
+      "names": [
+        "九机",
+        "三夫户外",
+        "顺电",
+        "爱施德",
+        "上海锐能体育",
+        "北京广世天运",
+        "上海天授",
+        "百纳海通",
+        "河南图图",
+        "南京易尔路",
+        "沈阳恒宇",
+        "天津正睿",
+        "杭州迪吉特",
+        "坤昇健行",
+        "智玩店",
+        "汇通达",
+        "博士／总统眼镜",
+        "陶朱新造局",
+        "Z·Pilot"
+      ],
+      "roles": {
+        "retail": 7,
+        "business_purchase": 3,
+        "distribution": 10,
+        "specialist_retail": 2
+      }
+    },
+    "home": {
+      "entries": 16,
+      "names": [
+        "顺电",
+        "DK-AI",
+        "好享家",
+        "音联邦",
+        "京东五星电器",
+        "东方购物",
+        "苏宁易购",
+        "小米有品",
+        "圣谛影音智能",
+        "卓渤智能",
+        "博盛智能",
+        "E宠",
+        "汇通达",
+        "陶朱新造局",
+        "中智关爱通",
+        "Robot Mall"
+      ],
+      "roles": {
+        "retail": 6,
+        "business_purchase": 3,
+        "integration": 7,
+        "distribution": 3,
+        "content_commerce": 1
+      }
+    },
+    "office": {
+      "entries": 14,
+      "names": [
+        "科力普",
+        "欧菲斯",
+        "得力集实",
+        "领先未来",
+        "史泰博",
+        "英迈中国",
+        "伟仕佳杰",
+        "坤昇健行",
+        "齐心",
+        "陶朱新造局",
+        "西域",
+        "Z·Pilot",
+        "一线达通",
+        "禹亮科技"
+      ],
+      "roles": {
+        "business_purchase": 9,
+        "distribution": 3,
+        "retail": 2,
+        "procurement": 1,
+        "integrator": 1
+      }
+    },
+    "creative": {
+      "entries": 17,
+      "names": [
+        "美承",
+        "翰林汇",
+        "长虹佳华",
+        "神州数码",
+        "伟仕佳杰",
+        "南天远通",
+        "方正易通",
+        "诚顺供应链",
+        "汇通达",
+        "陶朱新造局",
+        "雅登乐器",
+        "柏斯音乐",
+        "INNO100",
+        "中智关爱通",
+        "Z·Pilot",
+        "长秦城",
+        "雷电音频"
+      ],
+      "roles": {
+        "business_purchase": 3,
+        "distribution": 8,
+        "retail": 5,
+        "integration": 1,
+        "content_commerce": 3
+      }
+    }
+  },
+  "remainingGaps": [
+    "宠物智能设备多品牌经营者的当前证据仍薄",
+    "教育类含机构业务，不能全部视为家庭零售",
+    "AI集合体验店报道不等于新品准入",
+    "办公新增系统集成商，不把工程渠道视为随时上架零售"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "checked": "2026-10-08",
+  "displayCountUnchanged": 84,
+  "records": [
+    {
+      "name": "PAWAii怡爪",
+      "legalName": "合宠科技（青岛）有限公司",
+      "source": "https://www.pawaii.cn/",
+      "verified": "官方产品目录列出智能喂食器、智能监控、防丢定位吊牌，并有品牌经销咨询入口。",
+      "role": "product_brand",
+      "displayEligible": false,
+      "reason": "供应端品牌，不是已经核实的第三方多品牌渠道；没有公开具体经销商名单。",
+      "nextEvidence": "品牌公布的具体经销商或零售商名称，以及相关设备销售证明。"
+    },
+    {
+      "name": "派瑞格",
+      "legalName": "杭州云泥科技有限公司",
+      "source": "https://www.patrieg.com/",
+      "verified": "官网自述设计、生产、销售宠物智能舱。",
+      "role": "manufacturer_brand",
+      "displayEligible": false,
+      "reason": "生产商不能冒充对新品开放的销售通路；门店规模自述也不等于可调用渠道。",
+      "nextEvidence": "公开终端经营主体及第三方商品引进规则。"
+    },
+    {
+      "name": "派多格",
+      "source": "https://www.apetdog.com/",
+      "verified": "搜索索引有连锁及商品区域，实际打开未取得正文。",
+      "role": "retail_franchise_lead",
+      "displayEligible": false,
+      "reason": "缺当前实际商品与智能设备经营证据。",
+      "nextEvidence": "可读取的现时商品目录或品牌披露具体设备入店。"
+    }
+  ],
+  "finding": "检索容易把宠物智能产品生产商和传统宠物门店混进渠道池；两者需独立核实。"
+}

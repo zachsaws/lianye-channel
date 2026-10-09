@@ -1,0 +1,76 @@
+{
+  "round": 7,
+  "direction": "pet",
+  "records": [
+    {
+      "name": "E宠 / 重庆易宠科技有限公司",
+      "role": "宠物用品垂直电商",
+      "source": "https://item.epet.com/658869.html",
+      "facts": "商品详情页列小佩PETKIT智能饮水机3代，编号658869；页脚列重庆易宠科技有限公司。页面同时列其他智能饮水机及耗材。",
+      "limits": "可证明宠物电器商品展示，不能证明当前库存、AI新品准入或我方合作；不引用页面月销量作为当前经营表现。",
+      "admission": "operating_product_evidence_read",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作",
+      "dispatchable": false
+    },
+    {
+      "name": "宠发发 / 天元宠物",
+      "role": "宠物供应商与渠道商综合服务平台",
+      "source": "https://static.cninfo.com.cn/finalpage/2024-05-22/1220129990.PDF",
+      "facts": "2024年5月22日上市公司投资者活动记录将宠发发定义为链接宠物供应商和渠道商的综合服务平台；同时介绍旗下用品品牌和智能产品。",
+      "corroboration": "https://pc.petfafa.com/",
+      "limits": "披露为2024年材料；当前商城有智能好物分类，但本轮未核到第三方AI硬件在售SKU。与天元宠物按同一集团研究，不将制造商、自有品牌和商城拆成多个独立渠道。",
+      "admission": "historical_operating_evidence_read",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作",
+      "dispatchable": false
+    },
+    {
+      "name": "波奇",
+      "role": "宠物用品电商与内容入口",
+      "source": "https://www.boqii.com/",
+      "facts": "官网有商城入口，商品导航含宠物玩具、日用及水族设备。",
+      "limits": "本轮未核到相关智能宠物硬件具体商品；宠物用品业务不能直接支持AI设备销售能力。",
+      "admission": "candidate_scope_incomplete",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作",
+      "dispatchable": false
+    },
+    {
+      "name": "派多格",
+      "role": "宠物门店网络候选",
+      "source": "https://www.apetdog.com/network.html",
+      "facts": "官网搜索索引介绍门店网络；直接访问未成功。",
+      "limits": "TLS证书异常，未绕过验证；只保留发现线索，不采用索引门店数字或认定当前经营及新品采购权限。",
+      "admission": "candidate_indexed_primary",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作",
+      "dispatchable": false
+    },
+    {
+      "name": "宠老板 / 上海尊宠网络科技有限公司",
+      "role": "宠物门店经营系统与采购商城",
+      "source": "https://www.chonglaoban.cn/Index/shop",
+      "facts": "官方页面介绍门店进货、控价、售后、多仓发货，以及门店小程序与商城打通的一件代发。页脚列上海尊宠网络科技有限公司。",
+      "limits": "不采用自述品牌数、SKU数与门店规模；未核到AI宠物设备具体商品。软件客户、采购门店不等于我方合作网点。",
+      "admission": "operating_service_evidence_read",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作",
+      "dispatchable": false
+    },
+    {
+      "name": "瀚星科技 / 兽医首选 / 宠商首选",
+      "role": "宠物行业B2B供给与分销服务候选",
+      "source": "https://www.petcare.cn/supply_chain.html",
+      "facts": "官方搜索索引区分直销与分销品牌，并介绍设备、用品及培训营销服务。",
+      "limits": "正文访问超时，只保留官方索引；未核到智能宠物消费设备SKU，不采用自述门店或经销商总量。品牌按同一官网体系保留，不拆成多个独立渠道。",
+      "admission": "candidate_indexed_primary",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作",
+      "dispatchable": false
+    }
+  ],
+  "canonicalMerged": false,
+  "homepageMerged": false,
+  "scope": "宠物智能产品方向补缺；实际商品、平台、零售门店分别核实。"
+}

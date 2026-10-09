@@ -1,0 +1,42 @@
+{
+  "scope": "China_domestic_only",
+  "added": {
+    "name": "伊登软件",
+    "aliases": [
+      "深圳市伊登软件有限公司",
+      "Edensoft"
+    ],
+    "evidence": [
+      {
+        "source": "https://www.edensoft.com.cn/about",
+        "facts": "官网列综合AI解决方案、云与IT基础服务；咨询表单产品选项包含微软License、Azure、D365、Jetbrains、PTC、Adobe及自有AI产品。",
+        "observed": "2026-10-08",
+        "state": "primary_body_verified",
+        "limits": "咨询产品项证明有公开业务入口，不证明当前全部授权、任意Agent准入或实际合作。自有AI产品与第三方经营须区分。",
+        "role": "企业软件 · 授权产品与技术服务"
+      }
+    ],
+    "directions": [
+      "office"
+    ],
+    "companyRelationship": "not_established",
+    "dispatchable": false,
+    "operatingProfile": {
+      "businessModel": "第三方软件相关业务与自有AI解决方案并行",
+      "publicRoute": "官方咨询表单；另有合作伙伴申请导航，未读取申请细则",
+      "agentAdmission": "unknown",
+      "serviceResponsibility": "合同约定未核实",
+      "relationshipWithUs": "none_established"
+    }
+  },
+  "followupLeads": [
+    {
+      "name": "上海南洋万邦软件技术有限公司",
+      "source": "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+      "verifiedScope": "微软官方Surface Hub经销商名单",
+      "websiteAdded": false,
+      "gap": "需另核实软件业务与当前经营入口；设备经销不能推定Agent经营"
+    }
+  ],
+  "signedWithUs": false
+}

@@ -1,0 +1,35 @@
+{
+  "checkedOn": "2026-10-08",
+  "scope": "domestic_only",
+  "websiteMerged": false,
+  "records": [
+    {
+      "name": "魏县辰午网络科技有限公司",
+      "role": "教育设备项目供应商",
+      "direction": "learning",
+      "region": "河北魏县",
+      "source": "https://www.ccgp.gov.cn/cggg/dfgg/zbgg/202507/t20250728_25047345.htm",
+      "sourceDate": "2025-07-28",
+      "facts": "公告确认其中标五所学校AI教学设备项目，标的包含教学应用系统、机器人和开源硬件软件",
+      "status": "verified_historical_procurement_actor_not_ready_for_display",
+      "gaps": [
+        "自营业务与持续经营未核实",
+        "项目履约结果未核实",
+        "新品引入与代理范围未核实",
+        "不属于我方合作网络"
+      ]
+    },
+    {
+      "name": "云南金中鸣科技有限公司",
+      "source": "https://www.ccgp.gov.cn/cggg/dfgg/zbgg/202507/t20250711_24948974.htm",
+      "status": "search_lead_only_access_403"
+    },
+    {
+      "name": "DFRobot / 蘑菇云",
+      "source": "https://www.dfrobot.cn/about",
+      "status": "manufacturer_ecosystem_not_independent_distributor",
+      "facts": "自有硬件和教育生态；不作为新增独立经销商计数"
+    }
+  ],
+  "method": "中标公告定位经营者，随后核对自身业务、连续项目及产品相关性；中标不是已履约或可接任何新品的证明"
+}

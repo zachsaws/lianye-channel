@@ -1,0 +1,50 @@
+{
+  "observed": "2026-10-08",
+  "countPolicy": "独立增补研究文件，尚未合并或增加canonical数量",
+  "records": [
+    {
+      "name": "传新科技",
+      "role": [
+        "专业音视频分销",
+        "系统集成",
+        "技术支持"
+      ],
+      "direction": [
+        "creative",
+        "office"
+      ],
+      "source": "https://www.dmtpro.com/index.php?a=lists&catid=27",
+      "evidence": "公司官网介绍专业音视频分销、系统设计、安装与维护；品牌目录含软件与硬件",
+      "boundary": "不能推断接受我方新品、报价或代理合同；2018经销名单只作历史线索",
+      "status": "public_scope_verified_not_partner"
+    },
+    {
+      "name": "软通动力（软通云渠道合作）",
+      "role": [
+        "云服务渠道支持",
+        "咨询交付"
+      ],
+      "direction": [
+        "office"
+      ],
+      "source": "https://www.isscloud.com/template/app/services/Cooperate_ph.html",
+      "evidence": "官方页面介绍云产品伙伴合作、结算、技术与营销支持",
+      "boundary": "特定云厂商合作模式，不等于第三方消费Agent经销路径；规模不作当前确认",
+      "status": "public_scope_verified_not_partner"
+    },
+    {
+      "name": "郑州腾佑科技",
+      "role": [
+        "区域云服务代理线索",
+        "AI应用本地服务线索"
+      ],
+      "direction": [
+        "office"
+      ],
+      "source": "https://qianfan.cloud.baidu.com/qianfandev/topic/686774",
+      "evidence": "百度2025-11-12活动报道列为渠道代理并介绍本地化服务",
+      "boundary": "尚未回查经营者当前官网与主体信息，不加入官网展示",
+      "status": "brand_side_lead_operator_verification_pending"
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "status": "content_candidate_not_published",
+  "groups": [
+    {
+      "key": "companion",
+      "label": "陪伴与亲子"
+    },
+    {
+      "key": "learning",
+      "label": "学习与教育"
+    },
+    {
+      "key": "wearable",
+      "label": "运动与穿戴"
+    },
+    {
+      "key": "home",
+      "label": "家庭与空间"
+    },
+    {
+      "key": "office",
+      "label": "办公与生产力"
+    },
+    {
+      "key": "creative",
+      "label": "创作与数码"
+    }
+  ],
+  "entries": [
+    {
+      "name": "凯知乐",
+      "direction": "companion",
+      "directionLabel": "陪伴与亲子",
+      "displayTag": "玩具 / 品牌运营与分销",
+      "source": "https://www.kidslandchina.com/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "迅合行",
+      "direction": "companion",
+      "directionLabel": "陪伴与亲子",
+      "displayTag": "玩具 / 经销与TOYS STAR零售",
+      "source": "https://www.china-toy-expo.com/exhibitor/RT-TRADING-CO-LTD-6885",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "上海贝杰",
+      "direction": "companion",
+      "directionLabel": "陪伴与亲子",
+      "displayTag": "亲子与潮玩 / 品牌代理",
+      "source": "https://www.babiesjoy.com.cn/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "永华嘉业",
+      "direction": "companion",
+      "directionLabel": "陪伴与亲子",
+      "displayTag": "亲子玩具 / 渠道运营与礼赠",
+      "source": "https://www.china-toy-expo.com/media_center/detail?id=17117",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "孩子王",
+      "direction": "companion",
+      "directionLabel": "陪伴与亲子",
+      "displayTag": "亲子 / 商品与会员运营",
+      "source": "https://static.cninfo.com.cn/finalpage/2025-08-19/1224502088.pdf",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "爱婴室",
+      "direction": "companion",
+      "directionLabel": "陪伴与亲子",
+      "displayTag": "母婴童 / 连锁零售",
+      "source": "https://www.aiyingshi.com/Shop/index.aspx",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "玩具反斗城",
+      "direction": "companion",
+      "directionLabel": "陪伴与亲子",
+      "displayTag": "玩具 / 试玩与家庭零售",
+      "source": "https://www.toysruschina.com/zh-cn/aboutus.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "TOP TOY",
+      "direction": "companion",
+      "directionLabel": "陪伴与亲子",
+      "displayTag": "潮玩 / 零售与IP经营",
+      "source": "https://www.toptoyglobal.com/about/8.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "璞康",
+      "direction": "learning",
+      "directionLabel": "学习与教育",
+      "displayTag": "科创教育 / 方案与品牌运营",
+      "source": "https://legoeducation.cn/zh-cn/shop/find-reseller/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "七色花",
+      "direction": "learning",
+      "directionLabel": "学习与教育",
+      "displayTag": "幼教 / 多品牌玩教具与课程资源",
+      "source": "https://www.qisehua.cn/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "华森葳",
+      "direction": "learning",
+      "directionLabel": "学习与教育",
+      "displayTag": "幼教 / 教具代理与园所配置",
+      "source": "https://www.huasenwei.com/mine.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "九机",
+      "direction": "learning",
+      "directionLabel": "学习与教育",
+      "displayTag": "科技零售 / 西南",
+      "source": "https://www2.9ji.com/doc/1/43",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "三夫户外",
+      "direction": "wearable",
+      "directionLabel": "运动与穿戴",
+      "displayTag": "户外 / 零售、赛事与集采",
+      "source": "https://sanfo.com/about/general.asp",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "顺电",
+      "direction": "wearable",
+      "directionLabel": "运动与穿戴",
+      "displayTag": "数码家电 / 零售与团购",
+      "source": "https://www.sundan.com/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "九机",
+      "direction": "wearable",
+      "directionLabel": "运动与穿戴",
+      "displayTag": "科技零售 / 西南",
+      "source": "https://www2.9ji.com/doc/1/43",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "爱施德",
+      "direction": "wearable",
+      "directionLabel": "运动与穿戴",
+      "displayTag": "通讯 / 分销订货",
+      "source": "https://vip4.aisidi.com/index.aspx",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "DK-AI",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "智能家居 / 多品牌集成销售",
+      "source": "https://dk-ai.com/moveAbout.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "好享家",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "家居 / 安装与系统集成",
+      "source": "https://www.hosjoy.com/dfx.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "音联邦",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "家庭影音 / 品牌运营与方案设计",
+      "source": "https://www.sz-ua.com/know/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "京东五星电器",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "家电家居 / 场景零售",
+      "source": "https://5star.jd.com/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "顺电",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "数码家电 / 零售与团购",
+      "source": "https://www.sundan.com/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "东方购物",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "内容零售 / 电视与移动成交",
+      "source": "https://www.smg.cn/review/202504/0166357.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "苏宁易购",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "零售与分销 / 政企采购",
+      "source": "https://cc.suning.com/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "小米有品",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "精品零售 / 商户选品",
+      "source": "https://zhaoshang.xiaomiyoupin.com/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "科力普",
+      "direction": "office",
+      "directionLabel": "办公与生产力",
+      "displayTag": "企业采购 / 礼品与福利",
+      "source": "https://fuli.colipu.com/customized.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "欧菲斯",
+      "direction": "office",
+      "directionLabel": "办公与生产力",
+      "displayTag": "企业采购 / 办公IT与物资",
+      "source": "https://www.officemate.cn/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "得力集实",
+      "direction": "office",
+      "directionLabel": "办公与生产力",
+      "displayTag": "企业采购 / 办公与礼赠",
+      "source": "https://www.jslink.com/page/99efdccc0199efdccc5aff8080810000",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "领先未来",
+      "direction": "office",
+      "directionLabel": "办公与生产力",
+      "displayTag": "企业采购 / 办公与礼品供给",
+      "source": "https://open.sunyur.com/market/00000000025.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "史泰博中国",
+      "direction": "office",
+      "directionLabel": "办公与生产力",
+      "displayTag": "企业采购 / 办公与营销物资",
+      "source": "https://trade.icbc.com.cn/shopstore/company.jhtml?shopId=002005",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "英迈中国",
+      "direction": "office",
+      "directionLabel": "办公与生产力",
+      "displayTag": "技术分销 / 经销商订货",
+      "source": "https://cn.ingrammicro.com.cn/site/vendor/index",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "美承",
+      "direction": "creative",
+      "directionLabel": "创作与数码",
+      "displayTag": "数码零售 / 企业IT服务",
+      "source": "https://www.mcebg.com/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "翰林汇",
+      "direction": "creative",
+      "directionLabel": "创作与数码",
+      "displayTag": "ICT / 分销与融合零售",
+      "source": "https://www.highly.com.cn/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "长虹佳华",
+      "direction": "creative",
+      "directionLabel": "创作与数码",
+      "displayTag": "ICT / 分销与方案服务",
+      "source": "https://www2.changhongit.com/about/profile/value-added-commerical.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "神州数码",
+      "direction": "creative",
+      "directionLabel": "创作与数码",
+      "displayTag": "ICT / 授权分销",
+      "source": "https://www.apple.com.cn/buy/reseller/distributor.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "伟仕佳杰",
+      "direction": "creative",
+      "directionLabel": "创作与数码",
+      "displayTag": "ICT / 消费电子与企业服务",
+      "source": "https://www.vstecs.com/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "南天远通",
+      "direction": "creative",
+      "directionLabel": "创作与数码",
+      "displayTag": "数码 / 平台店铺经营",
+      "source": "https://www.apple.com.cn/buy/reseller/internet.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "方正易通",
+      "direction": "creative",
+      "directionLabel": "创作与数码",
+      "displayTag": "数码 / 银行APP商城",
+      "source": "https://www.apple.com.cn/buy/reseller/internet.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "诚顺供应链",
+      "direction": "creative",
+      "directionLabel": "创作与数码",
+      "displayTag": "数码 / 内容平台店铺",
+      "source": "https://www.apple.com.cn/buy/reseller/internet.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "上海锐能体育用品有限公司",
+      "direction": "wearable",
+      "directionLabel": "运动与穿戴",
+      "displayTag": "运动专业零售",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "sourceType": "supplement_read",
+      "selectionReason": "补充不同专业经营角色；不推成通用新品准入",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "北京广世天运",
+      "direction": "wearable",
+      "directionLabel": "运动与穿戴",
+      "displayTag": "骑行产品渠道",
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "sourceType": "supplement_read",
+      "selectionReason": "补充不同专业经营角色；不推成通用新品准入",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "圣谛影音智能 / 上海森笛电子科技有限公司",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "全宅智能交付",
+      "source": "https://www.sentimenthifi.com/n_s.asp?nid=14",
+      "sourceType": "supplement_read",
+      "selectionReason": "补充不同专业经营角色；不推成通用新品准入",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "上海卓渤智能科技有限公司",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "影音定制安装",
+      "source": "https://avstyle.cn/web/sales-network.html",
+      "sourceType": "supplement_read",
+      "selectionReason": "补充不同专业经营角色；不推成通用新品准入",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "福建博盛智能科技有限公司",
+      "direction": "home",
+      "directionLabel": "家庭与空间",
+      "displayTag": "区域影音渠道",
+      "source": "https://avstyle.cn/web/sales-network.html",
+      "sourceType": "supplement_read",
+      "selectionReason": "补充不同专业经营角色；不推成通用新品准入",
+      "relationship": "未建立合作"
+    }
+  ],
+  "notes": [
+    "这是首屏编辑集合，不是全集或可调用资产。",
+    "开屏集合不显示数量，全部渠道继续保留后台。",
+    "跨类主体合理重叠；同一分类不复制条目。",
+    "眼镜验配仅与需要该能力的产品相关，不能泛化到所有穿戴产品。",
+    "新目录中历史记录与信息不足主体不进入开屏。",
+    "2026-10-07相关性复查：撤下仅有邻近场景依据的开屏项；眼镜验配与租赁服务留作针对具体新品的候补。"
+  ],
+  "reserves": [
+    {
+      "name": "美承",
+      "direction": "learning",
+      "directionLabel": "学习与教育",
+      "displayTag": "数码零售 / 企业IT服务",
+      "source": "https://www.mcebg.com/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作",
+      "reserveReason": "缺少与这一产品方向直接相关的销售依据，或只在更窄的使用条件下适用。"
+    },
+    {
+      "name": "中信书店",
+      "direction": "learning",
+      "directionLabel": "学习与教育",
+      "displayTag": "文化零售 / 书店与文创",
+      "source": "https://static.cninfo.com.cn/finalpage/2026-03-17/1225012376.PDF",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作",
+      "reserveReason": "缺少与这一产品方向直接相关的销售依据，或只在更窄的使用条件下适用。"
+    },
+    {
+      "name": "西西弗",
+      "direction": "learning",
+      "directionLabel": "学习与教育",
+      "displayTag": "文化零售 / 文创与团购",
+      "source": "https://www.sisyphe.com.cn/index.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作",
+      "reserveReason": "缺少与这一产品方向直接相关的销售依据，或只在更窄的使用条件下适用。"
+    },
+    {
+      "name": "九木杂物社",
+      "direction": "learning",
+      "directionLabel": "学习与教育",
+      "displayTag": "生活文创 / 多品类零售",
+      "source": "https://www.mg-pen.com/chenguangbrand/info.aspx?itemid=30",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作",
+      "reserveReason": "缺少与这一产品方向直接相关的销售依据，或只在更窄的使用条件下适用。"
+    },
+    {
+      "name": "宝岛眼镜",
+      "direction": "wearable",
+      "directionLabel": "运动与穿戴",
+      "displayTag": "专业验配服务",
+      "source": "https://jyw.tjtc.edu.cn/company/index/sxid/120/id/2957.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作",
+      "reserveReason": "缺少与这一产品方向直接相关的销售依据，或只在更窄的使用条件下适用。"
+    },
+    {
+      "name": "毛源昌",
+      "direction": "wearable",
+      "directionLabel": "运动与穿戴",
+      "displayTag": "眼镜 / 专业验配与交付",
+      "source": "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/136e469f9db540c7987467dde77f07ca",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作",
+      "reserveReason": "缺少与这一产品方向直接相关的销售依据，或只在更窄的使用条件下适用。"
+    },
+    {
+      "name": "LOHO",
+      "direction": "wearable",
+      "directionLabel": "运动与穿戴",
+      "displayTag": "眼镜 / 验配与体验",
+      "source": "https://lh5.loho88.com/",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作",
+      "reserveReason": "缺少与这一产品方向直接相关的销售依据，或只在更窄的使用条件下适用。"
+    },
+    {
+      "name": "天音通信",
+      "direction": "wearable",
+      "directionLabel": "运动与穿戴",
+      "displayTag": "通讯 / 分销与零售服务",
+      "source": "https://www.chinatelling.com/en/Tellingindustry/Tellingindustry_B2BOnlineDistribution.html",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作",
+      "reserveReason": "缺少与这一产品方向直接相关的销售依据，或只在更窄的使用条件下适用。"
+    },
+    {
+      "name": "小熊U租",
+      "direction": "office",
+      "directionLabel": "办公与生产力",
+      "displayTag": "IT设备 / 租赁与现场服务",
+      "source": "https://www.bearrental.com/index",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作",
+      "reserveReason": "缺少与这一产品方向直接相关的销售依据，或只在更窄的使用条件下适用。"
+    },
+    {
+      "name": "易点云",
+      "direction": "office",
+      "directionLabel": "办公与生产力",
+      "displayTag": "办公设备 / 租用与IT服务",
+      "source": "https://group.edianyun.com/index",
+      "selectionReason": "优先让访客看见不同经营方式；产品适配仍需按实际使用场景判断",
+      "sourceType": "existing_canonical_evidence",
+      "relationship": "未建立合作",
+      "reserveReason": "缺少与这一产品方向直接相关的销售依据，或只在更窄的使用条件下适用。"
+    }
+  ]
+}

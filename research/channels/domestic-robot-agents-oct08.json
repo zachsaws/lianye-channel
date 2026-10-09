@@ -1,0 +1,75 @@
+{
+  "checkedOn": "2026-10-08",
+  "method": "公开代理协议→自身经营与院校记录交叉核实",
+  "records": [
+    {
+      "name": "武汉京天电器有限公司",
+      "role": "机器人代理（公开协议）",
+      "market": "China",
+      "source": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002178_20260525_TMP6.pdf",
+      "documentDate": "2026-05-25",
+      "evidenceScope": "报告期内代理协议；不等于2026-10-08仍有效或可代理任意新品",
+      "currentAuthorizationVerified": false,
+      "signedWithUs": false,
+      "websiteDisplay": "pending_current_business_and_category_verification",
+      "secondaryBusinessEvidence": "https://www.heecshop.cn/company/12388"
+    },
+    {
+      "name": "杭州赫瓦机器人技术开发有限公司",
+      "role": "机器人代理（公开协议）",
+      "market": "China",
+      "source": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002178_20260525_TMP6.pdf",
+      "documentDate": "2026-05-25",
+      "evidenceScope": "报告期内代理协议；不等于2026-10-08仍有效或可代理任意新品",
+      "currentAuthorizationVerified": false,
+      "signedWithUs": false,
+      "websiteDisplay": "pending_current_business_and_category_verification"
+    },
+    {
+      "name": "深圳市华鑫立业科技有限公司",
+      "role": "机器人代理（公开协议）",
+      "market": "China",
+      "source": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002178_20260525_TMP6.pdf",
+      "documentDate": "2026-05-25",
+      "evidenceScope": "报告期内代理协议；不等于2026-10-08仍有效或可代理任意新品",
+      "currentAuthorizationVerified": false,
+      "signedWithUs": false,
+      "websiteDisplay": "pending_current_business_and_category_verification"
+    },
+    {
+      "name": "北京朝元时代科技有限公司",
+      "role": "机器人代理（公开协议）",
+      "market": "China",
+      "source": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002178_20260525_TMP6.pdf",
+      "documentDate": "2026-05-25",
+      "evidenceScope": "报告期内代理协议；不等于2026-10-08仍有效或可代理任意新品",
+      "currentAuthorizationVerified": false,
+      "signedWithUs": false,
+      "websiteDisplay": "pending_current_business_and_category_verification"
+    },
+    {
+      "name": "成都金泰尔科技发展有限公司",
+      "role": "机器人代理（公开协议）",
+      "market": "China",
+      "source": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002178_20260525_TMP6.pdf",
+      "documentDate": "2026-05-25",
+      "evidenceScope": "报告期内代理协议；不等于2026-10-08仍有效或可代理任意新品",
+      "currentAuthorizationVerified": false,
+      "signedWithUs": false,
+      "websiteDisplay": "pending_current_business_and_category_verification",
+      "institutionalEvidence": "https://www.scrc.edu.cn/contents/1019/8744.html"
+    },
+    {
+      "name": "山东振强具身智能科技有限公司",
+      "role": "机器人代理（公开协议）",
+      "market": "China",
+      "source": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002178_20260525_TMP6.pdf",
+      "documentDate": "2026-05-25",
+      "evidenceScope": "报告期内代理协议；不等于2026-10-08仍有效或可代理任意新品",
+      "currentAuthorizationVerified": false,
+      "signedWithUs": false,
+      "websiteDisplay": "pending_current_business_and_category_verification"
+    }
+  ],
+  "exclusion": "框架采购方、匿名海外主体与品牌自营不作为新增国内代理计数"
+}

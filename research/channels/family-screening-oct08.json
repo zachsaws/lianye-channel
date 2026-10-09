@@ -1,0 +1,33 @@
+{
+  "observed": "2026-10-08",
+  "records": [
+    {
+      "name": "沐诺智家",
+      "directions": [
+        "home"
+      ],
+      "role": "全屋智能 · 多品牌集成与交付",
+      "source": "https://munootech.com/cn/munoo-home-cn/",
+      "facts": "官方页面介绍多品牌全屋规划、灯光安防影音集成、勘测施工调试与维护",
+      "limits": "未证明分销网络或我方关系；仅适合有系统兼容与交付需求的家庭产品路径",
+      "disposition": "candidate_display_role_verified"
+    },
+    {
+      "name": "TOYHIVE / HiveFun",
+      "directions": [
+        "companion"
+      ],
+      "source": "https://toyhive.com.cn/",
+      "facts": "官方自述IP潮玩代理分销，主营盲盒、手办、毛绒与积木，总部广州",
+      "limits": "缺少互动电子与AI陪伴经营证据；品牌主体中文名称未核实",
+      "disposition": "research_only_not_display"
+    },
+    {
+      "name": "新派宠物",
+      "source": "https://www.newpet.cn/col.jsp?id=105",
+      "facts": "搜索索引显示进口宠物品牌代理；官方正文获取失败",
+      "limits": "未核实智能设备经营范围，不能加入",
+      "disposition": "lead_access_gap_not_display"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "scope": "domestic_only",
+  "purpose": "发现国内亲子渠道的角色缺口，避免玩具制造商充当销售通路",
+  "existingOperatorDeepened": "凯知乐",
+  "newLeads": [
+    {
+      "name": "艾赐魔袋儿童",
+      "source": "https://www.asmokids.com.cn/",
+      "state": "official_search_index_only_body_error",
+      "decision": "hold",
+      "reason": "索引披露游戏引进及分销，但AI产品相关经营范围和准入尚未核实，不加入展示库"
+    },
+    {
+      "name": "怡高科教",
+      "source": "https://www.china-toy-expo.com/exhibitor/EASTCOLIGHT-HONGKONG-LIMITED-7181",
+      "decision": "exclude_as_channel_operator",
+      "reason": "制造商与品牌自身拥有渠道，不等于可经营第三方新品的独立渠道主体"
+    },
+    {
+      "name": "智多娃",
+      "source": "https://www.zhiduowatoys.com/",
+      "decision": "exclude_as_channel_operator",
+      "reason": "定制制造为主，不能用制造客户或礼品客户冒充销售渠道"
+    }
+  ],
+  "thesisCorrection": "成熟品牌运营商已有选品、消费者洞察、品牌组合与渠道运营，AI差异不能简化为我们懂选品而他们只搬货。待证明的机会是跨品牌和跨项目复用经验，并比较产品变化后的成立条件。",
+  "displayAdded": 0
+}

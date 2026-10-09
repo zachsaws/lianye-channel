@@ -1,0 +1,1251 @@
+{
+  "displayCount": 99,
+  "researchCount": 219,
+  "meaning": "公开市场主体的来源映射，不证明与我们合作",
+  "missingSources": [],
+  "rows": [
+    {
+      "name": "智玩店",
+      "recordNames": [
+        "智玩店"
+      ],
+      "sources": [
+        "https://zhiwandian.com/"
+      ],
+      "directions": [
+        "companion",
+        "learning",
+        "wearable"
+      ]
+    },
+    {
+      "name": "凯知乐",
+      "recordNames": [
+        "凯知乐"
+      ],
+      "sources": [
+        "https://www.kidslandchina.com/"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "璞康",
+      "recordNames": [
+        "璞康"
+      ],
+      "sources": [
+        "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "九机",
+      "recordNames": [
+        "九机"
+      ],
+      "sources": [
+        "https://www.9ji.com/doc/15/74",
+        "https://www2.9ji.com/doc/1/43"
+      ],
+      "directions": [
+        "learning",
+        "wearable",
+        "office",
+        "creative",
+        "home"
+      ]
+    },
+    {
+      "name": "顺电",
+      "recordNames": [
+        "顺电"
+      ],
+      "sources": [
+        "https://www.intellif.com/DrLook",
+        "https://www.sundan.com/"
+      ],
+      "directions": [
+        "companion",
+        "learning",
+        "wearable",
+        "home"
+      ]
+    },
+    {
+      "name": "科力普",
+      "recordNames": [
+        "科力普"
+      ],
+      "sources": [
+        "https://fuli.colipu.com/customized.html",
+        "https://www.colipu.com/category3-digitalcommunications-colipu-digitalvoicerecorder-digitalvoicerecorder-13255183.html"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "柏斯音乐",
+      "recordNames": [
+        "柏斯音乐"
+      ],
+      "sources": [
+        "https://www.parsonsmusic.com.cn/shanghai/"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "传新科技",
+      "recordNames": [
+        "传新科技"
+      ],
+      "sources": [
+        "https://www.dmtpro.com/index.php?a=lists&catid=27"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "DK-AI",
+      "recordNames": [
+        "DK-AI"
+      ],
+      "sources": [
+        "https://dk-ai.com/moveAbout.html"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "沐诺智家",
+      "recordNames": [
+        "沐诺智家"
+      ],
+      "sources": [
+        "https://munootech.com/cn/munoo-home-cn/"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "博士／总统眼镜",
+      "recordNames": [
+        "博士 / 总统眼镜"
+      ],
+      "sources": [
+        "https://www.xreal.com/cn/stores"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "E宠",
+      "recordNames": [
+        "E宠 / 重庆易宠科技有限公司"
+      ],
+      "sources": [
+        "https://item.epet.com/658869.html"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "INNO100",
+      "recordNames": [
+        "INNO100"
+      ],
+      "sources": [
+        "https://inno100.ai/",
+        "https://inno100.ai/menu"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "三夫户外",
+      "recordNames": [
+        "三夫户外"
+      ],
+      "sources": [
+        "https://sanfo.com/about/general.asp"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "西域",
+      "recordNames": [
+        "西域"
+      ],
+      "sources": [
+        "https://www.ehsy.com/category-51697"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "七色花",
+      "recordNames": [
+        "七色花"
+      ],
+      "sources": [
+        "https://www.qisehua.cn/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "迅合行",
+      "recordNames": [
+        "迅合行"
+      ],
+      "sources": [
+        "https://www.china-toy-expo.com/exhibitor/RT-TRADING-CO-LTD-6885"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "雅登乐器",
+      "recordNames": [
+        "雅登乐器"
+      ],
+      "sources": [
+        "https://www.actonchina.com/about"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "美承",
+      "recordNames": [
+        "美承"
+      ],
+      "sources": [
+        "https://www.mcebg.com/"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "Robot Mall",
+      "recordNames": [
+        "Robot Mall"
+      ],
+      "sources": [
+        "https://kfqgw.beijing.gov.cn/ywdt/gdcyfzgd/zncx/202604/t20260422_4602253.html"
+      ],
+      "directions": [
+        "companion",
+        "home"
+      ]
+    },
+    {
+      "name": "中智关爱通",
+      "recordNames": [
+        "中智关爱通"
+      ],
+      "sources": [
+        "https://www.guanaitong.com/benefit/index.html",
+        "https://www.guanaitong.com/m/news/article-91-343058-1.html"
+      ],
+      "directions": [
+        "home",
+        "creative"
+      ]
+    },
+    {
+      "name": "陶朱新造局",
+      "recordNames": [
+        "陶朱新造局"
+      ],
+      "sources": [
+        "https://sgdaily.shougang.com.cn/sgrb/2026/03/23/77027.html",
+        "https://www.xreal.com/cn/stores"
+      ],
+      "directions": [
+        "companion",
+        "learning",
+        "wearable",
+        "home",
+        "office",
+        "creative"
+      ]
+    },
+    {
+      "name": "上海贝杰",
+      "recordNames": [
+        "上海贝杰"
+      ],
+      "sources": [
+        "https://www.babiesjoy.com.cn/"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "华森葳",
+      "recordNames": [
+        "华森葳"
+      ],
+      "sources": [
+        "https://www.huasenwei.com/mine.html"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "爱施德",
+      "recordNames": [
+        "爱施德"
+      ],
+      "sources": [
+        "https://vip4.aisidi.com/index.aspx"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "好享家",
+      "recordNames": [
+        "好享家"
+      ],
+      "sources": [
+        "https://www.hosjoy.com/dfx.html"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "欧菲斯",
+      "recordNames": [
+        "欧菲斯"
+      ],
+      "sources": [
+        "https://www.officemate.cn/"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "翰林汇",
+      "recordNames": [
+        "翰林汇"
+      ],
+      "sources": [
+        "https://www.highly.com.cn/"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "永华嘉业",
+      "recordNames": [
+        "永华嘉业"
+      ],
+      "sources": [
+        "https://www.china-toy-expo.com/media_center/detail?id=17117"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "新烨数码",
+      "recordNames": [
+        "广州新烨数码科技股份有限公司"
+      ],
+      "sources": [
+        "https://www.xinyeshuma.com/Service.html"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "上海锐能体育",
+      "recordNames": [
+        "上海锐能体育用品有限公司"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "音联邦",
+      "recordNames": [
+        "音联邦"
+      ],
+      "sources": [
+        "https://www.sz-ua.com/know/"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "得力集实",
+      "recordNames": [
+        "得力集实"
+      ],
+      "sources": [
+        "https://www.jslink.com/page/99efdccc0199efdccc5aff8080810000"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "长虹佳华",
+      "recordNames": [
+        "长虹佳华"
+      ],
+      "sources": [
+        "https://www2.changhongit.com/about/profile/value-added-commerical.html"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "孩子王",
+      "recordNames": [
+        "孩子王"
+      ],
+      "sources": [
+        "https://static.cninfo.com.cn/finalpage/2025-08-19/1224502088.pdf"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "乐博士机器人",
+      "recordNames": [
+        "西安乐博士机器人有限公司"
+      ],
+      "sources": [
+        "https://www.chinarobotc.com/portal/page/index.html?id=3",
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "北京广世天运",
+      "recordNames": [
+        "北京广世天运"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "京东五星电器",
+      "recordNames": [
+        "京东五星电器"
+      ],
+      "sources": [
+        "https://5star.jd.com/"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "领先未来",
+      "recordNames": [
+        "领先未来"
+      ],
+      "sources": [
+        "https://open.sunyur.com/market/00000000025.html"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "神州数码",
+      "recordNames": [
+        "神州数码"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/distributor.html"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "爱婴室",
+      "recordNames": [
+        "爱婴室"
+      ],
+      "sources": [
+        "https://www.aiyingshi.com/Shop/index.aspx"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "欣欣相融",
+      "recordNames": [
+        "欣欣相融教育科技（北京）有限公司"
+      ],
+      "sources": [
+        "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "上海天授",
+      "recordNames": [
+        "上海天授电子科技有限公司"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "东方购物",
+      "recordNames": [
+        "东方购物"
+      ],
+      "sources": [
+        "https://www.smg.cn/review/202504/0166357.html"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "史泰博",
+      "recordNames": [
+        "史泰博中国"
+      ],
+      "sources": [
+        "https://srm.stbchina.cn/settled?mode=supplicer",
+        "https://trade.icbc.com.cn/shopstore/company.jhtml?shopId=002005",
+        "https://www.stbchina.cn/index.html"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "伟仕佳杰",
+      "recordNames": [
+        "伟仕佳杰"
+      ],
+      "sources": [
+        "https://web.vstecs.com/jingang/ITS.html",
+        "https://web.vstecs.com/jingang/cloud-computing.html",
+        "https://www.vstecs.com/",
+        "https://www.vstecs.com/business/business.html"
+      ],
+      "directions": [
+        "creative",
+        "office"
+      ]
+    },
+    {
+      "name": "玩具反斗城",
+      "recordNames": [
+        "玩具反斗城"
+      ],
+      "sources": [
+        "https://www.toysruschina.com/zh-cn/aboutus.html"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "东莞博思",
+      "recordNames": [
+        "东莞市博思电子数码科技有限公司"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "百纳海通",
+      "recordNames": [
+        "深圳市百纳海通科技有限公司"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "苏宁易购",
+      "recordNames": [
+        "苏宁易购"
+      ],
+      "sources": [
+        "https://cc.suning.com/"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "英迈中国",
+      "recordNames": [
+        "英迈中国"
+      ],
+      "sources": [
+        "https://cn.ingrammicro.com.cn/site/vendor/index"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "南天远通",
+      "recordNames": [
+        "南天远通"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "TOP TOY",
+      "recordNames": [
+        "TOP TOY"
+      ],
+      "sources": [
+        "https://www.toptoyglobal.com/about/8.html"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "元擎智造",
+      "recordNames": [
+        "上海元擎智造教育科技有限公司"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "河南图图",
+      "recordNames": [
+        "河南图图电子产品有限公司"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/",
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "小米有品",
+      "recordNames": [
+        "小米有品"
+      ],
+      "sources": [
+        "https://zhaoshang.xiaomiyoupin.com/"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "齐心",
+      "recordNames": [
+        "齐心"
+      ],
+      "sources": [
+        "https://open.qx.com/",
+        "https://ssc.comix.com.cn/"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "方正易通",
+      "recordNames": [
+        "方正易通"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "广东瑞华行",
+      "recordNames": [
+        "广东瑞华行"
+      ],
+      "sources": [
+        "https://www.danielco.com.cn/"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "司麦尔",
+      "recordNames": [
+        "江苏司麦尔信息科技有限公司"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "南京易尔路",
+      "recordNames": [
+        "南京易尔路贸易有限公司"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "圣谛影音智能",
+      "recordNames": [
+        "圣谛影音智能 / 上海森笛电子科技有限公司"
+      ],
+      "sources": [
+        "https://www.sentimenthifi.com/n_s.asp?nid=14"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "一线达通",
+      "recordNames": [
+        "一线达通"
+      ],
+      "sources": [
+        "https://city-office.com.cn/goods.php?id=1169613",
+        "https://city-office.com.cn/us/about_us/introduction/"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "诚顺供应链",
+      "recordNames": [
+        "诚顺供应链"
+      ],
+      "sources": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "中亿孕婴",
+      "recordNames": [
+        "中亿孕婴"
+      ],
+      "sources": [
+        "https://www.zyyy.cn/about"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "巍高电子",
+      "recordNames": [
+        "杭州巍高电子科技有限公司"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "沈阳恒宇",
+      "recordNames": [
+        "沈阳佳明恒宇科技有限公司"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "卓渤智能",
+      "recordNames": [
+        "上海卓渤智能科技有限公司"
+      ],
+      "sources": [
+        "https://avstyle.cn/web/sales-network.html"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "禹亮科技",
+      "recordNames": [
+        "上海禹亮信息科技有限公司"
+      ],
+      "sources": [
+        "https://www.yulianggroup.cn/company/"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "长秦城",
+      "recordNames": [
+        "广州市长秦城乐器有限公司"
+      ],
+      "sources": [
+        "https://www.musicgw.com/"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "Z·Pilot",
+      "recordNames": [
+        "模速 AI 体验店"
+      ],
+      "sources": [
+        "https://edu.sh.gov.cn/study_cn_news/20260716/2c5fca5994d84a2e8ed2f9e6e76e14fb.html",
+        "https://www.gzw.sh.gov.cn/shgzw_xwzx_xwfb/20250430/dad835aa92b64ae8b8fdefcd04bb2874.html",
+        "https://www.intellif.com/DrLook"
+      ],
+      "directions": [
+        "companion",
+        "wearable",
+        "office",
+        "creative"
+      ]
+    },
+    {
+      "name": "凡课科技",
+      "recordNames": [
+        "武汉凡课科技有限公司"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "天津正睿",
+      "recordNames": [
+        "天津正睿商贸有限公司"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/",
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "博盛智能",
+      "recordNames": [
+        "福建博盛智能科技有限公司"
+      ],
+      "sources": [
+        "https://avstyle.cn/web/sales-network.html"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "盛世鼎元",
+      "recordNames": [
+        "盛世鼎元"
+      ],
+      "sources": [
+        "https://www.ssdy.shop/"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "雷电音频",
+      "recordNames": [
+        "雷电音频"
+      ],
+      "sources": [
+        "https://leidianaudio.com/index.html"
+      ],
+      "directions": [
+        "creative"
+      ]
+    },
+    {
+      "name": "童真时代",
+      "recordNames": [
+        "东莞童真时代商贸有限公司"
+      ],
+      "sources": [
+        "https://www.china-toy-expo.com/exhibitor/Dongguan-Childlike-Times-Trading-Co-Ltd--10527"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "创首科技",
+      "recordNames": [
+        "创首科技（武汉）有限公司"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "杭州迪吉特",
+      "recordNames": [
+        "杭州迪吉特科技有限公司"
+      ],
+      "sources": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "directions": [
+        "wearable"
+      ]
+    },
+    {
+      "name": "重百电器",
+      "recordNames": [
+        "重庆重百科技集团股份有限公司"
+      ],
+      "sources": [
+        "https://static.cninfo.com.cn/finalpage/2026-08-25/1225496525.PDF",
+        "https://www.ecovacs.cn/buy"
+      ],
+      "directions": [
+        "home"
+      ]
+    },
+    {
+      "name": "阿里云云市场",
+      "recordNames": [
+        "阿里云云市场"
+      ],
+      "sources": [
+        "https://market.aliyun.com/common/marketpartner",
+        "https://market.aliyun.com/detail/cmgj00074089"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "商博士",
+      "recordNames": [
+        "浙江商博士品牌管理有限公司"
+      ],
+      "sources": [
+        "https://www.china-toy-expo.com/exhibitor/Zhejiang-SUNBOSE-Brand-Management-Co-Ltd--6819"
+      ],
+      "directions": [
+        "companion"
+      ]
+    },
+    {
+      "name": "宏曜电子",
+      "recordNames": [
+        "南京宏曜电子科技有限公司"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "坤昇健行",
+      "recordNames": [
+        "上海坤昇健行信息科技有限公司"
+      ],
+      "sources": [
+        "https://www.ksjx365.cn/",
+        "https://www.ksjx365.cn/products_show.aspx?id=477"
+      ],
+      "directions": [
+        "wearable",
+        "office"
+      ]
+    },
+    {
+      "name": "华为云云商店",
+      "recordNames": [
+        "华为云云商店"
+      ],
+      "sources": [
+        "https://marketplace.huaweicloud.com/"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "芯数养电子",
+      "recordNames": [
+        "上海芯数养电子科技有限公司"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "汇通达",
+      "recordNames": [
+        "汇通达"
+      ],
+      "sources": [
+        "https://htd.cn/businessServices/consumer.html"
+      ],
+      "directions": [
+        "wearable",
+        "home",
+        "creative"
+      ]
+    },
+    {
+      "name": "罗布教育",
+      "recordNames": [
+        "成都罗布教育科技有限公司"
+      ],
+      "sources": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "北京图书大厦",
+      "recordNames": [
+        "北京图书大厦"
+      ],
+      "sources": [
+        "https://services.youxuepai.com/branches/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "雁文轩书店",
+      "recordNames": [
+        "雁文轩书店"
+      ],
+      "sources": [
+        "https://services.youxuepai.com/branches/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "大众书局",
+      "recordNames": [
+        "江苏大众书局图书文化有限公司"
+      ],
+      "sources": [
+        "https://services.youxuepai.com/branches/",
+        "https://www.dazo.com.cn/"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "信誉楼",
+      "recordNames": [
+        "信誉楼百货集团有限公司"
+      ],
+      "sources": [
+        "https://services.youxuepai.com/branches/",
+        "https://www.xinyulou.cn/index/about/companyProfile.html"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "武汉京天电器",
+      "recordNames": [
+        "武汉京天电器"
+      ],
+      "sources": [
+        "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002178_20260525_TMP6.pdf",
+        "https://www.heecshop.cn/company/12388"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "山东振强具身智能",
+      "recordNames": [
+        "山东振强具身智能"
+      ],
+      "sources": [
+        "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/002178_20260525_TMP6.pdf",
+        "https://zcc.jnxy.edu.cn/info/1025/3835.htm"
+      ],
+      "directions": [
+        "learning"
+      ]
+    },
+    {
+      "name": "AI机器时代",
+      "recordNames": [
+        "AI机器时代"
+      ],
+      "sources": [
+        "https://www.aijqsd.com/about.html",
+        "https://www.intellif.com/DrLook"
+      ],
+      "directions": [
+        "companion",
+        "learning"
+      ]
+    },
+    {
+      "name": "上海亿嘟",
+      "recordNames": [
+        "上海亿嘟"
+      ],
+      "sources": [
+        "https://www.yidutrading.com/en/about-us-3/",
+        "https://www.yidutrading.com/en/contact-us/"
+      ],
+      "directions": [
+        "companion",
+        "learning"
+      ]
+    },
+    {
+      "name": "伊登软件",
+      "recordNames": [
+        "伊登软件"
+      ],
+      "sources": [
+        "https://www.edensoft.com.cn/about",
+        "https://www.edensoft.com.cn/applyPartner"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "上海以和",
+      "recordNames": [
+        "上海以和"
+      ],
+      "sources": [
+        "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+        "https://yiheit.net/关于我们/"
+      ],
+      "directions": [
+        "office"
+      ]
+    },
+    {
+      "name": "南洋万邦",
+      "recordNames": [
+        "南洋万邦"
+      ],
+      "sources": [
+        "https://nysoftland.inesa.com/shnywb_panner/List/index.htm"
+      ],
+      "directions": [
+        "office",
+        "creative"
+      ]
+    }
+  ]
+}

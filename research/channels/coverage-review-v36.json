@@ -1,0 +1,12 @@
+{
+  "uniqueDisplayEntries": 76,
+  "directions": {
+    "companion": 14,
+    "learning": 18,
+    "wearable": 19,
+    "home": 16,
+    "office": 12,
+    "creative": 15
+  },
+  "countsOverlap": true
+}

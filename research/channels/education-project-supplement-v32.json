@@ -1,0 +1,62 @@
+{
+  "round": 8,
+  "records": [
+    {
+      "name": "上海优必杰教育科技有限公司",
+      "role": "高校机器人实训项目供应主体",
+      "source": "https://czzx.ecust.edu.cn/cms/contentwh/download.htm?attachmentid=dbb734362d664e4abb831b3648442340",
+      "sourceEventDate": "2025-11-29",
+      "facts": "华东理工大学采购公告列该公司为中标供应商，具体标的含优必选ERXJ101和TX20；评审推荐理由涉及实施与售后方案。",
+      "admission": "award_document_read",
+      "limits": "中标不等于已交付或验收；与优必选股权及授权关系未核，不能认定为独立第三方总代，也不能推广为家庭零售。",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作",
+      "dispatchable": false,
+      "procurementContext": "institutional_education",
+      "deliveryVerified": false
+    },
+    {
+      "name": "广州合源信息科技有限公司",
+      "role": "职业学校实训项目集成候选",
+      "source": "https://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260920_27366162.htm",
+      "sourceEventDate": "2026-09-20",
+      "facts": "官方搜索索引列其服务标的含开源人形双足教育机器人平台、多拟态教学机器人和课程资源包。",
+      "admission": "candidate_indexed_primary",
+      "limits": "正文访问403；索引可支持发现项目供应主体，尚缺完整品牌型号、合同、验收与经营范围核实。",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作",
+      "dispatchable": false,
+      "procurementContext": "institutional_education",
+      "deliveryVerified": false
+    },
+    {
+      "name": "内蒙古鄂尔多斯市新华书店有限公司",
+      "role": "学校创客教室项目供货候选",
+      "source": "https://www.ordosggzyjy.org.cn/TPFront/ReadAttachFile.aspx?AttachID=22f04a5e-fd63-4ef8-9e8e-92a3604d5dd1",
+      "facts": "公共交易平台附件索引列三所学校创客教室采购，供应主体为该公司，含Makeblock机器人。",
+      "admission": "candidate_indexed_primary",
+      "limits": "正文读取超时，公告日期尚未从正文确认；这支持机构项目线索，不证明所有新华书店门店经营机器人，也不证明家庭商品采购入口。",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作",
+      "dispatchable": false,
+      "procurementContext": "institutional_education",
+      "deliveryVerified": false
+    },
+    {
+      "name": "山东思盟电子科技有限公司",
+      "role": "教育设备项目供应候选",
+      "source": "https://ggzy.qingdao.gov.cn/c/TradeDetals-ZtbShow/121255-5070-1-2-0/e56cbc2f-dfc8-4b6f-9e18-5b3ae803c15f-B03CE5B6FC1D2D3C2D5FCEBC39AA2406.html",
+      "facts": "公共交易平台官方索引列该公司为中标主体，商品包含Makeblock程小奔及桌面机器人。",
+      "admission": "historical_indexed_primary",
+      "limits": "正文读取超时；公告时间未从正文确认，索引显示为数年前材料，只保留历史经营线索。不是当前新品开放准入或经营效果证据。",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作",
+      "dispatchable": false,
+      "procurementContext": "institutional_education",
+      "deliveryVerified": false
+    }
+  ],
+  "canonicalMerged": false,
+  "homepageMerged": false,
+  "scope": "教育机构供货，不归作家庭学习零售"
+}

@@ -1,0 +1,50 @@
+{
+  "status": "current_file_integrity_audit_not_live_source_revalidation",
+  "display": 78,
+  "canonicalRecords": 195,
+  "errors": [],
+  "directionReview": [],
+  "limits": "来源存在和身份关联不等于事实足够、当前准入或销售价值。未据此验收网站。",
+  "directionReviewResolved": [
+    {
+      "name": "美承",
+      "resolution": "saved_primary_evidence_supports_market_direction; canonical_metadata_synced"
+    },
+    {
+      "name": "方正易通",
+      "resolution": "saved_primary_evidence_supports_market_direction; canonical_metadata_synced"
+    },
+    {
+      "name": "上海锐能体育",
+      "resolution": "saved_primary_evidence_supports_market_direction; canonical_metadata_synced"
+    },
+    {
+      "name": "北京广世天运",
+      "resolution": "saved_primary_evidence_supports_market_direction; canonical_metadata_synced"
+    },
+    {
+      "name": "圣谛影音智能",
+      "resolution": "saved_primary_evidence_supports_market_direction; canonical_metadata_synced"
+    },
+    {
+      "name": "卓渤智能",
+      "resolution": "saved_primary_evidence_supports_market_direction; canonical_metadata_synced"
+    },
+    {
+      "name": "博盛智能",
+      "resolution": "saved_primary_evidence_supports_market_direction; canonical_metadata_synced"
+    },
+    {
+      "name": "陶朱新造局",
+      "resolution": "saved_primary_evidence_supports_market_direction; canonical_metadata_synced"
+    },
+    {
+      "name": "中智关爱通",
+      "resolution": "saved_primary_evidence_supports_market_direction; canonical_metadata_synced"
+    },
+    {
+      "name": "Robot Mall",
+      "resolution": "saved_primary_evidence_supports_market_direction; canonical_metadata_synced"
+    }
+  ]
+}

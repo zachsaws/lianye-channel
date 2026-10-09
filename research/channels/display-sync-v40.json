@@ -1,0 +1,10 @@
+{
+  "actors": 78,
+  "sameOrderedIds": true,
+  "targets": [
+    "outputs/官网重构_v36_Clay/index.html",
+    "work/clay-material-study-v36/site/index.html",
+    "work/network-layout-v39/site/index.html"
+  ],
+  "scope": "只验证展示主体与顺序一致，不证明设计或实际合作"
+}

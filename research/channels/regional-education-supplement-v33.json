@@ -1,0 +1,229 @@
+{
+  "round": 10,
+  "sourceMethod": "逐省读取官方采购器材选择器，按主体去重；未发送消息或申请",
+  "sourceProvinceEntries": 31,
+  "uniqueListedEntities": 11,
+  "records": [
+    {
+      "name": "合肥爱骆卜科技培训学校有限公司",
+      "id": "f99ee2d7c66b",
+      "listedProvinces": [
+        "安徽省"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "西安乐博士机器人有限公司",
+      "id": "0188eb4bebe3",
+      "listedProvinces": [
+        "北京市",
+        "河北省",
+        "河南省",
+        "黑龙江省",
+        "吉林省",
+        "辽宁省",
+        "内蒙古自治区",
+        "宁夏回族自治区",
+        "山东省",
+        "山西省",
+        "陕西省",
+        "天津市"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "东莞市博思电子数码科技有限公司",
+      "id": "4b77c06ffdb4",
+      "listedProvinces": [
+        "重庆市",
+        "福建省",
+        "甘肃省",
+        "广东省",
+        "广西壮族自治区",
+        "贵州省",
+        "海南省",
+        "青海省",
+        "四川省",
+        "西藏自治区",
+        "新疆维吾尔自治区",
+        "云南省"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "武汉凡课科技有限公司",
+      "id": "70f9b9aa981a",
+      "listedProvinces": [
+        "湖北省"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "创首科技（武汉）有限公司",
+      "id": "76eb573f4526",
+      "listedProvinces": [
+        "湖南省",
+        "江西省"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "南京宏曜电子科技有限公司",
+      "id": "7c99353f8dbb",
+      "listedProvinces": [
+        "江苏省"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "江苏司麦尔信息科技有限公司",
+      "id": "548e72343a0f",
+      "listedProvinces": [
+        "江苏省"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "上海元擎智造教育科技有限公司",
+      "id": "c08fcf7a2e9a",
+      "listedProvinces": [
+        "上海市"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "上海芯数养电子科技有限公司",
+      "id": "0f5fdcad9cc7",
+      "listedProvinces": [
+        "上海市"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "成都罗布教育科技有限公司",
+      "id": "ad924f3c1b7d",
+      "listedProvinces": [
+        "四川省"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "杭州巍高电子科技有限公司",
+      "id": "44e28c266f28",
+      "listedProvinces": [
+        "浙江省"
+      ],
+      "source": "https://www.vex.com.cn/contacts/",
+      "facts": "VEX官方采购器材省份选择器展示该主体。",
+      "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+      "directions": [
+        "learning"
+      ],
+      "role": "institutional_supply",
+      "admission": "rendered_purchase_directory_read",
+      "observed": "2026-10-07",
+      "companyRelationship": "not_established",
+      "dispatchable": false
+    }
+  ]
+}

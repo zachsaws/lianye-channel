@@ -1,0 +1,30 @@
+{
+  "observed": "2026-10-08",
+  "displayAdded": 0,
+  "records": [
+    {
+      "name": "宠老板 / 上海尊宠网络科技有限公司",
+      "source": "https://www.chonglaoban.cn/Index/shop",
+      "facts": "本轮实际浏览器正文确认宠物店进货商城及用品、主粮、药品等供给，页脚经营主体为上海尊宠网络科技有限公司。",
+      "limits": "未核到消费级智能宠物设备SKU；硬件购买导航可能指店务设备，不能据此认定宠物AI硬件销售能力。",
+      "state": "rendered_procurement_business_verified",
+      "nextEvidenceNeeded": "具体智能消费设备商品或采购目录。"
+    },
+    {
+      "name": "瀚星科技 / 兽医首选 / 宠商首选",
+      "source": "https://www.petcare.cn/supply_chain.html",
+      "facts": "本轮官方正文区分兽医首选直销B2B商城与宠商首选分销服务，含设备、器械、用品供给及培训营销；经营主体为南京瀚星信息科技有限公司。",
+      "limits": "兽用医疗器械与家用智能宠物设备不能混同；不采用门店、经销商规模，未核到智能消费设备SKU。",
+      "state": "primary_supply_chain_business_verified",
+      "nextEvidenceNeeded": "消费级智能设备的商品和服务范围。"
+    },
+    {
+      "name": "宠发发 / 天元宠物",
+      "source": "https://pc.petfafa.com/list?cat=smart",
+      "facts": "官网商城智能分类当前读取返回暂无相关商品，并显示brand标题；主页仍有智能好物和品牌馆入口。",
+      "limits": "空页面可能涉及分类或加载异常，不能断言没有业务；也不能将导航文字当作实际在售SKU。2024年披露的B2B模式不自动等于当前商城模式。",
+      "state": "current_category_display_gap",
+      "nextEvidenceNeeded": "可实际读取的商品目录及当前平台角色。"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "source": "https://www.aqara.cn/cn/business_store",
+  "observed": "2026-10-07",
+  "purpose": "品牌门店分布证据；独立经营主体与第三方新品采购权限未确认",
+  "independentOperatorsConfirmed": 0,
+  "footprints": [
+    {
+      "name": "Aqara Space 空间智能体验馆（上海普陀真北红星旗舰店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "红星美凯龙全球家居1号店（真北红星）-南馆-L5-F8058"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市宝山区汶水路红星美凯龙店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "汶水路-红星美凯龙"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市闵行区虹桥天地店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "上海市-闵行区-申长路688弄-虹桥新天地4F-17室"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市闵行区莘潮国际家居店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "沪闵路405号莘潮国际家居-L1-A022C"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市松江区盛沃园店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "繁荣路555号盛沃园区218"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市宝山区经纬汇店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "纬地路99弄-经纬汇一层"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市奉贤最家空间店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "南奉公路6119号最家空间4楼"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市松江区月星家居店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "广富林路799弄1号"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市嘉定区沪宜欧亚美店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "沪宜公路欧亚美建材家具广场B区L3-322"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市虹桥天地店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "申长路688号-虹桥天地商场"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市松江区乐迎门建材店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "松汇西路2263号二楼B区"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市浦东区滨江光合新座店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "浦东新区/浦东大道1559号滨江光合新座3F"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市浦东区上海中心店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "陆家嘴银城中路501号-上海中心大厦L20202"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市嘉定马陆欧亚美建材店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "宝安公路3690号马陆欧亚美建材家居城L4-4016"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市徐汇绿地缤纷城店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "绿地缤纷城H-B102"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市青浦万达茂店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "淀山湖大道万达茂商场B区3009A-3009B"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市浦东同福易家丽店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "浦三路1515号同福易家丽四号楼3层707"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市浦东红星美凯龙店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "金藏路158号红星美凯龙(金桥商场店)6楼F8099"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市杨浦区巴黎春天店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "淞沪路1号巴黎春天6F"
+    },
+    {
+      "name": "Aqara Home 智能家居体验馆（上海市闵行浦江万达广场店）",
+      "province_code": "310000",
+      "city_code": "310100",
+      "store_state": "open",
+      "detail_address": "浦江镇永跃路360号万达商场2F2008B"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "scope": "domestic",
+  "purpose": "证据提取和错误推断检查；不是成交模拟或AI效果实验",
+  "sources": [
+    {
+      "id": "dmt",
+      "url": "https://www.dmtpro.com/index.php?a=lists&catid=27",
+      "retrieval": "full_page",
+      "facts": [
+        "专业音视频分销",
+        "系统设计、安装与调试",
+        "售前咨询与长期维护"
+      ],
+      "unknown": [
+        "是否愿意引入通用AI软件",
+        "具体价格和账期",
+        "当前新品采购意愿"
+      ]
+    },
+    {
+      "id": "munoo",
+      "url": "https://munootech.com/cn/munoo-home-cn/",
+      "retrieval": "full_page",
+      "facts": [
+        "跨品牌设备整合",
+        "勘测施工调试与培训",
+        "远程诊断和上门维护"
+      ],
+      "unknown": [
+        "任意设备兼容性",
+        "具体接口与认证要求",
+        "新品合作意愿"
+      ]
+    },
+    {
+      "id": "booster",
+      "url": "https://www.booster.tech/zh/partnership/",
+      "retrieval": "search_index_after_page_timeout",
+      "facts": [
+        "公开代理计划提及培训认证",
+        "提及工程师支持",
+        "提及维修培训与备件支持"
+      ],
+      "unknown": [
+        "实际返点比例",
+        "代理资格细则",
+        "我们是否有授权"
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "software_not_generic",
+      "input": "新品是通用办公Agent订阅，不是专业音视频软件",
+      "source": "dmt",
+      "supported": "DMT有专业音视频软件和解决方案经营背景",
+      "mustNotInfer": "因为卖软件，所以适合任意Agent订阅",
+      "nextEvidence": "产品是否嵌入音视频工作流；渠道是否经营该类型软件授权"
+    },
+    {
+      "id": "compatibility_not_assumed",
+      "input": "新品是独立AI家庭设备，尚无生态接口资料",
+      "source": "munoo",
+      "supported": "存在跨品牌全屋方案及交付服务通路",
+      "mustNotInfer": "跨品牌整合意味着任何设备都可接入",
+      "nextEvidence": "接口、协议、安装条件及维护责任"
+    },
+    {
+      "id": "benefit_not_requirement",
+      "input": "机器人品牌公布给代理商提供培训及备件支持",
+      "source": "booster",
+      "supported": "品牌把技术与售后支持纳入合作内容",
+      "mustNotInfer": "品牌提供的权益就是每个代理商必须自有的能力，或所有品牌都同样兜底",
+      "nextEvidence": "区分品牌承担的支持、代理承担的责任与双方确认条款"
+    }
+  ],
+  "benchmarkResult": "not_run",
+  "authorizedProjectResults": 0
+}

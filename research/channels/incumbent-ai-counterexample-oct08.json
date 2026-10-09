@@ -1,0 +1,22 @@
+{
+  "checkedOn": "2026-10-08",
+  "scope": "China_domestic_only",
+  "actor": "北京永华嘉业科贸有限公司",
+  "alreadyInCandidate": true,
+  "signedWithUs": false,
+  "sources": [
+    {
+      "url": "https://yonghuajiaye.com/news-ai-practice.html",
+      "kind": "company_self_report",
+      "claims": "AI辅助运营资料和经验制度化；未独立验证效果"
+    },
+    {
+      "url": "https://www.china-toy-expo.com/media_center/17117",
+      "kind": "association_interview_company_statements",
+      "claims": "玩具母婴经营、品牌共建与场景运营；计划引入AI互动玩具，不能视为实际已销售证明"
+    }
+  ],
+  "finding": "经验沉淀与AI效率并非新公司的独占差异",
+  "effectVerified": false,
+  "decision": "不新增重复渠道、不把AI使用自述当作经营效果；后续检验跨主体条件化复用而非单企业资料整理"
+}

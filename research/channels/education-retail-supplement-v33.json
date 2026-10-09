@@ -1,0 +1,83 @@
+{
+  "round": 9,
+  "records": [
+    {
+      "name": "广州新烨数码科技股份有限公司",
+      "displayName": "新烨数码",
+      "tag": "科创教育 · 学校与机构方案",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply",
+        "integration"
+      ],
+      "source": "https://www.xinyeshuma.com/Service.html",
+      "corroboration": "https://www.xinyeshuma.com/Partner.html",
+      "facts": "官网分别说明学校与校外教育机构服务；合作伙伴页列中鸣、大疆教育、鲸鱼、童心制物、DOBOT等品牌。",
+      "limits": "多品牌信息为企业自述；不采用覆盖城市学校数字，不证明当前品牌授权、第三方AI新品准入或我方合作。",
+      "id": "d1ecc106e74f",
+      "observed": "2026-10-07",
+      "relationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "西安乐博士机器人有限公司",
+      "displayName": "乐博士机器人",
+      "tag": "机器人教育 · 器材与师训",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "source": "https://www.chinarobotc.com/portal/page/index.html?id=3",
+      "corroboration": "https://chinarobotc.com/portal/page/index.html?id=41",
+      "facts": "官网公司介绍确认西安经营主体；品牌合作页说明VEX软硬件销售代理、自有AI-KIT、课程和师训，产品导航列VEX及SolidWorks。",
+      "limits": "既有品牌销售与自有课程生态不等于任何新品都能进入；以企业自述记录，不证明我方合作和执行容量。",
+      "id": "0188eb4bebe3",
+      "observed": "2026-10-07",
+      "relationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "欣欣相融教育科技（北京）有限公司",
+      "displayName": "欣欣相融",
+      "tag": "科创教育 · 授权器材销售",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "source": "https://legoeducation.cn/zh-cn/shop/find-reseller/",
+      "corroboration": "https://legoeducation.cn/zh-cn/shop/find-distributor/",
+      "facts": "乐高教育官方学校和机构采购名单列该主体，地址为北京昌平，官网说明培训、部署及售后支持属于经销商服务。",
+      "limits": "仅确认指定品牌经销及学校机构采购路径；不证明其他产品采购权限，不将好未来旗下其他主体或校区合并为可调用网络。",
+      "id": "45bab2676d72",
+      "observed": "2026-10-07",
+      "relationship": "not_established",
+      "dispatchable": false
+    },
+    {
+      "name": "E宠 / 重庆易宠科技有限公司",
+      "displayName": "E宠",
+      "tag": "宠物用品 · 智能设备零售",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "source": "https://item.epet.com/658869.html",
+      "facts": "此前已读取商品详情：小佩PETKIT智能饮水机3代，编号658869。本轮官方商品搜索索引仍显示该产品。",
+      "limits": "本轮直接读取502，搜索索引为较旧抓取；商品展示支持相关零售品类，不证明当前库存、销量、AI新品准入或我方合作。",
+      "state": "prior_read_index_reconfirmed",
+      "id": "40b312c16295",
+      "observed": "2026-10-07",
+      "relationship": "not_established",
+      "dispatchable": false
+    }
+  ],
+  "scope": "补学校机构供给与宠物设备零售；不把销售品牌拆成渠道、不扩大授权范围"
+}

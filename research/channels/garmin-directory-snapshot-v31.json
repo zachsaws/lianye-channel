@@ -1,0 +1,3417 @@
+{
+  "sourcePage": "https://www.garmin.com.cn/buy/retailer/",
+  "readEndpoint": "https://www.garmin.com.cn/buy/get_json_data-server/cn/retailer/",
+  "observed": "2026-10-07",
+  "reportedRows": "108",
+  "rows": [
+    {
+      "add": "上海市徐汇区虹漕路421号虹漕苑61号楼5层C座",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanghai"
+        }
+      ],
+      "title": "上海天授电子科技有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "handheld"
+        },
+        {
+          "cht": "",
+          "eng": "car"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "automotive"
+        },
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921919",
+      "email": ""
+    },
+    {
+      "add": "上海市浦东新区兰花路241号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanghai"
+        }
+      ],
+      "title": "上海锐能体育用品有限公司（上海铁人运动精品店） ",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921920",
+      "email": ""
+    },
+    {
+      "add": "上海市浦东新区花木路1378号嘉里城B1-1顺电",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanghai"
+        }
+      ],
+      "title": "顺电（上海嘉里城分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921921",
+      "email": ""
+    },
+    {
+      "add": "上海市徐汇区天钥桥路859号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanghai"
+        }
+      ],
+      "title": "三夫户外（天钥桥路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921922",
+      "email": ""
+    },
+    {
+      "add": "上海杨浦区邯郸路391号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanghai"
+        }
+      ],
+      "title": "三夫户外（邯郸路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921923",
+      "email": ""
+    },
+    {
+      "add": "上海市浦东新区金桥碧云路622号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanghai"
+        }
+      ],
+      "title": "三夫户外（金桥碧云路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921924",
+      "email": ""
+    },
+    {
+      "add": "B05, 4F, Great Wall Factory Building, 11 Cheung Shun Street, Lai Chi Kok, Kowloon, Hong Kong.",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "macao"
+        }
+      ],
+      "title": "Pure Performance Distribution Limited",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "handheld"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        },
+        {
+          "cht": "",
+          "eng": "filedstore"
+        }
+      ],
+      "logo": "",
+      "tel": "+852 3568 3786",
+      "id": "921925",
+      "email": ""
+    },
+    {
+      "add": "安徽省合肥市黄山路与岳西路东南交汇处西环中心广场9栋",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "anhui"
+        }
+      ],
+      "title": "安徽中测仪器有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "handheld"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        },
+        {
+          "cht": "",
+          "eng": "automotive"
+        },
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "18605512692",
+      "id": "921926",
+      "email": ""
+    },
+    {
+      "add": "安徽省合肥市长江路98号银泰中心B1楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "anhui"
+        }
+      ],
+      "title": "无界有方智能生活馆",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921927",
+      "email": ""
+    },
+    {
+      "add": "安徽省合肥市蜀山区天鹅湖万达广场一楼BITSHOP比特数码",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "anhui"
+        }
+      ],
+      "title": "BITSHOP",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921928",
+      "email": ""
+    },
+    {
+      "add": "北京市昌平区立汤路186号甲 龙德紫金大厦2号楼606",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "北京广世天运",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "cycling"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "15901133311",
+      "id": "921929",
+      "email": ""
+    },
+    {
+      "add": "北京市东城区安定门东大街28号雍和大厦E座射箭馆（弓瞄）",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "北京坤鹏商务服务有限公司（弓瞄）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "13001153351",
+      "id": "921930",
+      "email": ""
+    },
+    {
+      "add": "北京市海淀区复兴路33号翠微大厦A座5层",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "Garmin专柜",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "13521088803",
+      "id": "921931",
+      "email": ""
+    },
+    {
+      "add": "北京西城区马甸南村2楼3号（东店）",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "三夫户外（马甸南村东店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921932",
+      "email": ""
+    },
+    {
+      "add": "北京市朝阳区朝阳公园南路1—24号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "三夫户外（公园南路店)",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921933",
+      "email": ""
+    },
+    {
+      "add": "北京市朝阳区安立路56号九台2000家园3号楼103室",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "三夫户外  (安立路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921934",
+      "email": ""
+    },
+    {
+      "add": "北京市大兴区西红门镇欣宁街15号5-01-141-SU",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "三夫户外（欣宁街店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921935",
+      "email": ""
+    },
+    {
+      "add": "北京市海淀区复兴路69号院华熙live广场东区LG-017",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "三夫户外（复兴路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921936",
+      "email": ""
+    },
+    {
+      "add": "北京市朝阳区三里屯路19号院地下一层B1-16单元",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "顺电（北京三里屯家电店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "010-64155473",
+      "id": "921937",
+      "email": ""
+    },
+    {
+      "add": "北京市东城区东直门南大街1号北京来福士购物中心4层20号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "顺电（北京东直门分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "010-84098962",
+      "id": "921938",
+      "email": ""
+    },
+    {
+      "add": "北京市朝阳区建国门外大街一号中国国际贸易中心国贸商城三期3B209",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "顺电（北京国贸家电分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "010-85351098",
+      "id": "921939",
+      "email": ""
+    },
+    {
+      "add": "北京市朝阳区酒仙桥颐堤港商场负一层",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "顺电（北京颐堤港分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "010-84260462",
+      "id": "921940",
+      "email": ""
+    },
+    {
+      "add": "北京市朝阳区湖景东路11号新奥购物中心B2层",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "顺电（北京北辰路分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "010-84378072",
+      "id": "921941",
+      "email": ""
+    },
+    {
+      "add": "北京市海淀区上地东路5-2号B703号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "北京远航信通科技有限责任公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sensor-board"
+        }
+      ],
+      "logo": "",
+      "tel": "010-82790988",
+      "id": "921942",
+      "email": ""
+    },
+    {
+      "add": "北京市大兴区西红门镇欣宁街15号院1号楼2层02E137",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "英特宜家英龙华辰数码店",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "15010234561",
+      "id": "921943",
+      "email": ""
+    },
+    {
+      "add": "北京市海淀区上地华联店三层苹果专卖店",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "上地华联苹果店",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "010-82824561",
+      "id": "921944",
+      "email": ""
+    },
+    {
+      "add": "北京市海淀区上地十街1号院5号楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "北京明图科技有限公司（北京、天津、河北、山西）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        }
+      ],
+      "logo": "",
+      "tel": "13621155533",
+      "id": "921945",
+      "email": ""
+    },
+    {
+      "add": "北京市海淀区中关村大街18号中关村科贸电子城三层",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "北京宇杰北斗科技有限公司（北京、天津、河北、山西）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        }
+      ],
+      "logo": "",
+      "tel": "18601918640",
+      "id": "921946",
+      "email": ""
+    },
+    {
+      "add": "重庆市九龙坡区谢家湾正街55号重庆华润中心万象城第L5层L598号商铺",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "chongqing"
+        }
+      ],
+      "title": "顺电（重庆万象城店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "023-68688301",
+      "id": "921947",
+      "email": ""
+    },
+    {
+      "add": "四川省成都市人民南路A世界电脑城3层",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "chongqing"
+        }
+      ],
+      "title": "成都贝嘉盛科技有限公司（四川、重庆、云南、贵州、西藏）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        }
+      ],
+      "logo": "",
+      "tel": "13658091163",
+      "id": "921948",
+      "email": ""
+    },
+    {
+      "add": "广东省广州市天河区黄埔大道中路207号伟诚商务大厦",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "广州优导信息科技有限公司（广东、广西、湖南、福建、海南）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "handheld"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        }
+      ],
+      "logo": "",
+      "tel": "13802544563",
+      "id": "921949",
+      "email": ""
+    },
+    {
+      "add": "陕西省西安市长安南路86A号长丰国际广场B座",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "gansu"
+        }
+      ],
+      "title": "陕西天脉导航信息有限公司（陕西、甘肃、青海、宁夏、新疆、河南）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        }
+      ],
+      "logo": "",
+      "tel": "13319283142",
+      "id": "921950",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市福田区振华路海外装饰大厦2栋A座1202",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "深圳市百纳海通科技有限公司（广东）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "handheld"
+        },
+        {
+          "cht": "",
+          "eng": "car"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        },
+        {
+          "cht": "",
+          "eng": "automotive"
+        }
+      ],
+      "logo": "",
+      "tel": "13714751792",
+      "id": "921951",
+      "email": ""
+    },
+    {
+      "add": "内蒙古自治区呼和浩特市赛罕区泽信青城",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "呼和浩特市极亚商贸有限公司（内蒙）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "handheld"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        }
+      ],
+      "logo": "",
+      "tel": "0471-4693550",
+      "id": "921952",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市福田区华强北路上步工业区103栋",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（深圳华强分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "75583286351",
+      "id": "921953",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市罗湖区宝安南路华润万象城5楼546、549商铺",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（深圳罗湖万象分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "75582668016",
+      "id": "921954",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市福田区福华一路3号中心城UG层062号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（深圳中心城分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "75582723768",
+      "id": "921955",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市罗湖区2001号利联太阳广场一期二楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（深圳太阳百货分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "75582393545",
+      "id": "921956",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市南山区蛇口南海大道花园城中心南区1-2楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（深圳花园城店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "13534289848",
+      "id": "921957",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市龙岗区龙翔大道与德政路交界处万科广场3F—42号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（深圳龙岗万科店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "75584502002",
+      "id": "921958",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市罗湖区深南东路99号振华大厦1-3楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（深圳东门分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "75582312575",
+      "id": "921959",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市南山区北环大道与沙河东路交界处欧洲城迪卡侬二楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（深圳欧洲城分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "75586239283",
+      "id": "921960",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市宝安区建安一路99号海雅缤纷城518铺（香缤家乐福对面）",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（深圳海雅店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "75523710535",
+      "id": "921961",
+      "email": ""
+    },
+    {
+      "add": "广东省广州市天河区天河路383号太古汇商场裙楼地铁层M12号商铺",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（广州太古汇分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "020-38088419",
+      "id": "921962",
+      "email": ""
+    },
+    {
+      "add": "广东省惠州市惠城区江北文昌一路九号华贸天地四层4115-4117号单元",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（惠州华贸分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0752-7190405",
+      "id": "921963",
+      "email": ""
+    },
+    {
+      "add": "广东省东莞市东城区东城万达广场负一楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（东莞东城万达店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0769-83751060",
+      "id": "921964",
+      "email": ""
+    },
+    {
+      "add": "广东省东莞市莞城东纵路111号愉景威尼斯广场首层",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（东莞威尼斯分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0769-22765010",
+      "id": "921965",
+      "email": ""
+    },
+    {
+      "add": "广东省东莞市长安镇东门中路1号万达广场首层",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（东莞长安万达店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0769-83003743",
+      "id": "921966",
+      "email": ""
+    },
+    {
+      "add": "广东省中山市石岐中山三路利和广场三楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（中山利和广场分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0760-88309376",
+      "id": "921967",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市福田区振华路122-5号海外装饰大厦一楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "三夫户外（振华路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921968",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市南山区南山街道南海大道2163号深圳来福士广场03层09-10号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（来福士店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921969",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市南山区南山街道华润万象天地SL410号商铺",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（大冲万象店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921970",
+      "email": ""
+    },
+    {
+      "add": "广东省深圳市宝安区新湖路99号壹方城L3-033-D-E",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "顺电（壹方城店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921971",
+      "email": ""
+    },
+    {
+      "add": "河北省石家庄市中山东路311号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "hebei"
+        }
+      ],
+      "title": "三夫户外（中山东路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921972",
+      "email": ""
+    },
+    {
+      "add": "河南省郑州市商都路与心怡路正岩大厦708室",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "henan"
+        }
+      ],
+      "title": "河南图图电子产品有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921973",
+      "email": ""
+    },
+    {
+      "add": "湖北省武汉市武昌区中北路115号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "hubei"
+        }
+      ],
+      "title": "三夫户外（中北路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921974",
+      "email": ""
+    },
+    {
+      "add": "吉林省长春市西安大路16号国际大厦C座底商",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jilin"
+        }
+      ],
+      "title": "三夫户外（西安大路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921976",
+      "email": ""
+    },
+    {
+      "add": "苏州市高新区塔园路181号龙湖狮山天街四期B178",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "顺电（苏州龙湖狮山店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921977",
+      "email": ""
+    },
+    {
+      "add": "江苏省南京市玄武区珠江路435号华海大厦七楼702室",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "南京易尔路贸易有限公司（江苏）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "car"
+        },
+        {
+          "cht": "",
+          "eng": "handheld"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        },
+        {
+          "cht": "",
+          "eng": "automotive"
+        }
+      ],
+      "logo": "",
+      "tel": "13851692699",
+      "id": "921978",
+      "email": ""
+    },
+    {
+      "add": "江苏省南京市鼓楼区中央路399号天正国际广场",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "南京久测仪器技术有限公司（江苏、浙江、上海）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        }
+      ],
+      "logo": "",
+      "tel": "025-85692880",
+      "id": "921979",
+      "email": ""
+    },
+    {
+      "add": "江苏省苏州市工业园区金鸡湖路205号1栋1033号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "顺电（苏州欧尚分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0512-62373075",
+      "id": "921980",
+      "email": ""
+    },
+    {
+      "add": "江苏省苏州市苏州工业园区旺敦路圆融时代广场7栋",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "顺电（苏州时代广场分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0512-66966106",
+      "id": "921981",
+      "email": ""
+    },
+    {
+      "add": "江苏省南通市崇川区桃源路体育馆对面中南世纪城3-4楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "顺电（南通店中南城分店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0513-55019135",
+      "id": "921982",
+      "email": ""
+    },
+    {
+      "add": "江苏省无锡市滨湖区立信大道海岸城3-4楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "顺电（无锡海岸城店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0510-85176960",
+      "id": "921983",
+      "email": ""
+    },
+    {
+      "add": "江苏省无锡市滨湖区金石路88号无锡万象城B1-47号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "顺电（无锡万象城）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0510-85176980",
+      "id": "921984",
+      "email": ""
+    },
+    {
+      "add": "江苏省南京市应天大街888号金鹰世界5楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "无界有方智能生活馆",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "null",
+      "id": "921985",
+      "email": ""
+    },
+    {
+      "add": "江苏省南京市鼓楼区中山路57号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "三夫户外（中山路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921986",
+      "email": ""
+    },
+    {
+      "add": "江苏省无锡市锡山区团结中路3号荟聚购物中心3楼3D18",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "三夫户外（团结中路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "null",
+      "id": "921987",
+      "email": ""
+    },
+    {
+      "add": "江苏省南京市玄武区进香河路31-5号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "三夫户外（香河路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921988",
+      "email": ""
+    },
+    {
+      "add": "江苏省苏州市工业园区苏州大道西158号凤凰文化广场",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "三夫户外（苏州大道店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921989",
+      "email": ""
+    },
+    {
+      "add": "辽宁省沈阳市沈河区青年大街173号佳兆业广场B110",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "liaoning"
+        }
+      ],
+      "title": "沈阳佳明恒宇科技有限公司（辽宁、吉林、黑龙江）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "handheld"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        },
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "13700010497",
+      "id": "921990",
+      "email": ""
+    },
+    {
+      "add": "辽宁省沈阳市皇姑区北陵大街20号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "liaoning"
+        }
+      ],
+      "title": "三夫户外（北陵大街店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921991",
+      "email": ""
+    },
+    {
+      "add": "辽宁省沈阳市和平区南五马路32号",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "liaoning"
+        }
+      ],
+      "title": "三夫户外（南五马路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921992",
+      "email": ""
+    },
+    {
+      "add": "山东省济南市历下区建筑新村街道山大路157号华强广场2层",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shandong"
+        }
+      ],
+      "title": "济南择善电子有限公司（山东、河北、湖北、江西）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "handheld"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        }
+      ],
+      "logo": "",
+      "tel": "13153131593",
+      "id": "921993",
+      "email": ""
+    },
+    {
+      "add": "山西省阳泉市桃北东路北国商城一层",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanxi"
+        }
+      ],
+      "title": "阳泉广源达商贸有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921994",
+      "email": ""
+    },
+    {
+      "add": "山西省太原市小店区长风街113号天美新天地五层中心银台数码集合店",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanxi"
+        }
+      ],
+      "title": "数码店（太原长风街）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "0351-8376585",
+      "id": "921995",
+      "email": ""
+    },
+    {
+      "add": "四川省成都市高新区交子大道300号悠方购物中心B15B17",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "sichuan"
+        }
+      ],
+      "title": "顺电（成都悠方店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921996",
+      "email": ""
+    },
+    {
+      "add": "四川省成都市成华区双庆路8号成都万象城4楼",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "sichuan"
+        }
+      ],
+      "title": "顺电（成都万象城分店 ）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "028-62020241",
+      "id": "921997",
+      "email": ""
+    },
+    {
+      "add": "四川省成都纱帽街8号远洋太古里MB1楼M031",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "sichuan"
+        }
+      ],
+      "title": "顺电（成都太古里店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "028-86762216",
+      "id": "921998",
+      "email": ""
+    },
+    {
+      "add": "四川省成都武侯区武侯祠大街243号附3号一层",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "sichuan"
+        }
+      ],
+      "title": "三夫户外（武侯祠大街2店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "921999",
+      "email": ""
+    },
+    {
+      "add": "天津市河东区新兆路120号 惠森花园12#-3-102 底商 新骑点俱乐部",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "tianjin"
+        }
+      ],
+      "title": "天津正睿商贸有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "922000",
+      "email": ""
+    },
+    {
+      "add": "天津市河西区乐园道9号友谊路银河国际购物中心第L3层第001",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "tianjin"
+        }
+      ],
+      "title": "顺电（天津友谊路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "022-83887906",
+      "id": "922001",
+      "email": ""
+    },
+    {
+      "add": "天津市和平区兴安路166号恒隆广场负一层B32-B33",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "tianjin"
+        }
+      ],
+      "title": "顺电（天津恒隆店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "022-59905372",
+      "id": "922002",
+      "email": ""
+    },
+    {
+      "add": "天津市河东区嘉里汇购物中心B1层B1039",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "tianjin"
+        }
+      ],
+      "title": "顺电（天津嘉里汇）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "022-24268351",
+      "id": "922003",
+      "email": ""
+    },
+    {
+      "add": "B05, 4F, Great Wall Factory Building, 11 Cheung Shun Street, Lai Chi Kok, Kowloon, Hong Kong. ",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "hongkang"
+        }
+      ],
+      "title": "Pure Performance Distribution Limited",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "handheld"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "filedstore"
+        },
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "+852 3568 3786",
+      "id": "922004",
+      "email": ""
+    },
+    {
+      "add": "浙江省杭州市西湖区黄姑山路29号颐高创业大厦606室",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "zhejiang"
+        }
+      ],
+      "title": "杭州迪吉特科技有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "car"
+        },
+        {
+          "cht": "",
+          "eng": "handheld"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        },
+        {
+          "cht": "",
+          "eng": "automotive"
+        }
+      ],
+      "logo": "",
+      "tel": "0571-89916613",
+      "id": "922005",
+      "email": ""
+    },
+    {
+      "add": "浙江省杭州市西湖区天目山路97号第一层01室-A",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "zhejiang"
+        }
+      ],
+      "title": "三夫户外（天目山路店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "922006",
+      "email": ""
+    },
+    {
+      "add": "辽宁省大连市沙河口区太原街175-6号（三夫户外大连星海广场店）",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "liaoning"
+        }
+      ],
+      "title": "三夫户外（大连店）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": "outdoorsport"
+        },
+        {
+          "cht": "",
+          "eng": "run"
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "sports-recreation"
+        }
+      ],
+      "logo": "",
+      "tel": "18645915511",
+      "id": "922007",
+      "email": ""
+    },
+    {
+      "add": "广东省广州市越秀区小北路187号广州鹏源发展大厦1002室<br>电话：020-37603630<br>邮箱：sales@rongtec.com",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "荣德电子科技有限公司（总代理）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "020-37603630",
+      "id": "922008",
+      "email": ""
+    },
+    {
+      "add": "香港九龙观塘创业街9号17楼02室<br>电话: +852 2852 1750<br>邮箱：sales@rongtec.com",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "hongkang"
+        }
+      ],
+      "title": "荣德电子科技有限公司（总代理）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "+852 2852 1750",
+      "id": "922009",
+      "email": ""
+    },
+    {
+      "add": "上海市闵行区友东路358号闵欣大厦1号楼709室<br>电话：021-52275210 / 15618790190<br>邮箱：sales@rongtec.com",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanghai"
+        }
+      ],
+      "title": "上海廓诚电子科技有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "021-52275210",
+      "id": "922010",
+      "email": ""
+    },
+    {
+      "add": "辽宁省大连市沙河口区西安路32号2-1002室<br>电话：0411-84643892 / 13898491420 / 13700097304<br>邮箱：office_ot@163.com",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "liaoning"
+        }
+      ],
+      "title": "大海电信科技有限公司（总代理）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "",
+      "id": "922011",
+      "email": ""
+    },
+    {
+      "add": "广东省广州市黄埔区茅岗路268号盛兰科创园C栋二楼228单元<br>电话：13500021272 / 15088056108<br>邮箱：vin_pme@163.com",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "广州坚海电子科技有限公司（总代理）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "+86 13500021272",
+      "id": "922012",
+      "email": ""
+    },
+    {
+      "add": "香港屯门新安街9号坚基工业大厦17楼A-03室<br>电话：+852 51201893<br>邮箱：vin_pme@163.com",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "hongkang"
+        }
+      ],
+      "title": "坚海电子科技有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "null",
+      "id": "922013",
+      "email": ""
+    },
+    {
+      "add": "广东省广州市黄埔区港前路303号和安堡商务中心6栋503室 <br>电话：13922405065<br>邮箱：captain_skywave@163.com",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangdong"
+        }
+      ],
+      "title": "广州佳力技术服务有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "+86 13922405065",
+      "id": "922014",
+      "email": ""
+    },
+    {
+      "add": "辽宁省大连市中山区碧海园12号楼一单元102室<br>电话：0411-82739399 / 15098450609 / 13940870321",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "liaoning"
+        }
+      ],
+      "title": "大连易简通讯导航工程有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "null",
+      "id": "922015",
+      "email": ""
+    },
+    {
+      "add": "福建省厦门市湖里区金钟路7号2909室<br>电话：13328318382<br>邮箱：amoylafogo@163.com",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "fujian"
+        }
+      ],
+      "title": "厦门拉弗格科技有限公司",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "null",
+      "id": "922016",
+      "email": ""
+    },
+    {
+      "add": "江苏省苏州市相城区湘太路195号2幢2楼<br>电话：0512-66100436 / 18014001902<br>邮箱：18014001902@163.com",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "jiangsu"
+        }
+      ],
+      "title": "苏州岩名机械有限公司（Fusion 产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "0512-66100436",
+      "id": "922017",
+      "email": ""
+    },
+    {
+      "add": "上海市嘉定区江桥镇曹南路20号C2栋<br>电话：18621265898/18621265898",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanghai"
+        }
+      ],
+      "title": "沃富林汽车音响改装上海店（JL AUDIO汽车音响产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "18621265898",
+      "id": "922018",
+      "email": ""
+    },
+    {
+      "add": "广州市海珠区新滘中路自编号583号岭南创意园大院3号103铺<br>电话：13724066778/13724066778",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "guangzhou"
+        }
+      ],
+      "title": "沃富林汽车音响改装广州店（JL AUDIO汽车音响产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "13724066778",
+      "id": "922019",
+      "email": ""
+    },
+    {
+      "add": "北京市西城区新街口北顺城街11号院5号楼<br>电话：19537595953/19537595953",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "beijing"
+        }
+      ],
+      "title": "沃富林汽车音响改装北京店（JL AUDIO汽车音响产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "19537595953",
+      "id": "922020",
+      "email": ""
+    },
+    {
+      "add": "上海市普陀区金沙江路1989号东楼301<br>电话：15189953079",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shanghai"
+        }
+      ],
+      "title": "上海合润众达影音设备有限公司（JL AUDIO家用音响产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "15189953079",
+      "id": "922021",
+      "email": ""
+    },
+    {
+      "add": "深圳市宝安区航城街道九围村先歌国际工业园四合院<br>电话：18816769670",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shenzhen"
+        }
+      ],
+      "title": "深圳古咚电子有限公司（JL AUDIO家用音响产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "18816769670",
+      "id": "922022",
+      "email": ""
+    },
+    {
+      "add": "宁波市鄞州区创苑路98号3幢102<br>电话：13008986519",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "ningbo"
+        }
+      ],
+      "title": "宁波晟睿杰电子科技有限公司（JL AUDIO家用音响产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "13008986519",
+      "id": "922023",
+      "email": ""
+    },
+    {
+      "add": "厦门市湖里区钟宅路67号海天广场海鸿楼3层3309<br>电话：13599919996",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "xiamen"
+        }
+      ],
+      "title": "厦门漫威智能影音科技有限责任公司（JL AUDIO家用音响产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "13599919996",
+      "id": "922024",
+      "email": ""
+    },
+    {
+      "add": "四川省成都市成华区航天路118号联东U谷2栋1单202<br>电话：13008175552",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "chengdu"
+        }
+      ],
+      "title": "成都东和盛泰贸易有限公司（JL AUDIO家用音响产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "13008175552",
+      "id": "922025",
+      "email": ""
+    },
+    {
+      "add": "汕头市龙湖珠江路46号创意广场一楼18号-19号<br>电话：13802332075",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "shantou"
+        }
+      ],
+      "title": "广东省汕头市宏音音响科技有限公司（JL AUDIO家用音响产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "13802332075",
+      "id": "922026",
+      "email": ""
+    },
+    {
+      "add": "香港北角屈臣道4-6号海景大厦B座10楼1012室<br>电话：+852 25250388",
+      "image": "",
+      "city": [
+        {
+          "cht": "",
+          "eng": "hongkong"
+        }
+      ],
+      "title": "香港雅咏音响有限公司（JL AUDIO家用音响产品）",
+      "latlon": ",",
+      "pos": "",
+      "www": "",
+      "series": [
+        {
+          "cht": "",
+          "eng": ""
+        }
+      ],
+      "cat": [
+        {
+          "cht": "",
+          "eng": "marine"
+        }
+      ],
+      "logo": "",
+      "tel": "00852-25250388",
+      "id": "922027",
+      "email": ""
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,27 @@
+{
+  "observed": "2026-10-08",
+  "scope": "China",
+  "records": [
+    {
+      "brand": "KEYI / Loona",
+      "source": "https://keyirobot.com/blogs/buying-guide/stay-safe-how-to-avoid-scam-websites-when-buying-loona-and-clicbot",
+      "facts": "2026-04-21官方经销名单列阿联酋、沙特、韩国、德国以及Amazon多国",
+      "decision": "未发现该页明确列中国经营者；不加入国内展示",
+      "boundary": "不代表中国无经销商；页面只是公开名单"
+    },
+    {
+      "brand": "Robosen",
+      "source": "https://www.robosen.com/de/where-to-buy",
+      "facts": "德国页面列Cyberport与reichelt elektronik",
+      "decision": "地域不匹配，保留国际研究线索",
+      "boundary": "不推导国内销售网络"
+    },
+    {
+      "brand": "独眼星球AI陪伴毛绒玩具",
+      "source": "https://www.bse.cn/disclosure/2026/2026-05-13/781ebff98eaa49c3bf9dea7edbdcc036.pdf",
+      "facts": "交易所披露搜索结果提到线上渠道、区域经销商分销商与快闪店进行销售验证",
+      "decision": "仅为下一步原文核实线索，没有具体经营主体",
+      "boundary": "不能把渠道类型当实际渠道名单"
+    }
+  ]
+}

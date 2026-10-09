@@ -1,0 +1,49 @@
+{
+  "scope": "domestic_only",
+  "newActor": {
+    "name": "南洋万邦",
+    "aliases": [
+      "上海南洋万邦软件技术有限公司",
+      "Nanyang Softland"
+    ],
+    "directions": [
+      "office",
+      "creative"
+    ],
+    "evidence": [
+      {
+        "source": "https://nysoftland.inesa.com/shnywb_panner/List/index.htm",
+        "facts": "企业官网列软件代理、云订阅业务、部署实施与技术服务，涵盖企业办公和创意设计软件。",
+        "observed": "2026-10-08",
+        "state": "primary_body_verified",
+        "limits": "页面含多年历史表述，不采用排名、规模与全部当前授权；不证明任意Agent准入。",
+        "role": "企业与设计软件 · 经销及技术服务"
+      }
+    ],
+    "companyRelationship": "not_established",
+    "dispatchable": false,
+    "operatingProfile": {
+      "businessModel": "软件代理与云服务、部署实施并行",
+      "softwareAdmission": "unknown",
+      "currentPurchasingIntent": "unknown",
+      "relationshipWithUs": "none_established"
+    }
+  },
+  "finding": "公开合作申请≠软件产品准入。经销业务≠任意Agent经营。部署服务≠愿意承担全部售后。",
+  "aiComparisonFields": [
+    "买家类型",
+    "收费与结算方式",
+    "供应商授权范围与日期",
+    "部署与集成要求",
+    "服务责任",
+    "现有合作入口",
+    "产品准入条件",
+    "当前采购意向"
+  ],
+  "notVerified": [
+    "新品准入",
+    "实际合作关系",
+    "采购意向",
+    "可调度执行能力"
+  ]
+}

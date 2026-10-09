@@ -1,0 +1,73 @@
+{
+  "status": "supplement_not_merged",
+  "canonicalResearchRecords": 101,
+  "homepageRecords": 85,
+  "supplementaryActors": [
+    {
+      "researchOnly": true,
+      "homepageCandidate": false,
+      "observed": "2026-10-07",
+      "relationship": "unconfirmed",
+      "newProductAdmission": "unknown",
+      "executionCapacity": "unconfirmed",
+      "independentlyVerified": false,
+      "categories": [],
+      "id": "hearing-cm",
+      "name": "聪茂听力",
+      "entity": "成都聪茂医疗器械有限公司",
+      "source": "https://www.cmtl33.com/about.aspx?mid=122",
+      "facts": "企业介绍多品牌助听器经营、听力评估、验配与后续调试维修。",
+      "roleCodes": [
+        "retail",
+        "specialist_delivery"
+      ],
+      "sector": "听力专业服务",
+      "limits": "企业自述；未核验当前资质、具体新品准入与采购权限；门店及服务数量不采用为我方覆盖。"
+    },
+    {
+      "researchOnly": true,
+      "homepageCandidate": false,
+      "observed": "2026-10-07",
+      "relationship": "unconfirmed",
+      "newProductAdmission": "unknown",
+      "executionCapacity": "unconfirmed",
+      "independentlyVerified": false,
+      "categories": [],
+      "id": "hearing-taier",
+      "name": "博音助听器（广州泰耳）",
+      "entity": "广州泰耳贸易有限公司",
+      "source": "https://www.taiermy.com/about",
+      "additionalSources": [
+        "https://www.taiermy.com/products"
+      ],
+      "facts": "企业介绍广州及周边多品牌验配服务及2023年加盟博音体系。",
+      "roleCodes": [
+        "retail",
+        "specialist_delivery"
+      ],
+      "sector": "听力专业服务",
+      "limits": "具体经营主体与全国品牌体系分开；未核验品牌授权、型号库存、资质和新品采购权限。"
+    }
+  ],
+  "counterexample": {
+    "source": "https://www.starkey.com.cn/omega-ai-series.html",
+    "fact": "厂商产品页介绍通过Pro Fit使用的生成式AI助手，支持产品、功能、软件与调节问题。",
+    "limits": "公开产品描述，未实测能力或效果；不等同于跨品牌渠道经营系统。",
+    "operatingSource": "https://www.starkey.com.cn/join-us.html",
+    "operatingFact": "加盟页描述培训与经营指导，以及特定定制机订单、生产和结算安排。",
+    "operatingLimits": "未标明政策日期；不采用成功率、无库存风险的宣传，不推成当前所有型号/经销协议。"
+  },
+  "unverifiedDiscoveries": [
+    {
+      "name": "海之声",
+      "url": "https://www.hysound.com/",
+      "access": "正文未取得"
+    },
+    {
+      "name": "声为",
+      "url": "https://www.soundwear.com.cn/",
+      "access": "读取超时"
+    }
+  ],
+  "scope": "Primary-source business research, not medical advice, company partnerships or live model evaluation"
+}

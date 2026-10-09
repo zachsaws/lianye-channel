@@ -1,0 +1,1293 @@
+{
+  "status": "local_v36_editorial_candidate",
+  "sectionTitle": "打开更多销售通路。",
+  "groups": [
+    {
+      "key": "companion",
+      "label": "陪伴与亲子"
+    },
+    {
+      "key": "learning",
+      "label": "学习与教育"
+    },
+    {
+      "key": "wearable",
+      "label": "运动与穿戴"
+    },
+    {
+      "key": "home",
+      "label": "家庭与空间"
+    },
+    {
+      "key": "office",
+      "label": "办公与生产力"
+    },
+    {
+      "key": "creative",
+      "label": "创作与数码"
+    }
+  ],
+  "items": [
+    {
+      "id": "d8085d7403f5",
+      "name": "凯知乐",
+      "tag": "玩具 · 品牌运营与分销",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ],
+      "researchRecordName": "凯知乐"
+    },
+    {
+      "id": "17f045305e3d",
+      "name": "迅合行",
+      "tag": "玩具 · 经销与TOYS STAR零售",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ],
+      "researchRecordName": "迅合行",
+      "searchTerms": [
+        "万代",
+        "BANDAI",
+        "孩之宝",
+        "HASBRO",
+        "潮玩",
+        "收藏玩具",
+        "模型",
+        "TOYS STAR"
+      ],
+      "searchTermsEvidence": "https://www.china-toy-expo.com/exhibitor/RT-TRADING-CO-LTD-6885"
+    },
+    {
+      "id": "b5c82e4d8d28",
+      "name": "上海贝杰",
+      "tag": "亲子与潮玩 · 品牌代理",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "上海贝杰"
+    },
+    {
+      "id": "e031da684934",
+      "name": "永华嘉业",
+      "tag": "亲子玩具 · 渠道运营与礼赠",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "business_purchase"
+      ],
+      "researchRecordName": "永华嘉业"
+    },
+    {
+      "id": "d8b006f5c53a",
+      "name": "孩子王",
+      "tag": "亲子 · 商品与会员运营",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "孩子王"
+    },
+    {
+      "id": "826314b8edfb",
+      "name": "爱婴室",
+      "tag": "母婴童 · 连锁零售",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "爱婴室"
+    },
+    {
+      "id": "eacf9c7ed469",
+      "name": "玩具反斗城",
+      "tag": "玩具 · 试玩与家庭零售",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "玩具反斗城"
+    },
+    {
+      "id": "169bfa147a03",
+      "name": "TOP TOY",
+      "tag": "潮玩 · 零售与IP经营",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "TOP TOY"
+    },
+    {
+      "id": "2c11ee8ae8b7",
+      "name": "璞康",
+      "tag": "科创教育 · 方案与品牌运营",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ],
+      "researchRecordName": "璞康"
+    },
+    {
+      "id": "93eed5006a03",
+      "name": "七色花",
+      "tag": "幼教 · 多品牌玩教具与课程资源",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "researchRecordName": "七色花"
+    },
+    {
+      "id": "c3c2d7ba282b",
+      "name": "华森葳",
+      "tag": "幼教 · 教具代理与园所配置",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "researchRecordName": "华森葳"
+    },
+    {
+      "id": "a14e570ad206",
+      "name": "九机",
+      "tag": "科技零售 · 西南",
+      "directions": [
+        "learning",
+        "wearable"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "九机"
+    },
+    {
+      "id": "84b12e1a8425",
+      "name": "三夫户外",
+      "tag": "户外 · 零售、赛事与集采",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "retail",
+        "business_purchase"
+      ],
+      "researchRecordName": "三夫户外"
+    },
+    {
+      "id": "876980ffaebf",
+      "name": "顺电",
+      "tag": "数码家电 · 零售与团购",
+      "directions": [
+        "wearable",
+        "home"
+      ],
+      "roles": [
+        "retail",
+        "business_purchase"
+      ],
+      "researchRecordName": "顺电"
+    },
+    {
+      "id": "745fac22c382",
+      "name": "爱施德",
+      "tag": "通讯 · 分销订货",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "爱施德"
+    },
+    {
+      "id": "aaa3dfd58ac3",
+      "name": "DK-AI",
+      "tag": "HomeKit · 单品与全宅集成销售",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ],
+      "researchRecordName": "DK-AI"
+    },
+    {
+      "id": "896ee1a6b852",
+      "name": "好享家",
+      "tag": "家居 · 安装与系统集成",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ],
+      "researchRecordName": "好享家"
+    },
+    {
+      "id": "b8b5c5478317",
+      "name": "音联邦",
+      "tag": "家庭影音 · 品牌运营与方案设计",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ],
+      "researchRecordName": "音联邦"
+    },
+    {
+      "id": "b099505d3cf0",
+      "name": "京东五星电器",
+      "tag": "家电家居 · 场景零售",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "京东五星电器"
+    },
+    {
+      "id": "70079f085246",
+      "name": "东方购物",
+      "tag": "内容零售 · 电视与移动成交",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "content_commerce"
+      ],
+      "researchRecordName": "东方购物"
+    },
+    {
+      "id": "64531367aca3",
+      "name": "苏宁易购",
+      "tag": "零售与分销 · 政企采购",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "researchRecordName": "苏宁易购"
+    },
+    {
+      "id": "c5fafdda7fc9",
+      "name": "小米有品",
+      "tag": "精品零售 · 商户选品",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "小米有品"
+    },
+    {
+      "id": "940c16cbd3b8",
+      "name": "科力普",
+      "tag": "企业采购 · 礼品与福利",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "researchRecordName": "科力普"
+    },
+    {
+      "id": "9ca454f7cd55",
+      "name": "欧菲斯",
+      "tag": "企业采购 · 办公IT与物资",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "researchRecordName": "欧菲斯"
+    },
+    {
+      "id": "ffab68e86d8e",
+      "name": "得力集实",
+      "tag": "企业采购 · 办公与礼赠",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "researchRecordName": "得力集实"
+    },
+    {
+      "id": "e15d2f8faac1",
+      "name": "领先未来",
+      "tag": "企业采购 · 办公与礼品供给",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "researchRecordName": "领先未来"
+    },
+    {
+      "id": "eaee6045df2f",
+      "name": "史泰博",
+      "tag": "企业采购 · 智能会议与福礼",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "researchRecordName": "史泰博中国"
+    },
+    {
+      "id": "e8d544c04a70",
+      "name": "英迈中国",
+      "tag": "技术分销 · 经销商订货",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "英迈中国"
+    },
+    {
+      "id": "ebc380e4d0b6",
+      "name": "美承",
+      "tag": "数码零售 · 企业IT服务",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "researchRecordName": "美承"
+    },
+    {
+      "id": "c8f0b02697d5",
+      "name": "翰林汇",
+      "tag": "ICT · 分销与融合零售",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ],
+      "researchRecordName": "翰林汇"
+    },
+    {
+      "id": "b65f08ca3fd8",
+      "name": "长虹佳华",
+      "tag": "ICT · 分销与方案服务",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ],
+      "researchRecordName": "长虹佳华"
+    },
+    {
+      "id": "b28fe6df75ae",
+      "name": "神州数码",
+      "tag": "ICT · 授权分销",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "神州数码"
+    },
+    {
+      "id": "4ba4289d934c",
+      "name": "伟仕佳杰",
+      "tag": "数码与办公设备 · 分销",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "roles": [
+        "distribution",
+        "business_purchase"
+      ],
+      "researchRecordName": "伟仕佳杰"
+    },
+    {
+      "id": "c0fc73796b71",
+      "name": "南天远通",
+      "tag": "数码 · 平台店铺经营",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "content_commerce"
+      ],
+      "researchRecordName": "南天远通"
+    },
+    {
+      "id": "4a9c0893c4b3",
+      "name": "方正易通",
+      "tag": "数码 · 银行APP商城",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "content_commerce"
+      ],
+      "researchRecordName": "方正易通"
+    },
+    {
+      "id": "478e4e04b7ca",
+      "name": "诚顺供应链",
+      "tag": "数码 · 内容平台店铺",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "content_commerce"
+      ],
+      "researchRecordName": "诚顺供应链"
+    },
+    {
+      "id": "9da5c9a8347e",
+      "name": "上海锐能体育",
+      "tag": "运动专业零售",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "specialist_retail"
+      ],
+      "researchRecordName": "上海锐能体育用品有限公司"
+    },
+    {
+      "id": "ee5a45b2c646",
+      "name": "北京广世天运",
+      "tag": "骑行产品渠道",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "specialist_retail"
+      ],
+      "researchRecordName": "北京广世天运"
+    },
+    {
+      "id": "c2b8ad3411e3",
+      "name": "圣谛影音智能",
+      "tag": "全宅智能交付",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ],
+      "fullName": "圣谛影音智能 / 上海森笛电子科技有限公司",
+      "researchRecordName": "圣谛影音智能 / 上海森笛电子科技有限公司"
+    },
+    {
+      "id": "f6de8a0c47dd",
+      "name": "卓渤智能",
+      "tag": "影音定制安装",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ],
+      "fullName": "上海卓渤智能科技有限公司",
+      "researchRecordName": "上海卓渤智能科技有限公司"
+    },
+    {
+      "id": "0cb9c4d32fbe",
+      "name": "博盛智能",
+      "tag": "区域影音渠道",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ],
+      "fullName": "福建博盛智能科技有限公司",
+      "researchRecordName": "福建博盛智能科技有限公司"
+    },
+    {
+      "id": "d1ecc106e74f",
+      "tag": "科创教育 · 学校与机构方案",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply",
+        "integration"
+      ],
+      "name": "新烨数码",
+      "researchRecordName": "广州新烨数码科技股份有限公司"
+    },
+    {
+      "id": "0188eb4bebe3",
+      "tag": "机器人教育 · 器材与师训",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "name": "乐博士机器人",
+      "researchRecordName": "西安乐博士机器人有限公司"
+    },
+    {
+      "id": "45bab2676d72",
+      "tag": "学校与机构 · 乐高教育器材",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "name": "欣欣相融",
+      "researchRecordName": "欣欣相融教育科技（北京）有限公司",
+      "searchTerms": [
+        "学校采购",
+        "机构采购",
+        "乐高教育",
+        "LEGO Education",
+        "培训",
+        "部署",
+        "售后"
+      ],
+      "searchTermsEvidence": {
+        "source": "https://legoeducation.cn/zh-cn/shop/find-reseller/",
+        "checkedAt": "2026-10-08",
+        "scope": "官方列经营主体与学校机构采购服务；不外推其他品牌准入"
+      }
+    },
+    {
+      "id": "40b312c16295",
+      "tag": "宠物用品 · 智能设备零售",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "name": "E宠",
+      "researchRecordName": "E宠 / 重庆易宠科技有限公司"
+    },
+    {
+      "id": "4b77c06ffdb4",
+      "name": "博思科教",
+      "tag": "机器人教育 · 器材与课程",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "researchRecordName": "东莞市博思电子数码科技有限公司"
+    },
+    {
+      "id": "c08fcf7a2e9a",
+      "name": "元擎智造",
+      "tag": "机器人器材 · 上海",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "researchRecordName": "上海元擎智造教育科技有限公司"
+    },
+    {
+      "id": "548e72343a0f",
+      "name": "司麦尔",
+      "tag": "机器人器材 · 江苏",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "researchRecordName": "江苏司麦尔信息科技有限公司"
+    },
+    {
+      "id": "44e28c266f28",
+      "name": "巍高电子",
+      "tag": "机器人器材 · 浙江",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "researchRecordName": "杭州巍高电子科技有限公司"
+    },
+    {
+      "id": "e4a6caeef05b",
+      "name": "上海天授",
+      "tag": "运动设备 · 上海",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "上海天授电子科技有限公司"
+    },
+    {
+      "id": "87af6769dccf",
+      "name": "百纳海通",
+      "tag": "运动设备 · 广东",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "深圳市百纳海通科技有限公司"
+    },
+    {
+      "id": "69bdc66ca823",
+      "name": "河南图图",
+      "tag": "运动设备 · 河南",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "河南图图电子产品有限公司"
+    },
+    {
+      "id": "073969d44ac4",
+      "name": "南京易尔路",
+      "tag": "运动设备 · 江苏",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "南京易尔路贸易有限公司"
+    },
+    {
+      "id": "3f3d6d495432",
+      "name": "沈阳恒宇",
+      "tag": "运动设备 · 东北",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "沈阳佳明恒宇科技有限公司"
+    },
+    {
+      "id": "4ffa55611257",
+      "name": "天津正睿",
+      "tag": "运动设备 · 天津",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "天津正睿商贸有限公司"
+    },
+    {
+      "id": "49bac66a6e61",
+      "name": "杭州迪吉特",
+      "tag": "运动设备 · 浙江",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "杭州迪吉特科技有限公司"
+    },
+    {
+      "id": "8a654b621bc9",
+      "name": "坤昇健行",
+      "tag": "运动集采 · 赛事与企业",
+      "directions": [
+        "wearable",
+        "office"
+      ],
+      "roles": [
+        "business_purchase",
+        "distribution"
+      ],
+      "researchRecordName": "上海坤昇健行信息科技有限公司"
+    },
+    {
+      "id": "757db19580f0",
+      "name": "齐心",
+      "tag": "企业采购 · 数码与共享供应链",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "researchRecordName": "齐心"
+    },
+    {
+      "id": "a2ce7cee4ebb",
+      "name": "广东瑞华行",
+      "tag": "玩具 · 多品牌代理与批零",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ],
+      "researchRecordName": "广东瑞华行",
+      "searchTerms": [
+        "万代",
+        "BANDAI",
+        "多美",
+        "TAKARA TOMY",
+        "MOOSE",
+        "MGA",
+        "银辉",
+        "SILVERLIT",
+        "成人玩具",
+        "儿童玩具",
+        "模型",
+        "传统批发"
+      ],
+      "searchTermsEvidence": "https://www.danielco.com.cn/"
+    },
+    {
+      "id": "cb362c90ae88",
+      "name": "中亿孕婴",
+      "tag": "母婴童 · 区域连锁",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "中亿孕婴"
+    },
+    {
+      "name": "智玩店",
+      "tag": "AI产品 · 集合体验与零售",
+      "directions": [
+        "companion",
+        "learning",
+        "wearable"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "id": "bd0be013e668",
+      "researchRecordName": "智玩店",
+      "searchTerms": [
+        "AI穿戴",
+        "AI潮玩",
+        "AI教育",
+        "AI健康",
+        "Rokid",
+        "影石",
+        "Insta360",
+        "科大讯飞",
+        "大疆",
+        "思必驰",
+        "韶音",
+        "学而思",
+        "优学派",
+        "有道",
+        "小天才",
+        "元萝卜"
+      ],
+      "searchTermsEvidence": {
+        "source": "https://zhiwandian.com/",
+        "checkedAt": "2026-10-08",
+        "scope": "官网自述品类及品牌；不是逐SKU现货或新品牌准入证明",
+        "excluded": "官网3家/4家门店数矛盾，未来扩张与毛利宣传不采用"
+      }
+    },
+    {
+      "name": "汇通达",
+      "tag": "消费电子 · 下沉分销",
+      "directions": [
+        "wearable",
+        "home",
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "id": "4f27cd3ff69e",
+      "researchRecordName": "汇通达"
+    },
+    {
+      "id": "70f9b9aa981a",
+      "name": "凡课科技",
+      "fullName": "武汉凡课科技有限公司",
+      "tag": "机器人器材 · 湖北",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "武汉凡课科技有限公司"
+    },
+    {
+      "id": "76eb573f4526",
+      "name": "创首科技",
+      "fullName": "创首科技（武汉）有限公司",
+      "tag": "机器人器材 · 湘赣",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "创首科技（武汉）有限公司"
+    },
+    {
+      "id": "7c99353f8dbb",
+      "name": "宏曜电子",
+      "fullName": "南京宏曜电子科技有限公司",
+      "tag": "机器人器材 · 江苏",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "南京宏曜电子科技有限公司"
+    },
+    {
+      "id": "0f5fdcad9cc7",
+      "name": "芯数养电子",
+      "fullName": "上海芯数养电子科技有限公司",
+      "tag": "机器人器材 · 上海",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "上海芯数养电子科技有限公司"
+    },
+    {
+      "id": "ad924f3c1b7d",
+      "name": "罗布教育",
+      "fullName": "成都罗布教育科技有限公司",
+      "tag": "机器人器材 · 四川",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "成都罗布教育科技有限公司"
+    },
+    {
+      "id": "585f58fdf0df",
+      "name": "博士／总统眼镜",
+      "fullName": "博士 / 总统眼镜",
+      "tag": "眼镜 · 验配与AR体验",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "博士 / 总统眼镜"
+    },
+    {
+      "id": "53330d13f0ea",
+      "name": "陶朱新造局",
+      "fullName": "陶朱新造局",
+      "tag": "机器人与智能产品 · 体验零售",
+      "directions": [
+        "companion",
+        "learning",
+        "wearable",
+        "home",
+        "office",
+        "creative"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "陶朱新造局"
+    },
+    {
+      "id": "f0018b80c315",
+      "name": "雅登乐器",
+      "tag": "专业音响与乐器 · 代理分销",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "雅登乐器"
+    },
+    {
+      "id": "20ab31675d4b",
+      "name": "柏斯音乐",
+      "tag": "乐器与录音 · 零售及售后",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "柏斯音乐"
+    },
+    {
+      "name": "INNO100",
+      "tag": "创新消费科技 · 场景体验零售",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "id": "2b4582e77d57",
+      "researchRecordName": "INNO100"
+    },
+    {
+      "name": "西域",
+      "tag": "企业采购 · 电脑与会议设备",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "id": "3436d8ce4f5a",
+      "researchRecordName": "西域"
+    },
+    {
+      "id": "22be8b92c10d",
+      "name": "中智关爱通",
+      "tag": "企业福利 · 小家电与数码潮玩",
+      "directions": [
+        "home",
+        "creative"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "researchRecordName": "中智关爱通"
+    },
+    {
+      "id": "0a64cf2aa9e7",
+      "name": "Z·Pilot",
+      "tag": "AI产品 · 穿戴与办公体验零售",
+      "directions": [
+        "companion",
+        "wearable",
+        "office",
+        "creative"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "模速 AI 体验店"
+    },
+    {
+      "id": "67a19a5dafa0",
+      "name": "Robot Mall",
+      "tag": "机器人 · 场景展售与租赁",
+      "directions": [
+        "companion",
+        "home"
+      ],
+      "roles": [
+        "retail",
+        "integration"
+      ],
+      "researchRecordName": "Robot Mall"
+    },
+    {
+      "id": "ad16cdfc11aa",
+      "name": "长秦城",
+      "tag": "乐器与录音设备 · 多品牌经营",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "广州市长秦城乐器有限公司"
+    },
+    {
+      "id": "ee179ed41e6c",
+      "name": "雷电音频",
+      "tag": "录音设备 · 专业品牌代理",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "雷电音频"
+    },
+    {
+      "id": "43c9580e9905",
+      "name": "北京图书大厦",
+      "tag": "书店 · 学习设备销售网点",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "北京图书大厦"
+    },
+    {
+      "id": "6f227aebfb3d",
+      "name": "雁文轩书店",
+      "tag": "书店 · 学习设备销售网点",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "雁文轩书店"
+    },
+    {
+      "id": "823c98487d11",
+      "name": "大众书局",
+      "tag": "书店 · 学习设备销售网点",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "江苏大众书局图书文化有限公司"
+    },
+    {
+      "id": "ff4285093588",
+      "name": "信誉楼",
+      "tag": "区域百货 · 学习设备销售网点",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "信誉楼百货集团有限公司"
+    },
+    {
+      "name": "一线达通",
+      "tag": "政企采购 · 办公与会议设备",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "procurement"
+      ],
+      "id": "cbaf03e3736e",
+      "researchRecordName": "一线达通",
+      "searchTerms": [
+        "电脑",
+        "会议设备",
+        "希沃",
+        "seewo",
+        "OPS"
+      ],
+      "searchTermsEvidence": {
+        "source": "https://city-office.com.cn/goods.php?id=1169613",
+        "checkedAt": "2026-10-08",
+        "scope": "公开商品目录，不证明现货或新品准入"
+      }
+    },
+    {
+      "name": "禹亮科技",
+      "tag": "企业会议 · 设备供货与集成",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "integrator"
+      ],
+      "id": "0c17b2577252",
+      "researchRecordName": "上海禹亮信息科技有限公司",
+      "searchTerms": [
+        "会议麦克风",
+        "会议摄像头",
+        "会议终端",
+        "思必驰",
+        "AI办公本"
+      ],
+      "searchTermsEvidence": {
+        "source": "https://www.yulianggroup.cn/company/",
+        "checkedAt": "2026-10-08",
+        "scope": "官网公开产品导航，非当前授权与现货证明"
+      }
+    },
+    {
+      "id": "a3f4561f6e80",
+      "name": "童真时代",
+      "tag": "玩具 · 电商供货与实体分销",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "东莞童真时代商贸有限公司",
+      "searchTerms": [
+        "TY",
+        "Playgro",
+        "毛绒",
+        "玩具批发"
+      ]
+    },
+    {
+      "id": "dd919a87890e",
+      "name": "商博士",
+      "tag": "玩具 · 进口品牌代理与销售",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "researchRecordName": "浙江商博士品牌管理有限公司",
+      "searchTerms": [
+        "TOYTRON",
+        "SPIN MASTER",
+        "JAKKS PACIFIC",
+        "BANDAI",
+        "进口玩具"
+      ]
+    },
+    {
+      "id": "164cca093fd1",
+      "name": "重百电器",
+      "tag": "家电零售 · 川渝区域",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "researchRecordName": "重庆重百科技集团股份有限公司",
+      "searchTerms": [
+        "商社电器",
+        "重庆",
+        "四川",
+        "科沃斯",
+        "机器人"
+      ]
+    },
+    {
+      "id": "12cd00f89454",
+      "name": "盛世鼎元",
+      "tag": "企业采购 · 数码与会议设备",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "researchRecordName": "盛世鼎元",
+      "searchTerms": [
+        "录音笔",
+        "翻译机",
+        "会议平板"
+      ],
+      "searchTermsEvidence": "https://www.ssdy.shop/"
+    },
+    {
+      "id": "1d43bf219219",
+      "name": "阿里云云市场",
+      "tag": "AI软件 · 企业应用与服务",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "software_marketplace"
+      ],
+      "researchRecordName": "阿里云云市场",
+      "searchTerms": [
+        "Agent",
+        "智能体",
+        "软件",
+        "AI办公"
+      ],
+      "searchTermsEvidence": "https://market.aliyun.com/detail/cmgj00074089"
+    },
+    {
+      "id": "c4d8c07f97ad",
+      "name": "华为云云商店",
+      "tag": "AI软件 · 企业应用与订阅",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "software_marketplace"
+      ],
+      "researchRecordName": "华为云云商店",
+      "searchTerms": [
+        "Agent",
+        "智能体",
+        "软件",
+        "AI办公"
+      ],
+      "searchTermsEvidence": "https://marketplace.huaweicloud.com/"
+    }
+  ],
+  "roleLabels": {
+    "distribution": "分销与品牌运营",
+    "retail": "多品类零售",
+    "specialist_retail": "专业零售",
+    "integration": "方案与交付",
+    "institutional_supply": "机构供给",
+    "business_purchase": "企业采购",
+    "content_commerce": "内容与平台销售"
+  },
+  "sourceSupplement": "education-retail-supplement-v33.json"
+}

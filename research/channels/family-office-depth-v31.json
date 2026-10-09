@@ -1,0 +1,66 @@
+{
+  "round": 5,
+  "records": [
+    {
+      "name": "新疆昊龙孕婴玩具",
+      "role": "区域玩具与母婴分销",
+      "source": "https://www.china-toy-expo.com/media_center/11669",
+      "facts": "2020年中玩协报道列其为省级代理，经销低幼玩具。",
+      "limits": "历史业务线索，当前经营需另核；不沿用旧门店数、营收或当年的采购意向作为当前能力。",
+      "admission": "historical_operating_evidence_read",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "广州市宝爱婴童用品有限公司",
+      "role": "区域婴童与电子玩具分销",
+      "source": "https://www.china-toy-expo.com/media_center/11669",
+      "facts": "2020年中玩协报道介绍电子、益智与婴幼儿玩具业务。",
+      "limits": "历史业务线索，当前经营需另核；不沿用旧门店数、营收或当年的采购意向作为当前能力。",
+      "admission": "historical_operating_evidence_read",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "上海申奕商贸发展有限公司",
+      "role": "母婴产品线上代理",
+      "source": "https://www.china-toy-expo.com/media_center/11669",
+      "facts": "2020年中玩协报道介绍线上母婴品牌代理，并提到拓展玩具的意向。",
+      "limits": "历史业务线索，当前经营需另核；不沿用旧门店数、营收或当年的采购意向作为当前能力。",
+      "admission": "historical_operating_evidence_read",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "办公伙伴商城 / 辽宁冠宇辰光商贸有限公司",
+      "role": "政企商品商城候选",
+      "source": "https://www.bghbsc.com/",
+      "facts": "页面公司描述列辽宁冠宇辰光；商品导航含穿戴和翻译设备分类。智能眼镜分类页本轮未读到对应在售SKU。",
+      "limits": "不能因名称办公伙伴自动归属欧菲斯；网页元信息不是法律主体独立核验，商品类目不是现货和采购权限。",
+      "admission": "existing_record_deepen",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "欧菲斯",
+      "role": "政企采购",
+      "source": "https://www.officemate.cn/",
+      "facts": "官网商品导航列会议设备和智能机器人，页脚列欧菲斯集团，另有供应商平台。",
+      "limits": "本轮分类详情未读到商品；只补目录与供应商入口，不能支持机器人现货销售或AI新品准入。",
+      "admission": "existing_record_deepen",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作"
+    },
+    {
+      "name": "优必选教育生态",
+      "role": "品牌经销与服务伙伴体系",
+      "source": "https://www.ubtrobot.com/cn/ai-education/contact",
+      "facts": "官方招募区分经销伙伴与培训、交付和售后服务伙伴。",
+      "limits": "作为教育渠道角色划分的反例依据；不是新增我方渠道，不把生产商品牌当第三方经销商。",
+      "admission": "ecosystem_reference",
+      "observed": "2026-10-07",
+      "relationship": "未建立合作"
+    }
+  ],
+  "canonicalMerged": false
+}

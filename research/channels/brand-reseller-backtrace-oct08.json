@@ -1,0 +1,49 @@
+{
+  "method": "品牌官方名单确认→经营者官网补角色→分别标注授权范围与自述能力",
+  "scope": "China_domestic_only",
+  "added": {
+    "name": "上海以和",
+    "aliases": [
+      "上海以和信息技术有限公司"
+    ],
+    "directions": [
+      "office"
+    ],
+    "evidence": [
+      {
+        "source": "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+        "facts": "微软官方Surface商用设备经销商名单列上海以和，并链接其官网。",
+        "observed": "2026-10-08",
+        "state": "brand_directory_verified",
+        "limits": "仅Surface授权范围，不证明其他软件授权或任意新品准入。"
+      },
+      {
+        "source": "https://yiheit.net/关于我们/",
+        "facts": "公司自述Surface与Microsoft 365协同交付、Windows授权、身份治理、Copilot就绪评估和批量部署；有AI应用开发业务。",
+        "observed": "2026-10-08",
+        "state": "official_self_description_verified",
+        "limits": "技术能力为公司自述，未验证效果；定制开发与第三方商品经营须区分，不证明愿意经营其他Agent。",
+        "role": "办公软硬件 · 经销与部署服务"
+      }
+    ],
+    "companyRelationship": "not_established",
+    "dispatchable": false,
+    "operatingProfile": {
+      "businessModel": "商用设备经销与软件生态部署服务",
+      "publicRoute": "官网公开邮箱电话，未联系",
+      "softwareAdmission": "unknown",
+      "currentPurchasingIntent": "unknown",
+      "relationshipWithUs": "none_established"
+    }
+  },
+  "pendingActors": [
+    "南京思亦行",
+    "广州嘉太",
+    "长天世纪",
+    "恒润浩远",
+    "成方策",
+    "中天瑞合"
+  ],
+  "pendingReason": "品牌名单提供线索，尚未逐一核实自身业务；未计入网站",
+  "signedWithUs": false
+}

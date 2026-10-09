@@ -1,0 +1,243 @@
+{
+  "title": "经销据点 | 销售网点 | Garmin 佳明官方网站",
+  "selects": [
+    {
+      "id": "",
+      "name": "",
+      "options": [
+        {
+          "value": "",
+          "label": "全部"
+        },
+        {
+          "value": ".city-anhui",
+          "label": "安徽省"
+        },
+        {
+          "value": ".city-beijing",
+          "label": "北京市"
+        },
+        {
+          "value": ".city-chongqing",
+          "label": "重庆市"
+        },
+        {
+          "value": ".city-fujian",
+          "label": "福建省"
+        },
+        {
+          "value": ".city-guangdong",
+          "label": "广东省"
+        },
+        {
+          "value": ".city-guangxi",
+          "label": "广西"
+        },
+        {
+          "value": ".city-guizhou",
+          "label": "贵州省"
+        },
+        {
+          "value": ".city-hainan",
+          "label": "海南省"
+        },
+        {
+          "value": ".city-henan",
+          "label": "河南省"
+        },
+        {
+          "value": ".city-hebei",
+          "label": "河北省"
+        },
+        {
+          "value": ".city-hunan",
+          "label": "湖南省"
+        },
+        {
+          "value": ".city-hubei",
+          "label": "湖北省"
+        },
+        {
+          "value": ".city-heilongjiang",
+          "label": "黑龙江省"
+        },
+        {
+          "value": ".city-jiangxi",
+          "label": "江西省"
+        },
+        {
+          "value": ".city-jilin",
+          "label": "吉林省"
+        },
+        {
+          "value": ".city-jiangsu",
+          "label": "江苏省"
+        },
+        {
+          "value": ".city-liaoning",
+          "label": "辽宁省"
+        },
+        {
+          "value": ".city-shanghai",
+          "label": "上海市"
+        },
+        {
+          "value": ".city-sichuan",
+          "label": "四川省"
+        },
+        {
+          "value": ".city-shanxi",
+          "label": "山西省"
+        },
+        {
+          "value": ".city-shanxi_1",
+          "label": "陕西省"
+        },
+        {
+          "value": ".city-shandong",
+          "label": "山东省"
+        },
+        {
+          "value": ".city-tianjin",
+          "label": "天津市"
+        },
+        {
+          "value": ".city-yunnan",
+          "label": "云南省"
+        },
+        {
+          "value": ".city-zhejiang",
+          "label": "浙江省"
+        }
+      ]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "class": "gh__hamburger"
+    },
+    {
+      "text": "",
+      "class": "gh__utility-bar__search"
+    },
+    {
+      "text": "",
+      "class": "hidden"
+    },
+    {
+      "text": "Close",
+      "class": "gh__search__close"
+    },
+    {
+      "text": "不区分类别",
+      "class": "filter show-all active"
+    },
+    {
+      "text": "车用产品",
+      "class": "filter"
+    },
+    {
+      "text": "运动休闲",
+      "class": "filter"
+    },
+    {
+      "text": "航海电子",
+      "class": "filter"
+    },
+    {
+      "text": "测绘采集",
+      "class": "filter"
+    },
+    {
+      "text": "航空导航",
+      "class": "filter"
+    },
+    {
+      "text": "GPS模组",
+      "class": "filter"
+    },
+    {
+      "text": "不区分系列",
+      "class": "filter show-all active"
+    },
+    {
+      "text": "客户服务",
+      "class": "gf__list__item__link zh-CN js__gf__list__item__link"
+    },
+    {
+      "text": "关于 Garmin",
+      "class": "gf__list__item__link zh-CN js__gf__list__item__link"
+    },
+    {
+      "text": "Garmin 网站",
+      "class": "gf__list__item__link zh-CN js__gf__list__item__link"
+    },
+    {
+      "text": "商业合作",
+      "class": "gf__list__item__link zh-CN js__gf__list__item__link"
+    }
+  ],
+  "structure": [
+    {
+      "tag": "TABLE",
+      "class": "cell-border hover stripe dataTable no-footer",
+      "children": [
+        {
+          "tag": "THEAD",
+          "class": ""
+        },
+        {
+          "tag": "TBODY",
+          "class": ""
+        }
+      ]
+    }
+  ],
+  "scripts": [
+    "https://hmcdn.baidu.com/static/tongji/plugins/UrlChangeTracker.js",
+    "https://hm.baidu.com/hm.js?65e0c2e7625b22d71a68c235eb713959",
+    "https://hm.baidu.com/hm.js?a50b82fc7650474469fdcc3e5c93f6b3",
+    "https://www.garmin.com.cn/m/_j/jquery/jquery.min.js?ver=1.12.4",
+    "https://www.garmin.com.cn/m/_j/jquery/jquery-migrate.min.js?ver=1.4.1",
+    "https://www.garmin.com.cn/m/_j/2017/grmn_app.js?v=1771824473",
+    "https://www.garmin.com.cn/m/_j/jquery.metadata.min.js",
+    "https://www.garmin.com.cn/m/_j/jquery.swapimage.min.js",
+    "https://www.garmin.com.cn/m/_j/jquery.jqplugin.1.0.2.min.js",
+    "https://www.garmin.com.cn/m/_j/jquery.cookie.js",
+    "https://www.garmin.com.cn/m/_j/js.cookie.js",
+    "https://www.garmin.com.cn/m/_j/swfobject.js",
+    "https://www.garmin.com.cn/m/_j/lightbox/jquery.lightbox-0.5.pack.js",
+    "https://www.garmin.com.cn/m/_j/scrolltotop/scrolltopcontrol.js",
+    "https://browser.sentry-cdn.com/8.34.0/bundle.tracing.min.js",
+    "https://consent.trustarc.com/notice?domain=none&c=teconsent&js=nj&noticeType=bb&text=true&gtm=1&pcookie",
+    "https://www.garmin.com.cn/m/_j/template/artTemplate/template.js",
+    "https://www.garmin.com.cn/m/_j/distributors/jquery.dataTables.min.js",
+    "https://www.garmin.com.cn/m/_j/distributors/jquery.mixitup.min.js",
+    "https://www.garmin.com.cn/m/_j/fancybox2/jquery.fancybox.pack.js",
+    "https://www.garmin.com.cn/m/_j/fancybox2/helpers/jquery.fancybox-media.js",
+    "https://www.garmin.com.cn/m/_j/fancybox2/jquery.mousewheel-3.0.6.pack.js",
+    "https://www.garmin.com.cn/m/_j/distributors/head.min.js",
+    "https://www.garmin.com.cn/m/_j/purl.js",
+    "https://www.garmin.com.cn/m/_j/jquery.scrollTo.min.js",
+    "https://sso.garmin.cn/sso/js/gauth-widget.js",
+    "https://www.garmin.com.cn/_js/cookie_notice.js"
+  ],
+  "companyRows": [
+    "上海天授电子科技有限公司",
+    "上海锐能体育用品有限公司（上海铁人运动精品店）",
+    "顺电（上海嘉里城分店）",
+    "三夫户外（天钥桥路店）",
+    "三夫户外（邯郸路店）",
+    "三夫户外（金桥碧云路店）",
+    "Pure Performance Distribution Limited",
+    "安徽中测仪器有限公司",
+    "无界有方智能生活馆",
+    "BITSHOP",
+    "北京广世天运",
+    "北京坤鹏商务服务有限公司（弓瞄）",
+    "Garmin专柜",
+    "三夫户外（马甸南村东店）",
+    "三夫户外（公园南路店)"
+  ]
+}

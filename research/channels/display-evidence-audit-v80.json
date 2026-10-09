@@ -1,0 +1,2571 @@
+{
+  "displayEntries": 84,
+  "mapped": 84,
+  "withURL": 84,
+  "withoutEvidence": [],
+  "unmapped": [],
+  "anyDispatchableClaim": [],
+  "relationshipStates": {
+    "not_established": 84
+  },
+  "rows": [
+    {
+      "name": "凯知乐",
+      "canonical": "凯知乐",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.kidslandchina.com/"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网导航区分品牌合作、零售、百货专柜、分销和电商平台。",
+          "limits": "直营、分销和品牌专卖不能视作相同采购入口；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "迅合行",
+      "canonical": "迅合行",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.china-toy-expo.com/exhibitor/RT-TRADING-CO-LTD-6885"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "参展企业介绍品牌经销、线上线下批零渠道、直营TOYS STAR与IP活动。",
+          "limits": "展品范围不是当前全部可供商品；公司经销关系不等于我方合作关系。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "上海贝杰",
+      "canonical": "上海贝杰",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.babiesjoy.com.cn/"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "母婴、儿童和潮玩方向品牌代理，线上线下销售与物流履约。",
+          "limits": "官方披露的既有品牌运营不等于新品牌已开放准入；未采纳覆盖量和满意率。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "永华嘉业",
+      "canonical": "永华嘉业",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.china-toy-expo.com/media_center/detail?id=17117"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "采访介绍玩具与母婴供应链、礼赠、电商、IP活动与选品协同，并提及计划引入AI互动玩具。",
+          "limits": "历史采访不能证明2026经营规模；引入AI玩具的计划不等于已跑通。未采用自述销量、品牌数与AI提效数字。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "孩子王",
+      "canonical": "孩子王",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://static.cninfo.com.cn/finalpage/2025-08-19/1224502088.pdf"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "半年报说明母婴童线上线下零售、供应商营销与数字化服务，以及面向品牌商和经销商的平台服务；另披露2025年6月自研AI智能玩具上市。",
+          "limits": "报告说明该企业已有数据、AI与自有商品经营；不证明第三方AI新品准入或我方合作，也不采用披露的规模或提效作为本公司成绩。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "爱婴室",
+      "canonical": "爱婴室",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.aiyingshi.com/Shop/index.aspx"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方店铺目录覆盖多个区域，并包含尚未开业的计划网点。",
+          "limits": "目录不得全部计入营业门店；AI新品可售品类未证实。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "玩具反斗城",
+      "canonical": "玩具反斗城",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.toysruschina.com/zh-cn/aboutus.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网介绍多品牌玩具零售、店内示范与试玩；中国介绍中的数量标为2024年1月。",
+          "limits": "玩具安全与体验条件仍需逐项核对；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "TOP TOY",
+      "canonical": "TOP TOY",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.toptoyglobal.com/about/8.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "线下零售、线上业务与IP授权经营。",
+          "limits": "IP授权与商品采购不是同一路径；未证明AI陪伴产品准入。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "璞康",
+      "canonical": "璞康",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "existing_record_deepen": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "乐高教育官方名单列上海璞康实业有限公司，说明学校和机构采购、培训部署及售后；璞康官方教育方案含科学教育与STEAM方向。",
+          "limits": "官方授权仅对应乐高教育，不转为其他AI产品的准入；集团官网AI增长描述是企业自述，不作为独立经营效果。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "乐高教育列为授权经销商，附公司网站。",
+          "limits": "不新增主体，不推出全国新品铺货能力",
+          "state": "existing_record_deepen"
+        }
+      ]
+    },
+    {
+      "name": "七色花",
+      "canonical": "七色花",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.qisehua.cn/"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网介绍引进教育资源及国际品牌合作，列科学、建构、益智等产品；中国玩协展商资料说明园所课程及家庭商品方向。",
+          "limits": "同名品牌存在其他主体，记录限定北京七色花教育科技发展有限公司；教育资源与玩教具经营不证明AI商品准入。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "华森葳",
+      "canonical": "华森葳",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.huasenwei.com/mine.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方介绍幼教产品整体服务、国际品牌代理、园所家具教具和配置安装；官方商城按托幼年龄和教学区角分类。",
+          "limits": "园所配置与家庭零售不同；第三方AI商品准入、安全与教学适用性未知；不采纳覆盖与代理品牌数量。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "九机",
+      "canonical": "九机",
+      "directions": [
+        "learning",
+        "wearable"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www2.9ji.com/doc/1/43"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网含消费电子与学习设备目录、附近门店、维修、供应商申请入口。",
+          "limits": "直营零售与技术服务生态须区分，后者不等于我方可调用门店；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "三夫户外",
+      "canonical": "三夫户外",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "retail",
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://sanfo.com/about/general.asp"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网介绍多品牌零售、活动与企业定制采购；不同业务不合并为门店能力。",
+          "limits": "综合店、单品牌店与活动合作需分别核对；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "顺电",
+      "canonical": "顺电",
+      "directions": [
+        "wearable",
+        "home"
+      ],
+      "roles": [
+        "retail",
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.sundan.com/"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网有数码家电商品、团购、会员与服务入口。",
+          "limits": "个人零售、企业购与具体退货规则须分别核对；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "爱施德",
+      "canonical": "爱施德",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://vip4.aisidi.com/index.aspx"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "分销在线服务平台有登录注册、手机、平板、穿戴和配件订货目录。",
+          "limits": "可见商品不等于已取得其品牌分销权；平台注册不等于新品牌准入；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "DK-AI",
+      "canonical": "DK-AI",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://dk-ai.com/moveAbout.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "介绍以HomeKit为起点的多品牌智能生活集成销售，以及全宅方案配置、培训和服务。",
+          "limits": "未独立核实其代理权、规模或首家定位；品牌准入、接口兼容与服务责任未知。未由香港同名注册资料推定大陆主体。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "官方关于页介绍以HomeKit为起点的单品到全宅集成销售，列举多品牌设备与方案配置、培训支持。",
+          "limits": "集团业务范围不证明具体新品准入、实际采购条件、库存或我方合作；不采用自述规模数字。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "好享家",
+      "canonical": "好享家",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.hosjoy.com/dfx.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "单分享介绍舒适智能家居采销，含冷暖主材辅材及产品采购。",
+          "limits": "产品协议、交付与服务承接待核验；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "音联邦",
+      "canonical": "音联邦",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.sz-ua.com/know/"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方介绍多品牌民用音响运营、音乐馆加盟、方案设计、技术支持与销售培训；页面含品牌中心和招商合作。",
+          "limits": "家庭影院与音响集成不同于单品零售；不证明AI商品可接入，不采纳核心经销商数量或独家权声明。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "京东五星电器",
+      "canonical": "京东五星电器",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://5star.jd.com/"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网区分京东MALL、城市旗舰店、五星门店、乡镇加盟供应链等。",
+          "limits": "京东MALL、五星门店与万镇通不能重复计算为独立合作方；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "东方购物",
+      "canonical": "东方购物",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "content_commerce"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.smg.cn/review/202504/0166357.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "2025年官方文章介绍供应链入驻、品牌营销与政企合作绿色通道。",
+          "limits": "文章限当时外贸转内销活动；不推定今天仍有同样政策或任意AI商品可入驻。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "苏宁易购",
+      "canonical": "苏宁易购",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://cc.suning.com/"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方合作门户列有零售云与政企采购入口。",
+          "limits": "零售云、零售、政企采购是不同交易路径；实际合同主体与新品准入未确认。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "小米有品",
+      "canonical": "小米有品",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://zhaoshang.xiaomiyoupin.com/"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方商户合作页区分国内、跨境供应商；列出资质审核、协议、开店及选品上架流程。",
+          "limits": "平台审核与选品仍是条件，不等于申请即可成交；不是本公司特殊准入关系。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "科力普",
+      "canonical": "科力普",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://fuli.colipu.com/customized.html",
+        "https://www.colipu.com/category3-digitalcommunications-colipu-digitalvoicerecorder-digitalvoicerecorder-13255183.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "requires_current_verification": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "定制礼品页列有企业礼盒、办公文具、生活日用和数码商品，并区分采购与渠道销售入口。",
+          "limits": "企业合同与个人采购条款不同；商品准入待核；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "搜索索引显示讯飞SR302T Pro目录，网页及浏览器实际访问未读取到商品正文。",
+          "limits": "不据索引增加品牌或型号搜索词，不采纳有货、价格、毛利或新品准入。",
+          "state": "requires_current_verification"
+        }
+      ]
+    },
+    {
+      "name": "欧菲斯",
+      "canonical": "欧菲斯",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.officemate.cn/"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "existing_record_deepen": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方商城目录有办公物资、笔记本电脑、平板及工作站等品类。",
+          "limits": "现有商品目录不等于新增商品选品条件，更不能推定任意AI新品可采购。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "官网商品导航列会议设备和智能机器人，页脚列欧菲斯集团，另有供应商平台。",
+          "limits": "本轮分类详情未读到商品；只补目录与供应商入口，不能支持机器人现货销售或AI新品准入。",
+          "state": "existing_record_deepen"
+        }
+      ]
+    },
+    {
+      "name": "得力集实",
+      "canonical": "得力集实",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.jslink.com/page/99efdccc0199efdccc5aff8080810000"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网场景页列有办公定制、商务礼赠、员工福利和数码标品定制。",
+          "limits": "仅为公开业务方向，不证明AI新品采购或当前承接容量。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "领先未来",
+      "canonical": "领先未来",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://open.sunyur.com/market/00000000025.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "采购应用目录介绍办公物资、工业品、礼品福利与智能办公。",
+          "limits": "平台目录介绍，不证明供应商准入或我方合作；不能据此承诺新增商品销售。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "史泰博",
+      "canonical": "史泰博中国",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 3,
+      "urls": [
+        "https://trade.icbc.com.cn/shopstore/company.jhtml?shopId=002005",
+        "https://www.stbchina.cn/index.html",
+        "https://srm.stbchina.cn/settled?mode=supplicer"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 2
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "工行店铺企业自传介绍B2B采购解决方案及办公、营销物资经营。",
+          "limits": "平台对企业名与店铺信息认证，不等于全部自报业务资料经认证；含2023经营时点，不证明当下覆盖或AI新品准入。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "实际渲染页面展示电脑数码采购、智能会议等场景和企业福礼业务。",
+          "limits": "公开目录及申请流程不证明AI新品适配、批准入驻、销售效果、我方关系或执行容量。",
+          "state": "primary_body_verified"
+        },
+        {
+          "facts": "实际渲染页面区分供应商自营合作，包含企业资料审核、资质复审与合同签署流程。",
+          "limits": "公开目录及申请流程不证明AI新品适配、批准入驻、销售效果、我方关系或执行容量。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "英迈中国",
+      "canonical": "英迈中国",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://cn.ingrammicro.com.cn/site/vendor/index"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方厂商目录与经销商服务入口，可证技术产品分销。",
+          "limits": "厂商名单不等于面向我方开放的采购网络；新品准入与授权需另外确认。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "美承",
+      "canonical": "美承",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.mcebg.com/"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网介绍集团零售、政教及企业业务；索电科技提供行业AI方案、智慧办公与IT采购服务。导航列Apple Vision Pro企业方案入口。",
+          "limits": "企业自述；不采用门店、营收或客户数作我方覆盖。教育方案不等于家庭新品适配；零售和企业采购主体及具体商品范围需分别核对。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "翰林汇",
+      "canonical": "翰林汇",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.highly.com.cn/"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网区分智慧分销、企业服务、线上服务、融合零售。",
+          "limits": "合作伙伴总数不可当作零售门店数或本公司覆盖；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "长虹佳华",
+      "canonical": "长虹佳华",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www2.changhongit.com/about/profile/value-added-commerical.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "业务页介绍ICT、云与XR方案、新流通、品牌综合服务和B2B交易平台。",
+          "limits": "XR产品、企业方案与区域分销是不同入口；不证明对所有AI新品开放；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "神州数码",
+      "canonical": "神州数码",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.apple.com.cn/buy/reseller/distributor.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "授权分销名单列有相关供应链公司。",
+          "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "伟仕佳杰",
+      "canonical": "伟仕佳杰",
+      "directions": [
+        "creative",
+        "office"
+      ],
+      "roles": [
+        "distribution",
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.vstecs.com/",
+        "https://www.vstecs.com/business/business.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "消费电子、企业系统、云计算与供应链业务分列。",
+          "limits": "多业务平台不等于所有新品均可采购；各业务入口分别核实。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "官网业务覆盖个人数字生活与企业信息化；业务板块及品牌展示包含配件、爱普生、奔图、惠普、虚拟现实等。",
+          "limits": "集团业务范围不证明具体新品准入、实际采购条件、库存或我方合作；不采用自述规模数字。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "南天远通",
+      "canonical": "南天远通",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "content_commerce"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "授权线上名单列有平台店铺经营主体。",
+          "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "方正易通",
+      "canonical": "方正易通",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "content_commerce"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "授权名单列有银行APP中的销售主体。",
+          "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "诚顺供应链",
+      "canonical": "诚顺供应链",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "content_commerce"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.apple.com.cn/buy/reseller/internet.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "授权线上名单列有小红书店铺经营主体。",
+          "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+          "state": "existing_scope_checked"
+        }
+      ]
+    },
+    {
+      "name": "上海锐能体育",
+      "canonical": "上海锐能体育用品有限公司",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "specialist_retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "states": {
+        "official_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "佳明零售目录列出该主体或门店；公开产品系列标记：未细分。",
+          "limits": "目录不是新品采购许可；需核对当前经营、采购权限及可引入产品。",
+          "state": "official_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "北京广世天运",
+      "canonical": "北京广世天运",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "specialist_retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.garmin.com.cn/buy/retailer/"
+      ],
+      "states": {
+        "official_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "佳明零售目录列出该主体或门店；公开产品系列标记：cycling。",
+          "limits": "目录不是新品采购许可；需核对当前经营、采购权限及可引入产品。",
+          "state": "official_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "圣谛影音智能",
+      "canonical": "圣谛影音智能 / 上海森笛电子科技有限公司",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.sentimenthifi.com/n_s.asp?nid=14"
+      ],
+      "states": {
+        "operating_evidence_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网列明全宅控制、影音系统集成与售后，并明确圣谛隶属于上海森笛。",
+          "limits": "品牌和公司归一为同一记录；项目集成能力不等于开放采购所有新品。",
+          "state": "operating_evidence_read"
+        }
+      ]
+    },
+    {
+      "name": "卓渤智能",
+      "canonical": "上海卓渤智能科技有限公司",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://avstyle.cn/web/sales-network.html"
+      ],
+      "states": {
+        "official_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "爱威官方销售网络列名及代理产品：FOCAL定制安装系列。",
+          "limits": "列名不推出其他品牌采购许可；区域以公开地址为依据，未推为全省覆盖。",
+          "state": "official_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "博盛智能",
+      "canonical": "福建博盛智能科技有限公司",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://avstyle.cn/web/sales-network.html"
+      ],
+      "states": {
+        "official_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "爱威官方销售网络列名及代理产品：FOCAL定制安装系列。",
+          "limits": "列名不推出其他品牌采购许可；区域以公开地址为依据，未推为全省覆盖。",
+          "state": "official_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "新烨数码",
+      "canonical": "广州新烨数码科技股份有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply",
+        "integration"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.xinyeshuma.com/Service.html"
+      ],
+      "states": {
+        "primary_text_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网分别说明学校与校外教育机构服务；合作伙伴页列中鸣、大疆教育、鲸鱼、童心制物、DOBOT等品牌。",
+          "limits": "多品牌信息为企业自述；不采用覆盖城市学校数字，不证明当前品牌授权、第三方AI新品准入或我方合作。",
+          "state": "primary_text_read"
+        }
+      ]
+    },
+    {
+      "name": "乐博士机器人",
+      "canonical": "西安乐博士机器人有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.chinarobotc.com/portal/page/index.html?id=3",
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "states": {
+        "primary_text_read": 1,
+        "rendered_purchase_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网公司介绍确认西安经营主体；品牌合作页说明VEX软硬件销售代理、自有AI-KIT、课程和师训，产品导航列VEX及SolidWorks。",
+          "limits": "既有品牌销售与自有课程生态不等于任何新品都能进入；以企业自述记录，不证明我方合作和执行容量。",
+          "state": "primary_text_read"
+        },
+        {
+          "facts": "VEX官方采购器材省份选择器展示该主体。",
+          "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+          "state": "rendered_purchase_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "欣欣相融",
+      "canonical": "欣欣相融教育科技（北京）有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "mapped": true,
+      "evidenceCount": 3,
+      "urls": [
+        "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+      ],
+      "states": {
+        "brand_authorization_read": 1,
+        "primary_text_read": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "乐高教育列为授权经销商，并链接学而思网站。",
+          "limits": "品牌授权不推出能采购其他新品；与学而思的主体关系和实际经营需继续核对",
+          "state": "brand_authorization_read"
+        },
+        {
+          "facts": "乐高教育官方学校和机构采购名单列该主体，地址为北京昌平，官网说明培训、部署及售后支持属于经销商服务。",
+          "limits": "仅确认指定品牌经销及学校机构采购路径；不证明其他产品采购权限，不将好未来旗下其他主体或校区合并为可调用网络。",
+          "state": "primary_text_read"
+        },
+        {
+          "facts": "本次重新读取官方正文：欣欣相融在名单内，页面明确学校和机构采购，以及培训、部署实施、售后支持。",
+          "limits": "指定品牌与机构业务，不证明家庭零售或我方合作",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "E宠",
+      "canonical": "E宠 / 重庆易宠科技有限公司",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://item.epet.com/658869.html"
+      ],
+      "states": {
+        "operating_product_evidence_read": 1,
+        "prior_read_index_reconfirmed": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "商品详情页列小佩PETKIT智能饮水机3代，编号658869；页脚列重庆易宠科技有限公司。页面同时列其他智能饮水机及耗材。",
+          "limits": "可证明宠物电器商品展示，不能证明当前库存、AI新品准入或我方合作；不引用页面月销量作为当前经营表现。",
+          "state": "operating_product_evidence_read"
+        },
+        {
+          "facts": "此前已读取商品详情：小佩PETKIT智能饮水机3代，编号658869。本轮官方商品搜索索引仍显示该产品。",
+          "limits": "本轮直接读取502，搜索索引为较旧抓取；商品展示支持相关零售品类，不证明当前库存、销量、AI新品准入或我方合作。",
+          "state": "prior_read_index_reconfirmed"
+        }
+      ]
+    },
+    {
+      "name": "博思科教",
+      "canonical": "东莞市博思电子数码科技有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "states": {
+        "rendered_purchase_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "VEX官方采购器材省份选择器展示该主体。",
+          "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+          "state": "rendered_purchase_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "元擎智造",
+      "canonical": "上海元擎智造教育科技有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "states": {
+        "rendered_purchase_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "VEX官方采购器材省份选择器展示该主体。",
+          "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+          "state": "rendered_purchase_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "司麦尔",
+      "canonical": "江苏司麦尔信息科技有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "states": {
+        "rendered_purchase_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "VEX官方采购器材省份选择器展示该主体。",
+          "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+          "state": "rendered_purchase_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "巍高电子",
+      "canonical": "杭州巍高电子科技有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "states": {
+        "rendered_purchase_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "VEX官方采购器材省份选择器展示该主体。",
+          "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+          "state": "rendered_purchase_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "上海天授",
+      "canonical": "上海天授电子科技有限公司",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "states": {
+        "official_ui_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方运动休闲经销目录列明上海天授电子科技有限公司；通过六页公开目录读取。",
+          "limits": "单一品牌经销记录；不证明多品牌采购权、其他AI新品准入、现时库存销量或我方合作。地区标签不代表完整辖区覆盖。",
+          "state": "official_ui_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "百纳海通",
+      "canonical": "深圳市百纳海通科技有限公司",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "states": {
+        "official_ui_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方运动休闲经销目录列明深圳市百纳海通科技有限公司；通过六页公开目录读取。",
+          "limits": "单一品牌经销记录；不证明多品牌采购权、其他AI新品准入、现时库存销量或我方合作。地区标签不代表完整辖区覆盖。",
+          "state": "official_ui_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "河南图图",
+      "canonical": "河南图图电子产品有限公司",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.garmin.com.cn/buy/retailer/",
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "states": {
+        "official_directory_read": 1,
+        "official_ui_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "佳明零售目录列出该主体或门店；公开产品系列标记：未细分。",
+          "limits": "目录不是新品采购许可；需核对当前经营、采购权限及可引入产品。",
+          "state": "official_directory_read"
+        },
+        {
+          "facts": "官方运动休闲经销目录列明河南图图电子产品有限公司；通过六页公开目录读取。",
+          "limits": "单一品牌经销记录；不证明多品牌采购权、其他AI新品准入、现时库存销量或我方合作。地区标签不代表完整辖区覆盖。",
+          "state": "official_ui_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "南京易尔路",
+      "canonical": "南京易尔路贸易有限公司",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "states": {
+        "official_ui_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方运动休闲经销目录列明南京易尔路贸易有限公司；通过六页公开目录读取。",
+          "limits": "单一品牌经销记录；不证明多品牌采购权、其他AI新品准入、现时库存销量或我方合作。地区标签不代表完整辖区覆盖。",
+          "state": "official_ui_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "沈阳恒宇",
+      "canonical": "沈阳佳明恒宇科技有限公司",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "states": {
+        "official_ui_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方运动休闲经销目录列明沈阳佳明恒宇科技有限公司；通过六页公开目录读取。",
+          "limits": "单一品牌经销记录；不证明多品牌采购权、其他AI新品准入、现时库存销量或我方合作。地区标签不代表完整辖区覆盖。",
+          "state": "official_ui_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "天津正睿",
+      "canonical": "天津正睿商贸有限公司",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.garmin.com.cn/buy/retailer/",
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "states": {
+        "official_directory_read": 1,
+        "official_ui_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "佳明零售目录列出该主体或门店；公开产品系列标记：未细分。",
+          "limits": "目录不是新品采购许可；需核对当前经营、采购权限及可引入产品。",
+          "state": "official_directory_read"
+        },
+        {
+          "facts": "官方运动休闲经销目录列明天津正睿商贸有限公司；通过六页公开目录读取。",
+          "limits": "单一品牌经销记录；不证明多品牌采购权、其他AI新品准入、现时库存销量或我方合作。地区标签不代表完整辖区覆盖。",
+          "state": "official_ui_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "杭州迪吉特",
+      "canonical": "杭州迪吉特科技有限公司",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.garmin.com.cn/buy/retailer/?cat=sports-recreation"
+      ],
+      "states": {
+        "official_ui_directory_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方运动休闲经销目录列明杭州迪吉特科技有限公司；通过六页公开目录读取。",
+          "limits": "单一品牌经销记录；不证明多品牌采购权、其他AI新品准入、现时库存销量或我方合作。地区标签不代表完整辖区覆盖。",
+          "state": "official_ui_directory_read"
+        }
+      ]
+    },
+    {
+      "name": "坤昇健行",
+      "canonical": "上海坤昇健行信息科技有限公司",
+      "directions": [
+        "wearable",
+        "office"
+      ],
+      "roles": [
+        "business_purchase",
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.ksjx365.cn/",
+        "https://www.ksjx365.cn/products_show.aspx?id=477"
+      ],
+      "states": {
+        "official_body_read": 2
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网描述运动装备、企业集采、赛事运营及辅助智能硬件的运动场景方案。",
+          "limits": "企业自述；不采纳品牌数、客户数和项目数，不证明AI新品已被采购。",
+          "state": "official_body_read"
+        },
+        {
+          "facts": "官方供应链页介绍多品牌运动装备集成和B端采购场景。",
+          "limits": "只支持经营类型，不证明新品准入、执行容量或我方合作。",
+          "state": "official_body_read"
+        }
+      ]
+    },
+    {
+      "name": "齐心",
+      "canonical": "齐心",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 3,
+      "urls": [
+        "https://ssc.comix.com.cn/",
+        "https://open.qx.com/"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 2
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "共享供应链平台有数码3C、家电等目录及不同企业采购标签。",
+          "limits": "企业账户、实际销售主体与商品准入不同于个人零售；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "实际渲染目录含通讯数码、电脑周边与数码3C产品，属于共享供应链采购平台。",
+          "limits": "公开目录及申请流程不证明AI新品适配、批准入驻、销售效果、我方关系或执行容量。",
+          "state": "primary_body_verified"
+        },
+        {
+          "facts": "官方介绍区分大型企业采购平台、内部系统对接与集中采购服务。",
+          "limits": "公开目录及申请流程不证明AI新品适配、批准入驻、销售效果、我方关系或执行容量。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "广东瑞华行",
+      "canonical": "广东瑞华行",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 3,
+      "urls": [
+        "https://www.danielco.com.cn/"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1,
+        "existing_scope_browser_readback": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "介绍多品牌玩具代理，成人收藏与儿童玩具方向，零售、批发和电商销售。",
+          "limits": "代理商自述渠道布局不是本公司关系；品牌授权不可转移，新AI商品准入与电子服务承接未知。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "公司官网介绍儿童及成人玩具、多品牌代理、批发零售与电商业务；分公司不另外计数。",
+          "limits": "公司公开业务说明不证明当前新品适配、总部采购权限、合作关系、经营效果或我方可调度能力。",
+          "state": "primary_body_verified"
+        },
+        {
+          "facts": "实际浏览器读取官网，确认国际玩具品牌代理、成人与儿童玩具、连锁零售供给、传统批发和线上经销自述；列出多家具体零售触点。",
+          "limits": "业务自述非我方合作，也非第三方新品准入或当前品牌授权核验。",
+          "state": "existing_scope_browser_readback"
+        }
+      ]
+    },
+    {
+      "name": "中亿孕婴",
+      "canonical": "中亿孕婴",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.zyyy.cn/about"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "母婴童商品与服务，区域连锁经营；官方介绍包含玩乐方向。",
+          "limits": "未采纳门店数量；AI商品采购、服务与真实开店状态未核实。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "实际渲染公司页介绍母婴童零售及育、玩等商品板块，经营主体为成都中亿家园贸易有限责任公司；不采用门店与顾问人数。",
+          "limits": "公司公开业务说明不证明当前新品适配、总部采购权限、合作关系、经营效果或我方可调度能力。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "智玩店",
+      "canonical": "智玩店",
+      "directions": [
+        "companion",
+        "learning",
+        "wearable"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://zhiwandian.com/"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "AI产品集合体验与零售；公布深圳体验店及多品类商品方向。",
+          "limits": "官网FAQ同时出现3、4及数家门店的说法；不采纳规模，也不将规划数量当已开业数量。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "官网介绍AI硬件体验式零售，列穿戴、潮玩、教育及健康方向；公开深圳中心城体验店。门店规模表述不一致，不采纳数量或经营成效。",
+          "limits": "公开经营业务不证明AI新品采购权限、准入容量、合作关系、销售效果或我方可调用能力。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "汇通达",
+      "canonical": "汇通达",
+      "directions": [
+        "wearable",
+        "home",
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://htd.cn/businessServices/consumer.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网消费电子页区分品牌、运营商、代理、通路、零售等经营角色。",
+          "limits": "会员店、产业店及服务生态不能合计成自营门店；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "官网消费电子页列手机、平板、电脑、智能穿戴、无线耳机、安防、智能音箱，区分品牌、代理、通路商与零售商。会员店不视作自有门店。",
+          "limits": "公开经营业务不证明AI新品采购权限、准入容量、合作关系、销售效果或我方可调用能力。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "凡课科技",
+      "canonical": "武汉凡课科技有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "states": {
+        "rendered_purchase_directory_read": 1,
+        "rendered_purchase_directory_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "VEX官方采购器材省份选择器展示该主体。",
+          "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+          "state": "rendered_purchase_directory_read"
+        },
+        {
+          "facts": "官方采购VEX器材的省份选择器显示该主体，列示地区：湖北省",
+          "limits": "指定品牌的器材采购通路，不证明其他新品准入、排他区域、经营容量、我方合作或可调用关系。VEX学苑标识不另计主体。",
+          "state": "rendered_purchase_directory_verified"
+        }
+      ]
+    },
+    {
+      "name": "创首科技",
+      "canonical": "创首科技（武汉）有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "states": {
+        "rendered_purchase_directory_read": 1,
+        "rendered_purchase_directory_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "VEX官方采购器材省份选择器展示该主体。",
+          "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+          "state": "rendered_purchase_directory_read"
+        },
+        {
+          "facts": "官方采购VEX器材的省份选择器显示该主体，列示地区：湖南省、江西省",
+          "limits": "指定品牌的器材采购通路，不证明其他新品准入、排他区域、经营容量、我方合作或可调用关系。VEX学苑标识不另计主体。",
+          "state": "rendered_purchase_directory_verified"
+        }
+      ]
+    },
+    {
+      "name": "宏曜电子",
+      "canonical": "南京宏曜电子科技有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "states": {
+        "rendered_purchase_directory_read": 1,
+        "rendered_purchase_directory_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "VEX官方采购器材省份选择器展示该主体。",
+          "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+          "state": "rendered_purchase_directory_read"
+        },
+        {
+          "facts": "官方采购VEX器材的省份选择器显示该主体，列示地区：江苏省",
+          "limits": "指定品牌的器材采购通路，不证明其他新品准入、排他区域、经营容量、我方合作或可调用关系。VEX学苑标识不另计主体。",
+          "state": "rendered_purchase_directory_verified"
+        }
+      ]
+    },
+    {
+      "name": "芯数养电子",
+      "canonical": "上海芯数养电子科技有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "states": {
+        "rendered_purchase_directory_read": 1,
+        "rendered_purchase_directory_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "VEX官方采购器材省份选择器展示该主体。",
+          "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+          "state": "rendered_purchase_directory_read"
+        },
+        {
+          "facts": "官方采购VEX器材的省份选择器显示该主体，列示地区：上海市",
+          "limits": "指定品牌的器材采购通路，不证明其他新品准入、排他区域、经营容量、我方合作或可调用关系。VEX学苑标识不另计主体。",
+          "state": "rendered_purchase_directory_verified"
+        }
+      ]
+    },
+    {
+      "name": "罗布教育",
+      "canonical": "成都罗布教育科技有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.vex.com.cn/contacts/"
+      ],
+      "states": {
+        "rendered_purchase_directory_read": 1,
+        "rendered_purchase_directory_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "VEX官方采购器材省份选择器展示该主体。",
+          "limits": "指定品牌器材采购查询，不证明第三方新品准入、排他地域授权、实际供货容量或我方合作；VEX学苑标签不额外计作一个经营主体。",
+          "state": "rendered_purchase_directory_read"
+        },
+        {
+          "facts": "官方采购VEX器材的省份选择器显示该主体，列示地区：四川省",
+          "limits": "指定品牌的器材采购通路，不证明其他新品准入、排他区域、经营容量、我方合作或可调用关系。VEX学苑标识不另计主体。",
+          "state": "rendered_purchase_directory_verified"
+        }
+      ]
+    },
+    {
+      "name": "博士／总统眼镜",
+      "canonical": "博士 / 总统眼镜",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.xreal.com/cn/stores"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "public_primary_directory_or_affiliated_report_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "产品到店体验名单列有两种门店品牌。",
+          "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "制造商到店体验查询列博士眼镜和总统眼镜的指定门店及AR眼镜型号；合并展示，不把门店数计成独立采购主体。",
+          "limits": "只支持公开业务或指定品牌体验点，不证明我方合作、第三方新品准入、全集团容量或当前经营结果。",
+          "state": "public_primary_directory_or_affiliated_report_read"
+        }
+      ]
+    },
+    {
+      "name": "陶朱新造局",
+      "canonical": "陶朱新造局",
+      "directions": [
+        "companion",
+        "learning",
+        "wearable",
+        "home",
+        "office",
+        "creative"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 3,
+      "urls": [
+        "https://www.xreal.com/cn/stores",
+        "https://sgdaily.shougang.com.cn/sgrb/2026/03/23/77027.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "public_primary_directory_or_affiliated_report_read": 2
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "产品到店体验名单列有北京两个触点。",
+          "limits": "只证明名单中的品牌/商品授权或体验，不证明其他AI新品准入、整个集团覆盖或我方合作。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "制造商到店体验查询列北京首钢园和首都机场指定体验点。",
+          "limits": "只支持公开业务或指定品牌体验点，不证明我方合作、第三方新品准入、全集团容量或当前经营结果。",
+          "state": "public_primary_directory_or_affiliated_report_read"
+        },
+        {
+          "facts": "首钢日报2026年3月23日描述机器人科技体验店，列亲子陪伴、智能家居、办公、运动穿戴与影音等商品方向。报道数量与扩店计划不采用。",
+          "limits": "只支持公开业务或指定品牌体验点，不证明我方合作、第三方新品准入、全集团容量或当前经营结果。",
+          "state": "public_primary_directory_or_affiliated_report_read"
+        }
+      ]
+    },
+    {
+      "name": "雅登乐器",
+      "canonical": "雅登乐器",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.actonchina.com/about"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方介绍乐器及专业音响总代理、经销商与工程商服务、技术支持和售后。",
+          "limits": "既有品牌代理及技术服务不证明第三方AI商品准入；不采纳网络覆盖数量。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "实际浏览器正文介绍专业音响及乐器销售总代理，服务经销商、工程商和消费者，提供技术与售后支持。",
+          "limits": "公开业务不证明AI乐器准入、现时库存、采购条件、我方合作或销售结果。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "柏斯音乐",
+      "canonical": "柏斯音乐",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.parsonsmusic.com.cn/shanghai/"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "电商平台有乐器、音响录音、门店查询、合作品牌与售后维护入口；新闻部分含2022内容。",
+          "limits": "第三方AI产品准入仍未确认；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "官方电商页面包含电子乐器、音箱与录音商品目录、门店查询及售后服务入口；新闻较旧，不采用规模或经营效率判断。",
+          "limits": "公开业务不证明AI乐器准入、现时库存、采购条件、我方合作或销售结果。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "INNO100",
+      "canonical": "INNO100",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 3,
+      "urls": [
+        "https://inno100.ai/"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "existing_record_deepen": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网呈现创新产品体验、场景交互与早期科技消费者定位。",
+          "limits": "体验场景不等于已验证动销或我方合作；公开页面、目录和企业自述不证明当前准入、经营效果、执行容量或我方合作。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "官网介绍创新产品选品与实境体验，并列深圳湾文化广场门店。",
+          "limits": "已有主库主体，补经营方式，不新增；授权、客流和品牌数为公司自述，未独立核实。",
+          "state": "existing_record_deepen"
+        },
+        {
+          "facts": "官网介绍创新产品选品与生活场景体验，并列深圳湾文化广场位置；产品页展示实物展品。未依无名称的图片目录推定全部产品方向。",
+          "limits": "公开通路不证明我方合作、新品准入或销售效果；不采用自述规模或授权关系作我方背书。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "西域",
+      "canonical": "西域",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.ehsy.com/category-51697"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官方采购目录有笔记本电脑等办公IT商品、报价和供货信息，并有供应商合作入口。",
+          "limits": "只证明已有IT商品采购目录；产品价格与供货随时变化，不证明AI新品获准进入。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "官方办公采购页面列出多品牌笔记本电脑、会议音视频设备等目录，并有企业报价与供应商招募入口。",
+          "limits": "公开通路不证明我方合作、新品准入或销售效果；不采用自述规模或授权关系作我方背书。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "中智关爱通",
+      "canonical": "中智关爱通",
+      "directions": [
+        "home",
+        "creative"
+      ],
+      "roles": [
+        "business_purchase"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.guanaitong.com/benefit/index.html",
+        "https://www.guanaitong.com/m/news/article-91-343058-1.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "员工福利、自选兑换、企业采购；供应商招募与商品API入口。",
+          "limits": "福利兑换、企业采购、平台供给应分别确认；未证明AI商品在售。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "实际浏览器读取2026-03-31官方KA采购公告，招募人为中智关爱通南京公司，类目包含3C小家电及数码潮玩，列资质及评审要求。",
+          "limits": "2026-04-08申报截止已过；服务有效期不等于仍接受申报。集团与子公司不重复计数；不证明我方合作、AI新品准入或订单。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "Z·Pilot",
+      "canonical": "模速 AI 体验店",
+      "directions": [
+        "companion",
+        "wearable",
+        "office",
+        "creative"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 3,
+      "urls": [
+        "https://www.gzw.sh.gov.cn/shgzw_xwzx_xwfb/20250430/dad835aa92b64ae8b8fdefcd04bb2874.html",
+        "https://edu.sh.gov.cn/study_cn_news/20260716/2c5fca5994d84a2e8ed2f9e6e76e14fb.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 2
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "2025年报道介绍模速空间体验店呈现穿戴、效率、健康与音频等新品，并提供体验反馈。",
+          "limits": "只证明报道时体验店及相关活动，不证明当前店铺状态、成交质量、可统一铺货或我方关系。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "2026年教育委员会参访报道明确列模速空间Z·Pilot体验店，涉及智能穿戴、办公学习、智能健康及音频产品。",
+          "limits": "报道体现具体场景与业务，不证明我方合作、现时新品准入或销售结果；不采用合作意向作为已运营网点。",
+          "state": "primary_body_verified"
+        },
+        {
+          "facts": "2025年市国资委报道介绍零售展厅、智能玩具及多种产品体验；不采用规模和经营结果。",
+          "limits": "报道体现具体场景与业务，不证明我方合作、现时新品准入或销售结果；不采用合作意向作为已运营网点。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "Robot Mall",
+      "canonical": "Robot Mall",
+      "directions": [
+        "companion",
+        "home"
+      ],
+      "roles": [
+        "retail",
+        "integration"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://kfqgw.beijing.gov.cn/ywdt/gdcyfzgd/zncx/202604/t20260422_4602253.html"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "primary_body_verified": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "2026年报道介绍Robot Mall连接展示、销售、二次开发、租赁与维保。",
+          "limits": "报道披露的订单和合作意向不用于本公司能力证明；城市意向不等于已开门店。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "2026年经开区报道介绍机器人展示、销售、租赁与维保，场景包含居家陪伴；工业与医疗业务不外推为消费产品准入。",
+          "limits": "报道体现具体场景与业务，不证明我方合作、现时新品准入或销售结果；不采用合作意向作为已运营网点。",
+          "state": "primary_body_verified"
+        }
+      ]
+    },
+    {
+      "name": "长秦城",
+      "canonical": "广州市长秦城乐器有限公司",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.musicgw.com/"
+      ],
+      "states": {
+        "primary_browser_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网品牌与店铺导航包括Focusrite、RunningMan、Ibanez等，并设录音音频和经销网点；长厚页面位于同一经营网络，未分别展示以避免重复规模感。",
+          "limits": "业务自述与目录不证明其他AI新品适配或准入、销售规模、我方合作及可调度能力。",
+          "state": "primary_browser_read"
+        }
+      ]
+    },
+    {
+      "name": "雷电音频",
+      "canonical": "雷电音频",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://leidianaudio.com/index.html"
+      ],
+      "states": {
+        "primary_browser_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网列代理品牌、话筒、话放、监听音箱与精选录音产品，面向音乐人和录音师。",
+          "limits": "业务自述与目录不证明其他AI新品适配或准入、销售规模、我方合作及可调度能力。",
+          "state": "primary_browser_read"
+        }
+      ]
+    },
+    {
+      "name": "北京图书大厦",
+      "canonical": "北京图书大厦",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://services.youxuepai.com/branches/"
+      ],
+      "states": {
+        "primary_browser_selection_and_detail_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "优学派官方北京销售查询列北京图书大厦，点击显示西长安街17号；同一销售联系电话也用于平谷大众书店，未将后者追加为独立经营主体。",
+          "limits": "品牌官方销售网点公示，不证明当前库存、法人经营者、所有AI学习产品准入或我方合作。相关品牌授权末端地点不按分店数量扩规模。",
+          "state": "primary_browser_selection_and_detail_read"
+        }
+      ]
+    },
+    {
+      "name": "雁文轩书店",
+      "canonical": "雁文轩书店",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://services.youxuepai.com/branches/"
+      ],
+      "states": {
+        "primary_browser_selection_and_detail_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "优学派官方北京销售查询列雁文轩书店七中店、绿地店；点击七中店显示大兴七中北，两店归并为一条展示名称。",
+          "limits": "品牌官方销售网点公示，不证明当前库存、法人经营者、所有AI学习产品准入或我方合作。相关品牌授权末端地点不按分店数量扩规模。",
+          "state": "primary_browser_selection_and_detail_read"
+        }
+      ]
+    },
+    {
+      "name": "大众书局",
+      "canonical": "江苏大众书局图书文化有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.dazo.com.cn/",
+        "https://services.youxuepai.com/branches/"
+      ],
+      "states": {
+        "primary_browser_read": 1,
+        "primary_browser_selection_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网明确法人名称与连锁书店经营、团购、多元场景合作；优学派官方南京查询列大众书局弘阳店。",
+          "limits": "公司经营范围与单店品牌销售查询不证明全网络均经营学习机、任意新品准入或我方合作。未采用门店、会员、营收数字。",
+          "state": "primary_browser_read"
+        },
+        {
+          "facts": "实际省市查询公示具体门店名称，完整结果保存在regional-sample.json。",
+          "limits": "属于品牌公示销售网点，经营者与总部采购路径不能由名称推定。",
+          "state": "primary_browser_selection_read"
+        }
+      ]
+    },
+    {
+      "name": "信誉楼",
+      "canonical": "信誉楼百货集团有限公司",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "retail"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://www.xinyulou.cn/index/about/companyProfile.html",
+        "https://services.youxuepai.com/branches/"
+      ],
+      "states": {
+        "primary_browser_read": 1,
+        "primary_browser_selection_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网明确百货零售经营与统一标准化集采，区域涉及河北山东天津；优学派官方济南查询列信誉楼商厦。",
+          "limits": "公司经营范围与单店品牌销售查询不证明全网络均经营学习机、任意新品准入或我方合作。未采用门店、会员、营收数字。",
+          "state": "primary_browser_read"
+        },
+        {
+          "facts": "实际省市查询公示具体门店名称，完整结果保存在regional-sample.json。",
+          "limits": "属于品牌公示销售网点，经营者与总部采购路径不能由名称推定。",
+          "state": "primary_browser_selection_read"
+        }
+      ]
+    },
+    {
+      "name": "一线达通",
+      "canonical": "一线达通",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "procurement"
+      ],
+      "mapped": true,
+      "evidenceCount": 2,
+      "urls": [
+        "https://city-office.com.cn/us/about_us/introduction/",
+        "https://city-office.com.cn/goods.php?id=1169613"
+      ],
+      "states": {
+        "existing_scope_checked": 1,
+        "public_product_catalog": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网列明一线达通科技集团有限公司，政企采购平台；商品页1169613列希沃OPS会议教学平板模块并说明平台销售及售后。",
+          "limits": "目录证明公开经营范围，不证明现货、AI新品准入、当前品牌授权或我方合作；不采用官网网络规模宣传。",
+          "state": "existing_scope_checked"
+        },
+        {
+          "facts": "希沃MT51A/MT61A OPS会议教学平板模块目录",
+          "limits": null,
+          "state": "public_product_catalog"
+        }
+      ]
+    },
+    {
+      "name": "禹亮科技",
+      "canonical": "上海禹亮信息科技有限公司",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "integrator"
+      ],
+      "mapped": true,
+      "evidenceCount": 1,
+      "urls": [
+        "https://www.yulianggroup.cn/company/"
+      ],
+      "states": {
+        "primary_text_read": 1
+      },
+      "relationship": "not_established",
+      "dispatchable": false,
+      "notes": [
+        {
+          "facts": "官网公司介绍列上海经营主体、会议设备供应、部署和运维；导航含科大讯飞会议终端、思必驰麦克风及AI办公本。",
+          "limits": "品牌代理资质仅企业自述，未向品牌方复核；不采纳客户、项目、区域规模数据，不证明第三方新品准入或我方合作。",
+          "state": "primary_text_read"
+        }
+      ]
+    }
+  ],
+  "scope": "Mapping and recorded evidence integrity, not fresh live verification of each URL, current admission or partnership."
+}

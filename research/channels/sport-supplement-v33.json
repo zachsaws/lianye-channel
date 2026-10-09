@@ -1,0 +1,100 @@
+{
+  "observed": "2026-10-07",
+  "rawGarminRows": 79,
+  "directoryPages": 6,
+  "selected": [
+    {
+      "id": "e4a6caeef05b",
+      "name": "上海天授",
+      "tag": "运动设备 · 上海",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "87af6769dccf",
+      "name": "百纳海通",
+      "tag": "运动设备 · 广东",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "69bdc66ca823",
+      "name": "河南图图",
+      "tag": "运动设备 · 河南",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "073969d44ac4",
+      "name": "南京易尔路",
+      "tag": "运动设备 · 江苏",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "3f3d6d495432",
+      "name": "沈阳恒宇",
+      "tag": "运动设备 · 东北",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "4ffa55611257",
+      "name": "天津正睿",
+      "tag": "运动设备 · 天津",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "49bac66a6e61",
+      "name": "杭州迪吉特",
+      "tag": "运动设备 · 浙江",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "8a654b621bc9",
+      "name": "坤昇健行",
+      "tag": "运动集采 · 赛事与企业",
+      "directions": [
+        "wearable",
+        "office"
+      ],
+      "roles": [
+        "business_purchase",
+        "distribution"
+      ]
+    }
+  ],
+  "newNormalizedActors": 6,
+  "companyRelationshipsEstablished": 0,
+  "limits": "Names are public market knowledge; neither signed supply nor acceptance of new AI products."
+}

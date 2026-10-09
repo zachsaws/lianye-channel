@@ -1,0 +1,505 @@
+{
+  "status": "editorial_candidate_not_published",
+  "sectionTitle": "打开更多销售通路。",
+  "groups": [
+    {
+      "key": "companion",
+      "label": "陪伴与亲子"
+    },
+    {
+      "key": "learning",
+      "label": "学习与教育"
+    },
+    {
+      "key": "wearable",
+      "label": "运动与穿戴"
+    },
+    {
+      "key": "home",
+      "label": "家庭与空间"
+    },
+    {
+      "key": "office",
+      "label": "办公与生产力"
+    },
+    {
+      "key": "creative",
+      "label": "创作与数码"
+    }
+  ],
+  "items": [
+    {
+      "id": "d8085d7403f5",
+      "name": "凯知乐",
+      "tag": "玩具 · 品牌运营与分销",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ]
+    },
+    {
+      "id": "17f045305e3d",
+      "name": "迅合行",
+      "tag": "玩具 · 经销与TOYS STAR零售",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ]
+    },
+    {
+      "id": "b5c82e4d8d28",
+      "name": "上海贝杰",
+      "tag": "亲子与潮玩 · 品牌代理",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "e031da684934",
+      "name": "永华嘉业",
+      "tag": "亲子玩具 · 渠道运营与礼赠",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "distribution",
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "d8b006f5c53a",
+      "name": "孩子王",
+      "tag": "亲子 · 商品与会员运营",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ]
+    },
+    {
+      "id": "826314b8edfb",
+      "name": "爱婴室",
+      "tag": "母婴童 · 连锁零售",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ]
+    },
+    {
+      "id": "eacf9c7ed469",
+      "name": "玩具反斗城",
+      "tag": "玩具 · 试玩与家庭零售",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ]
+    },
+    {
+      "id": "169bfa147a03",
+      "name": "TOP TOY",
+      "tag": "潮玩 · 零售与IP经营",
+      "directions": [
+        "companion"
+      ],
+      "roles": [
+        "retail"
+      ]
+    },
+    {
+      "id": "2c11ee8ae8b7",
+      "name": "璞康",
+      "tag": "科创教育 · 方案与品牌运营",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ]
+    },
+    {
+      "id": "93eed5006a03",
+      "name": "七色花",
+      "tag": "幼教 · 多品牌玩教具与课程资源",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ]
+    },
+    {
+      "id": "c3c2d7ba282b",
+      "name": "华森葳",
+      "tag": "幼教 · 教具代理与园所配置",
+      "directions": [
+        "learning"
+      ],
+      "roles": [
+        "institutional_supply"
+      ]
+    },
+    {
+      "id": "a14e570ad206",
+      "name": "九机",
+      "tag": "科技零售 · 西南",
+      "directions": [
+        "learning",
+        "wearable"
+      ],
+      "roles": [
+        "retail"
+      ]
+    },
+    {
+      "id": "84b12e1a8425",
+      "name": "三夫户外",
+      "tag": "户外 · 零售、赛事与集采",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "retail",
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "876980ffaebf",
+      "name": "顺电",
+      "tag": "数码家电 · 零售与团购",
+      "directions": [
+        "wearable",
+        "home"
+      ],
+      "roles": [
+        "retail",
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "745fac22c382",
+      "name": "爱施德",
+      "tag": "通讯 · 分销订货",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "aaa3dfd58ac3",
+      "name": "DK-AI",
+      "tag": "智能家居 · 多品牌集成销售",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ]
+    },
+    {
+      "id": "896ee1a6b852",
+      "name": "好享家",
+      "tag": "家居 · 安装与系统集成",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ]
+    },
+    {
+      "id": "b8b5c5478317",
+      "name": "音联邦",
+      "tag": "家庭影音 · 品牌运营与方案设计",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ]
+    },
+    {
+      "id": "b099505d3cf0",
+      "name": "京东五星电器",
+      "tag": "家电家居 · 场景零售",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "retail"
+      ]
+    },
+    {
+      "id": "70079f085246",
+      "name": "东方购物",
+      "tag": "内容零售 · 电视与移动成交",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "content_commerce"
+      ]
+    },
+    {
+      "id": "64531367aca3",
+      "name": "苏宁易购",
+      "tag": "零售与分销 · 政企采购",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "c5fafdda7fc9",
+      "name": "小米有品",
+      "tag": "精品零售 · 商户选品",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "retail"
+      ]
+    },
+    {
+      "id": "940c16cbd3b8",
+      "name": "科力普",
+      "tag": "企业采购 · 礼品与福利",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "9ca454f7cd55",
+      "name": "欧菲斯",
+      "tag": "企业采购 · 办公IT与物资",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "ffab68e86d8e",
+      "name": "得力集实",
+      "tag": "企业采购 · 办公与礼赠",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "e15d2f8faac1",
+      "name": "领先未来",
+      "tag": "企业采购 · 办公与礼品供给",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "eaee6045df2f",
+      "name": "史泰博中国",
+      "tag": "企业采购 · 办公与营销物资",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "e8d544c04a70",
+      "name": "英迈中国",
+      "tag": "技术分销 · 经销商订货",
+      "directions": [
+        "office"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "ebc380e4d0b6",
+      "name": "美承",
+      "tag": "数码零售 · 企业IT服务",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "c8f0b02697d5",
+      "name": "翰林汇",
+      "tag": "ICT · 分销与融合零售",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution",
+        "retail"
+      ]
+    },
+    {
+      "id": "b65f08ca3fd8",
+      "name": "长虹佳华",
+      "tag": "ICT · 分销与方案服务",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ]
+    },
+    {
+      "id": "b28fe6df75ae",
+      "name": "神州数码",
+      "tag": "ICT · 授权分销",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution"
+      ]
+    },
+    {
+      "id": "4ba4289d934c",
+      "name": "伟仕佳杰",
+      "tag": "ICT · 消费电子与企业服务",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "distribution",
+        "business_purchase"
+      ]
+    },
+    {
+      "id": "c0fc73796b71",
+      "name": "南天远通",
+      "tag": "数码 · 平台店铺经营",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "content_commerce"
+      ]
+    },
+    {
+      "id": "4a9c0893c4b3",
+      "name": "方正易通",
+      "tag": "数码 · 银行APP商城",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "content_commerce"
+      ]
+    },
+    {
+      "id": "478e4e04b7ca",
+      "name": "诚顺供应链",
+      "tag": "数码 · 内容平台店铺",
+      "directions": [
+        "creative"
+      ],
+      "roles": [
+        "content_commerce"
+      ]
+    },
+    {
+      "id": "9da5c9a8347e",
+      "name": "上海锐能体育用品有限公司",
+      "tag": "运动专业零售",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "specialist_retail"
+      ]
+    },
+    {
+      "id": "ee5a45b2c646",
+      "name": "北京广世天运",
+      "tag": "骑行产品渠道",
+      "directions": [
+        "wearable"
+      ],
+      "roles": [
+        "specialist_retail"
+      ]
+    },
+    {
+      "id": "c2b8ad3411e3",
+      "name": "圣谛影音智能 / 上海森笛电子科技有限公司",
+      "tag": "全宅智能交付",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ]
+    },
+    {
+      "id": "f6de8a0c47dd",
+      "name": "上海卓渤智能科技有限公司",
+      "tag": "影音定制安装",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "integration"
+      ]
+    },
+    {
+      "id": "0cb9c4d32fbe",
+      "name": "福建博盛智能科技有限公司",
+      "tag": "区域影音渠道",
+      "directions": [
+        "home"
+      ],
+      "roles": [
+        "distribution",
+        "integration"
+      ]
+    }
+  ],
+  "roleLabels": {
+    "distribution": "分销与品牌运营",
+    "retail": "多品类零售",
+    "specialist_retail": "专业零售",
+    "integration": "方案与交付",
+    "institutional_supply": "机构供给",
+    "business_purchase": "企业采购",
+    "content_commerce": "内容与平台销售"
+  }
+}
