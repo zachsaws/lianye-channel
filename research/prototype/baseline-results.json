@@ -31,6 +31,8 @@
               "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
             }
           ],
+          "fitConditions": {},
+          "fitWarning": null,
           "questions": [
             "采购决策主体是谁？",
             "是否接受该类新品？",
@@ -77,6 +79,8 @@
               "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
             }
           ],
+          "fitConditions": {},
+          "fitWarning": null,
           "questions": [
             "采购决策主体是谁？",
             "是否接受该类新品？",
@@ -94,6 +98,55 @@
         "serviceOwnerKnown"
       ],
       "routesForFurtherResearch": [],
+      "limits": "产品方向相同仅支持进一步核实；未验证采购意愿、匹配效果或销量。"
+    },
+    {
+      "caseId": "wearable-clinical-only",
+      "decision": "verify_channel_conditions",
+      "missingProductConditions": [],
+      "routesForFurtherResearch": [
+        {
+          "name": "三夫户外",
+          "decision": "unresolved_business_model_fit",
+          "basis": [
+            {
+              "displayName": "三夫户外",
+              "source": "https://sanfo.com/about/general.asp",
+              "fields": {
+                "productScope": [
+                  "户外服装、鞋袜与装备"
+                ],
+                "buyerScenarios": [
+                  "滑雪、露营、跑步、徒步、登山、城市通勤"
+                ],
+                "entryPoints": [
+                  "官网提供联系三夫入口；大客户集采是面向采购客户的服务，不能当作供应商准入"
+                ]
+              },
+              "unknown": [
+                "新品采购接口",
+                "电子设备选品政策",
+                "试销与服务条款"
+              ],
+              "implication": "专业零售、品牌运营和活动场景并存；应先明确合作业务单元，不能把同一公司拆成多个独立采购主体。",
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
+            }
+          ],
+          "fitConditions": {
+            "buyer": "医疗机构",
+            "consumerRetailEligible": null,
+            "clinicalWorkflowRequired": true
+          },
+          "fitWarning": "方向标签不能证明采购场景与交付方式一致；应先核实经营适配",
+          "questions": [
+            "采购决策主体是谁？",
+            "是否接受该类新品？",
+            "商业及服务条件是什么？"
+          ]
+        }
+      ],
       "limits": "产品方向相同仅支持进一步核实；未验证采购意愿、匹配效果或销量。"
     }
   ]

@@ -39,6 +39,21 @@
       "serviceOwnerKnown": false,
       "fulfillmentKnown": true,
       "description": "同一软件产品的持续服务责任尚未落实。"
+    },
+    {
+      "id": "wearable-clinical-only",
+      "hypothetical": true,
+      "direction": "wearable",
+      "delivery": "hardware",
+      "demoReady": true,
+      "serviceOwnerKnown": true,
+      "fulfillmentKnown": true,
+      "description": "假设穿戴设备只用于医疗机构流程；资料未证明可作为普通户外消费品售卖。不能因穿戴标签相同就优先推荐户外零售。",
+      "channelFitConditions": {
+        "buyer": "医疗机构",
+        "consumerRetailEligible": null,
+        "clinicalWorkflowRequired": true
+      }
     }
   ]
 }
