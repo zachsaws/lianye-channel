@@ -1,0 +1,99 @@
+{
+  "source": "https://www.adobe.com/cn/purchase/",
+  "observed": "2026-10-09",
+  "scope": "specific_vendor_authorization_directory",
+  "records": [
+    {
+      "legalName": "上海南洋万邦软件技术有限公司",
+      "authorizedScope": "Adobe白金授权经销，目录授权区域全国，仅限该品牌依据",
+      "existingDisplayAlias": "南洋万邦",
+      "disposition": "existing actor supplemental evidence",
+      "unknown": [
+        "其他软件品牌范围",
+        "Agent新品承接",
+        "新增供应商入口",
+        "许可及服务责任",
+        "渠道分佣与续费归属"
+      ]
+    },
+    {
+      "legalName": "北京昆仑联通科技发展股份有限公司",
+      "authorizedScope": "Adobe白金授权经销，目录授权区域全国，仅限该品牌依据",
+      "existingDisplayAlias": null,
+      "disposition": "lead_pending_cross_directory_identity_and_operator_review",
+      "unknown": [
+        "其他软件品牌范围",
+        "Agent新品承接",
+        "新增供应商入口",
+        "许可及服务责任",
+        "渠道分佣与续费归属"
+      ]
+    },
+    {
+      "legalName": "北京信诺时代科技发展有限公司",
+      "authorizedScope": "Adobe白金授权经销，目录授权区域全国，仅限该品牌依据",
+      "existingDisplayAlias": null,
+      "disposition": "lead_pending_cross_directory_identity_and_operator_review",
+      "unknown": [
+        "其他软件品牌范围",
+        "Agent新品承接",
+        "新增供应商入口",
+        "许可及服务责任",
+        "渠道分佣与续费归属"
+      ]
+    },
+    {
+      "legalName": "深圳市立诺软件有限公司",
+      "authorizedScope": "Adobe白金授权经销，目录授权区域全国，仅限该品牌依据",
+      "existingDisplayAlias": null,
+      "disposition": "lead_pending_cross_directory_identity_and_operator_review",
+      "unknown": [
+        "其他软件品牌范围",
+        "Agent新品承接",
+        "新增供应商入口",
+        "许可及服务责任",
+        "渠道分佣与续费归属"
+      ]
+    },
+    {
+      "legalName": "北京数码星空软件服务有限公司",
+      "authorizedScope": "Adobe白金授权经销，目录授权区域全国，仅限该品牌依据",
+      "existingDisplayAlias": null,
+      "disposition": "lead_pending_cross_directory_identity_and_operator_review",
+      "unknown": [
+        "其他软件品牌范围",
+        "Agent新品承接",
+        "新增供应商入口",
+        "许可及服务责任",
+        "渠道分佣与续费归属"
+      ]
+    },
+    {
+      "legalName": "上海崇道数码科技有限公司",
+      "authorizedScope": "Adobe白金授权经销，目录授权区域全国，仅限该品牌依据",
+      "existingDisplayAlias": null,
+      "disposition": "lead_pending_cross_directory_identity_and_operator_review",
+      "unknown": [
+        "其他软件品牌范围",
+        "Agent新品承接",
+        "新增供应商入口",
+        "许可及服务责任",
+        "渠道分佣与续费归属"
+      ]
+    },
+    {
+      "legalName": "深圳市贝特思科技有限公司",
+      "authorizedScope": "Adobe白金授权经销，目录授权区域全国，仅限该品牌依据",
+      "existingDisplayAlias": null,
+      "disposition": "lead_pending_cross_directory_identity_and_operator_review",
+      "unknown": [
+        "其他软件品牌范围",
+        "Agent新品承接",
+        "新增供应商入口",
+        "许可及服务责任",
+        "渠道分佣与续费归属"
+      ]
+    }
+  ],
+  "boundary": "目录展示培训及咨询要求是该品牌授权口径，不证明我方合作或所有AI软件经营能力；不存个人联系信息，不将一份目录多行当跨方向覆盖。"
+}

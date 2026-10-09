@@ -733,6 +733,32 @@
       "observed": "2026-10-09",
       "basis": "exhibitor_self_description_on_organizer_site",
       "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。"
+    },
+    {
+      "displayName": "南洋万邦",
+      "source": "https://www.adobe.com/cn/purchase/",
+      "identityEvidence": "上海南洋万邦软件技术有限公司与已有简称关联。",
+      "fields": {
+        "productScope": [
+          "Adobe产品与解决方案授权销售"
+        ],
+        "regions": [
+          "Adobe目录列全国授权区域；不泛化为所有品牌代理范围"
+        ],
+        "entryPoints": [
+          "品牌官方购买目录列经销商网站；用于终端购买，不是新品供应商准入"
+        ]
+      },
+      "unknown": [
+        "其他软件品牌范围",
+        "AI产品代理准入",
+        "实施与服务责任",
+        "采购及结算主体"
+      ],
+      "implication": "可补创作软件与企业软件路线，仍需经营者侧软件交付细节。",
+      "observed": "2026-10-09",
+      "basis": "vendor_authorization_directory",
+      "inferenceBoundary": "品牌授权不是任意新品准入；不采纳品牌对满意度的宣传主张。"
     }
   ]
 }

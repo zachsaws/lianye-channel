@@ -6219,7 +6219,8 @@
       ],
       "roleStatus": "tag_based_hypothesis_not_source_verification",
       "sourceLinks": [
-        "https://nysoftland.inesa.com/shnywb_panner/List/index.htm"
+        "https://nysoftland.inesa.com/shnywb_panner/List/index.htm",
+        "https://www.adobe.com/cn/purchase/"
       ],
       "importedEvidence": [
         {
@@ -6235,9 +6236,15 @@
       "evidenceStatus": "historical_research_import_not_live_revalidation",
       "researchGaps": [],
       "buyerScenarios": [],
-      "productScope": [],
-      "regions": [],
-      "entryPoints": [],
+      "productScope": [
+        "Adobe产品与解决方案授权销售"
+      ],
+      "regions": [
+        "Adobe目录列全国授权区域；不泛化为所有品牌代理范围"
+      ],
+      "entryPoints": [
+        "品牌官方购买目录列经销商网站；用于终端购买，不是新品供应商准入"
+      ],
       "deliveryRequirements": [],
       "afterSalesRequirements": [],
       "priceBand": null,
@@ -6246,7 +6253,68 @@
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "existing_public_market_route"
+      "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.adobe.com/cn/purchase/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "vendor_authorization_directory",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "regions": {
+          "sources": [
+            "https://www.adobe.com/cn/purchase/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "vendor_authorization_directory",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://www.adobe.com/cn/purchase/"
+          ],
+          "observed": "2026-10-09",
+          "basis": "vendor_authorization_directory",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "其他软件品牌范围",
+        "AI产品代理准入",
+        "实施与服务责任",
+        "采购及结算主体"
+      ],
+      "researchInterpretation": "可补创作软件与企业软件路线，仍需经营者侧软件交付细节。",
+      "reviewedDetails": [
+        {
+          "displayName": "南洋万邦",
+          "source": "https://www.adobe.com/cn/purchase/",
+          "identityEvidence": "上海南洋万邦软件技术有限公司与已有简称关联。",
+          "fields": {
+            "productScope": [
+              "Adobe产品与解决方案授权销售"
+            ],
+            "regions": [
+              "Adobe目录列全国授权区域；不泛化为所有品牌代理范围"
+            ],
+            "entryPoints": [
+              "品牌官方购买目录列经销商网站；用于终端购买，不是新品供应商准入"
+            ]
+          },
+          "unknown": [
+            "其他软件品牌范围",
+            "AI产品代理准入",
+            "实施与服务责任",
+            "采购及结算主体"
+          ],
+          "implication": "可补创作软件与企业软件路线，仍需经营者侧软件交付细节。",
+          "observed": "2026-10-09",
+          "basis": "vendor_authorization_directory",
+          "inferenceBoundary": "品牌授权不是任意新品准入；不采纳品牌对满意度的宣传主张。"
+        }
+      ]
     },
     {
       "id": "research-934871be6a3d",

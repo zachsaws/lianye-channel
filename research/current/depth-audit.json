@@ -1,12 +1,12 @@
 {
   "scope": "research_depth_not_partner_count",
   "profiles": 104,
-  "reviewedProfiles": 27,
+  "reviewedProfiles": 28,
   "attributedNonemptyFields": {
     "buyerScenarios": 14,
-    "productScope": 26,
-    "regions": 11,
-    "entryPoints": 19,
+    "productScope": 27,
+    "regions": 12,
+    "entryPoints": 20,
     "deliveryRequirements": 7,
     "afterSalesRequirements": 2
   },
@@ -61,24 +61,24 @@
     },
     "office": {
       "profiles": 22,
-      "partiallyReviewed": 4,
+      "partiallyReviewed": 5,
       "fields": {
         "buyerScenarios": 3,
-        "productScope": 4,
-        "regions": 1,
-        "entryPoints": 3,
+        "productScope": 5,
+        "regions": 2,
+        "entryPoints": 4,
         "deliveryRequirements": 2,
         "afterSalesRequirements": 1
       }
     },
     "creative": {
       "profiles": 21,
-      "partiallyReviewed": 2,
+      "partiallyReviewed": 3,
       "fields": {
         "buyerScenarios": 2,
-        "productScope": 2,
-        "regions": 0,
-        "entryPoints": 2,
+        "productScope": 3,
+        "regions": 1,
+        "entryPoints": 3,
         "deliveryRequirements": 0,
         "afterSalesRequirements": 0
       }
