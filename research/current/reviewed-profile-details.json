@@ -664,6 +664,75 @@
       "observed": "2026-10-09",
       "basis": "exhibitor_self_description_on_organizer_site",
       "inferenceBoundary": "主办方承载的展商自述，非独立经营能力验证；页面底部联系人为主办方，不写为该公司合作入口。"
+    },
+    {
+      "displayName": "童真时代",
+      "source": "https://www.china-toy-expo.com/exhibitor/Dongguan-Childlike-Times-Trading-Co-Ltd--10527",
+      "identityEvidence": "东莞童真时代商贸有限公司为展商标题主体；对应已有简称，不新增计数。",
+      "fields": {
+        "productScope": [
+          "毛绒公仔、婴儿安抚益智、潮流手办及科教玩具；展出范围另列AI陪伴与学习玩具"
+        ],
+        "buyerScenarios": [
+          "电商供货与线下实体分销，服务商家"
+        ],
+        "regions": [
+          "公司自述服务全国商家，不证明省级代理权限或我方可调用覆盖"
+        ]
+      },
+      "unknown": [
+        "新品供应商准入",
+        "采购与结算主体",
+        "品牌排他与授权限制",
+        "供货、培训与售后条件"
+      ],
+      "implication": "列有AI玩具可作为相关性线索，但不证明有实际AI销售或新品准入。",
+      "observed": "2026-10-09",
+      "basis": "exhibitor_self_description_on_organizer_site",
+      "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。"
+    },
+    {
+      "displayName": "商博士",
+      "source": "https://www.china-toy-expo.com/exhibitor/Zhejiang-SUNBOSE-Brand-Management-Co-Ltd--6819",
+      "identityEvidence": "浙江商博士品牌管理有限公司为展商标题主体；对应已有简称，不新增计数。",
+      "fields": {
+        "productScope": [
+          "海外产品代理、IP授权产品研发销售；慢回弹、合金车与储蓄罐等潮流品类"
+        ]
+      },
+      "unknown": [
+        "新品供应商准入",
+        "采购与结算主体",
+        "品牌排他与授权限制",
+        "供货、培训与售后条件"
+      ],
+      "implication": "品牌代理与IP经营路线；不能将授权范围泛化到所有AI陪伴产品。",
+      "observed": "2026-10-09",
+      "basis": "exhibitor_self_description_on_organizer_site",
+      "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。"
+    },
+    {
+      "displayName": "凯知乐",
+      "source": "https://www.china-toy-expo.com/exhibitor/kidsland-6948",
+      "identityEvidence": "北京孩思乐商业有限公司为展商标题主体；对应已有简称，不新增计数。",
+      "fields": {
+        "productScope": [
+          "玩具品牌运营，展品列电子宠物等"
+        ],
+        "buyerScenarios": [
+          "孩童、年轻群体和玩具品牌方；直营、分销及线上线下销售"
+        ]
+      },
+      "unknown": [
+        "新品供应商准入",
+        "采购与结算主体",
+        "品牌排他与授权限制",
+        "供货、培训与售后条件"
+      ],
+      "implication": "群体与销售路线较清楚；不采纳终端数量，不推断旗下全部渠道交易由一个法人签约。",
+      "observed": "2026-10-09",
+      "basis": "exhibitor_self_description_on_organizer_site",
+      "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。"
     }
   ]
 }
