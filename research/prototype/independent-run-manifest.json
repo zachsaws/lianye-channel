@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "sha256": "80d6fd7682009dd38b48081a8e082a4aedeb65e1d2a1d427090eb70c15e98077",
+  "caseCount": 9,
+  "channelEvidenceCount": 14,
+  "modelExecutionStatus": "not_run",
+  "reason": "API credentials unavailable; isolated subagent authorization requested and pending",
+  "comparisonStatus": "not_proven",
+  "v1Status": "Historical exploratory packet retained unchanged"
+}
