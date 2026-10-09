@@ -1,0 +1,20 @@
+{
+  "observed": "2026-10-09",
+  "records": [
+    {
+      "source": "https://www.garmin.com.cn/buy/retailer/",
+      "status": "page_read_but_dynamic_actor_rows_not_returned",
+      "effect": "历史具体主体本轮未重新验证；不能用读取外壳声明名单更新完成。"
+    },
+    {
+      "source": "https://www.vex.com.cn/contacts/",
+      "status": "fetch_timeout",
+      "effect": "保留历史证据与当前访问缺口，不推断主体停止经营。"
+    },
+    {
+      "source": "https://www.pooksh.com/",
+      "status": "fetch_timeout",
+      "effect": "本轮使用品牌目录核实身份，经营者自身跨品牌范围仍未知。"
+    }
+  ]
+}

@@ -286,6 +286,60 @@
       "observed": "2026-10-09",
       "basis": "operator_self_disclosure",
       "inferenceBoundary": "经营描述与开放入口不证明承接意愿"
+    },
+    {
+      "displayName": "璞康",
+      "source": "https://legoeducation.cn/zh-cn/shop/find-reseller/",
+      "fields": {
+        "productScope": [
+          "乐高教育授权销售；不外推为任意教育新品代理"
+        ],
+        "buyerScenarios": [
+          "学校及机构的教学资源采购"
+        ],
+        "entryPoints": [
+          "品牌目录给出经销商联系方式；这是该品牌采购咨询入口，不是新品供应商准入"
+        ]
+      },
+      "unknown": [
+        "跨品牌代理范围",
+        "独立采购权",
+        "新品引入政策",
+        "实际区域服务范围",
+        "培训与售后对新品是否适用"
+      ],
+      "implication": "品牌目录说明教育渠道涉及课程、培训与部署；该说明不能自动用于证明此主体对另一新品的承接能力。",
+      "observed": "2026-10-09",
+      "basis": "brand_authorized_directory",
+      "identityEvidence": "上海璞康实业有限公司",
+      "inferenceBoundary": "公司名称中的城市不是实际覆盖区域；品牌授权不等于新品准入"
+    },
+    {
+      "displayName": "欣欣相融",
+      "source": "https://legoeducation.cn/zh-cn/shop/find-reseller/",
+      "fields": {
+        "productScope": [
+          "乐高教育授权销售；不外推为任意教育新品代理"
+        ],
+        "buyerScenarios": [
+          "学校及机构的教学资源采购"
+        ],
+        "entryPoints": [
+          "品牌目录给出经销商联系方式；这是该品牌采购咨询入口，不是新品供应商准入"
+        ]
+      },
+      "unknown": [
+        "跨品牌代理范围",
+        "独立采购权",
+        "新品引入政策",
+        "实际区域服务范围",
+        "培训与售后对新品是否适用"
+      ],
+      "implication": "品牌目录说明教育渠道涉及课程、培训与部署；该说明不能自动用于证明此主体对另一新品的承接能力。",
+      "observed": "2026-10-09",
+      "basis": "brand_authorized_directory",
+      "identityEvidence": "欣欣相融教育科技（北京）有限公司",
+      "inferenceBoundary": "公司名称中的城市不是实际覆盖区域；品牌授权不等于新品准入"
     }
   ]
 }
