@@ -6701,7 +6701,8 @@
         "成方策 / SolutionKeys（法人待进一步核实）"
       ],
       "directions": [
-        "learning"
+        "learning",
+        "office"
       ],
       "editorialTag": "教育设备经销",
       "editorialRoles": [],
@@ -6737,6 +6738,13 @@
       "companyRelationship": "not_established",
       "dispatchable": false,
       "displayStatus": "candidate_not_in_website",
+      "directionReview": {
+        "basis": "官网企业移动设备管理与学校IT支持范围支持跨教育与办公编辑分类；不是AI软件采购承诺",
+        "sources": [
+          "https://www.solutionkeys.com/en/home/"
+        ],
+        "status": "editorial_classification_not_purchase_permission"
+      },
       "fieldEvidence": {
         "productScope": {
           "sources": [
@@ -6809,7 +6817,12 @@
             "productScope": [
               "https://www.solutionkeys.com/aboutus/"
             ]
-          }
+          },
+          "editorialDirections": [
+            "learning",
+            "office"
+          ],
+          "directionBasis": "官网企业移动设备管理与学校IT支持范围支持跨教育与办公编辑分类；不是AI软件采购承诺"
         }
       ]
     },

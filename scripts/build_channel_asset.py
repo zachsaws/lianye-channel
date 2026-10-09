@@ -78,6 +78,9 @@ if details_path.exists():
   matches=[p for p in profiles if p['displayName']==review['displayName']]
   if len(matches)!=1:raise ValueError('Reviewed identity must match exactly once: '+review['displayName'])
   profile=matches[0]
+  if review.get('editorialDirections'):
+   profile['directions']=review['editorialDirections']
+   profile['directionReview']={'basis':review['directionBasis'],'sources':review.get('fieldSources',{}).get('buyerScenarios',[review['source']]),'status':'editorial_classification_not_purchase_permission'}
   for field,value in review['fields'].items():
    profile[field]=value
    profile.setdefault('fieldEvidence',{})[field]={'sources':review.get('fieldSources',{}).get(field,[review['source']]),'observed':review['observed'],'basis':review['basis'],'claimScope':'public_self_description_not_verified_cooperation_condition'}

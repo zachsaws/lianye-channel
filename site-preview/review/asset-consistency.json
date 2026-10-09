@@ -1,0 +1,11 @@
+{
+  "scope": "preview_asset_identity_and_editorial_direction_consistency_only",
+  "cards": 106,
+  "assetProfiles": 106,
+  "passed": true,
+  "limits": [
+    "不证明分类适配",
+    "不证明来源事实",
+    "不证明合作或采购意愿"
+  ]
+}

@@ -82,7 +82,12 @@
         "productScope": [
           "https://www.solutionkeys.com/aboutus/"
         ]
-      }
+      },
+      "editorialDirections": [
+        "learning",
+        "office"
+      ],
+      "directionBasis": "官网企业移动设备管理与学校IT支持范围支持跨教育与办公编辑分类；不是AI软件采购承诺"
     },
     {
       "displayName": "七色花",

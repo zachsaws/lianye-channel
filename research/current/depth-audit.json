@@ -60,14 +60,14 @@
       }
     },
     "office": {
-      "profiles": 24,
-      "partiallyReviewed": 8,
+      "profiles": 25,
+      "partiallyReviewed": 9,
       "fields": {
-        "buyerScenarios": 6,
-        "productScope": 8,
+        "buyerScenarios": 7,
+        "productScope": 9,
         "regions": 3,
         "entryPoints": 7,
-        "deliveryRequirements": 4,
+        "deliveryRequirements": 5,
         "afterSalesRequirements": 1
       }
     },
