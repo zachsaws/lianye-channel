@@ -1,0 +1,299 @@
+{
+  "experiment": "raw-source-ai-output-v1",
+  "scope": "假设产品；公开页面材料理解测试；非真实合作",
+  "isolation": {
+    "read_local_files": [
+      "raw-source-input-v1.json"
+    ],
+    "read_official_urls_only": true,
+    "search_used": false,
+    "other_project_files_read": false
+  },
+  "access": [
+    {
+      "url": "https://www.gx-soft.com/jianjie/",
+      "method": "官方 web 工具 open，直接页面正文",
+      "body_read": true,
+      "lines_read": "0–119",
+      "unread": [
+        "图片内容",
+        "链接下级页面"
+      ]
+    },
+    {
+      "url": "https://www.yulianggroup.cn/company/",
+      "method": "官方 web 工具 open，直接页面正文",
+      "body_read": true,
+      "lines_read": "0–511；工具未展示其余行",
+      "unread": [
+        "512–562行",
+        "资质图片内容",
+        "链接下级页面"
+      ]
+    },
+    {
+      "url": "https://www.solutionkeys.com/aboutus/",
+      "method": "官方 web 工具 open，直接页面正文；第二次 open 获取首次未展示的正文",
+      "body_read": true,
+      "lines_read": "0–45",
+      "unread": [
+        "图片内容",
+        "联系我们下级页面"
+      ]
+    }
+  ],
+  "brand_versions": {
+    "original": {
+      "product": "企业会议记录整理 Agent",
+      "delivery": "云端按年订阅，演示版可用",
+      "self_hosting": "暂时不支持客户自己部署",
+      "resale": "尚未发转售许可",
+      "missing": [
+        "会议平台支持表",
+        "数据说明"
+      ]
+    },
+    "changed": {
+      "delta": [
+        "本地版本能演示",
+        "老板表示可以做限定企业转售"
+      ],
+      "not_established": [
+        "本地版本已可生产交付",
+        "客户可自行部署",
+        "正式有效转售许可"
+      ],
+      "unresolved": [
+        "许可文本",
+        "区域",
+        "客户边界",
+        "技术支持责任",
+        "平台支持表",
+        "数据说明"
+      ]
+    },
+    "interpretation": "变化提高本地集成与转售讨论的可能性，但演示与口头意向不能替代交付验收或许可。"
+  },
+  "objects": [
+    {
+      "name": "上海广宣",
+      "facts": {
+        "entity": {
+          "value": "页脚署名上海广宣信息技术有限公司；未核验工商登记",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.gx-soft.com/jianjie/",
+            "short_quote": "上海广宣",
+            "location": "L105"
+          }
+        },
+        "scope": {
+          "value": "软件代理、正版软件发行与正版化、知识产权维护",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.gx-soft.com/jianjie/",
+            "short_quote": "正版软件",
+            "location": "L66–68"
+          }
+        },
+        "buyers": {
+          "value": "广大软件用户；导航覆盖办公等类别，未列具体买家职位或采购条件",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.gx-soft.com/jianjie/",
+            "short_quote": "广大用户",
+            "location": "L64"
+          }
+        },
+        "entry": {
+          "value": "页面列邮箱 bruce@gx-soft.com；不是已确认合作负责人",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.gx-soft.com/jianjie/",
+            "short_quote": "邮箱",
+            "location": "L95"
+          }
+        },
+        "delivery_service": {
+          "value": "声称提供全面技术服务；具体部署、支持责任及服务条款未知",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.gx-soft.com/jianjie/",
+            "short_quote": "技术服务",
+            "location": "L64"
+          }
+        }
+      },
+      "verifiable_reasons": [
+        "有软件代理与厂商服务业务的页面依据，适合讨论订阅销售机制"
+      ],
+      "key_obstacles": {
+        "original": [
+          "未发转售许可，无法把它列为可立即转售渠道",
+          "佣金、续费归属和支持分工未知"
+        ],
+        "changed": [
+          "限定转售许可文本与范围仍缺",
+          "本地演示不代表其能部署或维护该 Agent"
+        ]
+      },
+      "cooperation_material_outline": [
+        "产品价值与订阅 SKU",
+        "原版：演示与需求评估资料，注明暂无转售许可",
+        "变化后：限定转售许可草案及区域、客户清单边界",
+        "订单、续费、退款与渠道收益机制待议项",
+        "数据说明、平台支持、售后责任表"
+      ]
+    },
+    {
+      "name": "禹亮科技",
+      "facts": {
+        "entity": {
+          "value": "页面署名上海禹亮信息科技有限公司",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.yulianggroup.cn/company/",
+            "short_quote": "公司全称",
+            "location": "L109"
+          }
+        },
+        "scope": {
+          "value": "企业会议系统集成、设备供货与运维；声称提供 AI 转写与纪要方案",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.yulianggroup.cn/company/",
+            "short_quote": "系统集成",
+            "location": "L99、114、213–219"
+          }
+        },
+        "buyers": {
+          "value": "企业会议室用户，涵盖制造、金融、医疗、教育等行业",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.yulianggroup.cn/company/",
+            "short_quote": "企业客户",
+            "location": "L101"
+          }
+        },
+        "entry": {
+          "value": "服务热线 400-0022-718；页脚邮箱 sales@yulianggroup.cn",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.yulianggroup.cn/company/",
+            "short_quote": "服务热线",
+            "location": "L116、497"
+          }
+        },
+        "delivery_service": {
+          "value": "设计、部署、调试与运维；页面承诺上海快速上门、长三角24小时到场，非对本产品承诺",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.yulianggroup.cn/company/",
+            "short_quote": "运维服务",
+            "location": "L99、255"
+          }
+        }
+      },
+      "verifiable_reasons": [
+        "会议场景和集成交付与产品较直接相邻",
+        "已有纪要方案的自述，也构成替代关系需验证"
+      ],
+      "key_obstacles": {
+        "original": [
+          "云端模式与客户部署要求是否匹配未知",
+          "平台兼容、录音取得与数据流资料未完备"
+        ],
+        "changed": [
+          "本地版生产能力、安装条件与验收未证实",
+          "转售范围和现场、远程支持分工未定",
+          "与现有纪要方案的差异未证实"
+        ]
+      },
+      "cooperation_material_outline": [
+        "会议系统现状与接口矩阵",
+        "原版：云端录音输入、数据流与年订阅方案",
+        "变化后：本地演示环境、安装依赖和验收计划",
+        "现有方案差异及有限场景试点",
+        "限定企业转售草案",
+        "现场与远程支持责任表"
+      ]
+    },
+    {
+      "name": "SolutionKeys（成方策）",
+      "facts": {
+        "entity": {
+          "value": "页面使用 SolutionKeys（成方策）名称；法定公司全称未知",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.solutionkeys.com/aboutus/",
+            "short_quote": "成方策",
+            "location": "L10"
+          }
+        },
+        "scope": {
+          "value": "IT 管理产品、服务及解决方案",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.solutionkeys.com/aboutus/",
+            "short_quote": "IT管理",
+            "location": "L6、10"
+          }
+        },
+        "buyers": {
+          "value": "自述服务各行业客户；未列会议产品买家或具体行业名单",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.solutionkeys.com/aboutus/",
+            "short_quote": "各行各业",
+            "location": "L16"
+          }
+        },
+        "entry": {
+          "value": "页面有联系我们链接；此页未列联系人、邮箱、电话，下级页面未读",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.solutionkeys.com/aboutus/",
+            "short_quote": "联系我们",
+            "location": "L45"
+          }
+        },
+        "delivery_service": {
+          "value": "自述覆盖 IT 管理周期并在预算内准时交付；无本产品部署、SLA或转售条款",
+          "status": "页面自述",
+          "evidence": {
+            "url": "https://www.solutionkeys.com/aboutus/",
+            "short_quote": "准时交付",
+            "location": "L30"
+          }
+        }
+      },
+      "verifiable_reasons": [
+        "企业 IT 服务与效率产品有一般关联；会议业务与软件转售角色未获该页证实"
+      ],
+      "key_obstacles": {
+        "original": [
+          "需先确定是否经营会议类订阅及有相应买家",
+          "无转售许可"
+        ],
+        "changed": [
+          "本地版未证明与其 IT 管理服务匹配",
+          "法定主体、合作入口及实施能力未知",
+          "限定许可和支持责任仍未定"
+        ]
+      },
+      "cooperation_material_outline": [
+        "IT 管理客户的会议整理需求假设与待验证问题",
+        "原版：云端试用流程及安全、数据说明",
+        "变化后：本地架构与运维条件清单",
+        "确认推荐、转售或实施角色的资格问卷",
+        "角色确定后再给许可与商业条款草案"
+      ]
+    }
+  ],
+  "global_unknowns": [
+    "三方对本产品的合作兴趣、采购需求及授权均未知",
+    "各方官网自述未通过外部资料或资质图片独立核验",
+    "未读取任何搜索索引、官网下级链接或其他来源",
+    "没有发送消息、签约、承诺或公示合作"
+  ]
+}

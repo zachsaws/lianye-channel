@@ -389,7 +389,14 @@
       "observed": "2026-10-09",
       "basis": "operator_self_disclosure",
       "identityEvidence": "上海禹亮信息科技有限公司",
-      "inferenceBoundary": "既有品牌及项目能力为经营者自述，不自动外推为新品承接能力"
+      "inferenceBoundary": "既有品牌及项目能力为经营者自述，不自动外推为新品承接能力",
+      "competitiveContext": {
+        "fact": "官网自述已有AI会议转写、会议纪要与协作方案",
+        "source": "https://www.yulianggroup.cn/company/",
+        "observed": "2026-10-09",
+        "implication": "新品存在替代或补充关系，不能仅凭会议场景相关认定渠道值得引入",
+        "boundary": "官网自述不证明效果、采购意愿或我方合作"
+      }
     },
     {
       "displayName": "上海天授",

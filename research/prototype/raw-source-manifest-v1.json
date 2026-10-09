@@ -1,0 +1,7 @@
+{
+  "inputSHA256": "f416b99e98591d2e459b7b2e493bfebd660c0a87d278793f7c8d9b47a4cd04dc",
+  "outputSHA256": "a769296aa9c29e38a372d412233896974eaf515e57172f2c0b0201578d349f65",
+  "method": "isolated model, official pages only, single hypothetical case",
+  "checkScope": "JSON integrity and recorded access; content reviewed separately",
+  "claimedCostAdvantage": false
+}
