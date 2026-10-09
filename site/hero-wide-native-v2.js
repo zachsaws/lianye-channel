@@ -133,6 +133,7 @@ if ('IntersectionObserver' in window) {
 }
 document.addEventListener('visibilitychange',()=>{syncHero();syncFlow();});
 reduced.addEventListener('change',()=>{playing=!reduced.matches;if(reduced.matches)flowing=false;draw();syncHero();syncFlow();});
+filter(buttons[0]);
 syncHero();syncFlow();
 
 const expand=document.querySelector('.expand-network');
@@ -145,7 +146,7 @@ function setExpanded(expanded) {
  expand.setAttribute('aria-expanded',String(expanded));
  document.querySelector('.network-stage').classList.toggle('is-expanded',expanded);
  document.querySelector('#network').classList.toggle('is-expanded',expanded);
- expand.textContent=expanded?'收起通路 ↑':'展开全部通路 ↗';
+ expand.textContent=expanded?'收起通路 ↑':'查看更多通路 ↗';
  collapse.hidden=!expanded;
  if(expanded&&!reduced.matches){
   const targetHeight=grid.getBoundingClientRect().height;

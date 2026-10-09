@@ -82,3 +82,6 @@ footer{padding:24px;gap:20px}
 .channel-grid li[data-tone="0"]{background:#faf7e9}.channel-grid li[data-tone="1"]{background:#dce9d6}.channel-grid li[data-tone="2"]{background:#d7e8ef}.channel-grid li[data-tone="3"]{background:#f4ddc3}.channel-grid li[data-tone="4"]{background:#e8dfe8}
 .channel-grid li[data-shape="regular"]{grid-row:span 7}.channel-grid li[data-shape="tall"]{grid-row:span 9}.channel-grid li[data-shape="short"]{grid-row:span 6}
 .network-stage:before{background:linear-gradient(var(--field),transparent)}.network-stage:after{background:linear-gradient(transparent,var(--field))}
+
+/* Keep the initial product direction useful without JavaScript. */
+.no-js .channel-tile:not([data-directions~="companion"]){display:none;}
