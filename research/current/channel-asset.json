@@ -129,6 +129,15 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "not_documented",
+        "basis": [],
+        "sources": [],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "新品供应商准入",
         "采购与结算主体",
@@ -158,7 +167,16 @@
           "implication": "群体与销售路线较清楚；不采纳终端数量，不推断旗下全部渠道交易由一个法人签约。",
           "observed": "2026-10-09",
           "basis": "exhibitor_self_description_on_organizer_site",
-          "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。"
+          "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。",
+          "entryPurposeReview": {
+            "type": "not_documented",
+            "basis": [],
+            "sources": [],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -246,6 +264,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录给出经销商联系方式；这是该品牌采购咨询入口，不是新品供应商准入"
+        ],
+        "sources": [
+          "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "跨品牌代理范围",
         "独立采购权",
@@ -280,7 +311,20 @@
           "observed": "2026-10-09",
           "basis": "brand_authorized_directory",
           "identityEvidence": "上海璞康实业有限公司",
-          "inferenceBoundary": "公司名称中的城市不是实际覆盖区域；品牌授权不等于新品准入"
+          "inferenceBoundary": "公司名称中的城市不是实际覆盖区域；品牌授权不等于新品准入",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录给出经销商联系方式；这是该品牌采购咨询入口，不是新品供应商准入"
+            ],
+            "sources": [
+              "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -366,6 +410,20 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "supplier_submission",
+        "basis": [
+          "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+        ],
+        "sources": [
+          "https://www.9ji.com/doc/15/74",
+          "https://www.9ji.com/doc/15/41"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "新品审核材料",
         "采购与结算主体",
@@ -406,7 +464,21 @@
           "implication": "比普通联系页更明确的供应商入口，值得核实商品准入；不等于接受该新品。",
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
-          "inferenceBoundary": "经营描述与开放入口不证明承接意愿"
+          "inferenceBoundary": "经营描述与开放入口不证明承接意愿",
+          "entryPurposeReview": {
+            "type": "supplier_submission",
+            "basis": [
+              "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+            ],
+            "sources": [
+              "https://www.9ji.com/doc/15/74",
+              "https://www.9ji.com/doc/15/41"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -946,6 +1018,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "general_contact",
+        "basis": [
+          "官网提供联系三夫入口；大客户集采是面向采购客户的服务，不能当作供应商准入"
+        ],
+        "sources": [
+          "https://sanfo.com/about/general.asp"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "新品采购接口",
         "电子设备选品政策",
@@ -975,7 +1060,20 @@
           "implication": "专业零售、品牌运营和活动场景并存；应先明确合作业务单元，不能把同一公司拆成多个独立采购主体。",
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
-          "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
+          "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系",
+          "entryPurposeReview": {
+            "type": "general_contact",
+            "basis": [
+              "官网提供联系三夫入口；大客户集采是面向采购客户的服务，不能当作供应商准入"
+            ],
+            "sources": [
+              "https://sanfo.com/about/general.asp"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -1094,6 +1192,15 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "not_documented",
+        "basis": [],
+        "sources": [],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "采购决策与销售模式",
         "AI产品准入",
@@ -1120,7 +1227,16 @@
           "implication": "教育通路的关联要落在教学用途和资源体系，不能只因产品面向儿童就认定匹配。",
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
-          "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
+          "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系",
+          "entryPurposeReview": {
+            "type": "not_documented",
+            "basis": [],
+            "sources": [],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -1200,6 +1316,15 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "not_documented",
+        "basis": [],
+        "sources": [],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "AI陪伴设备是否在选品范围",
         "品牌导入与供应商入口",
@@ -1234,7 +1359,16 @@
           "implication": "可研究品牌经销与直营零售并行路线，但收藏和IP玩具不自动适配儿童AI陪伴；不能依据玩具标签优先推荐。",
           "observed": "2026-10-09",
           "basis": "exhibitor_self_description_on_organizer_site",
-          "inferenceBoundary": "主办方承载的展商自述，非独立经营能力验证；页面底部联系人为主办方，不写为该公司合作入口。"
+          "inferenceBoundary": "主办方承载的展商自述，非独立经营能力验证；页面底部联系人为主办方，不写为该公司合作入口。",
+          "entryPurposeReview": {
+            "type": "not_documented",
+            "basis": [],
+            "sources": [],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -1653,6 +1787,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "dealer_recruitment",
+        "basis": [
+          "合作加盟页收集城市、主营范围及意向产品；属于经营其产品的加盟线索，不是新品牌供应商准入入口"
+        ],
+        "sources": [
+          "https://www.huasenwei.com/join.html"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "新品牌采购准入",
         "项目集成限制",
@@ -1703,6 +1850,19 @@
             "source": "https://www.huasenwei.com/join.html",
             "observed": "2026-10-09",
             "reason": "表单询问加盟者主营及意向经营产品；未显示新品资料申请要求"
+          },
+          "entryPurposeReview": {
+            "type": "dealer_recruitment",
+            "basis": [
+              "合作加盟页收集城市、主营范围及意向产品；属于经营其产品的加盟线索，不是新品牌供应商准入入口"
+            ],
+            "sources": [
+              "https://www.huasenwei.com/join.html"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
           }
         }
       ]
@@ -2056,6 +2216,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ],
+        "sources": [
+          "https://www.garmin.com.cn/buy/retailer/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "当前是否营业",
         "独立采购权",
@@ -2093,7 +2266,20 @@
           "basis": "brand_sales_directory",
           "identityEvidence": "上海锐能体育用品有限公司（上海铁人运动精品店）",
           "directoryId": "921920",
-          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+            ],
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -2411,6 +2597,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ],
+        "sources": [
+          "https://www.garmin.com.cn/buy/retailer/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "当前是否营业",
         "独立采购权",
@@ -2448,7 +2647,20 @@
           "basis": "brand_sales_directory",
           "identityEvidence": "北京广世天运",
           "directoryId": "921929",
-          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+            ],
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -2719,6 +2931,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录给出经销商联系方式；这是该品牌采购咨询入口，不是新品供应商准入"
+        ],
+        "sources": [
+          "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "跨品牌代理范围",
         "独立采购权",
@@ -2753,7 +2978,20 @@
           "observed": "2026-10-09",
           "basis": "brand_authorized_directory",
           "identityEvidence": "欣欣相融教育科技（北京）有限公司",
-          "inferenceBoundary": "公司名称中的城市不是实际覆盖区域；品牌授权不等于新品准入"
+          "inferenceBoundary": "公司名称中的城市不是实际覆盖区域；品牌授权不等于新品准入",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录给出经销商联系方式；这是该品牌采购咨询入口，不是新品供应商准入"
+            ],
+            "sources": [
+              "https://legoeducation.cn/zh-cn/shop/find-reseller/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -2831,6 +3069,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ],
+        "sources": [
+          "https://www.garmin.com.cn/buy/retailer/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "当前是否营业",
         "独立采购权",
@@ -2868,7 +3119,20 @@
           "basis": "brand_sales_directory",
           "identityEvidence": "上海天授电子科技有限公司",
           "directoryId": "921919",
-          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+            ],
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -3207,6 +3471,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ],
+        "sources": [
+          "https://www.garmin.com.cn/buy/retailer/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "当前是否营业",
         "独立采购权",
@@ -3244,7 +3521,20 @@
           "basis": "brand_sales_directory",
           "identityEvidence": "深圳市百纳海通科技有限公司（广东）",
           "directoryId": "921951",
-          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+            ],
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -3349,6 +3639,15 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "not_documented",
+        "basis": [],
+        "sources": [],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "新厂商准入",
         "产品所属业务线",
@@ -3372,7 +3671,16 @@
           "implication": "目录能证明现有产品组合，不能证明愿意引入任意新品；目录条目和商品数不等于渠道规模。",
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
-          "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
+          "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系",
+          "entryPurposeReview": {
+            "type": "not_documented",
+            "basis": [],
+            "sources": [],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -3590,6 +3898,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ],
+        "sources": [
+          "https://www.garmin.com.cn/buy/retailer/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "当前是否营业",
         "独立采购权",
@@ -3627,7 +3948,20 @@
           "basis": "brand_sales_directory",
           "identityEvidence": "河南图图电子产品有限公司",
           "directoryId": "921973",
-          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+            ],
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -3956,6 +4290,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ],
+        "sources": [
+          "https://www.garmin.com.cn/buy/retailer/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "当前是否营业",
         "独立采购权",
@@ -3993,7 +4340,20 @@
           "basis": "brand_sales_directory",
           "identityEvidence": "南京易尔路贸易有限公司（江苏）",
           "directoryId": "921978",
-          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+            ],
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -4071,6 +4431,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "dealer_and_business_inquiry",
+        "basis": [
+          "商务合作页面及经销商咨询表单"
+        ],
+        "sources": [
+          "https://www.sentimenthifi.com/business.html"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "新品牌代理准入条件",
         "现有品牌限制",
@@ -4102,7 +4475,20 @@
           "implication": "成熟同行已经结合知识、网络和培训；这些能力本身不足以证明联野独有的AI差异。",
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
-          "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
+          "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
+          "entryPurposeReview": {
+            "type": "dealer_and_business_inquiry",
+            "basis": [
+              "商务合作页面及经销商咨询表单"
+            ],
+            "sources": [
+              "https://www.sentimenthifi.com/business.html"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -4369,6 +4755,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ],
+        "sources": [
+          "https://www.garmin.com.cn/buy/retailer/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "当前是否营业",
         "独立采购权",
@@ -4406,7 +4805,20 @@
           "basis": "brand_sales_directory",
           "identityEvidence": "沈阳佳明恒宇科技有限公司（辽宁、吉林、黑龙江）",
           "directoryId": "921990",
-          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+            ],
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -4558,6 +4970,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "general_contact",
+        "basis": [
+          "官网联系入口；未核实新厂商准入流程"
+        ],
+        "sources": [
+          "https://www.yulianggroup.cn/company/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "陌生新品采购与代理政策",
         "项目兼容性评估",
@@ -4607,6 +5032,19 @@
             "observed": "2026-10-09",
             "implication": "新品存在替代或补充关系，不能仅凭会议场景相关认定渠道值得引入",
             "boundary": "官网自述不证明效果、采购意愿或我方合作"
+          },
+          "entryPurposeReview": {
+            "type": "general_contact",
+            "basis": [
+              "官网联系入口；未核实新厂商准入流程"
+            ],
+            "sources": [
+              "https://www.yulianggroup.cn/company/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
           }
         }
       ]
@@ -4854,6 +5292,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ],
+        "sources": [
+          "https://www.garmin.com.cn/buy/retailer/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "当前是否营业",
         "独立采购权",
@@ -4891,7 +5342,20 @@
           "basis": "brand_sales_directory",
           "identityEvidence": "天津正睿商贸有限公司",
           "directoryId": "922000",
-          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+            ],
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -5099,6 +5563,15 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "not_documented",
+        "basis": [],
+        "sources": [],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "新品供应商准入",
         "采购与结算主体",
@@ -5131,7 +5604,16 @@
           "implication": "列有AI玩具可作为相关性线索，但不证明有实际AI销售或新品准入。",
           "observed": "2026-10-09",
           "basis": "exhibitor_self_description_on_organizer_site",
-          "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。"
+          "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。",
+          "entryPurposeReview": {
+            "type": "not_documented",
+            "basis": [],
+            "sources": [],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -5263,6 +5745,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+        ],
+        "sources": [
+          "https://www.garmin.com.cn/buy/retailer/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "当前是否营业",
         "独立采购权",
@@ -5300,7 +5795,20 @@
           "basis": "brand_sales_directory",
           "identityEvidence": "杭州迪吉特科技有限公司",
           "directoryId": "922005",
-          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系"
+          "inferenceBoundary": "品牌销售记录不证明独立采购权、合作意愿或联野关系",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌目录销售咨询记录；本轮不保存个人联系方式，未核实新品供应商入口"
+            ],
+            "sources": [
+              "https://www.garmin.com.cn/buy/retailer/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -5459,6 +5967,15 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "not_documented",
+        "basis": [],
+        "sources": [],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "新品供应商准入",
         "采购与结算主体",
@@ -5485,7 +6002,16 @@
           "implication": "品牌代理与IP经营路线；不能将授权范围泛化到所有AI陪伴产品。",
           "observed": "2026-10-09",
           "basis": "exhibitor_self_description_on_organizer_site",
-          "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。"
+          "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。",
+          "entryPurposeReview": {
+            "type": "not_documented",
+            "basis": [],
+            "sources": [],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -5640,6 +6166,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "general_contact",
+        "basis": [
+          "官网商务咨询与团购咨询入口；采购平台链接本轮超时，供应商准入未核实"
+        ],
+        "sources": [
+          "https://www.ksjx365.cn/products_show.aspx?id=477"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "智能穿戴或AI训练设备新品准入",
         "具体B端采购主体及预算",
@@ -5680,7 +6219,20 @@
           "implication": "运动方向除专业零售还有团队集采与赛事场景路线，需按采购任务研究，不把运动装备供应等同AI新品承接。",
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
-          "inferenceBoundary": "经营范围为官网披露；AI产品适配与采购意愿未确认"
+          "inferenceBoundary": "经营范围为官网披露；AI产品适配与采购意愿未确认",
+          "entryPurposeReview": {
+            "type": "general_contact",
+            "basis": [
+              "官网商务咨询与团购咨询入口；采购平台链接本轮超时，供应商准入未核实"
+            ],
+            "sources": [
+              "https://www.ksjx365.cn/products_show.aspx?id=477"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -6403,6 +6955,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "vendor_specific_purchase_directory",
+        "basis": [
+          "品牌官方购买目录列经销商网站；用于终端购买，不是新品供应商准入"
+        ],
+        "sources": [
+          "https://www.adobe.com/cn/purchase/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "其他软件品牌范围",
         "AI产品代理准入",
@@ -6435,7 +7000,20 @@
           "implication": "可补创作软件与企业软件路线，仍需经营者侧软件交付细节。",
           "observed": "2026-10-09",
           "basis": "vendor_authorization_directory",
-          "inferenceBoundary": "品牌授权不是任意新品准入；不采纳品牌对满意度的宣传主张。"
+          "inferenceBoundary": "品牌授权不是任意新品准入；不采纳品牌对满意度的宣传主张。",
+          "entryPurposeReview": {
+            "type": "vendor_specific_purchase_directory",
+            "basis": [
+              "品牌官方购买目录列经销商网站；用于终端购买，不是新品供应商准入"
+            ],
+            "sources": [
+              "https://www.adobe.com/cn/purchase/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -6486,6 +7064,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "supplier_submission",
+        "basis": [
+          "供应链合作页面提供产品资料发送入口；这是提交路径，不是采购承诺"
+        ],
+        "sources": [
+          "https://www.scyysj.com/supply_hz.html"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "选品准入标准",
         "AI产品承接意愿",
@@ -6518,6 +7109,19 @@
             "source": "https://www.scyysj.com/supply_hz.html",
             "observed": "2026-10-09",
             "reason": "明确列产品资料发送；没有公布选品条件或采购承诺"
+          },
+          "entryPurposeReview": {
+            "type": "supplier_submission",
+            "basis": [
+              "供应链合作页面提供产品资料发送入口；这是提交路径，不是采购承诺"
+            ],
+            "sources": [
+              "https://www.scyysj.com/supply_hz.html"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
           }
         }
       ]
@@ -6599,6 +7203,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "general_contact",
+        "basis": [
+          "官网联系入口；供应商准入尚未核实"
+        ],
+        "sources": [
+          "https://www.starintegr.com/about-us"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "第三方新品集成条件",
         "协议兼容与售后责任",
@@ -6644,6 +7261,19 @@
               "多个规模口径不同，不采用覆盖数量或能力数字"
             ],
             "boundary": "项目交付体系为经营者自述，不是新品集成或我方合作承诺"
+          },
+          "entryPurposeReview": {
+            "type": "general_contact",
+            "basis": [
+              "官网联系入口；供应商准入尚未核实"
+            ],
+            "sources": [
+              "https://www.starintegr.com/about-us"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
           }
         }
       ]
@@ -6715,6 +7345,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "general_contact",
+        "basis": [
+          "官网品牌与联系入口；未核实新品代理政策"
+        ],
+        "sources": [
+          "https://www.leiyinaudio.com/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "新品品牌准入",
         "AI音频产品适配",
@@ -6746,7 +7389,20 @@
           "implication": "有分销与新品试听活动依据；不能从音频推断所有创作设备或AI产品适配。",
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
-          "inferenceBoundary": "研究判断不证明采购意愿或已合作"
+          "inferenceBoundary": "研究判断不证明采购意愿或已合作",
+          "entryPurposeReview": {
+            "type": "general_contact",
+            "basis": [
+              "官网品牌与联系入口；未核实新品代理政策"
+            ],
+            "sources": [
+              "https://www.leiyinaudio.com/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -6827,6 +7483,15 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "not_documented",
+        "basis": [],
+        "sources": [],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "法律主体",
         "具体软件品牌准入",
@@ -6878,7 +7543,16 @@
             "learning",
             "office"
           ],
-          "directionBasis": "官网企业移动设备管理与学校IT支持范围支持跨教育与办公编辑分类；不是AI软件采购承诺"
+          "directionBasis": "官网企业移动设备管理与学校IT支持范围支持跨教育与办公编辑分类；不是AI软件采购承诺",
+          "entryPurposeReview": {
+            "type": "not_documented",
+            "basis": [],
+            "sources": [],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
+          }
         }
       ]
     },
@@ -6959,6 +7633,19 @@
           "claimScope": "public_self_description_not_verified_cooperation_condition"
         }
       },
+      "entryPurposeReview": {
+        "type": "general_contact",
+        "basis": [
+          "官网联系及留言入口；未核实为供应商准入"
+        ],
+        "sources": [
+          "https://www.gx-soft.com/jianjie/"
+        ],
+        "observed": "2026-10-09",
+        "status": "editorial_purpose_classification_from_public_evidence",
+        "newProductAcceptance": "unknown",
+        "companyRelationship": "not_established"
+      },
       "unknownOperatingConditions": [
         "AI软件代理意愿",
         "授权形式与合同主体",
@@ -7000,6 +7687,19 @@
             "access": "official_page_body",
             "additionalFact": "官网自述扶持中小软件开发商及软件合规业务代理；不采纳销量领先等宣传效果。",
             "unknown": "陌生Agent准入、实际合作条件及服务责任仍未知"
+          },
+          "entryPurposeReview": {
+            "type": "general_contact",
+            "basis": [
+              "官网联系及留言入口；未核实为供应商准入"
+            ],
+            "sources": [
+              "https://www.gx-soft.com/jianjie/"
+            ],
+            "observed": "2026-10-09",
+            "status": "editorial_purpose_classification_from_public_evidence",
+            "newProductAcceptance": "unknown",
+            "companyRelationship": "not_established"
           }
         }
       ]

@@ -84,6 +84,8 @@ if details_path.exists():
   for field,value in review['fields'].items():
    profile[field]=value
    profile.setdefault('fieldEvidence',{})[field]={'sources':review.get('fieldSources',{}).get(field,[review['source']]),'observed':review['observed'],'basis':review['basis'],'claimScope':'public_self_description_not_verified_cooperation_condition'}
+  if review.get('entryPurposeReview'):
+   profile['entryPurposeReview']=review['entryPurposeReview']
   profile['unknownOperatingConditions']=review.get('unknown',[])
   profile['researchInterpretation']=review['implication']
   profile.setdefault('reviewedDetails',[]).append(review)
