@@ -1,0 +1,15 @@
+{
+  "scope": "hypothetical_material_interpretation_not_business_validation",
+  "files": {
+    "complete-material-input-v1.json": "a867e249465e41dac9672bfc1f53881fbfbc45f752b9689f3a6c9fa11a41f609",
+    "complete-material-review-v1.json": "fac9798b35bcf09e5097c2413a788aee2c06a11f07db52f048b002b38edc7c8a",
+    "complete-material-ai-output-v1.json": "68b46b4c3bba2e2a5752dac5cec34b91c7697f5f91d01948bc6516f9954afb91"
+  },
+  "structure_checks": [
+    "five_proposal_ids",
+    "two_dates_each",
+    "known_document_references"
+  ],
+  "semantic_review": "complete-material-findings-v1.md",
+  "accuracy_or_efficiency_claim": false
+}

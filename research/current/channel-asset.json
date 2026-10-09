@@ -1200,13 +1200,15 @@
       "evidenceStatus": "historical_research_import_not_live_revalidation",
       "researchGaps": [],
       "buyerScenarios": [
-        "学前教育资源与活动材料"
+        "幼儿园开展游戏活动所需教育资源；不能据此推定家庭零售或全部儿童产品适配"
       ],
       "productScope": [
         "幼教资源、科学与益智教玩具、运动及感统产品"
       ],
       "regions": [],
-      "entryPoints": [],
+      "entryPoints": [
+        "官方联系页的一般公司咨询入口；不是新品采购或供应商准入入口"
+      ],
       "deliveryRequirements": [],
       "afterSalesRequirements": [],
       "priceBand": null,
@@ -1219,7 +1221,8 @@
       "fieldEvidence": {
         "productScope": {
           "sources": [
-            "https://www.qisehua.cn/"
+            "https://www.qisehua.cn/",
+            "https://www.qisehua.cn/index.php/about/index/id/16.shtml"
           ],
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
@@ -1227,7 +1230,15 @@
         },
         "buyerScenarios": {
           "sources": [
-            "https://www.qisehua.cn/"
+            "https://www.qisehua.cn/index.php/about/index/id/16.shtml"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://www.qisehua.cn/index.php/contact/index/id/14.shtml"
           ],
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
@@ -1235,9 +1246,13 @@
         }
       },
       "entryPurposeReview": {
-        "type": "not_documented",
-        "basis": [],
-        "sources": [],
+        "type": "general_contact",
+        "basis": [
+          "公司联系页列一般咨询方式，未提供供应商准入条件"
+        ],
+        "sources": [
+          "https://www.qisehua.cn/index.php/contact/index/id/14.shtml"
+        ],
         "observed": "2026-10-09",
         "status": "editorial_purpose_classification_from_public_evidence",
         "newProductAcceptance": "unknown",
@@ -1258,7 +1273,10 @@
               "幼教资源、科学与益智教玩具、运动及感统产品"
             ],
             "buyerScenarios": [
-              "学前教育资源与活动材料"
+              "幼儿园开展游戏活动所需教育资源；不能据此推定家庭零售或全部儿童产品适配"
+            ],
+            "entryPoints": [
+              "官方联系页的一般公司咨询入口；不是新品采购或供应商准入入口"
             ]
           },
           "unknown": [
@@ -1271,13 +1289,41 @@
           "basis": "operator_self_disclosure",
           "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系",
           "entryPurposeReview": {
-            "type": "not_documented",
-            "basis": [],
-            "sources": [],
+            "type": "general_contact",
+            "basis": [
+              "公司联系页列一般咨询方式，未提供供应商准入条件"
+            ],
+            "sources": [
+              "https://www.qisehua.cn/index.php/contact/index/id/14.shtml"
+            ],
             "observed": "2026-10-09",
             "status": "editorial_purpose_classification_from_public_evidence",
             "newProductAcceptance": "unknown",
             "companyRelationship": "not_established"
+          },
+          "identityEvidence": "公司简介和联系页均署名北京七色花教育科技发展有限公司；仅官网自述，未核验工商或合同主体",
+          "identitySource": "https://www.qisehua.cn/index.php/about/index/id/16.shtml",
+          "identityObserved": "2026-10-09",
+          "fieldSources": {
+            "productScope": [
+              "https://www.qisehua.cn/",
+              "https://www.qisehua.cn/index.php/about/index/id/16.shtml"
+            ],
+            "buyerScenarios": [
+              "https://www.qisehua.cn/index.php/about/index/id/16.shtml"
+            ],
+            "entryPoints": [
+              "https://www.qisehua.cn/index.php/contact/index/id/14.shtml"
+            ]
+          },
+          "sourceRefresh": {
+            "observed": "2026-10-09",
+            "access": "official_page_body",
+            "notes": [
+              "简介明确幼儿园游戏活动用途",
+              "联系页确认一般咨询，未找到新品提交或采购标准"
+            ],
+            "boundary": "官网所列品牌合作不是联野合作，也不推定接受AI产品"
           }
         }
       ]

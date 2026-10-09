@@ -6,7 +6,7 @@
     "buyerScenarios": 17,
     "productScope": 30,
     "regions": 13,
-    "entryPoints": 24,
+    "entryPoints": 25,
     "deliveryRequirements": 10,
     "afterSalesRequirements": 3
   },
@@ -30,7 +30,7 @@
         "buyerScenarios": 6,
         "productScope": 6,
         "regions": 0,
-        "entryPoints": 4,
+        "entryPoints": 5,
         "deliveryRequirements": 3,
         "afterSalesRequirements": 2
       }
