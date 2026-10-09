@@ -1,0 +1,194 @@
+{
+  "scope": "假设研究输入，无真实接洽或采购；不得使用其他文件或历史上下文",
+  "products": [
+    {
+      "id": "A",
+      "description": "家庭用亲子AI陪伴设备，有演示和可供货版本，儿童账号及语音数据说明尚缺。售价、认证、供货量、退换及订阅服务未提供。"
+    },
+    {
+      "id": "B",
+      "description": "企业会议记录整理Agent，云端订阅，当前不支持本地部署，未授予转售权。会议平台兼容、数据处理和支持说明未提供。"
+    }
+  ],
+  "channels": [
+    {
+      "displayName": "孕婴世界",
+      "source": "https://www.scyysj.com/supply_hz.html",
+      "fields": {
+        "entryPoints": [
+          "供应链合作页面提供产品资料发送入口；这是提交路径，不是采购承诺"
+        ]
+      },
+      "unknown": [
+        "选品准入标准",
+        "AI产品承接意愿",
+        "采购及结算主体",
+        "账期与退换政策"
+      ],
+      "implication": "可研究亲子产品供应链准入；不能依据入口直接推荐产品入驻。",
+      "observed": "2026-10-09",
+      "basis": "operator_self_disclosure",
+      "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
+    },
+    {
+      "displayName": "成方策",
+      "source": "https://www.solutionkeys.com/aboutus/",
+      "fields": {
+        "productScope": [
+          "IT管理产品及服务"
+        ],
+        "buyerScenarios": [
+          "企业移动设备管理",
+          "国际及双语学校IT支持"
+        ],
+        "deliveryRequirements": [
+          "官网介绍移动设备管理、学校IT外包与帮助台支持；不能据此确认某款Agent实施能力"
+        ]
+      },
+      "unknown": [
+        "法律主体",
+        "具体软件品牌准入",
+        "项目采购权",
+        "AI软件部署能力"
+      ],
+      "implication": "跨教育与企业IT服务，后台应跨方向检索；仍需核实具体软件采购与实施权限。",
+      "observed": "2026-10-09",
+      "basis": "operator_self_disclosure",
+      "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
+      "additionalSources": [
+        "https://www.solutionkeys.com/en/home/"
+      ],
+      "fieldSources": {
+        "buyerScenarios": [
+          "https://www.solutionkeys.com/en/home/"
+        ],
+        "deliveryRequirements": [
+          "https://www.solutionkeys.com/en/home/"
+        ],
+        "productScope": [
+          "https://www.solutionkeys.com/aboutus/"
+        ]
+      },
+      "editorialDirections": [
+        "learning",
+        "office"
+      ],
+      "directionBasis": "官网企业移动设备管理与学校IT支持范围支持跨教育与办公编辑分类；不是AI软件采购承诺"
+    },
+    {
+      "displayName": "七色花",
+      "source": "https://www.qisehua.cn/",
+      "fields": {
+        "productScope": [
+          "幼教资源、科学与益智教玩具、运动及感统产品"
+        ],
+        "buyerScenarios": [
+          "学前教育资源与活动材料"
+        ]
+      },
+      "unknown": [
+        "采购决策与销售模式",
+        "AI产品准入",
+        "培训交付责任"
+      ],
+      "implication": "教育通路的关联要落在教学用途和资源体系，不能只因产品面向儿童就认定匹配。",
+      "observed": "2026-10-09",
+      "basis": "operator_self_disclosure",
+      "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
+    },
+    {
+      "displayName": "上海广宣",
+      "source": "https://www.gx-soft.com/jianjie/",
+      "fields": {
+        "productScope": [
+          "办公、开发设计、工业应用等软件"
+        ],
+        "buyerScenarios": [
+          "企业软件购买与正版化"
+        ],
+        "entryPoints": [
+          "官网联系及留言入口；未核实为供应商准入"
+        ],
+        "deliveryRequirements": [
+          "官网介绍正版软件发行与技术服务，具体产品实施责任未知"
+        ]
+      },
+      "unknown": [
+        "AI软件代理意愿",
+        "授权形式与合同主体",
+        "部署和持续服务范围"
+      ],
+      "implication": "软件渠道已有代理与技术服务业务；新品需要明确授权、交付及服务边界。",
+      "observed": "2026-10-09",
+      "basis": "operator_self_disclosure",
+      "inferenceBoundary": "推断不代表采购意愿或合作关系"
+    },
+    {
+      "displayName": "禹亮科技",
+      "source": "https://www.yulianggroup.cn/company/",
+      "fields": {
+        "productScope": [
+          "视频会议终端、AI会议、会议音频与智能会议空间设备"
+        ],
+        "buyerScenarios": [
+          "企业会议室",
+          "教育与培训空间"
+        ],
+        "regions": [
+          "经营者自述业务涉及上海、长三角及全国沿海重点城市；未核实每城交付能力"
+        ],
+        "deliveryRequirements": [
+          "方案设计、设备选型与供应、部署及安装调试"
+        ],
+        "afterSalesRequirements": [
+          "官网自述提供技术支持与运维；具体新品合同责任未知"
+        ],
+        "entryPoints": [
+          "官网联系入口；未核实新厂商准入流程"
+        ]
+      },
+      "unknown": [
+        "陌生新品采购与代理政策",
+        "项目兼容性评估",
+        "具体部署城市和响应承诺",
+        "新产品售后责任"
+      ],
+      "implication": "AI办公设备进入企业可能要满足会议平台兼容、安装和运维条件；目录相关不等于独立设备直接上架。",
+      "observed": "2026-10-09",
+      "basis": "operator_self_disclosure",
+      "identityEvidence": "上海禹亮信息科技有限公司",
+      "inferenceBoundary": "既有品牌及项目能力为经营者自述，不自动外推为新品承接能力"
+    },
+    {
+      "displayName": "童真时代",
+      "source": "https://www.china-toy-expo.com/exhibitor/Dongguan-Childlike-Times-Trading-Co-Ltd--10527",
+      "identityEvidence": "东莞童真时代商贸有限公司为展商标题主体；对应已有简称，不新增计数。",
+      "fields": {
+        "productScope": [
+          "毛绒公仔、婴儿安抚益智、潮流手办及科教玩具；展出范围另列AI陪伴与学习玩具"
+        ],
+        "buyerScenarios": [
+          "电商供货与线下实体分销，服务商家"
+        ],
+        "regions": [
+          "公司自述服务全国商家，不证明省级代理权限或我方可调用覆盖"
+        ]
+      },
+      "unknown": [
+        "新品供应商准入",
+        "采购与结算主体",
+        "品牌排他与授权限制",
+        "供货、培训与售后条件"
+      ],
+      "implication": "列有AI玩具可作为相关性线索，但不证明有实际AI销售或新品准入。",
+      "observed": "2026-10-09",
+      "basis": "exhibitor_self_description_on_organizer_site",
+      "inferenceBoundary": "正文已读取，但为展商自述，不是独立效果验证；页脚主办方联系人不作为公司采购入口。"
+    }
+  ],
+  "change": {
+    "product": "B",
+    "description": "品牌新增本地部署版本并授予限定企业转售权，许可文本、客户和地域边界及部署支持责任尚未提供。"
+  },
+  "task": "逐产品选择值得进一步核实的通路，说明来源与未知；起草各角色合作资料骨架，不生成未经授权的销售承诺；说明变化后哪些判断与材料需修订及哪些不变。区分事实、推断和品牌待补条件。不得评分、预测销量或声称已合作。输出JSON，引用来源URL。"
+}
