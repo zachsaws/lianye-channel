@@ -1,0 +1,8 @@
+{
+  "inputSHA256": "c00640776c1c688b7f9b26e7abae841e9272a1b2cfe11e97d2a910f137e78932",
+  "outputSHA256": "e959a6f46448da1872983f4d6c02ecace6b95aefa6d5f720895138a5e704bae0",
+  "sourceURLSubset": true,
+  "productCount": 2,
+  "checkScope": "JSON structure and URL membership only, not business accuracy",
+  "method": "isolated agent, frozen input only, single run; untimed human-authored comparison"
+}

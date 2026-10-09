@@ -1,0 +1,23 @@
+{
+  "observed": "2026-10-09",
+  "name": "立诺软件",
+  "legalEntity": "深圳市立诺软件有限公司",
+  "source": "https://www.szipromise.com/product/index24.html",
+  "access": "official_page_body_read",
+  "facts": [
+    "官网列创意设计、通用办公、云服务及安全方案",
+    "官网自述正版软件与信息化服务业务",
+    "页脚与公司介绍使用同一法律主体名称"
+  ],
+  "inference": "办公和创作方向软件经营者候选，需研究具体新品牌合作机制",
+  "unknown": [
+    "新Agent品牌准入",
+    "具体许可及转售范围",
+    "采购意愿",
+    "部署与售后责任",
+    "联野合作关系"
+  ],
+  "status": "research_only_not_imported",
+  "identityWarning": "不得与edenyun.com的伊登合并；此前相近搜索结果不构成同一主体",
+  "effectOnThesis": "已有软件经营者覆盖技术服务与新品牌渠道建设，联野差异不能仅是软件也能卖"
+}
