@@ -1,0 +1,45 @@
+{
+  "scope": "hypothetical_nonstandard_material_extraction_not_actual_cooperation",
+  "cases": [
+    {
+      "id": "software-service-conflict",
+      "materials": [
+        {
+          "id": "product-sheet-v1",
+          "text": "订阅包含部署与持续技术支持。"
+        },
+        {
+          "id": "policy-v2",
+          "text": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+        }
+      ]
+    },
+    {
+      "id": "hardware-fulfillment-conflict",
+      "materials": [
+        {
+          "id": "launch-plan-v1",
+          "text": "首批产品计划月底交付。"
+        },
+        {
+          "id": "supply-update-v2",
+          "text": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+        }
+      ]
+    },
+    {
+      "id": "retail-evidence-insufficient",
+      "materials": [
+        {
+          "id": "channel-note",
+          "text": "该经营者官网列出儿童电子玩具。未公开新品供应商政策。"
+        },
+        {
+          "id": "product-note",
+          "text": "本产品用于成人办公会议记录，需企业账号及订阅。"
+        }
+      ]
+    }
+  ],
+  "task": "仅依据材料逐项指出变化、冲突、未知、需要人确认的下一步；引用material id与原文。不要推断采购意愿、销量或所有渠道拒绝。"
+}

@@ -1,0 +1,61 @@
+{
+  "method": "literal_warning_rules",
+  "inputSHA256": "14f0c1d67a543a6a43c010dc5fc8baa075ea6566c4cd354a785e00505400d6ea",
+  "cases": [
+    {
+      "caseId": "software-service-conflict",
+      "flags": [
+        {
+          "kind": "exclusion",
+          "literal": "不包含",
+          "materialId": "policy-v2",
+          "providedText": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+        },
+        {
+          "kind": "separate_price",
+          "literal": "单独报价",
+          "materialId": "policy-v2",
+          "providedText": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+        }
+      ],
+      "decision": "human_review_required",
+      "crossDocumentMeaningEstablished": false,
+      "purchaseFitEstablished": false
+    },
+    {
+      "caseId": "hardware-fulfillment-conflict",
+      "flags": [
+        {
+          "kind": "delay",
+          "literal": "延迟",
+          "materialId": "supply-update-v2",
+          "providedText": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+        },
+        {
+          "kind": "unknown_date",
+          "literal": "尚未确定",
+          "materialId": "supply-update-v2",
+          "providedText": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+        }
+      ],
+      "decision": "human_review_required",
+      "crossDocumentMeaningEstablished": false,
+      "purchaseFitEstablished": false
+    },
+    {
+      "caseId": "retail-evidence-insufficient",
+      "flags": [
+        {
+          "kind": "unpublished_policy",
+          "literal": "未公开",
+          "materialId": "channel-note",
+          "providedText": "该经营者官网列出儿童电子玩具。未公开新品供应商政策。"
+        }
+      ],
+      "decision": "human_review_required",
+      "crossDocumentMeaningEstablished": false,
+      "purchaseFitEstablished": false
+    }
+  ],
+  "limits": "固定词表是弱基线；只定位显式提醒，不证明语义关系，不代表完善规则系统能力。无工时及真实结果对照。"
+}
