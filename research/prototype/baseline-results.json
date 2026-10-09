@@ -87,6 +87,47 @@
             "商业及服务条件是什么？",
             "谁负责部署、账号和持续支持？"
           ]
+        },
+        {
+          "name": "上海广宣",
+          "decision": "research_further_not_purchase_recommendation",
+          "basis": [
+            {
+              "displayName": "上海广宣",
+              "source": "https://www.gx-soft.com/jianjie/",
+              "fields": {
+                "productScope": [
+                  "办公、开发设计、工业应用等软件"
+                ],
+                "buyerScenarios": [
+                  "企业软件购买与正版化"
+                ],
+                "entryPoints": [
+                  "官网联系及留言入口；未核实为供应商准入"
+                ],
+                "deliveryRequirements": [
+                  "官网介绍正版软件发行与技术服务，具体产品实施责任未知"
+                ]
+              },
+              "unknown": [
+                "AI软件代理意愿",
+                "授权形式与合同主体",
+                "部署和持续服务范围"
+              ],
+              "implication": "软件渠道已有代理与技术服务业务；新品需要明确授权、交付及服务边界。",
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "inferenceBoundary": "推断不代表采购意愿或合作关系"
+            }
+          ],
+          "fitConditions": {},
+          "fitWarning": null,
+          "questions": [
+            "采购决策主体是谁？",
+            "是否接受该类新品？",
+            "商业及服务条件是什么？",
+            "谁负责部署、账号和持续支持？"
+          ]
         }
       ],
       "limits": "产品方向相同仅支持进一步核实；未验证采购意愿、匹配效果或销量。"

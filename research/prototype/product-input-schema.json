@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "purpose": "同一产品材料用于规则与AI对照；缺失值必须为null",
+  "fields": {
+    "user": "实际使用者",
+    "payer": "付款者",
+    "procurementUnit": "采购决策单位",
+    "useScenario": "具体用途",
+    "deliveryMode": "硬件销售/软件订阅/项目交付等",
+    "demoMethod": "如何展示可用价值",
+    "serviceOwner": "持续服务责任方",
+    "fulfillment": "供应或部署安排",
+    "usageRestrictions": "认证、使用环境或其他限制"
+  },
+  "provenanceRequired": [
+    "原始材料片段",
+    "材料版本",
+    "事实或假设标记"
+  ],
+  "forbiddenInference": [
+    "用户等于付款者",
+    "品类等于采购场景",
+    "代理品牌等于任意新品准入",
+    "技术服务宣传等于特定产品部署能力"
+  ]
+}
