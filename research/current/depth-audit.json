@@ -1,0 +1,15 @@
+{
+  "scope": "research_depth_not_partner_count",
+  "profiles": 104,
+  "reviewedProfiles": 10,
+  "nonemptyFields": {
+    "buyerScenarios": 7,
+    "productScope": 9,
+    "regions": 0,
+    "entryPoints": 6,
+    "deliveryRequirements": 5,
+    "afterSalesRequirements": 1
+  },
+  "limits": "有内容不等于准入已核实；历史导入来源与本轮字段复核分别记录。",
+  "stage1Complete": false
+}
