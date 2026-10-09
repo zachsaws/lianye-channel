@@ -1,0 +1,302 @@
+{
+  "scope": "hypothetical_nonstandard_material_extraction_not_actual_cooperation",
+  "inputFile": "material-change-input-v1.json",
+  "inputSha256": "14f0c1d67a543a6a43c010dc5fc8baa075ea6566c4cd354a785e00505400d6ea",
+  "executedAt": "2026-10-09T06:54:31.876012+00:00",
+  "executionDate": "2026-10-09",
+  "executionTimezone": "Asia/Shanghai",
+  "method": "独立 AI 单次材料对照，仅读取指定输入；未浏览、未读取预期答案或其他项目文件。版本名未被当作生效依据。",
+  "cases": [
+    {
+      "caseId": "software-service-conflict",
+      "changes": [
+        {
+          "judgment": "policy-v2描述自下月起的标准订阅范围：仅提供账号，部署不包含，持续技术支持单独报价；相较product-sheet-v1描述的包含部署与支持，范围发生变化。",
+          "evidence": [
+            {
+              "materialId": "product-sheet-v1",
+              "quote": "订阅包含部署与持续技术支持。"
+            },
+            {
+              "materialId": "policy-v2",
+              "quote": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+            }
+          ]
+        }
+      ],
+      "conflicts": [
+        {
+          "judgment": "两份材料对部署与持续技术支持是否包含的描述不一致；是否在同一时间、同一订阅类型适用尚不能确定。",
+          "evidence": [
+            {
+              "materialId": "product-sheet-v1",
+              "quote": "订阅包含部署与持续技术支持。"
+            },
+            {
+              "materialId": "policy-v2",
+              "quote": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+            }
+          ]
+        }
+      ],
+      "unknown": [
+        {
+          "judgment": "“下月”的基准日期、具体生效日以及已有订阅是否适用未提供。",
+          "evidence": [
+            {
+              "materialId": "policy-v2",
+              "quote": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+            }
+          ]
+        },
+        {
+          "judgment": "product-sheet-v1的订阅是否等同于policy-v2的标准订阅，以及部署和支持的单独报价、服务范围未提供。",
+          "evidence": [
+            {
+              "materialId": "product-sheet-v1",
+              "quote": "订阅包含部署与持续技术支持。"
+            },
+            {
+              "materialId": "policy-v2",
+              "quote": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+            }
+          ]
+        }
+      ],
+      "nextActions": [
+        {
+          "judgment": "由政策负责人确认生效日期、适用订阅及存量客户范围，再更新对应产品材料。",
+          "evidence": [
+            {
+              "materialId": "product-sheet-v1",
+              "quote": "订阅包含部署与持续技术支持。"
+            },
+            {
+              "materialId": "policy-v2",
+              "quote": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+            }
+          ]
+        },
+        {
+          "judgment": "由交付与报价负责人确认部署安排及持续支持报价，形成可核对的服务范围。",
+          "evidence": [
+            {
+              "materialId": "policy-v2",
+              "quote": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "materialId": "product-sheet-v1",
+          "quote": "订阅包含部署与持续技术支持。"
+        },
+        {
+          "materialId": "policy-v2",
+          "quote": "自下月起，标准订阅仅提供账号，不包含部署；持续技术支持需单独报价。"
+        }
+      ]
+    },
+    {
+      "caseId": "hardware-fulfillment-conflict",
+      "changes": [
+        {
+          "judgment": "供货更新描述量产延迟，月底仅可提供演示样机，可销售批次交付时间未定；对照原月底交付计划，交付状态发生变化。",
+          "evidence": [
+            {
+              "materialId": "launch-plan-v1",
+              "quote": "首批产品计划月底交付。"
+            },
+            {
+              "materialId": "supply-update-v2",
+              "quote": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+            }
+          ]
+        }
+      ],
+      "conflicts": [
+        {
+          "judgment": "月底交付首批产品的计划与月底仅有演示样机的供货更新存在交付口径不一致；原计划是否指可销售产品及两份材料是否指同一月底需确认。",
+          "evidence": [
+            {
+              "materialId": "launch-plan-v1",
+              "quote": "首批产品计划月底交付。"
+            },
+            {
+              "materialId": "supply-update-v2",
+              "quote": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+            }
+          ]
+        }
+      ],
+      "unknown": [
+        {
+          "judgment": "可销售批次交付日期未确定，演示样机数量、用途限制及量产延迟原因未提供。",
+          "evidence": [
+            {
+              "materialId": "supply-update-v2",
+              "quote": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+            }
+          ]
+        },
+        {
+          "judgment": "“月底”的年月、原计划首批产品性质及计划是否已经对外承诺未提供。",
+          "evidence": [
+            {
+              "materialId": "launch-plan-v1",
+              "quote": "首批产品计划月底交付。"
+            },
+            {
+              "materialId": "supply-update-v2",
+              "quote": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+            }
+          ]
+        }
+      ],
+      "nextActions": [
+        {
+          "judgment": "由供应与项目负责人确认同一批次和日期口径，并确认可销售批次的新交付预期；无确定日期时保留未定状态。",
+          "evidence": [
+            {
+              "materialId": "launch-plan-v1",
+              "quote": "首批产品计划月底交付。"
+            },
+            {
+              "materialId": "supply-update-v2",
+              "quote": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+            }
+          ]
+        },
+        {
+          "judgment": "由交付负责人确认演示样机可提供数量及用途，核对并修订受影响的交付表述。",
+          "evidence": [
+            {
+              "materialId": "launch-plan-v1",
+              "quote": "首批产品计划月底交付。"
+            },
+            {
+              "materialId": "supply-update-v2",
+              "quote": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "materialId": "launch-plan-v1",
+          "quote": "首批产品计划月底交付。"
+        },
+        {
+          "materialId": "supply-update-v2",
+          "quote": "量产进度延迟，月底仅可提供演示样机；可销售批次交付时间尚未确定。"
+        }
+      ]
+    },
+    {
+      "caseId": "retail-evidence-insufficient",
+      "changes": [
+        {
+          "judgment": "材料未给出同一对象的前后版本，无法确认发生了变化；仅可记录经营者列出的品类与本产品用途。",
+          "evidence": [
+            {
+              "materialId": "channel-note",
+              "quote": "该经营者官网列出儿童电子玩具。未公开新品供应商政策。"
+            },
+            {
+              "materialId": "product-note",
+              "quote": "本产品用于成人办公会议记录，需企业账号及订阅。"
+            }
+          ]
+        }
+      ],
+      "conflicts": [
+        {
+          "judgment": "现有品类面向儿童电子玩具，本产品用于成人办公会议记录，存在品类与使用场景差异；材料不足以确认供应政策冲突或不兼容。",
+          "evidence": [
+            {
+              "materialId": "channel-note",
+              "quote": "该经营者官网列出儿童电子玩具。未公开新品供应商政策。"
+            },
+            {
+              "materialId": "product-note",
+              "quote": "本产品用于成人办公会议记录，需企业账号及订阅。"
+            }
+          ]
+        }
+      ],
+      "unknown": [
+        {
+          "judgment": "新品供应商政策未公开，无法判断该经营者是否接纳此类产品及账号订阅模式。",
+          "evidence": [
+            {
+              "materialId": "channel-note",
+              "quote": "该经营者官网列出儿童电子玩具。未公开新品供应商政策。"
+            },
+            {
+              "materialId": "product-note",
+              "quote": "本产品用于成人办公会议记录，需企业账号及订阅。"
+            }
+          ]
+        },
+        {
+          "judgment": "产品的企业账号与订阅要求已知，但该经营者是否能承接相关销售、开通和服务流程未知。",
+          "evidence": [
+            {
+              "materialId": "channel-note",
+              "quote": "该经营者官网列出儿童电子玩具。未公开新品供应商政策。"
+            },
+            {
+              "materialId": "product-note",
+              "quote": "本产品用于成人办公会议记录，需企业账号及订阅。"
+            }
+          ]
+        }
+      ],
+      "nextActions": [
+        {
+          "judgment": "由人核实该经营者新品供应商政策、品类边界及企业账号和订阅产品的准入条件，并保存原始答复。",
+          "evidence": [
+            {
+              "materialId": "channel-note",
+              "quote": "该经营者官网列出儿童电子玩具。未公开新品供应商政策。"
+            },
+            {
+              "materialId": "product-note",
+              "quote": "本产品用于成人办公会议记录，需企业账号及订阅。"
+            }
+          ]
+        },
+        {
+          "judgment": "由产品负责人确认企业账号及订阅的销售、开通和服务要求，再与核实后的经营者条件逐项对照。",
+          "evidence": [
+            {
+              "materialId": "channel-note",
+              "quote": "该经营者官网列出儿童电子玩具。未公开新品供应商政策。"
+            },
+            {
+              "materialId": "product-note",
+              "quote": "本产品用于成人办公会议记录，需企业账号及订阅。"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "materialId": "channel-note",
+          "quote": "该经营者官网列出儿童电子玩具。未公开新品供应商政策。"
+        },
+        {
+          "materialId": "product-note",
+          "quote": "本产品用于成人办公会议记录，需企业账号及订阅。"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "仅对三组假设材料进行文本对照，不代表实际合作事实。",
+    "未验证材料真实性、完整性、版本优先级、发布时间、日期或适用范围。",
+    "输出属于一次 AI 判断，未经过人工确认或独立质量评分。",
+    "未推断采购意愿、销量、成交、渠道拒绝或实际履约结果；下一步是待人确认事项，不表示已执行。"
+  ]
+}
