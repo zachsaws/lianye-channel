@@ -1,0 +1,163 @@
+{
+  "scope": "Explicitly hypothetical products and documents; no real grants, partners or delivery",
+  "versions": {
+    "v0": {
+      "grant": {
+        "status": "absent"
+      },
+      "local_delivery": {
+        "status": "not_available"
+      },
+      "support": {
+        "status": "unknown"
+      }
+    },
+    "v1": {
+      "grant": {
+        "status": "intent",
+        "evidence": "hypothetical:owner-note-v1"
+      },
+      "local_delivery": {
+        "status": "demo",
+        "evidence": "hypothetical:demo-note-v1"
+      },
+      "support": {
+        "status": "unknown"
+      }
+    },
+    "v2": {
+      "grant": {
+        "status": "confirmed",
+        "evidence": "hypothetical:signed-grant-v2",
+        "product_version": [
+          "local-v2"
+        ],
+        "region": [
+          "Shanghai"
+        ],
+        "customer_type": [
+          "enterprise"
+        ]
+      },
+      "local_delivery": {
+        "status": "production_confirmed",
+        "evidence": "hypothetical:acceptance-v2"
+      },
+      "support": {
+        "status": "confirmed",
+        "evidence": "hypothetical:support-v2"
+      }
+    }
+  },
+  "cases": [
+    {
+      "id": "original",
+      "version": "v0",
+      "proposal": {
+        "mode": "resale",
+        "deployment": "production_local",
+        "product_version": "local-v2",
+        "region": "Shanghai",
+        "customer_type": "enterprise",
+        "promises_support": true
+      },
+      "expected_blocked": [
+        "resale_permission_unconfirmed",
+        "production_delivery_unconfirmed",
+        "support_responsibility_unconfirmed"
+      ]
+    },
+    {
+      "id": "intent_and_demo",
+      "version": "v1",
+      "proposal": {
+        "mode": "resale",
+        "deployment": "production_local",
+        "product_version": "local-v2",
+        "region": "Shanghai",
+        "customer_type": "enterprise",
+        "promises_support": true
+      },
+      "expected_blocked": [
+        "resale_permission_unconfirmed",
+        "production_delivery_unconfirmed",
+        "support_responsibility_unconfirmed"
+      ]
+    },
+    {
+      "id": "scoped_confirmed",
+      "version": "v2",
+      "proposal": {
+        "mode": "resale",
+        "deployment": "production_local",
+        "product_version": "local-v2",
+        "region": "Shanghai",
+        "customer_type": "enterprise",
+        "promises_support": true
+      },
+      "expected_blocked": []
+    },
+    {
+      "id": "wrong_region",
+      "version": "v2",
+      "proposal": {
+        "mode": "resale",
+        "deployment": "production_local",
+        "product_version": "local-v2",
+        "region": "Beijing",
+        "customer_type": "enterprise",
+        "promises_support": true
+      },
+      "expected_blocked": [
+        "resale_scope_mismatch:region"
+      ]
+    },
+    {
+      "id": "wrong_customer",
+      "version": "v2",
+      "proposal": {
+        "mode": "resale",
+        "deployment": "production_local",
+        "product_version": "local-v2",
+        "region": "Shanghai",
+        "customer_type": "school",
+        "promises_support": true
+      },
+      "expected_blocked": [
+        "resale_scope_mismatch:customer_type"
+      ]
+    },
+    {
+      "id": "wrong_version",
+      "version": "v2",
+      "proposal": {
+        "mode": "resale",
+        "deployment": "production_local",
+        "product_version": "cloud-v1",
+        "region": "Shanghai",
+        "customer_type": "enterprise",
+        "promises_support": true
+      },
+      "expected_blocked": [
+        "resale_scope_mismatch:product_version"
+      ]
+    },
+    {
+      "id": "all_scope_mismatch",
+      "version": "v2",
+      "proposal": {
+        "mode": "resale",
+        "deployment": "production_local",
+        "product_version": "cloud-v1",
+        "region": "Beijing",
+        "customer_type": "school",
+        "promises_support": true
+      },
+      "expected_blocked": [
+        "resale_scope_mismatch:region",
+        "resale_scope_mismatch:customer_type",
+        "resale_scope_mismatch:product_version"
+      ]
+    }
+  ]
+}

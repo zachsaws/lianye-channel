@@ -1,0 +1,143 @@
+{
+  "scope": "Explicitly hypothetical products and documents; no real grants, partners or delivery",
+  "method": "deterministic_structured_rules_no_ai",
+  "results": [
+    {
+      "blocked_claims": [
+        "resale_permission_unconfirmed",
+        "production_delivery_unconfirmed",
+        "support_responsibility_unconfirmed"
+      ],
+      "evidence_used": [],
+      "state": "claims_blocked",
+      "external_use_approved": false,
+      "limitations": [
+        "does_not_verify_document_authenticity",
+        "does_not_determine_channel_interest",
+        "does_not_check_all_commercial_terms",
+        "human_review_required"
+      ],
+      "id": "original",
+      "expected_claims_match": true
+    },
+    {
+      "blocked_claims": [
+        "resale_permission_unconfirmed",
+        "production_delivery_unconfirmed",
+        "support_responsibility_unconfirmed"
+      ],
+      "evidence_used": [],
+      "state": "claims_blocked",
+      "external_use_approved": false,
+      "limitations": [
+        "does_not_verify_document_authenticity",
+        "does_not_determine_channel_interest",
+        "does_not_check_all_commercial_terms",
+        "human_review_required"
+      ],
+      "id": "intent_and_demo",
+      "expected_claims_match": true
+    },
+    {
+      "blocked_claims": [],
+      "evidence_used": [
+        "hypothetical:signed-grant-v2",
+        "hypothetical:acceptance-v2",
+        "hypothetical:support-v2"
+      ],
+      "state": "specified_checks_passed",
+      "external_use_approved": false,
+      "limitations": [
+        "does_not_verify_document_authenticity",
+        "does_not_determine_channel_interest",
+        "does_not_check_all_commercial_terms",
+        "human_review_required"
+      ],
+      "id": "scoped_confirmed",
+      "expected_claims_match": true
+    },
+    {
+      "blocked_claims": [
+        "resale_scope_mismatch:region"
+      ],
+      "evidence_used": [
+        "hypothetical:signed-grant-v2",
+        "hypothetical:acceptance-v2",
+        "hypothetical:support-v2"
+      ],
+      "state": "claims_blocked",
+      "external_use_approved": false,
+      "limitations": [
+        "does_not_verify_document_authenticity",
+        "does_not_determine_channel_interest",
+        "does_not_check_all_commercial_terms",
+        "human_review_required"
+      ],
+      "id": "wrong_region",
+      "expected_claims_match": true
+    },
+    {
+      "blocked_claims": [
+        "resale_scope_mismatch:customer_type"
+      ],
+      "evidence_used": [
+        "hypothetical:signed-grant-v2",
+        "hypothetical:acceptance-v2",
+        "hypothetical:support-v2"
+      ],
+      "state": "claims_blocked",
+      "external_use_approved": false,
+      "limitations": [
+        "does_not_verify_document_authenticity",
+        "does_not_determine_channel_interest",
+        "does_not_check_all_commercial_terms",
+        "human_review_required"
+      ],
+      "id": "wrong_customer",
+      "expected_claims_match": true
+    },
+    {
+      "blocked_claims": [
+        "resale_scope_mismatch:product_version"
+      ],
+      "evidence_used": [
+        "hypothetical:signed-grant-v2",
+        "hypothetical:acceptance-v2",
+        "hypothetical:support-v2"
+      ],
+      "state": "claims_blocked",
+      "external_use_approved": false,
+      "limitations": [
+        "does_not_verify_document_authenticity",
+        "does_not_determine_channel_interest",
+        "does_not_check_all_commercial_terms",
+        "human_review_required"
+      ],
+      "id": "wrong_version",
+      "expected_claims_match": true
+    },
+    {
+      "blocked_claims": [
+        "resale_scope_mismatch:product_version",
+        "resale_scope_mismatch:region",
+        "resale_scope_mismatch:customer_type"
+      ],
+      "evidence_used": [
+        "hypothetical:signed-grant-v2",
+        "hypothetical:acceptance-v2",
+        "hypothetical:support-v2"
+      ],
+      "state": "claims_blocked",
+      "external_use_approved": false,
+      "limitations": [
+        "does_not_verify_document_authenticity",
+        "does_not_determine_channel_interest",
+        "does_not_check_all_commercial_terms",
+        "human_review_required"
+      ],
+      "id": "all_scope_mismatch",
+      "expected_claims_match": true
+    }
+  ],
+  "all_fixture_expectations_met": true
+}
