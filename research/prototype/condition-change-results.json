@@ -1,0 +1,104 @@
+{
+  "method": "fixed_rule_version_comparison",
+  "aiRun": false,
+  "caseInputSha256": "84d3d758f041e1944dce2e465405885aac86bfcd22692b8ee3864c105bde786e",
+  "resultInputSha256": "649b89b326d2dbf0b19e539a3d98910a85f18d6b3eb68a2109e07f743e253d53",
+  "changes": [
+    {
+      "before": "companion-ready",
+      "after": "companion-no-demo",
+      "expectedEffect": "pause_preparation",
+      "meaning": "演示不可用，暂缓项目投入；不是经营者正式拒绝。",
+      "changedFields": {
+        "demoReady": {
+          "before": true,
+          "after": false
+        }
+      },
+      "beforeDecision": "verify_channel_conditions",
+      "afterDecision": "complete_product_information_first",
+      "affectedRoutes": [
+        {
+          "name": "孕婴世界",
+          "effect": "paused_due_to_product_readiness",
+          "notEquivalentTo": "渠道拒绝或不适配"
+        }
+      ],
+      "expectedEffectObserved": true
+    },
+    {
+      "before": "office-agent",
+      "after": "office-service-withdrawn",
+      "expectedEffect": "pause_preparation",
+      "meaning": "持续服务责任不明确，撤回旧的继续推进判断。",
+      "changedFields": {
+        "serviceOwnerKnown": {
+          "before": true,
+          "after": false
+        }
+      },
+      "beforeDecision": "verify_channel_conditions",
+      "afterDecision": "complete_product_information_first",
+      "affectedRoutes": [
+        {
+          "name": "九机",
+          "effect": "paused_due_to_product_readiness",
+          "notEquivalentTo": "渠道拒绝或不适配"
+        },
+        {
+          "name": "英迈中国",
+          "effect": "paused_due_to_product_readiness",
+          "notEquivalentTo": "渠道拒绝或不适配"
+        },
+        {
+          "name": "禹亮科技",
+          "effect": "paused_due_to_product_readiness",
+          "notEquivalentTo": "渠道拒绝或不适配"
+        },
+        {
+          "name": "成方策",
+          "effect": "paused_due_to_product_readiness",
+          "notEquivalentTo": "渠道拒绝或不适配"
+        },
+        {
+          "name": "上海广宣",
+          "effect": "paused_due_to_product_readiness",
+          "notEquivalentTo": "渠道拒绝或不适配"
+        }
+      ],
+      "expectedEffectObserved": true
+    },
+    {
+      "before": "wearable-outdoor",
+      "after": "wearable-clinical-only",
+      "expectedEffect": "recheck_business_fit",
+      "meaning": "用途转向医疗机构，已有户外场景关联不足以维持原判断。",
+      "changedFields": {
+        "channelFitConditions": {
+          "before": null,
+          "after": {
+            "buyer": "医疗机构",
+            "consumerRetailEligible": null,
+            "clinicalWorkflowRequired": true
+          }
+        }
+      },
+      "beforeDecision": "verify_channel_conditions",
+      "afterDecision": "verify_channel_conditions",
+      "affectedRoutes": [
+        {
+          "name": "九机",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        },
+        {
+          "name": "三夫户外",
+          "effect": "recheck_business_fit",
+          "notEquivalentTo": "确认不能合作"
+        }
+      ],
+      "expectedEffectObserved": true
+    }
+  ],
+  "limits": "仅证明这些假设输入下规则状态变化；不是AI效果或实际经营结果。"
+}

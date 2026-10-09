@@ -1,0 +1,22 @@
+{
+  "pairs": [
+    {
+      "before": "companion-ready",
+      "after": "companion-no-demo",
+      "expectedEffect": "pause_preparation",
+      "meaning": "演示不可用，暂缓项目投入；不是经营者正式拒绝。"
+    },
+    {
+      "before": "office-agent",
+      "after": "office-service-withdrawn",
+      "expectedEffect": "pause_preparation",
+      "meaning": "持续服务责任不明确，撤回旧的继续推进判断。"
+    },
+    {
+      "before": "wearable-outdoor",
+      "after": "wearable-clinical-only",
+      "expectedEffect": "recheck_business_fit",
+      "meaning": "用途转向医疗机构，已有户外场景关联不足以维持原判断。"
+    }
+  ]
+}

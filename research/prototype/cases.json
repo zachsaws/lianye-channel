@@ -54,6 +54,16 @@
         "consumerRetailEligible": null,
         "clinicalWorkflowRequired": true
       }
+    },
+    {
+      "id": "wearable-outdoor",
+      "hypothetical": true,
+      "direction": "wearable",
+      "delivery": "hardware",
+      "demoReady": true,
+      "serviceOwnerKnown": true,
+      "fulfillmentKnown": true,
+      "description": "假设设备用于个人户外运动体验；仍未核实渠道采购意愿。"
     }
   ]
 }

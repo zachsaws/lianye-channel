@@ -663,6 +663,166 @@
         }
       ],
       "limits": "产品方向相同仅支持进一步核实；未验证采购意愿、匹配效果或销量。"
+    },
+    {
+      "caseId": "wearable-outdoor",
+      "decision": "verify_channel_conditions",
+      "missingProductConditions": [],
+      "routesForFurtherResearch": [
+        {
+          "name": "九机",
+          "decision": "research_further_not_purchase_recommendation",
+          "basis": [
+            {
+              "displayName": "九机",
+              "source": "https://www.9ji.com/doc/15/74",
+              "additionalSources": [
+                "https://www.9ji.com/doc/15/41"
+              ],
+              "fields": {
+                "productScope": [
+                  "3C通讯、数码配件、笔记本及新奇特商品"
+                ],
+                "entryPoints": [
+                  "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+                ],
+                "buyerScenarios": [
+                  "线上商城及线下数码消费"
+                ]
+              },
+              "fieldSources": {
+                "entryPoints": [
+                  "https://www.9ji.com/doc/15/74",
+                  "https://www.9ji.com/doc/15/41"
+                ]
+              },
+              "unknown": [
+                "新品审核材料",
+                "采购与结算主体",
+                "试销政策",
+                "具体售后分工"
+              ],
+              "implication": "比普通联系页更明确的供应商入口，值得核实商品准入；不等于接受该新品。",
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "inferenceBoundary": "经营描述与开放入口不证明承接意愿"
+            }
+          ],
+          "fieldEvidence": {
+            "productScope": {
+              "sources": [
+                "https://www.9ji.com/doc/15/74"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "entryPoints": {
+              "sources": [
+                "https://www.9ji.com/doc/15/74",
+                "https://www.9ji.com/doc/15/41"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "buyerScenarios": {
+              "sources": [
+                "https://www.9ji.com/doc/15/74"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            }
+          },
+          "unknownOperatingConditions": [
+            "新品审核材料",
+            "采购与结算主体",
+            "试销政策",
+            "具体售后分工"
+          ],
+          "recallBasis": "editorial_direction",
+          "priorityEstablished": false,
+          "fitConditions": {},
+          "fitWarning": null,
+          "questions": [
+            "采购决策主体是谁？",
+            "是否接受该类新品？",
+            "商业及服务条件是什么？"
+          ]
+        },
+        {
+          "name": "三夫户外",
+          "decision": "research_further_not_purchase_recommendation",
+          "basis": [
+            {
+              "displayName": "三夫户外",
+              "source": "https://sanfo.com/about/general.asp",
+              "fields": {
+                "productScope": [
+                  "户外服装、鞋袜与装备"
+                ],
+                "buyerScenarios": [
+                  "滑雪、露营、跑步、徒步、登山、城市通勤"
+                ],
+                "entryPoints": [
+                  "官网提供联系三夫入口；大客户集采是面向采购客户的服务，不能当作供应商准入"
+                ]
+              },
+              "unknown": [
+                "新品采购接口",
+                "电子设备选品政策",
+                "试销与服务条款"
+              ],
+              "implication": "专业零售、品牌运营和活动场景并存；应先明确合作业务单元，不能把同一公司拆成多个独立采购主体。",
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
+            }
+          ],
+          "fieldEvidence": {
+            "productScope": {
+              "sources": [
+                "https://sanfo.com/about/general.asp"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "buyerScenarios": {
+              "sources": [
+                "https://sanfo.com/about/general.asp"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            },
+            "entryPoints": {
+              "sources": [
+                "https://sanfo.com/about/general.asp"
+              ],
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "claimScope": "public_self_description_not_verified_cooperation_condition"
+            }
+          },
+          "unknownOperatingConditions": [
+            "新品采购接口",
+            "电子设备选品政策",
+            "试销与服务条款"
+          ],
+          "recallBasis": "editorial_direction",
+          "priorityEstablished": false,
+          "fitConditions": {},
+          "fitWarning": null,
+          "questions": [
+            "采购决策主体是谁？",
+            "是否接受该类新品？",
+            "商业及服务条件是什么？"
+          ]
+        }
+      ],
+      "limits": "产品方向相同仅支持进一步核实；未验证采购意愿、匹配效果或销量。"
     }
   ]
 }
