@@ -1,0 +1,13 @@
+@media(max-width:650px){
+ .landscape{aspect-ratio:1672/941}
+ .hero{padding-bottom:72px}
+ .business-section{padding:0;margin:68px 22px}
+ .business-stage{border-radius:18px}
+ .business-details article{padding-top:25px;padding-right:0}
+ .experience-integrated{padding:44px 24px!important}
+ .experience-editorial h2{font-size:28px;line-height:1.35;letter-spacing:-.025em}
+ .experience-editorial>p:last-child{line-height:1.85}
+ .experience-art{border-radius:16px}
+ .experience-choices button{font-size:18px;padding-top:18px;padding-bottom:18px}
+ .contact-section{padding-top:56px;padding-bottom:48px}
+}
