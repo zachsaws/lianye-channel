@@ -32,3 +32,7 @@
 [当前阶段判断](current/interim-decision.md)汇总已支持结论、官网表达候选和未完成验证，作为后续决策入口。
 
 [经营信息覆盖复查](current/operating-coverage-review.md)按六个产品方向检查有来源的字段，避免总量掩盖分类深度失衡。可通过 `python3 scripts/review_channel_depth.py` 更新；不代表合作网络或商业效果。
+
+## 当前阶段审查入口
+
+[决策与剩余证据](current/decision-review.md)连接渠道、业务、AI原型与本地预览，明确各阶段未完成内容。原公开官网未被本轮预览替换。
