@@ -49,3 +49,7 @@ AI继续研究只能证明给定材料下的工作方式。若不能在复杂输
 - [参考表达对照](../../generated-md/AI重做业务_官网表达对照与联野检验.md)
 - [一页交付样稿](../../generated-md/新品渠道开拓_一页交付样稿.md)
 - [完整工作测试](../prototype/full-work-findings-v1.md)
+
+## 最新业务收敛
+
+[业务定义v2](business-definition-v2.md)将相关性与引入理由分开，保留常规服务和跨项目能力的验证门槛；[原始网页独立测试](../prototype/raw-source-findings-v1.md)仅支持有限材料处理。新定义尚未获用户认可，不进入官网。
