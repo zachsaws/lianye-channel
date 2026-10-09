@@ -180,7 +180,8 @@
       "roleStatus": "tag_based_hypothesis_not_source_verification",
       "sourceLinks": [
         "https://www.9ji.com/doc/15/74",
-        "https://www2.9ji.com/doc/1/43"
+        "https://www2.9ji.com/doc/1/43",
+        "https://www.9ji.com/doc/15/41"
       ],
       "importedEvidence": [
         {
@@ -195,10 +196,16 @@
       ],
       "evidenceStatus": "historical_research_import_not_live_revalidation",
       "researchGaps": [],
-      "buyerScenarios": [],
-      "productScope": [],
+      "buyerScenarios": [
+        "线上商城及线下数码消费"
+      ],
+      "productScope": [
+        "3C通讯、数码配件、笔记本及新奇特商品"
+      ],
       "regions": [],
-      "entryPoints": [],
+      "entryPoints": [
+        "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+      ],
       "deliveryRequirements": [],
       "afterSalesRequirements": [],
       "priceBand": null,
@@ -207,7 +214,77 @@
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "existing_public_market_route"
+      "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "productScope": {
+          "sources": [
+            "https://www.9ji.com/doc/15/74"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://www.9ji.com/doc/15/74",
+            "https://www.9ji.com/doc/15/41"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "buyerScenarios": {
+          "sources": [
+            "https://www.9ji.com/doc/15/74"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "新品审核材料",
+        "采购与结算主体",
+        "试销政策",
+        "具体售后分工"
+      ],
+      "researchInterpretation": "比普通联系页更明确的供应商入口，值得核实商品准入；不等于接受该新品。",
+      "reviewedDetails": [
+        {
+          "displayName": "九机",
+          "source": "https://www.9ji.com/doc/15/74",
+          "additionalSources": [
+            "https://www.9ji.com/doc/15/41"
+          ],
+          "fields": {
+            "productScope": [
+              "3C通讯、数码配件、笔记本及新奇特商品"
+            ],
+            "entryPoints": [
+              "供应商申请页面；商务合作页面明确面向希望代理或销售商品的品牌"
+            ],
+            "buyerScenarios": [
+              "线上商城及线下数码消费"
+            ]
+          },
+          "fieldSources": {
+            "entryPoints": [
+              "https://www.9ji.com/doc/15/74",
+              "https://www.9ji.com/doc/15/41"
+            ]
+          },
+          "unknown": [
+            "新品审核材料",
+            "采购与结算主体",
+            "试销政策",
+            "具体售后分工"
+          ],
+          "implication": "比普通联系页更明确的供应商入口，值得核实商品准入；不等于接受该新品。",
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "inferenceBoundary": "经营描述与开放入口不证明承接意愿"
+        }
+      ]
     },
     {
       "id": "876980ffaebf",

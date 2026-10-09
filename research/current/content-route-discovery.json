@@ -1,0 +1,37 @@
+{
+  "observed": "2026-10-09",
+  "records": [
+    {
+      "name": "交个朋友",
+      "source": "https://www.befriends.com.cn/befriends",
+      "role": "直播电商与新媒体营销",
+      "facts": [
+        "经营多平台直播和垂类账号，公开提到母婴等品类"
+      ],
+      "unknown": [
+        "具体签约及采购主体",
+        "品牌选品入口",
+        "AI产品选品政策",
+        "佣金、排期与退货责任"
+      ],
+      "status": "public_group_brand_lead_not_legal_entity_verified"
+    },
+    {
+      "name": "遥望科技",
+      "source": "https://www.yowant.com/index.html",
+      "role": "直播电商与供应链运营",
+      "facts": [
+        "官网介绍多平台直播、供应链与数字化流程；显示商家入驻入口"
+      ],
+      "unknown": [
+        "入驻链接的完整流程",
+        "具体签约与采购主体",
+        "新品审核标准",
+        "AI产品是否适配"
+      ],
+      "status": "public_brand_lead_requires_identity_review",
+      "excludedContact": "行政采购招商不是直播商品选品，不能当作品牌入驻邮箱"
+    }
+  ],
+  "boundary": "待身份去重与准入复核；未加入官网，非合作关系"
+}
