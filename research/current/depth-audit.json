@@ -8,7 +8,7 @@
     "regions": 13,
     "entryPoints": 26,
     "deliveryRequirements": 11,
-    "afterSalesRequirements": 4
+    "afterSalesRequirements": 3
   },
   "directions": {
     "companion": {
@@ -20,7 +20,7 @@
         "regions": 1,
         "entryPoints": 2,
         "deliveryRequirements": 2,
-        "afterSalesRequirements": 1
+        "afterSalesRequirements": 0
       }
     },
     "learning": {
@@ -32,7 +32,7 @@
         "regions": 0,
         "entryPoints": 6,
         "deliveryRequirements": 4,
-        "afterSalesRequirements": 3
+        "afterSalesRequirements": 2
       }
     },
     "wearable": {
@@ -44,7 +44,7 @@
         "regions": 9,
         "entryPoints": 13,
         "deliveryRequirements": 3,
-        "afterSalesRequirements": 2
+        "afterSalesRequirements": 1
       }
     },
     "home": {
@@ -56,7 +56,7 @@
         "regions": 0,
         "entryPoints": 4,
         "deliveryRequirements": 4,
-        "afterSalesRequirements": 2
+        "afterSalesRequirements": 1
       }
     },
     "office": {

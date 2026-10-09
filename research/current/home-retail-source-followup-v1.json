@@ -3,7 +3,8 @@
   "sundan": {
     "source": "https://sundan.com/activity/brand",
     "bodyRead": true,
-    "limits": "政策生效时间未知，具体条款须确认"
+    "limits": "政策生效时间未知，具体条款须确认",
+    "afterSalesCorrection": "售后标识保留为宣传信息，不计为已核实售后条件；全文适用范围未读到"
   },
   "epet": {
     "sources": [

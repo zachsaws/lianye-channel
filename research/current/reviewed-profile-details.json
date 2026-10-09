@@ -1266,9 +1266,6 @@
         ],
         "deliveryRequirements": [
           "公开流程列进货调拨、上架陈列和培训销售；具体责任与时间以现行合同核实"
-        ],
-        "afterSalesRequirements": [
-          "官网展示全国联保和30天退货标识；未读取具体适用条件，不推定所有产品或线下门店适用"
         ]
       },
       "unknown": [
@@ -1291,9 +1288,6 @@
         ],
         "deliveryRequirements": [
           "https://sundan.com/activity/brand"
-        ],
-        "afterSalesRequirements": [
-          "https://sundan.com/helpCenter?id=487"
         ]
       },
       "identityEvidence": "页脚署名深圳市顺电连锁股份有限公司，具体交易主体未核实",
@@ -1321,7 +1315,16 @@
         ],
         "boundary": "采购选择独立于合同签订；售后标识不等于完整规则"
       },
-      "implication": "渠道协议、商品选入和实际开卖应分别记录；不拿货权的联野不能代品牌支付押金或承担商品履约"
+      "implication": "渠道协议、商品选入和实际开卖应分别记录；不拿货权的联野不能代品牌支付押金或承担商品履约",
+      "publicServiceClaims": {
+        "items": [
+          "官网展示全国联保和30天退货标识；未读取具体适用条件，不推定所有产品或线下门店适用"
+        ],
+        "source": "https://sundan.com/helpCenter?id=487",
+        "classification": "marketing_markers_not_verified_policy",
+        "observed": "2026-10-09",
+        "policyConditionsVerified": false
+      }
     }
   ]
 }
