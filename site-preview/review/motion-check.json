@@ -1,0 +1,13 @@
+{
+  "sprite": {
+    "loaded": true,
+    "url": "http://127.0.0.1:8806/site/assets/parcel-material.webp",
+    "roads": 3,
+    "t": 0.549934,
+    "playing": true
+  },
+  "elapsedAnimationSeconds": 19.015899999999814,
+  "offscreenStopped": true,
+  "failed": [],
+  "limits": "actual normal playback over one cycle; not frame-by-frame parcel position aesthetic approval"
+}
