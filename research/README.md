@@ -47,3 +47,7 @@
 - [三类合作提案样稿](../generated-md/会议Agent_三类渠道合作提案样稿.md)：实际草稿与版本修订；产品准备不足限制了成果。
 - [内容电商角色边界](current/content-commerce-boundary-review.md)：购买运营服务不等于渠道采购商品。
 - [权限规则原型](prototype/proposal-permissions-findings-v1.md)：可运行、确定性规则，非AI效果实验。
+
+## 最新业务说明
+
+[业务定义v3](current/business-definition-v3.md)按客户交来的事和拟交回成果重写，分开近期服务、有限AI证据和长期复用假设。尚未获用户认可，不替换官网。
