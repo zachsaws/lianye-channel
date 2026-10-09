@@ -35,6 +35,11 @@
       "source": "https://www.garmin.com.cn/buy/retailer/",
       "status": "dynamic_rows_retrieved_from_public_page_endpoint",
       "effect": "先前页面外壳缺口已通过公开接口解决；79据点中含连锁分店与专柜，不计作79独立经营者。"
+    },
+    {
+      "source": "https://www.china-toy-expo.com/exhibitor/Guangdong-Tanwan-Creative-Trading-Co-Ltd--10495",
+      "status": "search_index_contains_business_description_but_current_body_extraction_does_not",
+      "effect": "探玩保留发现线索，不写入已复核经营档案或官网；搜索摘要不能代替原文核实。"
     }
   ]
 }
