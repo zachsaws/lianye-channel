@@ -4976,11 +4976,19 @@
       "researchGaps": [
         "仅适合相关集成产品，不推断便携设备适配。"
       ],
-      "buyerScenarios": [],
-      "productScope": [],
+      "buyerScenarios": [
+        "家庭空间与商业工程"
+      ],
+      "productScope": [
+        "智能、影音、灯光、窗饰"
+      ],
       "regions": [],
-      "entryPoints": [],
-      "deliveryRequirements": [],
+      "entryPoints": [
+        "官网联系入口；供应商准入尚未核实"
+      ],
+      "deliveryRequirements": [
+        "官网介绍设计、施工与项目管理团队"
+      ],
       "afterSalesRequirements": [],
       "priceBand": null,
       "creditTerms": null,
@@ -4988,7 +4996,36 @@
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "candidate_not_in_website"
+      "displayStatus": "candidate_not_in_website",
+      "reviewedDetails": [
+        {
+          "displayName": "星光智能",
+          "source": "https://www.starintegr.com/about-us",
+          "fields": {
+            "productScope": [
+              "智能、影音、灯光、窗饰"
+            ],
+            "buyerScenarios": [
+              "家庭空间与商业工程"
+            ],
+            "deliveryRequirements": [
+              "官网介绍设计、施工与项目管理团队"
+            ],
+            "entryPoints": [
+              "官网联系入口；供应商准入尚未核实"
+            ]
+          },
+          "unknown": [
+            "第三方新品集成条件",
+            "协议兼容与售后责任",
+            "采购权与商务条款"
+          ],
+          "implication": "家居新品需要进入空间方案与交付体系；不是所有独立设备都值得进入集成项目。",
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "inferenceBoundary": "研究判断不证明采购意愿或已合作"
+        }
+      ]
     },
     {
       "id": "research-d545ccc1ecfa",
@@ -5012,10 +5049,16 @@
       "researchGaps": [
         "与雷电音频是不同名称，不能按近似名称合并；多品牌目录尚需读取。"
       ],
-      "buyerScenarios": [],
-      "productScope": [],
+      "buyerScenarios": [
+        "零售合作伙伴供货与消费者音频体验"
+      ],
+      "productScope": [
+        "音频产品品牌分销"
+      ],
       "regions": [],
-      "entryPoints": [],
+      "entryPoints": [
+        "官网品牌与联系入口；未核实新品代理政策"
+      ],
       "deliveryRequirements": [],
       "afterSalesRequirements": [],
       "priceBand": null,
@@ -5024,7 +5067,34 @@
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "candidate_not_in_website"
+      "displayStatus": "candidate_not_in_website",
+      "reviewedDetails": [
+        {
+          "displayName": "雷音音频（深圳）有限公司",
+          "source": "https://www.leiyinaudio.com/",
+          "fields": {
+            "productScope": [
+              "音频产品品牌分销"
+            ],
+            "buyerScenarios": [
+              "零售合作伙伴供货与消费者音频体验"
+            ],
+            "entryPoints": [
+              "官网品牌与联系入口；未核实新品代理政策"
+            ]
+          },
+          "unknown": [
+            "新品品牌准入",
+            "AI音频产品适配",
+            "地区与授权范围",
+            "售后政策"
+          ],
+          "implication": "有分销与新品试听活动依据；不能从音频推断所有创作设备或AI产品适配。",
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "inferenceBoundary": "研究判断不证明采购意愿或已合作"
+        }
+      ]
     },
     {
       "id": "research-75280202a1cb",
@@ -5040,7 +5110,8 @@
       "roleStatus": "review_required",
       "sourceLinks": [
         "https://www.solutionkeys.com/aboutus/",
-        "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface"
+        "https://www.microsoft.com/zh-cn/surface/business/where-to-buy-microsoft-surface",
+        "https://www.solutionkeys.com/en/home/"
       ],
       "reviewFinding": "经营者官网确认品牌，提供IT管理；首页说明学校IT支持和设备管理。",
       "identityStatus": "reviewed_operator",
@@ -5049,14 +5120,17 @@
         "主体法定名称未在所读页面确认；可作为品牌经营档案，不能计独立法人。"
       ],
       "buyerScenarios": [
-        "企业IT管理、生产力提升及数字转型"
+        "企业移动设备管理",
+        "国际及双语学校IT支持"
       ],
       "productScope": [
         "IT管理产品及服务"
       ],
       "regions": [],
       "entryPoints": [],
-      "deliveryRequirements": [],
+      "deliveryRequirements": [
+        "官网介绍移动设备管理、学校IT外包与帮助台支持；不能据此确认某款Agent实施能力"
+      ],
       "afterSalesRequirements": [],
       "priceBand": null,
       "creditTerms": null,
@@ -5074,7 +5148,11 @@
               "IT管理产品及服务"
             ],
             "buyerScenarios": [
-              "企业IT管理、生产力提升及数字转型"
+              "企业移动设备管理",
+              "国际及双语学校IT支持"
+            ],
+            "deliveryRequirements": [
+              "官网介绍移动设备管理、学校IT外包与帮助台支持；不能据此确认某款Agent实施能力"
             ]
           },
           "unknown": [
@@ -5083,10 +5161,13 @@
             "项目采购权",
             "AI软件部署能力"
           ],
-          "implication": "软件进入企业可能是服务项目而非零售货架；仍需要查证具体采购与实施路线。",
+          "implication": "跨教育与企业IT服务，后台应跨方向检索；仍需核实具体软件采购与实施权限。",
           "observed": "2026-10-09",
           "basis": "operator_self_disclosure",
-          "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
+          "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
+          "additionalSources": [
+            "https://www.solutionkeys.com/en/home/"
+          ]
         }
       ]
     },

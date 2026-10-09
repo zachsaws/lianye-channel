@@ -65,7 +65,8 @@ if details_path.exists():
   profile=matches[0]
   for field,value in review['fields'].items():profile[field]=value
   profile.setdefault('reviewedDetails',[]).append(review)
-  if review['source'] not in profile['sourceLinks']:profile['sourceLinks'].append(review['source'])
+  for url in [review['source']]+review.get('additionalSources',[]):
+   if url not in profile['sourceLinks']:profile['sourceLinks'].append(url)
 output=ROOT/'research/current/channel-asset.json'
 output.write_text(json.dumps({'schemaVersion':1,'scope':'domestic','profiles':profiles},ensure_ascii=False,indent=2))
 print(f'Built {len(parser.cards)} existing profiles and {len(profiles)-len(parser.cards)} research candidates; no website changes.')

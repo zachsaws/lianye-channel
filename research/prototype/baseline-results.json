@@ -31,6 +31,8 @@
               "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认"
             }
           ],
+          "recallBasis": "editorial_direction",
+          "priorityEstablished": false,
           "fitConditions": {},
           "fitWarning": null,
           "questions": [
@@ -79,6 +81,53 @@
               "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
             }
           ],
+          "recallBasis": "editorial_direction",
+          "priorityEstablished": false,
+          "fitConditions": {},
+          "fitWarning": null,
+          "questions": [
+            "采购决策主体是谁？",
+            "是否接受该类新品？",
+            "商业及服务条件是什么？",
+            "谁负责部署、账号和持续支持？"
+          ]
+        },
+        {
+          "name": "成方策",
+          "decision": "research_further_not_purchase_recommendation",
+          "basis": [
+            {
+              "displayName": "成方策",
+              "source": "https://www.solutionkeys.com/aboutus/",
+              "fields": {
+                "productScope": [
+                  "IT管理产品及服务"
+                ],
+                "buyerScenarios": [
+                  "企业移动设备管理",
+                  "国际及双语学校IT支持"
+                ],
+                "deliveryRequirements": [
+                  "官网介绍移动设备管理、学校IT外包与帮助台支持；不能据此确认某款Agent实施能力"
+                ]
+              },
+              "unknown": [
+                "法律主体",
+                "具体软件品牌准入",
+                "项目采购权",
+                "AI软件部署能力"
+              ],
+              "implication": "跨教育与企业IT服务，后台应跨方向检索；仍需核实具体软件采购与实施权限。",
+              "observed": "2026-10-09",
+              "basis": "operator_self_disclosure",
+              "inferenceBoundary": "implication是研究判断，不是对该主体能力或意愿的确认",
+              "additionalSources": [
+                "https://www.solutionkeys.com/en/home/"
+              ]
+            }
+          ],
+          "recallBasis": "explicit_scope_keyword",
+          "priorityEstablished": false,
           "fitConditions": {},
           "fitWarning": null,
           "questions": [
@@ -120,6 +169,8 @@
               "inferenceBoundary": "推断不代表采购意愿或合作关系"
             }
           ],
+          "recallBasis": "explicit_scope_keyword",
+          "priorityEstablished": false,
           "fitConditions": {},
           "fitWarning": null,
           "questions": [
@@ -175,6 +226,8 @@
               "inferenceBoundary": "implication为研究判断；未确认采购意愿和合作关系"
             }
           ],
+          "recallBasis": "editorial_direction",
+          "priorityEstablished": false,
           "fitConditions": {
             "buyer": "医疗机构",
             "consumerRetailEligible": null,
