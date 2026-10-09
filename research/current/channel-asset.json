@@ -5523,7 +5523,9 @@
       "roleStatus": "tag_based_hypothesis_not_source_verification",
       "sourceLinks": [
         "https://www.ksjx365.cn/",
-        "https://www.ksjx365.cn/products_show.aspx?id=477"
+        "https://www.ksjx365.cn/products_show.aspx?id=477",
+        "https://www.ksjx365.cn/products.aspx?category_id=145",
+        "https://www.ksjx365.cn/products.aspx?category_id=144"
       ],
       "importedEvidence": [
         {
@@ -5547,11 +5549,19 @@
       ],
       "evidenceStatus": "historical_research_import_not_live_revalidation",
       "researchGaps": [],
-      "buyerScenarios": [],
-      "productScope": [],
+      "buyerScenarios": [
+        "B端运动装备集采、团队及大众运动场景"
+      ],
+      "productScope": [
+        "专项运动装备与团队运动服饰，多品牌供应链集成"
+      ],
       "regions": [],
-      "entryPoints": [],
-      "deliveryRequirements": [],
+      "entryPoints": [
+        "官网商务咨询与团购咨询入口；采购平台链接本轮超时，供应商准入未核实"
+      ],
+      "deliveryRequirements": [
+        "官网披露专业运动产品集成和定制化服务；具体AI设备项目要求未知"
+      ],
       "afterSalesRequirements": [],
       "priceBand": null,
       "creditTerms": null,
@@ -5559,7 +5569,84 @@
       "capacity": null,
       "companyRelationship": "not_established",
       "dispatchable": false,
-      "displayStatus": "existing_public_market_route"
+      "displayStatus": "existing_public_market_route",
+      "fieldEvidence": {
+        "buyerScenarios": {
+          "sources": [
+            "https://www.ksjx365.cn/products_show.aspx?id=477"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "productScope": {
+          "sources": [
+            "https://www.ksjx365.cn/products_show.aspx?id=477"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "entryPoints": {
+          "sources": [
+            "https://www.ksjx365.cn/products_show.aspx?id=477"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        },
+        "deliveryRequirements": {
+          "sources": [
+            "https://www.ksjx365.cn/products_show.aspx?id=477"
+          ],
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "claimScope": "public_self_description_not_verified_cooperation_condition"
+        }
+      },
+      "unknownOperatingConditions": [
+        "智能穿戴或AI训练设备新品准入",
+        "具体B端采购主体及预算",
+        "数据及安全要求",
+        "售后责任与退换条款",
+        "品牌授权范围与我方合作"
+      ],
+      "researchInterpretation": "运动方向除专业零售还有团队集采与赛事场景路线，需按采购任务研究，不把运动装备供应等同AI新品承接。",
+      "reviewedDetails": [
+        {
+          "displayName": "坤昇健行",
+          "source": "https://www.ksjx365.cn/products_show.aspx?id=477",
+          "additionalSources": [
+            "https://www.ksjx365.cn/products.aspx?category_id=145",
+            "https://www.ksjx365.cn/products.aspx?category_id=144"
+          ],
+          "fields": {
+            "buyerScenarios": [
+              "B端运动装备集采、团队及大众运动场景"
+            ],
+            "productScope": [
+              "专项运动装备与团队运动服饰，多品牌供应链集成"
+            ],
+            "entryPoints": [
+              "官网商务咨询与团购咨询入口；采购平台链接本轮超时，供应商准入未核实"
+            ],
+            "deliveryRequirements": [
+              "官网披露专业运动产品集成和定制化服务；具体AI设备项目要求未知"
+            ]
+          },
+          "unknown": [
+            "智能穿戴或AI训练设备新品准入",
+            "具体B端采购主体及预算",
+            "数据及安全要求",
+            "售后责任与退换条款",
+            "品牌授权范围与我方合作"
+          ],
+          "implication": "运动方向除专业零售还有团队集采与赛事场景路线，需按采购任务研究，不把运动装备供应等同AI新品承接。",
+          "observed": "2026-10-09",
+          "basis": "operator_self_disclosure",
+          "inferenceBoundary": "经营范围为官网披露；AI产品适配与采购意愿未确认"
+        }
+      ]
     },
     {
       "id": "c4d8c07f97ad",

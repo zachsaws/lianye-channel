@@ -1,13 +1,13 @@
 {
   "scope": "research_depth_not_partner_count",
   "profiles": 106,
-  "reviewedProfiles": 30,
+  "reviewedProfiles": 31,
   "attributedNonemptyFields": {
-    "buyerScenarios": 16,
-    "productScope": 29,
+    "buyerScenarios": 17,
+    "productScope": 30,
     "regions": 13,
-    "entryPoints": 22,
-    "deliveryRequirements": 8,
+    "entryPoints": 23,
+    "deliveryRequirements": 9,
     "afterSalesRequirements": 2
   },
   "directions": {
@@ -37,13 +37,13 @@
     },
     "wearable": {
       "profiles": 19,
-      "partiallyReviewed": 11,
+      "partiallyReviewed": 12,
       "fields": {
-        "buyerScenarios": 2,
-        "productScope": 11,
+        "buyerScenarios": 3,
+        "productScope": 12,
         "regions": 9,
-        "entryPoints": 11,
-        "deliveryRequirements": 0,
+        "entryPoints": 12,
+        "deliveryRequirements": 1,
         "afterSalesRequirements": 0
       }
     },
@@ -61,13 +61,13 @@
     },
     "office": {
       "profiles": 24,
-      "partiallyReviewed": 7,
+      "partiallyReviewed": 8,
       "fields": {
-        "buyerScenarios": 5,
-        "productScope": 7,
+        "buyerScenarios": 6,
+        "productScope": 8,
         "regions": 3,
-        "entryPoints": 6,
-        "deliveryRequirements": 3,
+        "entryPoints": 7,
+        "deliveryRequirements": 4,
         "afterSalesRequirements": 1
       }
     },
