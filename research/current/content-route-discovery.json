@@ -21,16 +21,29 @@
       "source": "https://www.yowant.com/index.html",
       "role": "直播电商与供应链运营",
       "facts": [
-        "官网介绍多平台直播、供应链与数字化流程；显示商家入驻入口"
+        "官网介绍多平台直播、供应链与数字化流程；显示商家入驻入口",
+        "当前官网明确品牌全托管与多平台直播，并自述遥望云AIOS及智能系统；不采用规模数字或效果主张。"
       ],
       "unknown": [
         "入驻链接的完整流程",
         "具体签约与采购主体",
         "新品审核标准",
-        "AI产品是否适配"
+        "AI产品是否适配",
+        "入驻系统具体材料与主体要求",
+        "AI产品类别是否接受",
+        "价格、售后与退货责任"
       ],
       "status": "public_brand_lead_requires_identity_review",
-      "excludedContact": "行政采购招商不是直播商品选品，不能当作品牌入驻邮箱"
+      "excludedContact": "行政采购招商不是直播商品选品，不能当作品牌入驻邮箱",
+      "additionalSources": [
+        "https://www.ywwl.com/about/"
+      ],
+      "identityEvidence": "官网页脚为杭州遥望网络科技有限公司；集团品牌、网站运营者与具体交易主体仍须区分。",
+      "entryEvidence": {
+        "url": "https://srm-supplier.ywwl.com/",
+        "basis": "经营者官网导航明确标为品牌入驻",
+        "scope": "仅验证链接与标识；未登录、未提交、未核实准入要求"
+      }
     }
   ],
   "boundary": "待身份去重与准入复核；未加入官网，非合作关系"
