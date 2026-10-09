@@ -52,3 +52,11 @@ python3 -m http.server 8000 --directory site
 修改后检查完整页面、动效播放、渠道筛选、键盘操作、移动端和联系入口。仓库为私有，官网公开；提交代码不会自动覆盖线上网站。正式发布需获得项目负责人的授权。
 
 合作咨询：[zachsaws@gmail.com](mailto:zachsaws@gmail.com)。
+
+## 当前研究预览（未发布）
+
+[`site-preview/`](site-preview/)保留已认可首屏与彩色视觉，加入新增候选通路、拟交付说明和渠道反馈到行动的假设场景。日期切换为确定性示意，不是已上线AI产品。
+
+[阶段决策入口](research/current/decision-review.md) · [反馈独立对照](research/prototype/feedback-decision-findings-v1.md) · [强规则边界](research/prototype/feedback-rule-comparison-v1.md)。这些测试不证明真实采购意愿、渠道增长或跨项目网络效应。
+
+预览需从仓库根目录启动本地服务，再访问 `/site-preview/`；它引用 `site/` 中的原有素材，不能单独搬走目录。公开官网未替换。
