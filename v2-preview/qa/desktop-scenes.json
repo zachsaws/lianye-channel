@@ -1,0 +1,29 @@
+[
+  {
+    "focus": "creator",
+    "pressedCount": 1,
+    "selected": "creator",
+    "title": "把功能，讲成\n购买的理由。"
+  },
+  {
+    "focus": "community",
+    "pressedCount": 1,
+    "selected": "community",
+    "title": "第一批买家，\n可能在同一群人里。"
+  },
+  {
+    "focus": "operator",
+    "pressedCount": 1,
+    "selected": "operator",
+    "title": "让新品，走进\n正在发生的生活。"
+  },
+  {
+    "focus": "experience",
+    "pressedCount": 1,
+    "selected": "experience",
+    "title": "先亲手体验，\n再认真决定。"
+  },
+  {
+    "keyboardHome": "true"
+  }
+]

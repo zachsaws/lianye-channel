@@ -1,0 +1,30 @@
+[
+  {
+    "heroBottom": 769,
+    "mainFocusable": "-1",
+    "overflow": false,
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "heroBottom": 924,
+    "mainFocusable": "-1",
+    "overflow": false,
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "heroBottom": 847,
+    "mainFocusable": "-1",
+    "overflow": false,
+    "scrollWidth": 1024,
+    "width": 1024
+  },
+  {
+    "heroBottom": 900,
+    "mainFocusable": "-1",
+    "overflow": false,
+    "scrollWidth": 1440,
+    "width": 1440
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "forms": 0,
+  "images": [
+    {
+      "complete": true,
+      "width": 1536
+    },
+    {
+      "complete": true,
+      "width": 1536
+    }
+  ],
+  "scrollWidth": 1440,
+  "sections": [
+    {
+      "height": 807.8046875,
+      "id": "intro",
+      "y": 92
+    },
+    {
+      "height": 1349.1796875,
+      "id": "network",
+      "y": 899.8046875
+    },
+    {
+      "height": 938.875,
+      "id": "value",
+      "y": 2248.984375
+    },
+    {
+      "height": 1168.1640625,
+      "id": "cooperate",
+      "y": 3187.859375
+    },
+    {
+      "height": 769.1875,
+      "id": "approach",
+      "y": 4356.0234375
+    },
+    {
+      "height": 833.9765625,
+      "id": "contact",
+      "y": 5125.2109375
+    }
+  ],
+  "viewport": {
+    "height": 900,
+    "width": 1440
+  }
+}

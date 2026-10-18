@@ -1,0 +1,6 @@
+{
+  "result": {
+    "type": "string",
+    "value": "{\"navigation\":[{\"domReadyMs\":37,\"loadMs\":37.59999996423721}],\"resources\":[{\"name\":\"style.css\",\"bytes\":300,\"durationMs\":11.600000023841858},{\"name\":\"neighborhood-mobile.webp\",\"bytes\":300,\"durationMs\":0},{\"name\":\"app.js\",\"bytes\":300,\"durationMs\":11.800000011920929},{\"name\":\"neighborhood.webp\",\"bytes\":300,\"durationMs\":2.399999976158142},{\"name\":\"mark.svg\",\"bytes\":300,\"durationMs\":5.5}],\"paints\":[{\"name\":\"first-paint\",\"startTime\":100},{\"name\":\"first-contentful-paint\",\"startTime\":100}]}"
+  }
+}
