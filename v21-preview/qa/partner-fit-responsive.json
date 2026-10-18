@@ -1,0 +1,44 @@
+[
+  {
+    "contentBottom": 860.078125,
+    "overflow": false,
+    "partner": "retail",
+    "stageBottom": 952.109375,
+    "width": 320
+  },
+  {
+    "contentBottom": 881.671875,
+    "overflow": false,
+    "partner": "creator",
+    "stageBottom": 952.109375,
+    "width": 320
+  },
+  {
+    "contentBottom": 881.671875,
+    "overflow": false,
+    "partner": "community",
+    "stageBottom": 952.109375,
+    "width": 320
+  },
+  {
+    "contentBottom": 859.9140625,
+    "overflow": false,
+    "partner": "retail",
+    "stageBottom": 951.9453125,
+    "width": 390
+  },
+  {
+    "contentBottom": 859.9140625,
+    "overflow": false,
+    "partner": "creator",
+    "stageBottom": 951.9453125,
+    "width": 390
+  },
+  {
+    "contentBottom": 859.9140625,
+    "overflow": false,
+    "partner": "community",
+    "stageBottom": 951.9453125,
+    "width": 390
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "actor": "品牌准备",
+    "next": "交给门店介绍",
+    "object": "样机与演示资料",
+    "path": "retail",
+    "phase": "0"
+  },
+  {
+    "actor": "门店与买家",
+    "next": "形成咨询意愿",
+    "object": "上手后的具体问题",
+    "path": "retail",
+    "phase": "1"
+  },
+  {
+    "actor": "品牌接手",
+    "next": "按约定承接",
+    "object": "咨询与服务安排",
+    "path": "retail",
+    "phase": "2"
+  },
+  {
+    "actor": "品牌与创作者",
+    "next": "开始实测准备",
+    "object": "实测所需的产品资料",
+    "path": "creator",
+    "phase": "0"
+  },
+  {
+    "actor": "创作者与受众",
+    "next": "说明适用与限制",
+    "object": "使用内容与受众问题",
+    "path": "creator",
+    "phase": "1"
+  },
+  {
+    "actor": "品牌接手",
+    "next": "承接购买兴趣",
+    "object": "内容里的咨询入口",
+    "path": "creator",
+    "phase": "2"
+  },
+  {
+    "actor": "主理人与品牌",
+    "next": "邀请愿意体验的人",
+    "object": "一次小范围体验安排",
+    "path": "community",
+    "phase": "0"
+  },
+  {
+    "actor": "成员与主理人",
+    "next": "辨认真实购买意愿",
+    "object": "共同需求与体验问题",
+    "path": "community",
+    "phase": "1"
+  },
+  {
+    "actor": "品牌接手",
+    "next": "按约定承接",
+    "object": "成员咨询与服务说明",
+    "path": "community",
+    "phase": "2"
+  }
+]
