@@ -18,7 +18,7 @@
 - 三条销售路径：1440-path-*.png、390-path-*.png。
 - 六个合作步骤：1440-step-*.png、390-step-*.png。
 - 最终主要画面：desktop-network.png、desktop-cooperation.png。
-- 真实六步切换录像：cooperation-motion.mp4，约29秒；101帧实际浏览器画面，最后到达第六步。原始帧留在本机qa/motion-frames/，交付包不包含冗余原始帧。
+- 真实六步切换录像：cooperation-motion.mp4，约31秒；101帧实际浏览器画面，最后到达第六步。原始帧留在本机qa/motion-frames/，交付包不包含冗余原始帧。
 
 部分早期状态截图保留修复前记录；最终整站及最终主要画面优先作为交付依据。不得把初检发现的问题直接报告为未修复，也不得删除这些失败证据后宣称从未出现问题。
 
