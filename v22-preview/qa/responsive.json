@@ -1,0 +1,162 @@
+[
+  {
+    "fonts": "10px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "1",
+    "width": 320
+  },
+  {
+    "fonts": "10px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "3",
+    "width": 320
+  },
+  {
+    "fonts": "10px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "4",
+    "width": 320
+  },
+  {
+    "fonts": "10px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "5",
+    "width": 320
+  },
+  {
+    "fonts": "10px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "1",
+    "width": 390
+  },
+  {
+    "fonts": "10px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "3",
+    "width": 390
+  },
+  {
+    "fonts": "10px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "4",
+    "width": 390
+  },
+  {
+    "fonts": "10px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "5",
+    "width": 390
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "1",
+    "width": 768
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "3",
+    "width": 768
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": true,
+    "step": "4",
+    "width": 768
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "5",
+    "width": 768
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "1",
+    "width": 1024
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "3",
+    "width": 1024
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "4",
+    "width": 1024
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "5",
+    "width": 1024
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "1",
+    "width": 1440
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "3",
+    "width": 1440
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "4",
+    "width": 1440
+  },
+  {
+    "fonts": "11px",
+    "overflow": false,
+    "sheetContained": true,
+    "sheetTrailOverlap": false,
+    "step": "5",
+    "width": 1440
+  }
+]

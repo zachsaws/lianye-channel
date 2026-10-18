@@ -1,0 +1,856 @@
+{
+  "legacyCount": 106,
+  "rows": [
+    {
+      "id": "bd0be013e668",
+      "name": "智玩店",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "AI产品 · 集合体验与零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "d8085d7403f5",
+      "name": "凯知乐",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "玩具 · 品牌运营与分销",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "2c11ee8ae8b7",
+      "name": "璞康",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "科创教育 · 方案与品牌运营",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "a14e570ad206",
+      "name": "九机",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "科技零售 · 西南",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "876980ffaebf",
+      "name": "顺电",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "数码家电 · 零售与团购",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "940c16cbd3b8",
+      "name": "科力普",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业采购 · 礼品与福利",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "20ab31675d4b",
+      "name": "柏斯音乐",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "乐器与录音 · 零售及售后",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "251a3fe35a63",
+      "name": "传新科技",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "专业音视频 · 分销与集成",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "aaa3dfd58ac3",
+      "name": "DK-AI",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "HomeKit · 单品与全宅集成销售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "7956fcb57e98",
+      "name": "沐诺智家",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "全屋智能 · 多品牌集成与交付",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "585f58fdf0df",
+      "name": "博士／总统眼镜",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "眼镜 · 验配与AR体验",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "40b312c16295",
+      "name": "E宠",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "宠物用品 · 智能设备零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "2b4582e77d57",
+      "name": "INNO100",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "创新消费科技 · 场景体验零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "84b12e1a8425",
+      "name": "三夫户外",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "户外 · 零售、赛事与集采",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "3436d8ce4f5a",
+      "name": "西域",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业采购 · 电脑与会议设备",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "93eed5006a03",
+      "name": "七色花",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "幼教 · 多品牌玩教具与课程资源",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "17f045305e3d",
+      "name": "迅合行",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "玩具 · 经销与TOYS STAR零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "f0018b80c315",
+      "name": "雅登乐器",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "专业音响与乐器 · 代理分销",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "ebc380e4d0b6",
+      "name": "美承",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "数码零售 · 企业IT服务",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "67a19a5dafa0",
+      "name": "Robot Mall",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "机器人 · 场景展售与租赁",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "22be8b92c10d",
+      "name": "中智关爱通",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业福利 · 小家电与数码潮玩",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "53330d13f0ea",
+      "name": "陶朱新造局",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "机器人与智能产品 · 体验零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "b5c82e4d8d28",
+      "name": "上海贝杰",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "亲子与潮玩 · 品牌代理",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "c3c2d7ba282b",
+      "name": "华森葳",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "幼教 · 教具代理与园所配置",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "745fac22c382",
+      "name": "爱施德",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "通讯 · 分销订货",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "896ee1a6b852",
+      "name": "好享家",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "家居 · 安装与系统集成",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "9ca454f7cd55",
+      "name": "欧菲斯",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业采购 · 办公IT与物资",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "c8f0b02697d5",
+      "name": "翰林汇",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "ICT · 分销与融合零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "e031da684934",
+      "name": "永华嘉业",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "亲子玩具 · 渠道运营与礼赠",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "d1ecc106e74f",
+      "name": "新烨数码",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "科创教育 · 学校与机构方案",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "9da5c9a8347e",
+      "name": "上海锐能体育",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "运动专业零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "b8b5c5478317",
+      "name": "音联邦",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "家庭影音 · 品牌运营与方案设计",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "ffab68e86d8e",
+      "name": "得力集实",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业采购 · 办公与礼赠",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "b65f08ca3fd8",
+      "name": "长虹佳华",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "ICT · 分销与方案服务",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "d8b006f5c53a",
+      "name": "孩子王",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "亲子 · 商品与会员运营",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "0188eb4bebe3",
+      "name": "乐博士机器人",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "机器人教育 · 器材与师训",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "ee5a45b2c646",
+      "name": "北京广世天运",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "骑行产品渠道",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "b099505d3cf0",
+      "name": "京东五星电器",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "家电家居 · 场景零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "e15d2f8faac1",
+      "name": "领先未来",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业采购 · 办公与礼品供给",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "b28fe6df75ae",
+      "name": "神州数码",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "ICT · 授权分销",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "826314b8edfb",
+      "name": "爱婴室",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "母婴童 · 连锁零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "45bab2676d72",
+      "name": "欣欣相融",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "学校与机构 · 乐高教育器材",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "e4a6caeef05b",
+      "name": "上海天授",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "运动设备 · 上海",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "70079f085246",
+      "name": "东方购物",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "内容零售 · 电视与移动成交",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "eaee6045df2f",
+      "name": "史泰博",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业采购 · 智能会议与福礼",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "4ba4289d934c",
+      "name": "伟仕佳杰",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "ICT · 分销与企业服务",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "eacf9c7ed469",
+      "name": "玩具反斗城",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "玩具 · 试玩与家庭零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "4b77c06ffdb4",
+      "name": "东莞博思",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "机器人教育 · 器材与课程",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "87af6769dccf",
+      "name": "百纳海通",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "运动设备 · 广东",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "64531367aca3",
+      "name": "苏宁易购",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "零售与分销 · 政企采购",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "e8d544c04a70",
+      "name": "英迈中国",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "技术分销 · 经销商订货",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "c0fc73796b71",
+      "name": "南天远通",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "数码 · 平台店铺经营",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "169bfa147a03",
+      "name": "TOP TOY",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "潮玩 · 零售与IP经营",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "c08fcf7a2e9a",
+      "name": "元擎智造",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "机器人器材 · 上海",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "69bdc66ca823",
+      "name": "河南图图",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "运动设备 · 河南",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "c5fafdda7fc9",
+      "name": "小米有品",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "精品零售 · 商户选品",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "757db19580f0",
+      "name": "齐心",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业采购 · 数码与共享供应链",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "4a9c0893c4b3",
+      "name": "方正易通",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "数码 · 银行APP商城",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "a2ce7cee4ebb",
+      "name": "广东瑞华行",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "玩具 · 多品牌代理与批零",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "548e72343a0f",
+      "name": "司麦尔",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "机器人器材 · 江苏",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "073969d44ac4",
+      "name": "南京易尔路",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "运动设备 · 江苏",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "c2b8ad3411e3",
+      "name": "圣谛影音智能",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "全宅智能交付",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "cbaf03e3736e",
+      "name": "一线达通",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "政企采购 · 办公与会议设备",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "478e4e04b7ca",
+      "name": "诚顺供应链",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "数码 · 内容平台店铺",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "cb362c90ae88",
+      "name": "中亿孕婴",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "母婴童 · 区域连锁",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "44e28c266f28",
+      "name": "巍高电子",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "机器人器材 · 浙江",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "3f3d6d495432",
+      "name": "沈阳恒宇",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "运动设备 · 东北",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "f6de8a0c47dd",
+      "name": "卓渤智能",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "影音定制安装",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "0c17b2577252",
+      "name": "禹亮科技",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业会议 · 设备供货与集成",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "ad16cdfc11aa",
+      "name": "长秦城",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "乐器与录音设备 · 多品牌经营",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "0a64cf2aa9e7",
+      "name": "Z·Pilot",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "AI产品 · 穿戴与办公体验零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "70f9b9aa981a",
+      "name": "凡课科技",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "机器人器材 · 湖北",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "4ffa55611257",
+      "name": "天津正睿",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "运动设备 · 天津",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "0cb9c4d32fbe",
+      "name": "博盛智能",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "区域影音渠道",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "12cd00f89454",
+      "name": "盛世鼎元",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业采购 · 数码与会议设备",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "ee179ed41e6c",
+      "name": "雷电音频",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "录音设备 · 专业品牌代理",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "a3f4561f6e80",
+      "name": "童真时代",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "玩具 · 电商供货与实体分销",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "76eb573f4526",
+      "name": "创首科技",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "机器人器材 · 湘赣",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "49bac66a6e61",
+      "name": "杭州迪吉特",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "运动设备 · 浙江",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "164cca093fd1",
+      "name": "重百电器",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "家电零售 · 川渝区域",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "1d43bf219219",
+      "name": "阿里云云市场",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "AI软件 · 企业应用与服务",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "dd919a87890e",
+      "name": "商博士",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "玩具 · 进口品牌代理与销售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "7c99353f8dbb",
+      "name": "宏曜电子",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "机器人器材 · 江苏",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "8a654b621bc9",
+      "name": "坤昇健行",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "运动集采 · 赛事与企业",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "c4d8c07f97ad",
+      "name": "华为云云商店",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "AI软件 · 企业应用与订阅",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "0f5fdcad9cc7",
+      "name": "芯数养电子",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "机器人器材 · 上海",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "4f27cd3ff69e",
+      "name": "汇通达",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "消费电子 · 下沉分销",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "ad924f3c1b7d",
+      "name": "罗布教育",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "机器人器材 · 四川",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "43c9580e9905",
+      "name": "北京图书大厦",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "书店 · 学习设备销售网点",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "6f227aebfb3d",
+      "name": "雁文轩书店",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "书店 · 学习设备销售网点",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "823c98487d11",
+      "name": "大众书局",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "书店 · 学习设备销售网点",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "ff4285093588",
+      "name": "信誉楼",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "区域百货 · 学习设备销售网点",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "5236bcf02312",
+      "name": "武汉京天电器",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "教育科研 · 机器人集成",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "02cc955c22c0",
+      "name": "山东振强具身智能",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "教育项目 · 创客设备供应",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "661ed84a67bc",
+      "name": "AI机器时代",
+      "action": "保留并重新分类",
+      "destination": "retail",
+      "basis": "机场场景 · 科技产品体验零售",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "8d6bf6fba838",
+      "name": "上海亿嘟",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "亲子益智 · 品牌运营与分销",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "ee43075dbed6",
+      "name": "伊登软件",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业软件 · 授权产品与技术服务",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "e9a4b4e3a070",
+      "name": "上海以和",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "办公软硬件 · 经销与部署服务",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "nanyang-softland",
+      "name": "南洋万邦",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业与设计软件 · 经销及技术服务",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "research-934871be6a3d",
+      "name": "孕婴世界",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "母婴加盟供应链",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "research-e5d51ec653e0",
+      "name": "星光智能",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "智能影音方案与销售集成",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "research-d545ccc1ecfa",
+      "name": "雷音音频（深圳）有限公司",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "音频品牌分销与零售伙伴供货",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "research-75280202a1cb",
+      "name": "成方策",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "教育设备经销",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "research-279f5b0c7195",
+      "name": "上海广宣",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业软件代理",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "software-comlan",
+      "name": "昆仑联通",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业软件 · IT运营服务",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    },
+    {
+      "id": "software-sinoage",
+      "name": "信诺时代",
+      "action": "保留并重新分类",
+      "destination": "extended",
+      "basis": "企业办公 · 云与技术服务",
+      "limitations": "不是签约、可调度或已适配通路；历史标签不是经营权限证明。"
+    }
+  ],
+  "supplementEntries": 7,
+  "supplementIndependentParents": 4,
+  "note": "补充含母体下的会员/社群入口，不可相加当独立伙伴数量；Robot Mall根据展售标签调整到零售。"
+}

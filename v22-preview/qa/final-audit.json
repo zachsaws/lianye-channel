@@ -1,0 +1,13 @@
+{
+  "mobileTabs": {
+    "activeVisible": true,
+    "scrollY": 4291.5
+  },
+  "performance": {
+    "result": {
+      "type": "string",
+      "value": "{\"localOnly\":true,\"domContentLoadedMs\":72,\"loadMs\":78,\"images\":true}"
+    }
+  },
+  "console": []
+}
