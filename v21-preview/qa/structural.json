@@ -1,0 +1,27 @@
+{
+  "entries": 113,
+  "legacy_preserved": 106,
+  "supplement_entries": 7,
+  "supplement_parent_subjects": 4,
+  "paths": {
+    "retail": 28,
+    "creator": 4,
+    "community": 3,
+    "extended": 78
+  },
+  "unique_ids": true,
+  "migration_consistent": true,
+  "all_source_url_syntax": true,
+  "source_urls_currently_all_live_verified": false,
+  "local_assets_resolve": true,
+  "contrast": {
+    "cream_on_red": 4.64,
+    "muted_on_cream": 5.65,
+    "muted_on_sage": 5.11,
+    "red_ink_on_cream": 5.72
+  },
+  "production_sha256": {
+    "site/index.html": "94d33270387b13cfbda470b5c124070ba06398cbb6d53256bdfe0d9d53186aca",
+    "site-preview/index.html": "8373771ca14bafd10122ae728ad716674e44fd88359bc51fb93dddb3df620499"
+  }
+}
