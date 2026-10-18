@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-18",
+  "html_status": 200,
+  "public_assets_statuses": [
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "manual_interaction": "TAM Sourcing clicked in native Chrome; copy and image objects changed to TAM filters/table",
+  "native_screenshot_limitation": "approximately 300px-wide preview, not HD visual evidence",
+  "unverified": [
+    "full middle/lower-page HD visual audit",
+    "all media playback"
+  ],
+  "scope": "public HTML/CSS/JS inspection; no private source repo or backend audit; no form submission"
+}

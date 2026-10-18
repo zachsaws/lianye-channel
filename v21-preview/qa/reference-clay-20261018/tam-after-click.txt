@@ -1,0 +1,362 @@
+HTML 内容 Clay | Build systems to grow revenue, URL: clay.com/
+						22 container
+							23 container
+								24 container
+									25 link Clay logo, go to homepage, Value: clay.com/
+									26 link Back, Value: clay.com/
+								27 内容列表
+									28 link Product Product, Value: clay.com/
+									29 link Solutions Solutions, Value: clay.com/
+									30 link Resources Resources, Value: clay.com/
+									31 link Company Company, Value: clay.com/
+									32 link Pricing Pricing, Value: clay.com/pricing
+								33 按钮 ⌘ K 
+								34 link Log in, Value: app.clay.com/
+								35 link Get a demo, Value: clay.com/demo
+								36 link Start free trial, Value: app.clay.com/signup
+							37 container
+								38 标题 Build systems to grow revenue, Value: 1
+									39 文本 Build systems to grow revenue
+								40 文本 Infrastructure to get any data, run agentic workflows, and launch GTM plays.
+								41 container
+									42 link Start free trial  , Value: app.clay.com/signup
+									43 link Get a demo  , Value: clay.com/demo
+								44 文本 or install directly with
+								45 container
+									46 图像 Colorful playful contraption with tubes, balls, magnets, and funnel on green hills under blue sky.
+							47 container
+								48 container
+									49 文本 Trusted by more than 500,000 leading GTM teams of all sizes. Inspired by our 
+									50 link customers, Value: clay.com/customers
+									51 文本 . Built with 
+									52 link love, Value: glassdoor.com/Overview/Working-at-Clay-EI_IE98507…
+									53 文本 .
+								54 container
+									55 container
+										56 未加标签的图片 要获取缺失的图片说明，请打开上下文菜单。
+										57 未加标签的图片 /6a0ccb0c2bf53107f21d44c7_openai.svg
+										58 文本 “Clay has one of the most practical and exciting applications of AI, in a decades-old practice that has long been stale."
+										59 link view open ai, Value: clay.com/customers/open-ai
+										60 container
+											61 图像
+											62 图像
+										63 未加标签的图片 /6a70e3dfddc4fecd0ba9ddb5_snapchat-logo-svgrepo-com.svg
+										64 未加标签的图片 /6a0de741bbaa090adc89091a_figma.svg
+										65 文本 “Clay has become the orchestration layer for everything GTM. Salesforce for record-keeping, Snowflake for product data, and Clay for turning it all into automated action.”
+										66 link text, Value: clay.com/customers/figma
+										67 container
+											68 图像
+											69 图像
+										70 未加标签的图片 /6a0ccbb286520a4c0e24960d_cursor.svg
+										71 未加标签的图片 /6a0df1791215a474231062b4_intercom.svg
+										72 文本 +140%
+										73 container
+											74 text OUTBOUND PIPELINE
+										75 link text, Value: clay.com/customers/intercom
+										76 container
+											77 图像
+											78 图像
+										79 未加标签的图片 /6a70c5b9c6fbdb1c03fe2e84_ups%20logo.svg
+										80 未加标签的图片 /6a0df040091092333801bccc_hubspot.svg
+										81 未加标签的图片 /6a0de6e1e1dac677646e8b46_vanta.svg
+										82 文本 80%+
+										83 container
+											84 text ENRICHMENT COVERAGE
+										85 link text, Value: clay.com/customers/vanta
+										86 container
+											87 图像
+											88 图像
+										89 未加标签的图片 /6a0de6610ad9f1586b27b2a7_Canva.svg
+										90 link text, Value: linkedin.com/posts/vaanand_okay-2nd-ai-gtm-hackat…
+										91 container
+											92 图像
+											93 图像
+										94 未加标签的图片 /6a0df205f982e4d9bdc0e6e3_Perplexity.svg
+										95 未加标签的图片 /6a0de7adeebce78e9afbcd29_anthropic.svg
+										96 container
+											97 text All inbound QUALIFIED AND SCORED WITH CLAY “Clay 3x'd our enrichment rate and unlocked AI-powered GTM workflows that were infeasible before”
+										98 link text, Value: clay.com/blog/anthropic-case-study
+										99 container
+											100 图像
+											101 图像
+										102 未加标签的图片 /6a0df09c2211b0094722ac24_Notion.svg
+										103 未加标签的图片 /6a0df119144736bb9e7310b2_google.svg
+										104 文本 “In our first AI Hackathon week, we unlocked data across YouTube, Ads, Cloud, and CapitalG into powerful AI workflows.”
+										105 link text, Value: linkedin.com/posts/vaanand_to-wrap-up-our-first-a…
+										106 container
+											107 图像
+											108 图像
+										109 未加标签的图片 /6a0df0d97c25defd00b0fa06_rippling.svg
+										110 文本 2x
+										111 container
+											112 text DEMOS FROM COLD EMAIL
+										113 link text, Value: clay.com/blog/rippling-case-study
+										114 container
+											115 图像
+											116 图像
+										117 未加标签的图片 /6a0df14a9b0484a8e77799d4_okta.svg
+										118 未加标签的图片 /6a0df080f837402bbf30791b_verkada.svg
+										119 文本 3x
+										120 container
+											121 text REPLY RATE
+										122 link text, Value: clay.com/blog/verkada-case-study
+										123 container
+											124 图像
+											125 图像
+										126 未加标签的图片 /6a0de774f8c55d6f2dd0864f_workday.svg
+										127 未加标签的图片 /6a0df15ead79765c58028f4c_uber.svg
+										128 未加标签的图片 /6a0df1b2385b73a20f7b534d_elevenlabs.svg
+										129 文本 +50%
+										130 文本 SQLS
+										131 link text, Value: clay.com/customers/elevenlabs
+										132 container
+											133 图像
+											134 图像
+										135 未加标签的图片 /6a70c50ca05f5a7f864e4bed_EBay_logo.svg
+										136 未加标签的图片 /6a0df12ff09e285248c8b732_ramp.svg
+										137 文本 “I love using and working with Clay because its extensive customization options allow it to seamlessly integrate into various systems, making it an essential part of our tech stack.”
+										138 未加标签的图片 /6a7c9d3e8418f14e6c0a1953_d31cb39379d4cd50ef5df65fc3ab58ac_Siemens-logo.svg
+							139 container
+								140 标题 GTM engineers build on Clay, Value: 2
+									141 文本 GTM engineers build on Clay
+								142 文本 Find every account in your TAM in one place.
+								143 container
+									144 按钮 TAM Sourcing
+									145 按钮 Automated Inbound
+									146 按钮 Lead Scoring
+									147 按钮 Automated Outbound
+									148 按钮 CRM Enrichment
+									149 按钮 Launch Ads
+									150 按钮 Rep Productivity
+								151 container
+									152 container
+									153 图像 Job search filters targeting engineering managers or CTOs at US, UK, Australia firms hiring security engineers.
+									154 图像 Table showing companies, leads, titles, cloud providers, and number of open security engineering roles.
+									155 container
+							156 container
+								157 标题 What do you want to build?, Value: 3
+									158 文本 What do you want to build?
+								159 container
+									160 文本输入区 (settable) Find phone numbers for controllers or accounting directors in the US or UK with 100-1,000 employees
+									161 container Prompt presets
+										162 按钮 Find people data
+										163 按钮 Find company data
+										164 按钮 Find jobs data
+										165 按钮 Submit
+							166 container
+								167 container
+									168 文本 DATA
+									169 标题 Get data from the most complete data marketplace, Value: 3
+										170 text Get data from the most  complete data marketplace
+									171 文本 One contract to buy data from 200+ data and AI vendors in Clay’s marketplace. Create intent signals from anything on the internet. Bring 1st and 3rd party data together.
+									172 图像 Mistral ai logo
+									173 图像 Anthropic Logo
+									174 container
+										175 text Mistral  AI cut the time to map their TAM and score accounts from 2 months to 10 days.
+									176 link Start free trial  , Value: app.clay.com/signup
+									177 link Explore data marketplace, Value: clay.com/integrations
+									178 container
+										179 container
+											180 container 无法播放媒体。
+											181 图像 Blue magnifying glass showing enlarged orange ball near a tray with pink, red, and blue balls.
+								182 container
+									183 文本 AGENTS
+									184 标题 Put agents that know your business to work, Value: 3
+										185 text Put agents that know  your business to work
+									186 文本 Run GTM plays with agents that understand your business and accounts. Turn context into research, scoring, and personalized outreach, with shared learning that makes each play smarter.
+									187 图像 Verkada logo
+									188 图像 OpenAI logo
+									189 图像 Canva logo
+									190 container
+										191 text Vanta  cut post-call follow-up time from 3 days to <1 with agents tailoring messaging based on SOC 2 badges, compliance signals, and security job posts.
+									192 link Start free trial  , Value: app.clay.com/signup
+									193 link Explore agents, Value: clay.com/agent
+									194 container
+										195 container
+											196 container 无法播放媒体。
+											197 图像 Small retro robot with a square head, blue and red eyes, and an orange satellite dish on top.
+								198 container
+									199 文本 ORCHESTRATION
+									200 标题 Build GTM plays on a visual canvas, Value: 3
+										201 text Build GTM plays on a  visual canvas
+									202 文本 Use clicks, code, or chat with Clay to build GTM plays you can easily see. Troubleshoot faster, collaborate across teams, and reuse logic across all of your runs.
+									203 图像 Lovable logo
+									204 图像 Eleven Labs Logo
+									205 container
+										206 text Lovable  booked 50% more qualified meetings per rep by routing prospects to best-fit rep based on firmographics and current company priorities.
+									207 link Start free trial  , Value: app.clay.com/signup
+									208 link Explore visual workflows, Value: clay.com/workflows
+									209 container
+										210 container
+											211 container 无法播放媒体。
+											212 图像 Green puzzle cube with paths fitting colored balls near matching shape holes and ramps with balls.
+								213 container
+									214 文本 ACTIVATION
+									215 标题 Launch new plays as fast as you have ideas, Value: 3
+										216 text Launch new plays as fast  as you have ideas
+									217 文本 Trigger emails, ads, and more with integrations to your existing GTM tools. Write 1:1 messaging for every prospect programmatically. Launch new tests in days.
+									218 图像 Figma logo
+									219 图像 Rippling logo
+									220 container
+										221 text Figma  increased PLG conversion by automatically prospecting into self-serve accounts with both usage spikes and recent hiring signals.
+									222 link Start free trial  , Value: app.clay.com/signup
+									223 link Learn more about building plays, Value: university.clay.com/
+									224 container
+										225 container
+											226 container 无法播放媒体。
+											227 图像 Pink mechanical lever with cubes showing bell, megaphone, and paper plane icons catching colored balls.
+							228 container
+								229 文本 GTM INFRASTRUCTURE
+								230 标题 Build systems that make reps more productive, Value: 3
+									231 text Build systems that make  reps more productive
+								232 link Start free trial, Value: app.clay.com/signup
+								233 文本 Reps can self-serve the best prospecting data. Chat to get full account context in natural language. Build centralized workflows for any rep to run.
+								234 图像 Hex ai tech logo
+								235 container
+									236 text Terrapinn  generates +19% more revenue per rep and reduced acquisition cost by 90% using Claygent to find and qualify leads.
+								237 container
+									238 container 无法播放媒体。
+							239 container
+								240 标题 Hear from the teams that grow with Clay, Value: 3
+									241 文本 Hear from the teams that grow with Clay
+								242 container
+									243 link Hex ai tech logo How Hex increased inbound win-rate 50% using Clay Read case study, Value: clay.com/customers/hex
+									244 container
+										245 container
+											246 图像
+										247 container
+										248 container
+											249 text 0:00 / 3:30
+										250 container
+											251 文本 00:00
+										252 图像
+										253 container
+											254 图像
+										255 图像
+										256 link Start free trial, Value: app.clay.com/signup
+									257 link Value: clay.com/customers/verkada-emea, Two black rectangular blocks floating above a blue surface casting shadows. How Verkada GTM team expanded in 28 European countries using Clay Read case study
+							258 container
+								259 标题 Learn more about GTM engineering, Value: 3
+									260 文本 Learn more about GTM engineering
+								261 link CONFERENCE Sculpt: The go-to-market conference returns in 2026 Get tickets, Value: sculpt.clay.com/
+								262 link Value: university.clay.com/, Get started with Clay Find the content that helps you level up your GTM skills and build confidently with Clay. Go to University Colorful geometric shapes on green hills with a pastel temple on the top hill and a winding white staircase.
+								263 link LIVESTREAM How Clay Uses Clay: ABM campaigns to break into Tier 1 accounts Watch, Value: clay.com/livestreams/how-clay-uses-clay-abm-direc…
+								264 link Value: clay.com/blog/sandra-uche, Woman with braided hair holding a coconut and drinking with a straw, smiling at the camera. COMMUNITY STORY Sandra has built the Clay community in Lagos Read story
+								265 link Value: clay.com/, COME AND JOIN US See open roles Large diverse group of people posing indoors in multiple rows, smiling and facing the camera.
+								266 link Value: clay.com/blog/javeria-shah, Graduate woman in cap and gown holding a diploma with a Pakistani flag on a rocky hill behind her. COMMUNITY STORY Where girls often choose between career or marriage, she carved her own path Read story
+							267 container
+								268 标题 Turn your growth ideas into reality today, Value: 2
+									269 文本 Turn your growth ideas into reality today
+								270 文本 Start for free today. No credit card required.
+								271 link Start free trial  , Value: app.clay.com/signup
+								272 link Get a demo  , Value: clay.com/demo
+								273 container
+									274 container 无法播放媒体。
+								275 container
+									276 标题 USE CASES, Value: 3
+										277 文本 USE CASES
+									278 内容列表
+										279 link Automated inbound, Value: clay.com/use-cases/inbound-enrichment
+										280 link Account research, Value: clay.com/use-cases/account-research
+										281 link ABM, Value: clay.com/use-cases/abm
+										282 link PLG assist, Value: clay.com/use-cases/plg-assist
+										283 link Rep assist, Value: clay.com/use-cases/rep-assist
+										284 link Reverse ETL, Value: clay.com/use-cases/reverse-etl
+										285 link Outbound, Value: clay.com/use-cases/outbound
+										286 link CRM Enrichment, Value: clay.com/use-cases/crm-enrichment
+										287 link TAM Sourcing, Value: clay.com/use-cases/tam-sourcing
+									288 标题 PRODUCT, Value: 3
+										289 文本 PRODUCT
+									290 内容列表
+										291 link Claygent AI, Value: clay.com/claygent
+										292 link Account Agents, Value: clay.com/account-agents
+										293 link Ads, Value: clay.com/ads
+										294 link Sequencer, Value: clay.com/sequencer
+										295 link Multi-provider data enrichment, Value: clay.com/waterfall-enrichment
+										296 link Audiences, Value: clay.com/audiences
+										297 link Signals, Value: clay.com/signals
+										298 link Workflows, Value: clay.com/workflows
+										299 link Functions, Value: clay.com/functions
+										300 link Integrations, Value: clay.com/integrations
+										301 link Pricing, Value: clay.com/pricing
+										302 link Changelog, Value: clay.com/changelog
+									303 标题 BLOG, Value: 3
+										304 文本 BLOG
+									305 内容列表
+										306 link The rise of the GTM engineer, Value: clay.com/blog/gtm-engineering
+										307 link Finding GTM alpha, Value: clay.com/blog/gtm-alpha
+										308 link Clay reaches 100M ARR, Value: clay.com/blog/100m-arr
+										309 link Series C: The GTM engineering era begins now, Value: clay.com/series-c
+									310 标题 RESOURCES, Value: 3
+										311 文本 RESOURCES
+									312 内容列表
+										313 link Get started lesson, Value: clay.com/university/lesson/intro-to-clay-101-clay…
+										314 link University, Value: university.clay.com/
+										315 link Use case templates, Value: university.clay.com/claybooks
+										316 link Partner programs, Value: clay.com/partners
+										317 link Community, Value: community.clay.com/
+										318 link FAQ, Value: clay.com/faq
+									319 标题 COMPANY, Value: 3
+										320 文本 COMPANY
+									321 内容列表
+										322 link Contact us, Value: clay.com/contact
+										323 link About, Value: clay.com/about
+										324 link Careers, Value: clay.com/careers
+										325 link Jobs We are hiring!, Value: clay.com/jobs
+										326 link Integrate with Clay, Value: clay.com/partners/integrations
+										327 link Status, Value: status.clay.com/
+									328 标题 CUSTOMERS, Value: 3
+										329 文本 CUSTOMERS
+									330 内容列表
+										331 link OpenAI, Value: clay.com/customers/open-ai
+										332 link Vanta, Value: clay.com/customers/vanta
+										333 link Verkada, Value: clay.com/customers/verkada
+										334 link Sendoso, Value: clay.com/customers/sendoso
+										335 link Anthropic, Value: clay.com/customers/anthropic
+										336 link Coverflex, Value: clay.com/customers/coverflex
+										337 link Rippling, Value: clay.com/customers/rippling
+										338 link Case studies, Value: clay.com/customers
+									339 标题 LEGAL, Value: 3
+										340 文本 LEGAL
+									341 内容列表
+										342 link Privacy policy, Value: privacy.clay.com/
+										343 link Terms of service, Value: clay.com/
+										344 link Make a privacy request, Value: app.clay.com/privacy/request
+									345 图像 Clay logo, go to homepage
+									346 text © 2026  Clay Labs Inc. Born in Brooklyn • Art by 
+									347 link Hudson, Value: hudsonchristie.com/
+									348 link Visit Clay on LinkedIn, Value: linkedin.com/company/grow-with-clay/posts/
+									349 link Visit Clay on YouTube, Value: youtube.com/@GrowWithClay
+									350 link Visit Clay on YouTube, Value: x.com/clay
+									351 link Visit Clay on Slack, Value: clay.com/slack-community
+						352 container
+							353 container
+								354 HTML 内容 about:blank
+									355 container
+										356 文本栏 (settable) 问问豆包
+										357 图像
+								358 container
+									359 图像
+									360 未加标签的图片 /icon_white.png
+									361 按钮 AI 搜索
+										362 container
+											363 图像
+											364 文本 AI 搜索
+									365 按钮 复制
+										366 container
+											367 图像
+											368 文本 复制
+									369 按钮 翻译
+										370 container
+											371 图像
+											372 文本 翻译
+									373 按钮 解释
+										374 container
+											375 图像
+											376 文本 解释
+									377 container
+										378 按钮
+										379 图像
+							380 未加标签的图片 /icon.png
+						381 container flow-ai-assistant
+			382 
