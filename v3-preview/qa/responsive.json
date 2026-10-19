@@ -1,0 +1,92 @@
+[
+  {
+    "images": true,
+    "overflow": false,
+    "product": "robot",
+    "width": 320
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "software",
+    "width": 320
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "camera",
+    "width": 320
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "robot",
+    "width": 390
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "software",
+    "width": 390
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "camera",
+    "width": 390
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "robot",
+    "width": 768
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "software",
+    "width": 768
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "camera",
+    "width": 768
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "robot",
+    "width": 1024
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "software",
+    "width": 1024
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "camera",
+    "width": 1024
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "robot",
+    "width": 1440
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "software",
+    "width": 1440
+  },
+  {
+    "images": true,
+    "overflow": false,
+    "product": "camera",
+    "width": 1440
+  }
+]

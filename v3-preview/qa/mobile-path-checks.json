@@ -1,0 +1,65 @@
+[
+  {
+    "key": "retail",
+    "kind": "path",
+    "n": "0",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "key": "retail",
+    "kind": "path",
+    "n": "1",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "key": "retail",
+    "kind": "path",
+    "n": "2",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "key": "content",
+    "kind": "path",
+    "n": "0",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "key": "content",
+    "kind": "path",
+    "n": "1",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "key": "content",
+    "kind": "path",
+    "n": "2",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "key": "community",
+    "kind": "path",
+    "n": "0",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "key": "community",
+    "kind": "path",
+    "n": "1",
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "key": "community",
+    "kind": "path",
+    "n": "2",
+    "overflow": false,
+    "width": 390
+  }
+]

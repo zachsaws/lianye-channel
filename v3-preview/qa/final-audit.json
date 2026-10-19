@@ -1,0 +1,9 @@
+{
+  "runtime": {
+    "result": {
+      "type": "string",
+      "value": "{\"reduced\":false,\"motion\":\"running\",\"runningAnimations\":10,\"images\":true,\"overflow\":false,\"domContentLoadedMs\":128,\"loadMs\":136}"
+    }
+  },
+  "console": []
+}
