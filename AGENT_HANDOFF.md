@@ -4,7 +4,7 @@
 
 用户认为 V4 相比此前有明显改进，但仍感觉欠缺；当前不是最终审美验收。最新一轮已移除前台研究口吻，以 AI 创业团队的销售问题重写叙事，保留来源于折叠详情。先读 [V4.1 README](v4-preview/README.md) 和 [营销迭代](v4-preview/docs/官网营销迭代.md)。
 
-本次用户授权同步 GitHub 并建立独立线上预览。保持私有仓库，保留 `site/`、`site-preview/` 和原正式官网。预览上线不代表用户已授权替换正式站。
+用户于 2026-10-22 明确授权将 `zachsaws/lianye-channel` 改为公有仓库并开通 GitHub Pages。仓库现已公开，独立预览地址为 https://zachsaws.github.io/lianye-channel/ ，从 `gh-pages` 分支发布。保留 `site/`、`site-preview/` 和原正式官网；预览上线不代表用户已授权替换正式站。下方 V3 历史部分关于私有仓库的限制已被该次用户授权取代。
 
 ---
 

@@ -2,7 +2,9 @@
 
 完整独立预览，不覆盖生产或旧版本。用户认可 V4 的改进，仍认为有提升空间。技术自审已执行，最终审美接受尚未确认。
 
-在线预览：[https://lianye-v41-preview.zachsaw.chatgpt.site](https://lianye-v41-preview.zachsaw.chatgpt.site)（独立私有预览，需使用所有者账号访问）。原正式官网未替换。
+在线预览：[https://zachsaws.github.io/lianye-channel/](https://zachsaws.github.io/lianye-channel/)（公开访问，无需登录）。原正式官网未替换。
+
+仓库已按用户最新授权改为公有。先前的 Sites 私有预览保留作备份；发布配置见 [DEPLOYMENT.md](DEPLOYMENT.md)。
 
 源代码分支：[`preview/design-v4-20261022`](https://github.com/zachsaws/lianye-channel/tree/preview/design-v4-20261022/v4-preview)。
 

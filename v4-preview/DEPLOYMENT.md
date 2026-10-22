@@ -1,5 +1,21 @@
 # V4.1 独立线上预览
 
+## 当前入口：GitHub Pages
+
+2026-10-22 用户明确授权将仓库改为公有并开通 GitHub Pages。
+
+- 地址：https://zachsaws.github.io/lianye-channel/
+- 仓库：https://github.com/zachsaws/lianye-channel ，现为 public。
+- 发布来源：gh-pages 分支根目录，只含网页运行文件。
+- 当前发布内容提交：e6dc9e924e7b95c924a2d68c6ae7c517720ef6b7。
+- 访问：公开，无需登录。
+- 原生产站继续保留，默认分支仍为 main。
+- 更新时从 v4-preview/ 导出运行文件到 gh-pages，提交并推送后由 GitHub Pages 自动发布。当前 PR 的合并与正式官网替换仍未执行。
+
+## 先前 Sites 私有备份与开通记录
+
+以下记录的是仓库改为公有之前的部署与套餐限制；现在 GitHub Pages 已成功创建，原 422 限制不再适用于当前公有仓库。
+
 2026-10-22 已发布，部署状态 succeeded。
 
 - 在线地址：https://lianye-v41-preview.zachsaw.chatgpt.site
