@@ -1,0 +1,73 @@
+{
+  "checks": [
+    {
+      "overflow": false,
+      "path": "content",
+      "title": "让会用的人，讲给想买的人。"
+    },
+    {
+      "overflow": false,
+      "path": "community",
+      "title": "在对的圈子里，找到第一批用户。"
+    },
+    {
+      "overflow": false,
+      "path": "retail",
+      "title": "把新品，放到买家手里。"
+    },
+    {
+      "overflow": false,
+      "product": "software",
+      "title": "“能不能用在我自己的工作里？”"
+    },
+    {
+      "overflow": false,
+      "product": "companion",
+      "title": "“和它相处，是什么感觉？”"
+    },
+    {
+      "overflow": false,
+      "product": "camera",
+      "title": "“带到我的场景里，拍出来怎么样？”"
+    },
+    {
+      "overflow": false,
+      "step": "0",
+      "title": "先找到，谁会想买。"
+    },
+    {
+      "overflow": false,
+      "step": "1",
+      "title": "把功能，讲成购买理由。"
+    },
+    {
+      "overflow": false,
+      "step": "2",
+      "title": "找到方向，再把合作谈具体。"
+    },
+    {
+      "overflow": false,
+      "step": "3",
+      "title": "让对的人，真正用一次。"
+    },
+    {
+      "overflow": false,
+      "step": "4",
+      "title": "想买的时候，有人接得住。"
+    },
+    {
+      "overflow": false,
+      "step": "5",
+      "title": "找到值得继续走的路。"
+    }
+  ],
+  "modalcheck": {
+    "fields": "这类入口的价值：用一个具体任务说明技术如何派上用场，让专业用户试出价值。\n合作切入点：技术演示、任务实测、产品交流\n联野如何协助：筛选表达方向、准备实测提纲，协调产品资料与答疑。",
+    "name": "量子位",
+    "open": true,
+    "sourcesCollapsed": true,
+    "closed": true,
+    "sourceExpandedAndOriginalPreserved": true
+  },
+  "logs": []
+}
