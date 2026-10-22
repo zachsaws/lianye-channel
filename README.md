@@ -1,8 +1,8 @@
 # 联野
 
-> **最新官网预览：V4.1（2026-10-22）。** 当前版本在 [v4-preview/](v4-preview/)，包含彩色实时三维、中文营销叙事、销售入口探索及移动端构图。用户认可 V4 的改进，并指出仍有提升空间；本次同步供线上查看和后续迭代，未替换原正式官网。
+> **最新官网预览：V4.2（2026-10-23）。** 当前版本在 [v4-preview/](v4-preview/)，包含彩色实时三维、中文营销叙事、销售入口探索及移动端构图。用户认可 V4 的改进，并指出仍有提升空间；本次同步供线上查看和后续迭代，未替换原正式官网。
 >
-> [在线预览 V4.1](https://zachsaws.github.io/lianye-channel/) · [查看最新说明](v4-preview/README.md) · [截图与检查](v4-preview/review.html) · [本轮营销改动](v4-preview/docs/官网营销迭代.md)。V3 的否定反馈保留在交接文档的历史部分。
+> [在线预览 V4.2](https://zachsaws.github.io/lianye-channel/) · [查看最新说明](v4-preview/README.md) · [截图与检查](v4-preview/review.html) · [本轮结构改动](v4-preview/docs/页面结构与验收.md)。V3 的否定反馈保留在交接文档的历史部分。
 
 ### 好产品，不该输在渠道上。
 
