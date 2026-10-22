@@ -1,0 +1,25 @@
+{
+  "searchCheck": {
+    "names": [
+      "量子位"
+    ],
+    "status": "1 条公开参考 · 1 个经营分类"
+  },
+  "dialogCheck": {
+    "boundary": "公开业务本次读取官方页面，识别为AI与专业技术的公开内容或交流入口；未核实商务合作条件。经营分类AI与专业技术（编辑分类，不代表新品适配或准入）地区线索线上 / 区域以来源为准仍需确认机构或平台存在不等于成员可触达、可发布推广、可带来销量；需遵守其规则并获得具体经营者授权。与联野关系未建立合作。公开资料不代表客户、签约或可调动资源。",
+    "open": true,
+    "sources": [
+      "https://www.qbitai.com/"
+    ],
+    "title": "量子位"
+  },
+  "focusCheck": {
+    "closed": true,
+    "focusReturned": true
+  },
+  "resetCheck": {
+    "categories": 27,
+    "entries": 240,
+    "status": "240 条公开参考 · 26 个经营分类"
+  }
+}

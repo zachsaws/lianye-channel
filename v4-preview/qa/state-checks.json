@@ -1,0 +1,356 @@
+[
+  {
+    "beat": "0",
+    "caption": "把效果拍出来，也把限制说清楚。",
+    "module": "path",
+    "overflow": false,
+    "path": "content",
+    "width": 1440
+  },
+  {
+    "beat": "1",
+    "caption": "镜头对准真实使用，而不是只拍外观。",
+    "module": "path",
+    "overflow": false,
+    "path": "content",
+    "width": 1440
+  },
+  {
+    "beat": "2",
+    "caption": "看完有兴趣？让品牌接着回答。",
+    "module": "path",
+    "overflow": false,
+    "path": "content",
+    "width": 1440
+  },
+  {
+    "beat": "0",
+    "caption": "从自己的素材和任务开始。",
+    "module": "path",
+    "overflow": false,
+    "path": "community",
+    "width": 1440
+  },
+  {
+    "beat": "1",
+    "caption": "实际试一次，比听懂概念更有用。",
+    "module": "path",
+    "overflow": false,
+    "path": "community",
+    "width": 1440
+  },
+  {
+    "beat": "2",
+    "caption": "使用范围、价格与服务，交给品牌说明。",
+    "module": "path",
+    "overflow": false,
+    "path": "community",
+    "width": 1440
+  },
+  {
+    "beat": "0",
+    "caption": "不是只摆出来，还要让人试得明白。",
+    "module": "path",
+    "overflow": false,
+    "path": "retail",
+    "width": 1440
+  },
+  {
+    "beat": "1",
+    "caption": "观察响应、操作和日常使用限制。",
+    "module": "path",
+    "overflow": false,
+    "path": "retail",
+    "width": 1440
+  },
+  {
+    "beat": "2",
+    "caption": "留下具体问题，进入约定的品牌入口。",
+    "module": "path",
+    "overflow": false,
+    "path": "retail",
+    "width": 1440
+  },
+  {
+    "beat": "0",
+    "module": "product",
+    "overflow": false,
+    "type": "software",
+    "width": 1440
+  },
+  {
+    "beat": "1",
+    "module": "product",
+    "overflow": false,
+    "type": "software",
+    "width": 1440
+  },
+  {
+    "beat": "2",
+    "module": "product",
+    "overflow": false,
+    "type": "software",
+    "width": 1440
+  },
+  {
+    "beat": "0",
+    "module": "product",
+    "overflow": false,
+    "type": "companion",
+    "width": 1440
+  },
+  {
+    "beat": "1",
+    "module": "product",
+    "overflow": false,
+    "type": "companion",
+    "width": 1440
+  },
+  {
+    "beat": "2",
+    "module": "product",
+    "overflow": false,
+    "type": "companion",
+    "width": 1440
+  },
+  {
+    "beat": "0",
+    "module": "product",
+    "overflow": false,
+    "type": "camera",
+    "width": 1440
+  },
+  {
+    "beat": "1",
+    "module": "product",
+    "overflow": false,
+    "type": "camera",
+    "width": 1440
+  },
+  {
+    "beat": "2",
+    "module": "product",
+    "overflow": false,
+    "type": "camera",
+    "width": 1440
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "0",
+    "title": "先把产品\n说清楚。",
+    "width": 1440
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "1",
+    "title": "让第一次介绍，\n有依据。",
+    "width": 1440
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "2",
+    "title": "把谁来做，\n约定在前。",
+    "width": 1440
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "3",
+    "title": "让真正感兴趣\n的人试过。",
+    "width": 1440
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "4",
+    "title": "购买兴趣，\n交给品牌。",
+    "width": 1440
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "5",
+    "title": "下一次，\n不凭感觉。",
+    "width": 1440
+  },
+  {
+    "beat": "0",
+    "caption": "把效果拍出来，也把限制说清楚。",
+    "module": "path",
+    "overflow": false,
+    "path": "content",
+    "width": 390
+  },
+  {
+    "beat": "1",
+    "caption": "镜头对准真实使用，而不是只拍外观。",
+    "module": "path",
+    "overflow": false,
+    "path": "content",
+    "width": 390
+  },
+  {
+    "beat": "2",
+    "caption": "看完有兴趣？让品牌接着回答。",
+    "module": "path",
+    "overflow": false,
+    "path": "content",
+    "width": 390
+  },
+  {
+    "beat": "0",
+    "caption": "从自己的素材和任务开始。",
+    "module": "path",
+    "overflow": false,
+    "path": "community",
+    "width": 390
+  },
+  {
+    "beat": "1",
+    "caption": "实际试一次，比听懂概念更有用。",
+    "module": "path",
+    "overflow": false,
+    "path": "community",
+    "width": 390
+  },
+  {
+    "beat": "2",
+    "caption": "使用范围、价格与服务，交给品牌说明。",
+    "module": "path",
+    "overflow": false,
+    "path": "community",
+    "width": 390
+  },
+  {
+    "beat": "0",
+    "caption": "不是只摆出来，还要让人试得明白。",
+    "module": "path",
+    "overflow": false,
+    "path": "retail",
+    "width": 390
+  },
+  {
+    "beat": "1",
+    "caption": "观察响应、操作和日常使用限制。",
+    "module": "path",
+    "overflow": false,
+    "path": "retail",
+    "width": 390
+  },
+  {
+    "beat": "2",
+    "caption": "留下具体问题，进入约定的品牌入口。",
+    "module": "path",
+    "overflow": false,
+    "path": "retail",
+    "width": 390
+  },
+  {
+    "beat": "0",
+    "module": "product",
+    "overflow": false,
+    "type": "software",
+    "width": 390
+  },
+  {
+    "beat": "1",
+    "module": "product",
+    "overflow": false,
+    "type": "software",
+    "width": 390
+  },
+  {
+    "beat": "2",
+    "module": "product",
+    "overflow": false,
+    "type": "software",
+    "width": 390
+  },
+  {
+    "beat": "0",
+    "module": "product",
+    "overflow": false,
+    "type": "companion",
+    "width": 390
+  },
+  {
+    "beat": "1",
+    "module": "product",
+    "overflow": false,
+    "type": "companion",
+    "width": 390
+  },
+  {
+    "beat": "2",
+    "module": "product",
+    "overflow": false,
+    "type": "companion",
+    "width": 390
+  },
+  {
+    "beat": "0",
+    "module": "product",
+    "overflow": false,
+    "type": "camera",
+    "width": 390
+  },
+  {
+    "beat": "1",
+    "module": "product",
+    "overflow": false,
+    "type": "camera",
+    "width": 390
+  },
+  {
+    "beat": "2",
+    "module": "product",
+    "overflow": false,
+    "type": "camera",
+    "width": 390
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "0",
+    "title": "先把产品\n说清楚。",
+    "width": 390
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "1",
+    "title": "让第一次介绍，\n有依据。",
+    "width": 390
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "2",
+    "title": "把谁来做，\n约定在前。",
+    "width": 390
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "3",
+    "title": "让真正感兴趣\n的人试过。",
+    "width": 390
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "4",
+    "title": "购买兴趣，\n交给品牌。",
+    "width": 390
+  },
+  {
+    "module": "cooperation",
+    "overflow": false,
+    "step": "5",
+    "title": "下一次，\n不凭感觉。",
+    "width": 390
+  }
+]

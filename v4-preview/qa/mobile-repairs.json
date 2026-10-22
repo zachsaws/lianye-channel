@@ -1,0 +1,30 @@
+{
+  "menuOpen": true,
+  "menuClosed": true,
+  "paperChecks": [
+    {
+      "overlap": false,
+      "step": "0"
+    },
+    {
+      "overlap": false,
+      "step": "1"
+    },
+    {
+      "overlap": false,
+      "step": "2"
+    },
+    {
+      "overlap": false,
+      "step": "3"
+    },
+    {
+      "overlap": false,
+      "step": "4"
+    },
+    {
+      "overlap": false,
+      "step": "5"
+    }
+  ]
+}
