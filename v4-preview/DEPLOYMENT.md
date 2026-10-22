@@ -7,7 +7,8 @@
 - 地址：https://zachsaws.github.io/lianye-channel/
 - 仓库：https://github.com/zachsaws/lianye-channel ，现为 public。
 - 发布来源：gh-pages 分支根目录，只含网页运行文件。
-- V4.2 发布于 2026-10-23；以 gh-pages 的最新提交为准，可在 GitHub Pages 部署记录核对。
+- V4.2 发布于 2026-10-23；当前发布提交：a1f0f514fb1a0dd87204bb80296526a51e30bcd7。
+- 页面、样式、脚本与提纲已在线核对，均返回200且内容与源文件一致。
 - V4.1 历史发布内容提交：e6dc9e924e7b95c924a2d68c6ae7c517720ef6b7。
 - 访问：公开，无需登录。
 - 原生产站继续保留，默认分支仍为 main。
