@@ -7,6 +7,8 @@
 - 优先入口：https://zachsaws.github.io/lianye/
 - 兼容入口：https://zachsaws.github.io/lianye-channel/
 - 两个入口使用相同运行文件；source branch preview/design-v4-20261022 保留历史，原生产站不替换。
+- V4.3 发布提交：lianye/ 为 ab127c80759af09ab19ac3ea2c2969007b600f3a；lianye-channel/ 为 417faeffb54866a85afbf04e6de115b5858f158d。
+- 两个公开入口的页面、样式、脚本、精选资料、新图片与合作示例共20项检查均返回200，SHA-256与本机发布文件完全一致。证据：qa/finish/online-checks.json。
 
 
 2026-10-23 用户要求使用联野命名的 GitHub 地址，新增简短入口：
@@ -25,7 +27,7 @@
 - 地址：https://zachsaws.github.io/lianye-channel/
 - 仓库：https://github.com/zachsaws/lianye-channel ，现为 public。
 - 发布来源：gh-pages 分支根目录，只含网页运行文件。
-- V4.2 发布于 2026-10-23；当前发布提交：a1f0f514fb1a0dd87204bb80296526a51e30bcd7。
+- V4.2 历史发布于 2026-10-23；当时发布提交：a1f0f514fb1a0dd87204bb80296526a51e30bcd7。
 - 页面、样式、脚本与提纲已在线核对，均返回200且内容与源文件一致。
 - V4.1 历史发布内容提交：e6dc9e924e7b95c924a2d68c6ae7c517720ef6b7。
 - 访问：公开，无需登录。
