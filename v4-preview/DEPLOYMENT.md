@@ -1,6 +1,24 @@
-# V4.2 独立线上预览
+# V4.3 独立线上预览
 
 ## 当前入口：GitHub Pages
+
+2026-10-23 完成本轮 V4.3 官网迭代，主要变化与验收见 docs/V43-验收与对标复盘.md。源文件仍在 v4-preview/；发布导出包含新增 finish.css、finish.js、data/curated.js、两张场景图与合作示例文本。测试脚本、截图、设计及研究资料不进入网页发布包。
+
+- 优先入口：https://zachsaws.github.io/lianye/
+- 兼容入口：https://zachsaws.github.io/lianye-channel/
+- 两个入口使用相同运行文件；source branch preview/design-v4-20261022 保留历史，原生产站不替换。
+
+
+2026-10-23 用户要求使用联野命名的 GitHub 地址，新增简短入口：
+
+- 地址：https://zachsaws.github.io/lianye/
+- 发布仓库：https://github.com/zachsaws/lianye ，public，gh-pages 分支根目录。
+- 首次导出提交：9ad9a22813365bc98c384c6b4308f641accb9c93，与下述 V4.2 运行文件相同。
+- 本机发布目录：相邻目录 lianye-short-pages-20261023。
+- 源码仍维护在本仓库 v4-preview/；后续授权发布时需要同步两个 GitHub Pages 发布仓库，避免新旧入口版本不一致。
+- GitHub 子域名由账号名决定；lianye 账号已经被其他用户占用，未修改 zachsaws 账号或个人主页。
+
+以下原入口继续保留：
 
 2026-10-22 用户明确授权将仓库改为公有并开通 GitHub Pages。
 
