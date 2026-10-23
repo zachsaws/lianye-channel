@@ -1,0 +1,39 @@
+{
+  "scrollWidth": 390,
+  "sections": [
+    {
+      "height": 744.015625,
+      "id": "intro",
+      "y": 78
+    },
+    {
+      "height": 1603.359375,
+      "id": "network",
+      "y": 822.015625
+    },
+    {
+      "height": 1317.5625,
+      "id": "value",
+      "y": 2425.375
+    },
+    {
+      "height": 1448.7578125,
+      "id": "cooperate",
+      "y": 3742.9375
+    },
+    {
+      "height": 962.171875,
+      "id": "approach",
+      "y": 5191.6953125
+    },
+    {
+      "height": 998.0703125,
+      "id": "contact",
+      "y": 6153.8671875
+    }
+  ],
+  "viewport": {
+    "height": 844,
+    "width": 390
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "checkedDate": "2026-10-18",
+  "baseCommit": "06a4f226c49943ac4d081afc2b33eb9d47841ee4",
+  "productionModified": false,
+  "oldPreviewModified": false,
+  "pushed": false,
+  "deployed": false,
+  "preview": "http://127.0.0.1:8818/",
+  "bytes": {
+    "v2-preview/index.html": 12032,
+    "v2-preview/style.css": 20316,
+    "v2-preview/app.js": 6059,
+    "v2-preview/assets/mark.svg": 202,
+    "v2-preview/assets/neighborhood-mobile.webp": 82348,
+    "v2-preview/assets/neighborhood.webp": 302042
+  },
+  "scope": "Local browser QA and self-review; not third-party aesthetic acceptance or real commercial validation"
+}

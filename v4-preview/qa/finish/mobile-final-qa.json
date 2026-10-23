@@ -1,0 +1,147 @@
+{
+  "current": {
+    "width": 390,
+    "height": 844,
+    "scrollY": 339,
+    "paperTop": 3565,
+    "scrollWidth": 390,
+    "overflow": false,
+    "hero": "webgl",
+    "path": "content",
+    "beat": "0",
+    "paused": false,
+    "heroProgress": 0.7083571428571427,
+    "delivery": "1",
+    "directoryOpen": false,
+    "entries": 24,
+    "dialog": null,
+    "reduce": true,
+    "images": [],
+    "sections": [
+      {
+        "id": "top",
+        "y": 72,
+        "height": 772
+      },
+      {
+        "id": "paths",
+        "y": 951,
+        "height": 2238
+      },
+      {
+        "id": "cooperate",
+        "y": 3188,
+        "height": 1723
+      },
+      {
+        "id": "contact",
+        "y": 4911,
+        "height": 1117
+      }
+    ],
+    "performance": {
+      "domContentLoaded": 607,
+      "load": 1183,
+      "resources": 14
+    },
+    "errors": []
+  },
+  "events": [
+    {
+      "action": "02怎样试，谁来推进体验执行安排：任务、样机、接待和品牌答疑。查看执行安排 ↗",
+      "width": 390,
+      "height": 844,
+      "scrollY": 3742,
+      "paperTop": 162,
+      "scrollWidth": 390,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "content",
+      "beat": "0",
+      "paused": true,
+      "heroProgress": 0,
+      "delivery": "1",
+      "directoryOpen": false,
+      "entries": 24,
+      "dialog": null,
+      "reduce": true,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2238
+        },
+        {
+          "id": "cooperate",
+          "y": 3188,
+          "height": 1723
+        },
+        {
+          "id": "contact",
+          "y": 4911,
+          "height": 1117
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 607,
+        "load": 1183,
+        "resources": 14
+      },
+      "errors": []
+    },
+    {
+      "action": "暂停动态 Ⅱ",
+      "width": 390,
+      "height": 844,
+      "scrollY": 339,
+      "paperTop": 3565,
+      "scrollWidth": 390,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "content",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.03558928571428575,
+      "delivery": "1",
+      "directoryOpen": false,
+      "entries": 24,
+      "dialog": null,
+      "reduce": true,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2238
+        },
+        {
+          "id": "cooperate",
+          "y": 3188,
+          "height": 1723
+        },
+        {
+          "id": "contact",
+          "y": 4911,
+          "height": 1117
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 607,
+        "load": 1183,
+        "resources": 14
+      },
+      "errors": []
+    }
+  ]
+}

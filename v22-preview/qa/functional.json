@@ -1,0 +1,37 @@
+{
+  "tabletOverlap": false,
+  "menuOpen": true,
+  "menuClosed": true,
+  "search": "少数派\n\n数字消费 · 内容与产品共创\n\n↗",
+  "extended": "企业、机构与专业分销 · 78 个参考入口，当前展示 12 个",
+  "faq": "",
+  "links": {
+    "download": "assets/cooperation-outline.txt",
+    "forms": 0,
+    "mailto": "mailto:zachsaws@gmail.com?subject=%E8%81%94%E9%87%8E%EF%BD%9C%E6%96%B0%E5%93%81%E8%B5%B7%E9%94%80%E5%90%88%E4%BD%9C",
+    "sources": true
+  },
+  "images": [
+    {
+      "loaded": true,
+      "src": "assets/hero.webp"
+    },
+    {
+      "loaded": true,
+      "src": "assets/retail.webp"
+    },
+    {
+      "loaded": true,
+      "src": "assets/glasses.webp"
+    },
+    {
+      "loaded": true,
+      "src": "assets/glasses.webp"
+    },
+    {
+      "loaded": true,
+      "src": "assets/retail.webp"
+    }
+  ],
+  "console": []
+}

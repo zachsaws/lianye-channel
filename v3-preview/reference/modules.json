@@ -1,0 +1,293 @@
+{
+  "modules": {
+    "brand-menu": "nav__brand--menu",
+    "tooltip-hover": "hero-cli",
+    "copy": "hero-cli_top",
+    "background-video": "video-bg__video",
+    "logos": "home-logo_base",
+    "hover-arrow": "logo-card w-variant-cb86a75a-517f-f109-e166-20cea0174dc2",
+    "rotate": "section_home-flow",
+    "sculptor": "home-action_form",
+    "action-pulse": "home-action_scale",
+    "company": "call-out",
+    "line-link": "line-link w-inline-block",
+    "customer": "home-customer_slider",
+    "video-player": "video-player_wrapper"
+  },
+  "heads": [
+    [
+      "h1",
+      "Build systems to grow revenue"
+    ],
+    [
+      "h2",
+      "GTM engineers build on Clay"
+    ],
+    [
+      "h3",
+      "What do you want to build?"
+    ],
+    [
+      "h3",
+      "Build, test, and scale any GTM play you can imagine."
+    ],
+    [
+      "h3",
+      "Get data from the most complete data marketplace"
+    ],
+    [
+      "h3",
+      "Put agents that know your business to work"
+    ],
+    [
+      "h3",
+      "Build GTM plays on a visual canvas"
+    ],
+    [
+      "h3",
+      "Launch new plays as fast as you have ideas"
+    ],
+    [
+      "h3",
+      "Build systems that make reps more productive"
+    ],
+    [
+      "h3",
+      "Hear from the teams that grow with Clay"
+    ],
+    [
+      "h3",
+      "Learn more about GTM engineering"
+    ],
+    [
+      "h3",
+      "Sculpt: The go-to-market conference returns in 2026"
+    ],
+    [
+      "h3",
+      "Get started with Clay"
+    ],
+    [
+      "h3",
+      "How Clay Uses Clay: ABM campaigns to break into Tier 1 accounts"
+    ],
+    [
+      "h3",
+      "Sandra has built the Clay community in Lagos"
+    ],
+    [
+      "h3",
+      "Where girls often choose between career or marriage, she carved her own path"
+    ],
+    [
+      "h2",
+      "Turn your growth ideas into reality today"
+    ],
+    [
+      "h3",
+      "Use cases"
+    ],
+    [
+      "h3",
+      "Customers"
+    ],
+    [
+      "h3",
+      "Product"
+    ],
+    [
+      "h3",
+      "Blog"
+    ],
+    [
+      "h3",
+      "Resources"
+    ],
+    [
+      "h3",
+      "Company"
+    ],
+    [
+      "h3",
+      "Legal"
+    ],
+    [
+      "h3",
+      "Customers"
+    ],
+    [
+      "h3",
+      "Legal"
+    ]
+  ],
+  "media": [
+    {
+      "kind": "video",
+      "data-nav-menu-video": "https://assets.clayrun.dev/Clay-Hero%205-card-720.webm",
+      "poster": "https://assets.clayrun.dev/poster-menu.png",
+      "class": "video-bg__video cc-nav"
+    },
+    {
+      "kind": "video",
+      "src": "https://assets.clayrun.dev/Hero%2006-02%20Lossy%200001-0240.mp4",
+      "autoplay": "true",
+      "loop": "",
+      "muted": "",
+      "playsinline": "true",
+      "data-module": "background-video",
+      "class": "video-bg__video"
+    },
+    {
+      "kind": "image",
+      "class": "home-uses_mobile",
+      "src": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a2094daa832750c04c2510a_Clay%20Tam.png",
+      "alt": "Filter interface specifying search for engineering managers or CTOs hiring security engineers using AWS or Google Cloud.",
+      "data-uses": "ui-bkg",
+      "sizes": "100vw",
+      "id": "w-node-_51739851-1787-23cc-deed-b13db5957ac7-08f6d1bf",
+      "loading": "lazy",
+      "srcset": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a2094daa832750c04c2510a_Clay%20Tam-p-500.png 500w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a2094daa832750c04c2510a_Clay%20Tam-p-800.png 800w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a2094daa832750c04c2510a_Clay%20Tam.png 900w"
+    },
+    {
+      "kind": "image",
+      "class": "home-uses_mobile",
+      "src": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209b5b885ec16359b408da_Clay%20Inbound.png",
+      "alt": "Demo request form with fields for first name, last name, company, and a submit button over data and email preview.",
+      "data-uses": "ui-bkg",
+      "sizes": "100vw",
+      "id": "w-node-_40e12def-4b6d-74e3-7971-6ef9d19e373c-08f6d1bf",
+      "loading": "lazy",
+      "srcset": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209b5b885ec16359b408da_Clay%20Inbound-p-500.png 500w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209b5b885ec16359b408da_Clay%20Inbound-p-800.png 800w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209b5b885ec16359b408da_Clay%20Inbound.png 900w"
+    },
+    {
+      "kind": "image",
+      "class": "home-uses_mobile",
+      "src": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a20996884e854bc0fa08864_Clay%20Lead.png",
+      "alt": "Lead score formula window and sample output table showing company names with T1 to T3 scoring tiers.",
+      "data-uses": "ui-bkg",
+      "sizes": "100vw",
+      "id": "w-node-d7671d9f-91bd-285c-90a6-8712eb330b48-08f6d1bf",
+      "loading": "lazy",
+      "srcset": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a20996884e854bc0fa08864_Clay%20Lead-p-500.png 500w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a20996884e854bc0fa08864_Clay%20Lead-p-800.png 800w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a20996884e854bc0fa08864_Clay%20Lead.png 900w"
+    },
+    {
+      "kind": "image",
+      "class": "home-uses_mobile",
+      "src": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209a14d3a0cd1f90f8b5bd_Clay%20Automated.png",
+      "alt": "Email congratulating Jenna on promotion to VP of Revenue Operations at Northstar Health with promotion signal filter UI.",
+      "data-uses": "ui-bkg",
+      "sizes": "100vw",
+      "id": "w-node-eb9aef54-371b-b161-d930-661770146948-08f6d1bf",
+      "loading": "lazy",
+      "srcset": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209a14d3a0cd1f90f8b5bd_Clay%20Automated-p-500.png 500w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209a14d3a0cd1f90f8b5bd_Clay%20Automated-p-800.png 800w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209a14d3a0cd1f90f8b5bd_Clay%20Automated.png 900w"
+    },
+    {
+      "kind": "image",
+      "src": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a20971c17129d6ab257e262_Clay%20CRM.png",
+      "loading": "lazy",
+      "id": "w-node-b3d998e3-bf1c-5003-714f-6f77795ffd0e-08f6d1bf",
+      "data-uses": "ui-bkg",
+      "alt": "CRM interface showing a lead list with names, companies, and a Clay data clean room popup for data tools.",
+      "class": "home-uses_mobile"
+    },
+    {
+      "kind": "image",
+      "class": "home-uses_mobile",
+      "src": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209c0067df927ff4f57f25_Clay%20Ads.png",
+      "alt": "Dashboard showing ad platform export menu and ABM targets for LinkedIn, Meta, Google Ads with stats.",
+      "data-uses": "ui-bkg",
+      "sizes": "100vw",
+      "id": "w-node-d7b5c049-7f43-afac-3e08-4d8c41eeeb8d-08f6d1bf",
+      "loading": "lazy",
+      "srcset": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209c0067df927ff4f57f25_Clay%20Ads-p-500.png 500w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209c0067df927ff4f57f25_Clay%20Ads-p-800.png 800w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209c0067df927ff4f57f25_Clay%20Ads.png 900w"
+    },
+    {
+      "kind": "image",
+      "class": "home-uses_mobile",
+      "src": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209b92aa1359df0a87f75b_Clay%20Rep.png",
+      "alt": "User interface for building an agent to prep reps' first call and email follow up summarizing key themes and steps.",
+      "data-uses": "ui-bkg",
+      "sizes": "100vw",
+      "id": "w-node-c866be07-6462-6d6e-5c16-4577e4d3a07b-08f6d1bf",
+      "loading": "lazy",
+      "srcset": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209b92aa1359df0a87f75b_Clay%20Rep-p-500.png 500w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209b92aa1359df0a87f75b_Clay%20Rep-p-800.png 800w, https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a209b92aa1359df0a87f75b_Clay%20Rep.png 900w"
+    },
+    {
+      "kind": "video",
+      "data-desktop": "https://assets.clayrun.dev/Data%2006-16%201000px.webm",
+      "loop": "",
+      "muted": "",
+      "playsinline": "true",
+      "data-module": "background-video",
+      "preload": "none",
+      "class": "video-bg__video"
+    },
+    {
+      "kind": "video",
+      "data-desktop": "https://assets.clayrun.dev/Agents%2006-16%201000px.webm",
+      "loop": "",
+      "muted": "",
+      "playsinline": "true",
+      "data-module": "background-video",
+      "preload": "none",
+      "class": "video-bg__video"
+    },
+    {
+      "kind": "video",
+      "data-desktop": "https://assets.clayrun.dev/Orch%2006-16%201000px.webm",
+      "loop": "",
+      "muted": "",
+      "playsinline": "true",
+      "data-module": "background-video",
+      "preload": "none",
+      "class": "video-bg__video"
+    },
+    {
+      "kind": "video",
+      "data-desktop": "https://assets.clayrun.dev/Execution%2006-16%201000px.webm",
+      "loop": "",
+      "muted": "",
+      "playsinline": "true",
+      "data-module": "background-video",
+      "preload": "none",
+      "class": "video-bg__video"
+    },
+    {
+      "kind": "video",
+      "data-desktop": "https://assets.clayrun.dev/Reps%2006-16%201500px.webm",
+      "loop": "",
+      "muted": "",
+      "playsinline": "true",
+      "data-module": "background-video",
+      "preload": "none",
+      "class": "video-bg__video"
+    },
+    {
+      "kind": "video",
+      "src": "https://assets.clayrun.dev/Clay-Hero%20(3)%20(1).mp4",
+      "poster": "",
+      "autoplay": "true",
+      "loop": "",
+      "muted": "",
+      "playsinline": "true",
+      "data-module": "background-video",
+      "class": "video-bg__video"
+    },
+    {
+      "kind": "video",
+      "data-video": "element",
+      "src": "https://assets.clayrun.dev/euro_case_study_final_v1_(2)_(1)_v1%20(1080p).mp4",
+      "class": "video-player"
+    },
+    {
+      "kind": "video",
+      "data-desktop": "https://assets.clayrun.dev/Footer%2005-29%20Lossy%200001-0060.mp4",
+      "loop": "",
+      "muted": "",
+      "playsinline": "true",
+      "data-module": "background-video",
+      "preload": "none",
+      "class": "video-bg__video cc-footer"
+    }
+  ]
+}

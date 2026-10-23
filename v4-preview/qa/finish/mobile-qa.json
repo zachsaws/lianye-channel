@@ -1,0 +1,694 @@
+{
+  "current": {
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390,
+    "overflow": false,
+    "hero": "webgl",
+    "path": "retail",
+    "beat": "0",
+    "paused": true,
+    "heroProgress": 0.7082442857142847,
+    "delivery": "0",
+    "directoryOpen": false,
+    "entries": 136,
+    "dialog": null,
+    "reduce": true,
+    "images": [],
+    "sections": [
+      {
+        "id": "top",
+        "y": 72,
+        "height": 772
+      },
+      {
+        "id": "paths",
+        "y": 951,
+        "height": 2238
+      },
+      {
+        "id": "cooperate",
+        "y": 3188,
+        "height": 1743
+      },
+      {
+        "id": "contact",
+        "y": 4931,
+        "height": 1117
+      }
+    ],
+    "performance": {
+      "domContentLoaded": 354,
+      "load": 722,
+      "resources": 15
+    },
+    "errors": []
+  },
+  "events": [
+    {
+      "action": "viewport resize",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "content",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.6042442857142857,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 24,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2238
+        },
+        {
+          "id": "cooperate",
+          "y": 3188,
+          "height": 1743
+        },
+        {
+          "id": "contact",
+          "y": 4931,
+          "height": 1117
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 13
+      },
+      "errors": []
+    },
+    {
+      "action": "viewport resize",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "content",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.6963692857142847,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 24,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2238
+        },
+        {
+          "id": "cooperate",
+          "y": 3188,
+          "height": 1743
+        },
+        {
+          "id": "contact",
+          "y": 4931,
+          "height": 1117
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 13
+      },
+      "errors": []
+    },
+    {
+      "action": "☰",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "content",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.4314585714285704,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 24,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2238
+        },
+        {
+          "id": "cooperate",
+          "y": 3188,
+          "height": 1743
+        },
+        {
+          "id": "contact",
+          "y": 4931,
+          "height": 1117
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 13
+      },
+      "errors": []
+    },
+    {
+      "action": "新品怎样走向买家",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "content",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.5921371428571424,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 24,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2238
+        },
+        {
+          "id": "cooperate",
+          "y": 3188,
+          "height": 1743
+        },
+        {
+          "id": "contact",
+          "y": 4931,
+          "height": 1117
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 13
+      },
+      "errors": []
+    },
+    {
+      "action": "02社群试用 ↗",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "community",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.6278871428571419,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 19,
+      "dialog": null,
+      "reduce": false,
+      "images": [
+        "assets/content-v43.webp"
+      ],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2290
+        },
+        {
+          "id": "cooperate",
+          "y": 3240,
+          "height": 1743
+        },
+        {
+          "id": "contact",
+          "y": 4983,
+          "height": 1117
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 13
+      },
+      "errors": []
+    },
+    {
+      "action": "设计与视觉创作站酷适合让设计师用自己的素材，判断工具能否进入创作流程。查看匹配理由与合作问题 ↗",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "community",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.6278871428571419,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 19,
+      "dialog": "站酷",
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2290
+        },
+        {
+          "id": "cooperate",
+          "y": 3240,
+          "height": 1743
+        },
+        {
+          "id": "contact",
+          "y": 4983,
+          "height": 1117
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 14
+      },
+      "errors": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "community",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.6278871428571419,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 19,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2290
+        },
+        {
+          "id": "cooperate",
+          "y": 3240,
+          "height": 1743
+        },
+        {
+          "id": "contact",
+          "y": 4983,
+          "height": 1117
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 14
+      },
+      "errors": []
+    },
+    {
+      "action": "viewport resize",
+      "width": 320,
+      "height": 844,
+      "scrollWidth": 320,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "community",
+      "beat": "1",
+      "paused": false,
+      "heroProgress": 0.6278871428571419,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 19,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2259
+        },
+        {
+          "id": "cooperate",
+          "y": 3209,
+          "height": 1873
+        },
+        {
+          "id": "contact",
+          "y": 5082,
+          "height": 1102
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 14
+      },
+      "errors": []
+    },
+    {
+      "action": "03门店体验 ↗",
+      "width": 320,
+      "height": 844,
+      "scrollWidth": 320,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.6278871428571419,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2234
+        },
+        {
+          "id": "cooperate",
+          "y": 3185,
+          "height": 1873
+        },
+        {
+          "id": "contact",
+          "y": 5057,
+          "height": 1102
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 15
+      },
+      "errors": []
+    },
+    {
+      "action": "播放动态 ▶",
+      "width": 320,
+      "height": 844,
+      "scrollWidth": 320,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": true,
+      "heroProgress": 0.7082442857142847,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2234
+        },
+        {
+          "id": "cooperate",
+          "y": 3185,
+          "height": 1873
+        },
+        {
+          "id": "contact",
+          "y": 5057,
+          "height": 1102
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 15
+      },
+      "errors": []
+    },
+    {
+      "action": "viewport resize",
+      "width": 4,
+      "height": 3376,
+      "scrollWidth": 214,
+      "overflow": true,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": true,
+      "heroProgress": 0.7082442857142847,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 1167,
+          "height": 9030
+        },
+        {
+          "id": "cooperate",
+          "y": 10197,
+          "height": 7211
+        },
+        {
+          "id": "contact",
+          "y": 17407,
+          "height": 2854
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 15
+      },
+      "errors": []
+    },
+    {
+      "action": "viewport resize",
+      "width": 768,
+      "height": 844,
+      "scrollWidth": 768,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": true,
+      "heroProgress": 0.7082442857142847,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 759
+        },
+        {
+          "id": "paths",
+          "y": 949,
+          "height": 1845
+        },
+        {
+          "id": "cooperate",
+          "y": 2794,
+          "height": 1375
+        },
+        {
+          "id": "contact",
+          "y": 4169,
+          "height": 1037
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 15
+      },
+      "errors": []
+    },
+    {
+      "action": "viewport resize",
+      "width": 1024,
+      "height": 844,
+      "scrollWidth": 1024,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": true,
+      "heroProgress": 0.7082442857142847,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 759
+        },
+        {
+          "id": "paths",
+          "y": 949,
+          "height": 1778
+        },
+        {
+          "id": "cooperate",
+          "y": 2727,
+          "height": 1324
+        },
+        {
+          "id": "contact",
+          "y": 4052,
+          "height": 1032
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 15
+      },
+      "errors": []
+    },
+    {
+      "action": "viewport resize",
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": true,
+      "heroProgress": 0.7082442857142847,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 72,
+          "height": 772
+        },
+        {
+          "id": "paths",
+          "y": 951,
+          "height": 2238
+        },
+        {
+          "id": "cooperate",
+          "y": 3188,
+          "height": 1743
+        },
+        {
+          "id": "contact",
+          "y": 4931,
+          "height": 1117
+        }
+      ],
+      "performance": {
+        "domContentLoaded": 354,
+        "load": 722,
+        "resources": 15
+      },
+      "errors": []
+    }
+  ]
+}

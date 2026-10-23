@@ -1,0 +1,17 @@
+{
+  "index.html": {
+    "unique_ids": true,
+    "local_refs_200": 9
+  },
+  "review.html": {
+    "unique_ids": true,
+    "local_refs_200": 35
+  },
+  "production_and_v2_unchanged": true,
+  "code_sha256": {
+    "index.html": "770be1a59f925cee0b536cc42fccddd18341e3f49023409a51ee3a97a02855e6",
+    "style.css": "bac63e362876c54bbb2e9ddd80e4979ac152b34490b8c5003bfd18da8e78ac37",
+    "app.js": "67017103e10dec19ded9b4fe26a7b3a5538ab21ab2f5a6960b51bee0d9bdad32"
+  },
+  "unmet_gate": "Clay representative use-case interaction and middle/lower-page visual verification unavailable; no bypass attempted"
+}

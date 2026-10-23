@@ -1,0 +1,659 @@
+{
+  "current": {
+    "width": 1440,
+    "height": 900,
+    "scrollWidth": 1440,
+    "overflow": false,
+    "hero": "webgl",
+    "path": "retail",
+    "beat": "0",
+    "paused": false,
+    "heroProgress": 0.4758928571513661,
+    "delivery": "2",
+    "directoryOpen": false,
+    "entries": 240,
+    "dialog": null,
+    "reduce": false,
+    "images": [],
+    "sections": [
+      {
+        "id": "top",
+        "y": 85,
+        "height": 815
+      },
+      {
+        "id": "paths",
+        "y": 1005,
+        "height": 1884
+      },
+      {
+        "id": "cooperate",
+        "y": 2889,
+        "height": 1367
+      },
+      {
+        "id": "contact",
+        "y": 4256,
+        "height": 1083
+      }
+    ],
+    "errors": []
+  },
+  "events": [
+    {
+      "action": "新品怎样走向买家",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "content",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.9075714285799417,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 24,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1833
+        },
+        {
+          "id": "cooperate",
+          "y": 2839,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4206,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "02社群试用 ↗",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "community",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.9493035714370867,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 19,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "03门店体验 ↗",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.9493035714370867,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "AI硬件与上手体验智玩店适合把“听说过”变成“亲手试过”，回答互动与使用问题。查看匹配理由与合作问题 ↗",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "1",
+      "paused": false,
+      "heroProgress": 0.9493035714370867,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": "智玩店",
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "关闭 ×",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "2",
+      "paused": false,
+      "heroProgress": 0.9493035714370867,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "合作能得到什么",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "2",
+      "paused": false,
+      "heroProgress": 0.014767857151378589,
+      "delivery": "0",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "02怎样试，谁来推进体验执行安排：任务、样机、接待和品牌答疑。查看执行安排 ↗",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "2",
+      "paused": false,
+      "heroProgress": 0.4015000000085131,
+      "delivery": "1",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "03试过之后，怎么判断买家反馈与复盘：兴趣、疑问、跟进与调整建议。查看复盘方式 ↗",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "2",
+      "paused": false,
+      "heroProgress": 0.4015000000085131,
+      "delivery": "2",
+      "directoryOpen": false,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "探索更多销售入口收起 −",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "2",
+      "paused": false,
+      "heroProgress": 0.4015000000085131,
+      "delivery": "2",
+      "directoryOpen": true,
+      "entries": 136,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 2995
+        },
+        {
+          "id": "cooperate",
+          "y": 4000,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 5367,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "全部方向",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.4015000000085131,
+      "delivery": "2",
+      "directoryOpen": true,
+      "entries": 240,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 3001
+        },
+        {
+          "id": "cooperate",
+          "y": 4006,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 5373,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "重置 ↺",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "2",
+      "paused": false,
+      "heroProgress": 0.4015000000085131,
+      "delivery": "2",
+      "directoryOpen": true,
+      "entries": 240,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 3001
+        },
+        {
+          "id": "cooperate",
+          "y": 4006,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 5373,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "探索更多销售入口展开 ＋",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "2",
+      "paused": false,
+      "heroProgress": 0.4015000000085131,
+      "delivery": "2",
+      "directoryOpen": false,
+      "entries": 240,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "聊聊合作 ↗",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.4640000000085131,
+      "delivery": "2",
+      "directoryOpen": false,
+      "entries": 240,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "复制邮箱 ↗",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.4758928571513661,
+      "delivery": "2",
+      "directoryOpen": false,
+      "entries": 240,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    },
+    {
+      "action": "复制沟通提纲 ↗",
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "overflow": false,
+      "hero": "webgl",
+      "path": "retail",
+      "beat": "0",
+      "paused": false,
+      "heroProgress": 0.4758928571513661,
+      "delivery": "2",
+      "directoryOpen": false,
+      "entries": 240,
+      "dialog": null,
+      "reduce": false,
+      "images": [],
+      "sections": [
+        {
+          "id": "top",
+          "y": 85,
+          "height": 815
+        },
+        {
+          "id": "paths",
+          "y": 1005,
+          "height": 1884
+        },
+        {
+          "id": "cooperate",
+          "y": 2889,
+          "height": 1367
+        },
+        {
+          "id": "contact",
+          "y": 4256,
+          "height": 1083
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

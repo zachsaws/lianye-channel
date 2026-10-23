@@ -1,0 +1,35 @@
+{
+  "responsive4": [
+    {
+      "overflow": false,
+      "render": "webgl",
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "render": "webgl",
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "render": "webgl",
+      "scrollWidth": 1024,
+      "width": 1024
+    }
+  ],
+  "reduceCheck": {
+    "button": "播放动态 ▶",
+    "paused": true,
+    "productVisible": true
+  },
+  "reduceManual": {
+    "beat": "1",
+    "render": "webgl"
+  },
+  "optin": {
+    "override": true,
+    "paused": false
+  }
+}

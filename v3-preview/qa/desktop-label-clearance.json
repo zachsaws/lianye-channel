@@ -1,0 +1,26 @@
+[
+  {
+    "clear": true,
+    "labelTop": 293.9921875,
+    "productBottom": 269.9921875,
+    "step": 0
+  },
+  {
+    "clear": true,
+    "labelTop": 291.9921875,
+    "productBottom": 278.1065979003906,
+    "step": 1
+  },
+  {
+    "clear": true,
+    "labelTop": 367.4122009277344,
+    "productBottom": 345.2110900878906,
+    "step": 2
+  },
+  {
+    "clear": true,
+    "labelTop": 294.9921875,
+    "productBottom": 279.0306396484375,
+    "step": 3
+  }
+]

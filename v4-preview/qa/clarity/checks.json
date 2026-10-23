@@ -1,0 +1,115 @@
+{
+  "paths": [
+    {
+      "directoryCollapsed": true,
+      "format": "内容实测 · 直播答疑",
+      "path": "content",
+      "peek": [
+        "少数派 ↗",
+        "爱范儿 ↗",
+        "什么值得买 ↗",
+        "极客公园 ↗",
+        "量子位 ↗",
+        "数字尾巴 ↗"
+      ],
+      "stepButtons": 0,
+      "title": "实测一次，\n看见真实效果。"
+    },
+    {
+      "directoryCollapsed": true,
+      "format": "社群试用 · 线上分享与答疑",
+      "path": "community",
+      "peek": [
+        "站酷 ↗",
+        "少数派会员社区 ↗",
+        "稀土掘金 ↗",
+        "V2EX ↗",
+        "开源中国 ↗",
+        "WaytoAGI ↗"
+      ],
+      "stepButtons": 0,
+      "title": "带上任务，\n一起试出用处。"
+    },
+    {
+      "directoryCollapsed": true,
+      "format": "预约体验 · 主题快闪 · 常设陈列",
+      "path": "retail",
+      "peek": [
+        "智玩店 ↗",
+        "INNO100 ↗",
+        "Z·Pilot ↗",
+        "顺电 ↗",
+        "九机 ↗",
+        "玩具反斗城 ↗"
+      ],
+      "stepButtons": 0,
+      "title": "走进生活，\n亲手试一次。"
+    }
+  ],
+  "responsive": [
+    {
+      "overflow": false,
+      "scrollWidth": 320,
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 1024,
+      "width": 1024
+    },
+    {
+      "overflow": false,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  ],
+  "catalogAll": {
+    "categories": 27,
+    "count": 240,
+    "main": 5,
+    "open": true,
+    "overflow": false
+  },
+  "dialog": {
+    "name": "量子位",
+    "open": true,
+    "sourcesCollapsed": true,
+    "sourcesExpanded": true,
+    "focusReturned": true
+  },
+  "faq": {
+    "answer": "有可体验的 Demo，就可以讨论目标人群与试用方式；具备供货、交付与服务条件后，再推进首销。",
+    "inner": true,
+    "outer": true
+  },
+  "menuOpen": "true",
+  "menuClosed": "false",
+  "arrangement": {
+    "open": true,
+    "text": "围绕成员共同关心的问题安排一轮试用。事先约定参与意愿、试用范围和品牌答疑时间，收集实际使用问题与购买咨询。"
+  },
+  "peekDialog": {
+    "name": "站酷",
+    "open": true,
+    "focusReturned": true
+  },
+  "resetNestedDetails": true,
+  "reducedMotion": true,
+  "explicitPlay": true,
+  "heroMotion": {
+    "before": "{\"paused\":false,\"hero\":0,\"heroProgress\":0.14542553191489294}",
+    "after": "{\"paused\":false,\"hero\":0,\"heroProgress\":0.422021276595744}"
+  },
+  "logs": [],
+  "copy": "已复制到本机"
+}

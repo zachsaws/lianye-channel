@@ -1,0 +1,27 @@
+[
+  {
+    "file": "index.html",
+    "status": 200,
+    "matches_source": true
+  },
+  {
+    "file": "style.css",
+    "status": 200,
+    "matches_source": true
+  },
+  {
+    "file": "app.js",
+    "status": 200,
+    "matches_source": true
+  },
+  {
+    "file": "scene.js",
+    "status": 200,
+    "matches_source": true
+  },
+  {
+    "file": "assets/cooperation-outline.txt",
+    "status": 200,
+    "matches_source": true
+  }
+]

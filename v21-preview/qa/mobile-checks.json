@@ -1,0 +1,69 @@
+[
+  {
+    "copy": "01 / 品牌带来产品带上新品，走出第一步。你带来产品与判断。样机能做什么、谁可能需要、服务是否准备好，是第一次合作的起点。交到合作台上：产品事实单",
+    "scrollWidth": 390,
+    "stage": "0",
+    "stageHeight": 445,
+    "visibleImages": [
+      {
+        "ok": true,
+        "src": "assets/glasses.webp"
+      }
+    ]
+  },
+  {
+    "copy": "02 / 联野准备合作从产品资料，到一份能讨论的方案。联野梳理适合先试的场景、怎样介绍和体验、还缺什么条件。AI 辅助准备，人确认事实。交到合作台上：合作准备稿",
+    "scrollWidth": 390,
+    "stage": "1",
+    "stageHeight": 445,
+    "visibleImages": [
+      {
+        "ok": true,
+        "src": "assets/glasses.webp"
+      }
+    ]
+  },
+  {
+    "copy": "03 / 伙伴带来场景好产品，遇见合适的经营者。伙伴了解自己的受众与空间。双方把形式、支持、服务和收益条件谈清楚，联野推进协作。交到合作台上：一次合作的安排",
+    "scrollWidth": 390,
+    "stage": "2",
+    "stageHeight": 445,
+    "visibleImages": [
+      {
+        "ok": true,
+        "src": "assets/retail.webp"
+      }
+    ]
+  },
+  {
+    "copy": "04 / 买家亲身了解让买家看见，也有机会认真体验。内容、试用或到店体验，把参数变成具体感受。先听问题，再看是否出现购买意愿。交到合作台上：体验与答疑",
+    "scrollWidth": 390,
+    "stage": "3",
+    "stageHeight": 445,
+    "visibleImages": [
+      {
+        "ok": true,
+        "src": "assets/retail.webp"
+      }
+    ]
+  },
+  {
+    "copy": "05 / 品牌承接成交兴趣有去处，服务有人负责。品牌原则上承接咨询、订单与履约。伙伴与联野的贡献按事先约定处理，不建立多级代理。交到合作台上：清楚的成交与服务路径",
+    "scrollWidth": 390,
+    "stage": "4",
+    "stageHeight": 445,
+    "visibleImages": [
+      {
+        "ok": true,
+        "src": "assets/glasses.webp"
+      }
+    ]
+  },
+  {
+    "copy": "06 / 一起决定下一步下一步，让真实结果来说话。结合需求、成交与实际投入，决定继续、调整或停止。成立的条件，才值得带到下一个场景。交到合作台上：结果复盘与下一步建议",
+    "scrollWidth": 390,
+    "stage": "5",
+    "stageHeight": 445,
+    "visibleImages": []
+  }
+]

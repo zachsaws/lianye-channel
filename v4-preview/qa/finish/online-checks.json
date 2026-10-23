@@ -1,0 +1,122 @@
+[
+  {
+    "repo": "lianye",
+    "file": "index.html",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye",
+    "file": "style.css",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye",
+    "file": "finish.css",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye",
+    "file": "app.js",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye",
+    "file": "finish.js",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye",
+    "file": "scene.js",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye",
+    "file": "data/curated.js",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye",
+    "file": "assets/content-v43.webp",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye",
+    "file": "assets/retail-v43.webp",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye",
+    "file": "assets/cooperation-example.txt",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye-channel",
+    "file": "index.html",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye-channel",
+    "file": "style.css",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye-channel",
+    "file": "finish.css",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye-channel",
+    "file": "app.js",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye-channel",
+    "file": "finish.js",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye-channel",
+    "file": "scene.js",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye-channel",
+    "file": "data/curated.js",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye-channel",
+    "file": "assets/content-v43.webp",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye-channel",
+    "file": "assets/retail-v43.webp",
+    "status": 200,
+    "matches": true
+  },
+  {
+    "repo": "lianye-channel",
+    "file": "assets/cooperation-example.txt",
+    "status": 200,
+    "matches": true
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "forms": [
+      "常设陈列",
+      "预约体验",
+      "快闪体验"
+    ],
+    "image": "assets/retail.webp",
+    "path": "retail",
+    "status": "零售门店 · 28 个参考入口，当前展示 12 个"
+  },
+  {
+    "forms": [
+      "内容实测",
+      "直播讲解",
+      "体验共创"
+    ],
+    "image": "assets/creator.webp",
+    "path": "creator",
+    "status": "内容推荐 · 4 个参考入口"
+  },
+  {
+    "forms": [
+      "社群试用",
+      "主题分享",
+      "小范围开团"
+    ],
+    "image": "assets/community.webp",
+    "path": "community",
+    "status": "社群私域 · 3 个参考入口"
+  },
+  {
+    "check": "form-change",
+    "copy": "从成员共同关心的问题开始，准备产品讲解与答疑；由主理人决定适合怎样组织。"
+  },
+  {
+    "check": "retail-expand",
+    "count": 28
+  },
+  {
+    "check": "search",
+    "names": [
+      "INNO100"
+    ]
+  },
+  {
+    "check": "empty",
+    "visible": true
+  },
+  {
+    "check": "direction",
+    "status": "零售门店 · 8 个参考入口"
+  },
+  {
+    "check": "extended",
+    "count": 78
+  },
+  {
+    "check": "decision-adjust",
+    "copy": "有需求但体验、表达或合作条件存在问题时，先调整方案，再用下一次小范围合作检验。"
+  },
+  {
+    "check": "decision-stop",
+    "copy": "需求不足、服务条件不成立或投入不合理时，及时结束，保留资料和双方约定的交接记录。"
+  },
+  {
+    "check": "partner",
+    "contribution": "内容、受众与使用表达",
+    "forms": [
+      "内容实测",
+      "直播讲解",
+      "体验共创"
+    ],
+    "partner": "creator",
+    "src": "assets/creator.webp"
+  },
+  {
+    "check": "partner",
+    "contribution": "成员关系、组织与答疑",
+    "forms": [
+      "社群试用",
+      "主题分享",
+      "小范围开团"
+    ],
+    "partner": "community",
+    "src": "assets/community.webp"
+  },
+  {
+    "check": "partner",
+    "contribution": "空间、介绍与预约接待",
+    "forms": [
+      "常设陈列",
+      "预约体验",
+      "快闪体验"
+    ],
+    "partner": "retail",
+    "src": "assets/retail.webp"
+  },
+  {
+    "check": "mobile-menu-open",
+    "open": "true"
+  },
+  {
+    "check": "mobile-menu-escape",
+    "open": "false"
+  },
+  {
+    "check": "play-pause",
+    "before": "true",
+    "after": "false"
+  },
+  {
+    "check": "story-keyboard",
+    "stage": "1"
+  },
+  {
+    "check": "path-keyboard",
+    "path": "creator"
+  },
+  {
+    "check": "faq",
+    "open": ""
+  },
+  {
+    "check": "partner-mail",
+    "href": "mailto:zachsaws@gmail.com?subject=%E8%81%94%E9%87%8E%EF%BD%9C%E9%94%80%E5%94%AE%E4%BC%99%E4%BC%B4%E5%90%88%E4%BD%9C&body=%E5%8F%97%E4%BC%97%E3%80%81%E9%97%A8%E5%BA%97%E6%88%96%E7%A4%BE%E7%BE%A4%E4%BB%8B%E7%BB%8D%EF%BC%9A%0A%E5%85%B3%E6%B3%A8%E7%9A%84%E6%96%B0%E5%93%81%E6%96%B9%E5%90%91%EF%BC%9A%0A%E5%8F%AF%E6%8F%90%E4%BE%9B%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%8F%E4%BD%93%E9%AA%8C%EF%BC%8F%E6%9C%8D%E5%8A%A1%EF%BC%9A%0A%E5%B8%8C%E6%9C%9B%E6%8E%A2%E7%B4%A2%E7%9A%84%E5%90%88%E4%BD%9C%E5%BD%A2%E5%BC%8F%EF%BC%9A"
+  },
+  {
+    "check": "copy",
+    "status": "已复制到本机"
+  },
+  {
+    "check": "reduced-motion",
+    "routeDisabled": true,
+    "storyDisabled": true
+  }
+]

@@ -1,0 +1,860 @@
+{
+  "legacyIdsPreserved": true,
+  "decisions": [
+    {
+      "name": "九机",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "玩具反斗城",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "博士 / 总统眼镜",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "得力集实",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "汇通达",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "凯知乐",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "智玩店",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "齐心",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "顺电",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "爱婴室",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "长虹佳华",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "毛源昌",
+      "decision": "included_reference"
+    },
+    {
+      "name": "中亿孕婴",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "交个朋友",
+      "decision": "included_reference"
+    },
+    {
+      "name": "科力普",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "中信书店",
+      "decision": "included_reference"
+    },
+    {
+      "name": "LOHO",
+      "decision": "included_reference"
+    },
+    {
+      "name": "宝岛眼镜",
+      "decision": "included_reference"
+    },
+    {
+      "name": "TOP TOY",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "i百联",
+      "decision": "included_reference"
+    },
+    {
+      "name": "孩子王",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "史泰博中国",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "京东五星电器",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "爱施德",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "西西弗",
+      "decision": "included_reference"
+    },
+    {
+      "name": "模速 AI 体验店",
+      "decision": "included_reference"
+    },
+    {
+      "name": "京东自营",
+      "decision": "included_reference"
+    },
+    {
+      "name": "遥望科技",
+      "decision": "included_reference"
+    },
+    {
+      "name": "中智关爱通",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "红星 · 智电绿洲",
+      "decision": "included_reference"
+    },
+    {
+      "name": "北京 · 鼎信鼎峰",
+      "decision": "included_reference"
+    },
+    {
+      "name": "苏宁易购",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "天音通信",
+      "decision": "included_reference"
+    },
+    {
+      "name": "九木杂物社",
+      "decision": "included_reference"
+    },
+    {
+      "name": "龙岗 AI 6S 店",
+      "decision": "included_reference"
+    },
+    {
+      "name": "唯品会",
+      "decision": "included_reference"
+    },
+    {
+      "name": "东方甄选",
+      "decision": "included_reference"
+    },
+    {
+      "name": "东方福利网",
+      "decision": "included_reference"
+    },
+    {
+      "name": "中免 · 深业上城",
+      "decision": "included_reference"
+    },
+    {
+      "name": "上海 · 雅示",
+      "decision": "included_reference"
+    },
+    {
+      "name": "山姆会员商店",
+      "decision": "included_reference"
+    },
+    {
+      "name": "神州数码",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "妈仔谷",
+      "decision": "included_reference"
+    },
+    {
+      "name": "Robot Mall",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "小米有品",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "礼享国际",
+      "decision": "included_reference"
+    },
+    {
+      "name": "海旅免税 · 迎宾路店",
+      "decision": "included_reference"
+    },
+    {
+      "name": "广州 · 索盟",
+      "decision": "included_reference"
+    },
+    {
+      "name": "翰林汇",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "塑唐浩比",
+      "decision": "included_reference"
+    },
+    {
+      "name": "光谷机器人 7S 店",
+      "decision": "included_reference"
+    },
+    {
+      "name": "南天远通",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "方正易通",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "小熊U租",
+      "decision": "included_reference"
+    },
+    {
+      "name": "深圳 · 盛影",
+      "decision": "included_reference"
+    },
+    {
+      "name": "英迈中国",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "迅合行",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "陶朱新造局",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "诚顺供应链",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "高飞易",
+      "decision": "included_reference"
+    },
+    {
+      "name": "易点云",
+      "decision": "included_reference"
+    },
+    {
+      "name": "成都 · 迪比特",
+      "decision": "included_reference"
+    },
+    {
+      "name": "伟仕佳杰",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "猫小兜",
+      "decision": "included_reference"
+    },
+    {
+      "name": "原力城市 AI Store",
+      "decision": "included_reference"
+    },
+    {
+      "name": "哔哩哔哩会员购",
+      "decision": "included_reference"
+    },
+    {
+      "name": "西域",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "武汉 · 馨远征",
+      "decision": "included_reference"
+    },
+    {
+      "name": "翻翻动漫",
+      "decision": "included_reference"
+    },
+    {
+      "name": "大光明眼镜",
+      "decision": "included_reference"
+    },
+    {
+      "name": "领先未来",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "南京 · 索盟",
+      "decision": "included_reference"
+    },
+    {
+      "name": "欧玩",
+      "decision": "included_reference"
+    },
+    {
+      "name": "欧菲斯",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "长沙 · 影越影像",
+      "decision": "included_reference"
+    },
+    {
+      "name": "西安 · 鑫盛合",
+      "decision": "included_reference"
+    },
+    {
+      "name": "杭州 · 索通",
+      "decision": "included_reference"
+    },
+    {
+      "name": "南宁 · 君人庆",
+      "decision": "included_reference"
+    },
+    {
+      "name": "银川 · 恒友信",
+      "decision": "included_reference"
+    },
+    {
+      "name": "三夫户外",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "INNO100",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "好享家",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "东方购物",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "怡亚通",
+      "decision": "included_reference"
+    },
+    {
+      "name": "柏斯音乐",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "阿里云云市场",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "飞书应用目录",
+      "decision": "included_reference"
+    },
+    {
+      "name": "孕婴世界",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "上海贝杰",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "X11",
+      "decision": "included_reference"
+    },
+    {
+      "name": "广东瑞华行",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "永华嘉业",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "DK-AI",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "雅登乐器",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "音联邦",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "华森葳",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "七色花",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "璞康",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "美承",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "迪信通",
+      "decision": "included_reference"
+    },
+    {
+      "name": "中邮普泰",
+      "decision": "included_reference"
+    },
+    {
+      "name": "蔚蓝书店",
+      "decision": "included_reference"
+    },
+    {
+      "name": "郑州福广商贸 / 福广玩具",
+      "decision": "included_reference"
+    },
+    {
+      "name": "酷玩潮",
+      "decision": "included_reference"
+    },
+    {
+      "name": "三福",
+      "decision": "included_reference"
+    },
+    {
+      "name": "酷乐潮玩",
+      "decision": "included_reference"
+    },
+    {
+      "name": "成都卓杰文化传播",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "重庆森林玩具",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "成都鸿达玩具商贸",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "四川童趣源商贸",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "成都宏通童趣商贸",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "广州拼拼堂文化",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "四川童之谷科技",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "极客潮品(成都)文化科技",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "成都五指部落科技",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "重庆优泽商贸",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "济南玩致乐动漫科技",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "临沂美高商贸",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "宁波乐神玩具",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "吉林省玩立方动漫文化",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "丽家宝贝",
+      "decision": "included_reference"
+    },
+    {
+      "name": "登康贝比",
+      "decision": "included_reference"
+    },
+    {
+      "name": "爱婴岛",
+      "decision": "included_reference"
+    },
+    {
+      "name": "婴知岛",
+      "decision": "included_reference"
+    },
+    {
+      "name": "婴贝儿",
+      "decision": "included_reference"
+    },
+    {
+      "name": "咿呀",
+      "decision": "included_reference"
+    },
+    {
+      "name": "小飞象",
+      "decision": "included_reference"
+    },
+    {
+      "name": "米氏孕婴",
+      "decision": "included_reference"
+    },
+    {
+      "name": "宝贝在线",
+      "decision": "included_reference"
+    },
+    {
+      "name": "欣欣相融教育科技（北京）有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "贝登堡智能股份有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "创意机器人科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "尊科數碼教育服務有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "杭州迈杰教育科技",
+      "decision": "included_reference"
+    },
+    {
+      "name": "震旦",
+      "decision": "included_reference"
+    },
+    {
+      "name": "办公伙伴商城",
+      "decision": "included_reference"
+    },
+    {
+      "name": "合思商城",
+      "decision": "included_reference"
+    },
+    {
+      "name": "上海锐能体育用品有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "北京广世天运",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "北京坤鹏商务服务有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "河南图图电子产品有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "天津正睿商贸有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "BITSHOP",
+      "decision": "included_reference"
+    },
+    {
+      "name": "上海兽鸟智能科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "上海爱威影音电子技术有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "圣谛影音智能 / 上海森笛电子科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "上海丰庭智能影音",
+      "decision": "included_reference"
+    },
+    {
+      "name": "上海卓渤智能科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "昆山畅想生活智能科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "江苏易玛智能科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "福建博盛智能科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "青岛中正铭远电子工程有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "成都翰程电器有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "辽宁艾格美假肢矫形康复辅具有限公司",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "北京康家辅助器具技术有限公司",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "杭州众康康复辅具有限公司",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "福州融康义肢矫形器有限责任公司",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "宁夏织梦康复辅具服务有限公司",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "乌鲁木齐兴晟安康假肢矫形器有限公司",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "声望听力",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "惠耳听力",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "新疆昊龙孕婴玩具",
+      "decision": "included_reference"
+    },
+    {
+      "name": "广州市宝爱婴童用品有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "上海申奕商贸发展有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "优必选教育生态",
+      "decision": "included_reference"
+    },
+    {
+      "name": "E宠 / 重庆易宠科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "宠发发 / 天元宠物",
+      "decision": "included_reference"
+    },
+    {
+      "name": "波奇",
+      "decision": "included_reference"
+    },
+    {
+      "name": "派多格",
+      "decision": "included_reference"
+    },
+    {
+      "name": "宠老板 / 上海尊宠网络科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "瀚星科技 / 兽医首选 / 宠商首选",
+      "decision": "included_reference"
+    },
+    {
+      "name": "上海优必杰教育科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "广州合源信息科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "内蒙古鄂尔多斯市新华书店有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "山东思盟电子科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "广州新烨数码科技股份有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "西安乐博士机器人有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "合肥爱骆卜科技培训学校有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "东莞市博思电子数码科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "武汉凡课科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "创首科技（武汉）有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "南京宏曜电子科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "江苏司麦尔信息科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "上海元擎智造教育科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "上海芯数养电子科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "成都罗布教育科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "杭州巍高电子科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "上海天授电子科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "深圳市百纳海通科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "南京易尔路贸易有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "沈阳佳明恒宇科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "杭州迪吉特科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "上海坤昇健行信息科技有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "广州市长秦城乐器有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "雷电音频",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "北京图书大厦",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "雁文轩书店",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "江苏大众书局图书文化有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "信誉楼百货集团有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "一线达通",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "上海禹亮信息科技有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "杭州华元宠物用品有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "上海宠爱商贸有限公司",
+      "decision": "included_reference"
+    },
+    {
+      "name": "东莞童真时代商贸有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "浙江商博士品牌管理有限公司",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "浙江格锐特文化创意有限公司",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "重庆重百科技集团股份有限公司",
+      "decision": "not_promoted_scope_or_evidence"
+    },
+    {
+      "name": "盛世鼎元",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "阳光雨露",
+      "decision": "included_reference"
+    },
+    {
+      "name": "华为云云商店",
+      "decision": "merged_existing"
+    },
+    {
+      "name": "36氪",
+      "decision": "new_source_not_qualified",
+      "reason": "内容未确认"
+    },
+    {
+      "name": "PMCAFF",
+      "decision": "new_source_not_qualified",
+      "reason": "官方显示服务已停止或不可用"
+    },
+    {
+      "name": "嘉立创开源硬件平台",
+      "decision": "new_source_not_qualified",
+      "reason": "HTTP Error 418: "
+    }
+  ]
+}

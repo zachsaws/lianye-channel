@@ -1,0 +1,32 @@
+[
+  {
+    "result": {
+      "type": "string",
+      "value": "{\"index\":1,\"time\":0.090883,\"paused\":true,\"ready\":4}"
+    }
+  },
+  {
+    "result": {
+      "type": "string",
+      "value": "{\"index\":2,\"time\":0.448029,\"paused\":true,\"ready\":4}"
+    }
+  },
+  {
+    "result": {
+      "type": "string",
+      "value": "{\"index\":3,\"time\":0.658949,\"paused\":true,\"ready\":4}"
+    }
+  },
+  {
+    "result": {
+      "type": "string",
+      "value": "{\"index\":4,\"time\":0.554652,\"paused\":true,\"ready\":4}"
+    }
+  },
+  {
+    "result": {
+      "type": "string",
+      "value": "{\"index\":5,\"time\":0.571639,\"paused\":true,\"ready\":4}"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "contentBottom": 1075.8515625,
+    "docWidth": 320,
+    "experienceTask": "创作者实测 → 原片对照 → 适用与限制",
+    "partner": "creator",
+    "reason": "第一视角的效果，需要用原片说明。",
+    "stageBottom": 1108.109375,
+    "task": "创作者实测 → 原片对照 → 适用与限制",
+    "width": 320
+  },
+  {
+    "contentBottom": 1097.4453125,
+    "docWidth": 320,
+    "experienceTask": "共同体验 → 分享感受 → 收集具体问题",
+    "partner": "community",
+    "reason": "共同出游的需求，适合小范围一起体验。",
+    "stageBottom": 1108.109375,
+    "task": "共同体验 → 分享感受 → 收集具体问题",
+    "width": 320
+  },
+  {
+    "contentBottom": 1054.2578125,
+    "docWidth": 320,
+    "experienceTask": "试戴 → 尝试操作 → 查看原片",
+    "partner": "retail",
+    "reason": "佩戴与操作，需要亲自试。",
+    "stageBottom": 1108.109375,
+    "task": "试戴 → 尝试操作 → 查看原片",
+    "width": 320
+  },
+  {
+    "contentBottom": 1021.09375,
+    "docWidth": 390,
+    "experienceTask": "创作者实测 → 原片对照 → 适用与限制",
+    "partner": "creator",
+    "reason": "第一视角的效果，需要用原片说明。",
+    "stageBottom": 1107.9453125,
+    "task": "创作者实测 → 原片对照 → 适用与限制",
+    "width": 390
+  },
+  {
+    "contentBottom": 1021.09375,
+    "docWidth": 390,
+    "experienceTask": "共同体验 → 分享感受 → 收集具体问题",
+    "partner": "community",
+    "reason": "共同出游的需求，适合小范围一起体验。",
+    "stageBottom": 1107.9453125,
+    "task": "共同体验 → 分享感受 → 收集具体问题",
+    "width": 390
+  },
+  {
+    "contentBottom": 1021.09375,
+    "docWidth": 390,
+    "experienceTask": "试戴 → 尝试操作 → 查看原片",
+    "partner": "retail",
+    "reason": "佩戴与操作，需要亲自试。",
+    "stageBottom": 1107.9453125,
+    "task": "试戴 → 尝试操作 → 查看原片",
+    "width": 390
+  },
+  {
+    "contentBottom": 594.796875,
+    "docWidth": 1440,
+    "experienceTask": "创作者实测 → 原片对照 → 适用与限制",
+    "partner": "creator",
+    "reason": "第一视角的效果，需要用原片说明。",
+    "stageBottom": 664,
+    "task": "创作者实测 → 原片对照 → 适用与限制",
+    "width": 1440
+  },
+  {
+    "contentBottom": 594.796875,
+    "docWidth": 1440,
+    "experienceTask": "共同体验 → 分享感受 → 收集具体问题",
+    "partner": "community",
+    "reason": "共同出游的需求，适合小范围一起体验。",
+    "stageBottom": 664,
+    "task": "共同体验 → 分享感受 → 收集具体问题",
+    "width": 1440
+  },
+  {
+    "contentBottom": 594.796875,
+    "docWidth": 1440,
+    "experienceTask": "试戴 → 尝试操作 → 查看原片",
+    "partner": "retail",
+    "reason": "佩戴与操作，需要亲自试。",
+    "stageBottom": 664,
+    "task": "试戴 → 尝试操作 → 查看原片",
+    "width": 1440
+  }
+]

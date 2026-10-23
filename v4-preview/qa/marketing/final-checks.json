@@ -1,0 +1,69 @@
+{
+  "responsive": [
+    {
+      "overflow": false,
+      "rootWidth": 320,
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "rootWidth": 390,
+      "width": 390
+    },
+    {
+      "overflow": false,
+      "rootWidth": 768,
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "rootWidth": 1024,
+      "width": 1024
+    },
+    {
+      "overflow": false,
+      "rootWidth": 1440,
+      "width": 1440
+    }
+  ],
+  "filters": [
+    {
+      "hasDates": false,
+      "results": 24,
+      "selected": "content"
+    },
+    {
+      "hasDates": false,
+      "results": 19,
+      "selected": "community"
+    },
+    {
+      "hasDates": false,
+      "results": 136,
+      "selected": "retail"
+    },
+    {
+      "hasDates": false,
+      "results": 61,
+      "selected": "business"
+    },
+    {
+      "hasDates": false,
+      "results": 240,
+      "selected": "all"
+    }
+  ],
+  "productFilter": {
+    "results": 71,
+    "value": "office"
+  },
+  "reduced": {
+    "button": "播放动态 ▶",
+    "paused": true
+  },
+  "motion": {
+    "before": "{\"paused\":false,\"hero\":1,\"heroProgress\":0.10991489361702252}",
+    "after": "{\"paused\":false,\"hero\":1,\"heroProgress\":0.4112340425531921}"
+  },
+  "logs": []
+}
